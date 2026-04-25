@@ -9,7 +9,8 @@ const ORDERS_DIR = path.join(OUTPUT_DIR, "orders");
 const REQUEST_INTERVAL_MS = 400; // 2.5 requests per second
 const RETRY_DELAY_MS = 2000;
 const MAX_RETRIES = 5;
-const STALE_THRESHOLD_MS = 30 * 24 * 60 * 60 * 1000; // 1 month
+const ITEM_STALE_MS = 30 * 24 * 60 * 60 * 1000; // 1 month
+const ORDERS_STALE_MS = 2 * 24 * 60 * 60 * 1000; // 2 days
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -65,10 +66,10 @@ async function fetchWithRetry(url) {
   }
 }
 
-function isFresh(filePath) {
+function isFresh(filePath, thresholdMs) {
   try {
     const stat = fs.statSync(filePath);
-    return Date.now() - stat.mtimeMs < STALE_THRESHOLD_MS;
+    return Date.now() - stat.mtimeMs < thresholdMs;
   } catch {
     return false;
   }
@@ -109,7 +110,7 @@ async function fetchItemDetails(items) {
     const item = items[i];
     const filePath = path.join(ITEM_DETAILS_DIR, `${item.slug}.json`);
 
-    if (isFresh(filePath)) {
+    if (isFresh(filePath, ITEM_STALE_MS)) {
       skipped++;
       continue;
     }
@@ -172,7 +173,7 @@ async function fetchItemOrders(items) {
     const item = items[i];
     const filePath = path.join(ORDERS_DIR, `${item.slug}.json`);
 
-    if (isFresh(filePath)) {
+    if (isFresh(filePath, ORDERS_STALE_MS)) {
       skipped++;
       continue;
     }
@@ -201,12 +202,17 @@ async function fetchItemOrders(items) {
   console.log(`\nOrders done. Fetched: ${fetched}, Skipped (fresh): ${skipped}, Total: ${items.length}`);
 }
 
-function buildPriceEntry(name, slug, rank, orders) {
+function buildPriceEntry(name, slug, rank, orders, itemDetail) {
   const sellOrders = orders.filter((o) => o.type === "sell");
   const metrics = computeSellMetrics(sellOrders);
   return {
+    id: itemDetail?.id ?? null,
     name,
     slug,
+    tags: itemDetail?.tags ?? [],
+    setRoot: itemDetail?.setRoot ?? null,
+    setParts: itemDetail?.setParts ?? null,
+    ducats: itemDetail?.ducats ?? null,
     lowestSellPrice: metrics.lowestSellPrice,
     medianLowestSellPrice: metrics.medianLowestSellPrice,
     medianSellPrice: metrics.medianSellPrice,
@@ -241,12 +247,12 @@ function buildPrices(items) {
       const maxRank = itemDetail?.maxRank ?? Math.max(...orders.filter((o) => o.rank != null).map((o) => o.rank));
 
       const rank0Orders = orders.filter((o) => o.rank === 0);
-      prices.push(buildPriceEntry(`${baseName} Rank 0`, item.slug, 0, rank0Orders));
+      prices.push(buildPriceEntry(`${baseName} Rank 0`, item.slug, 0, rank0Orders, itemDetail));
 
       const maxRankOrders = orders.filter((o) => o.rank === maxRank);
-      prices.push(buildPriceEntry(`${baseName} Rank ${maxRank}`, item.slug, maxRank, maxRankOrders));
+      prices.push(buildPriceEntry(`${baseName} Rank ${maxRank}`, item.slug, maxRank, maxRankOrders, itemDetail));
     } else {
-      prices.push(buildPriceEntry(baseName, item.slug, null, orders));
+      prices.push(buildPriceEntry(baseName, item.slug, null, orders, itemDetail));
     }
   }
 
