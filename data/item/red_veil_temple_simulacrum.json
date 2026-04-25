@@ -1,0 +1,18 @@
+{
+  "id": "667237838ba7c81b70d02ca8",
+  "slug": "red_veil_temple_simulacrum",
+  "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileRedVeilTemple",
+  "tags": [
+    "simulacrum"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Red Veil Temple Simulacrum",
+      "description": "Hone your combat skills under the auspices of the Red Veil. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+      "icon": "items/images/en/red_veil_temple_simulacrum.dc1224584acda35cdf03b6287618c655.webp",
+      "thumb": "items/images/en/thumbs/red_veil_temple_simulacrum.dc1224584acda35cdf03b6287618c655.128x128.webp"
+    }
+  }
+}

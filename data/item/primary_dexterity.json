@@ -1,0 +1,23 @@
+{
+  "id": "60e70f80479445008f2725a6",
+  "slug": "primary_dexterity",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnMeleeKill",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primary Dexterity",
+      "description": "On Melee Kill:\n+60% Damage for 20s. Stacks up to 6x.\n+7.5s Combo Duration\n+7.5s Combo Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Primary_Dexterity",
+      "icon": "items/images/en/primary_dexterity.accc2c9a2780152f354696b2549814bc.png",
+      "thumb": "items/images/en/thumbs/primary_dexterity.accc2c9a2780152f354696b2549814bc.128x128.png"
+    }
+  }
+}

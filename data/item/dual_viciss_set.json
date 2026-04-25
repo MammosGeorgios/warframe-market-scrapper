@@ -1,0 +1,27 @@
+{
+  "id": "67e8c995cedcd0be6d135959",
+  "slug": "dual_viciss_set",
+  "gameRef": "/Lotus/Weapons/Lasria/LasGooSickle/LasGooSicklePlayerWeapon",
+  "tags": [
+    "weapon",
+    "melee",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "67e8c996cedcd0be6d13595a",
+    "67e8c997cedcd0be6d13595b",
+    "67e8c995cedcd0be6d135959"
+  ],
+  "reqMasteryRank": 14,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dual Viciss Set",
+      "description": "Reap what the Techrot have sown with this vicious pair of Scaldra hand-scythes.",
+      "icon": "items/images/en/dual_viciss_set.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+      "thumb": "items/images/en/thumbs/dual_viciss_set.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp"
+    }
+  }
+}

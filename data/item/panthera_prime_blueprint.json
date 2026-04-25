@@ -1,0 +1,34 @@
+{
+  "id": "5f0e0fdd9f527b0285718f1d",
+  "slug": "panthera_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/PantheraPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "primary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5f0e0fdd9f527b0285718f1b",
+    "5f0e0fdd9f527b0285718f1d",
+    "5f0e0fdd9f527b0285718f1c",
+    "5f0e0fdc9f527b0285718f1a",
+    "5f0e0fdc9f527b0285718f17"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Panthera Prime Blueprint",
+      "description": "The max-velocity saw-launcher perfected. Features a larger magazine, faster fire rate, and a radial, slashing ricochet.",
+      "wikiLink": "https://wiki.warframe.com/w/Panthera_Prime",
+      "icon": "items/images/en/panthera_prime_blueprint.7a4ebdc3f85ef877a6ffce8790660e30.png",
+      "thumb": "items/images/en/thumbs/panthera_prime_blueprint.7a4ebdc3f85ef877a6ffce8790660e30.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

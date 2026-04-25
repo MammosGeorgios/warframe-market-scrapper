@@ -1,0 +1,23 @@
+{
+  "id": "5f52c692d5c36d0123a824a2",
+  "slug": "necramech_deflection",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechAvatarShieldRechargeRateMod",
+  "tags": [
+    "mod",
+    "common",
+    "necramech"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Deflection",
+      "description": "+90% Shield Recharge\n-45% Shield Recharge Delay",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Deflection",
+      "icon": "items/images/en/necramech_deflection.f7b474ba65394d85bf98f60672d96e06.png",
+      "thumb": "items/images/en/thumbs/necramech_deflection.f7b474ba65394d85bf98f60672d96e06.128x128.png"
+    }
+  }
+}

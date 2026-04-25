@@ -1,0 +1,33 @@
+{
+  "id": "583580ff2c2ada003badef8a",
+  "slug": "cernos_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Bows/PrimeCernos/PrimeCernos",
+  "tags": [
+    "primary",
+    "prime",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "583580d52c2ada003badef85",
+    "583580fb2c2ada003badef88",
+    "583580e12c2ada003badef86",
+    "583580ff2c2ada003badef8a",
+    "583580fd2c2ada003badef89",
+    "583580f42c2ada003badef87"
+  ],
+  "ducats": 200,
+  "reqMasteryRank": 12,
+  "tradingTax": 10000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cernos Prime Set",
+      "description": "A noble bow to hunt hellish beasts.",
+      "wikiLink": "https://wiki.warframe.com/w/Cernos_Prime",
+      "icon": "items/images/en/cernos_prime_set.b3ac02e80ee17cc0756348f1d04b69cc.png",
+      "thumb": "items/images/en/thumbs/cernos_prime_set.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png"
+    }
+  }
+}

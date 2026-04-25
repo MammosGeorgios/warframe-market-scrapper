@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515676",
+  "slug": "crossing_snakes",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "dual_swords"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Crossing Snakes",
+      "description": "Multi-angle strikes and deadly thrust attacks.",
+      "wikiLink": "https://wiki.warframe.com/w/Crossing_Snakes",
+      "icon": "items/images/en/crossing_snakes.cfbb8e6095d5810c5e11a994d31c8883.png",
+      "thumb": "items/images/en/thumbs/crossing_snakes.cfbb8e6095d5810c5e11a994d31c8883.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155d2",
+  "slug": "heavy_trauma",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponImpactDamageMod",
+  "tags": [
+    "mod",
+    "melee",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Heavy Trauma",
+      "description": "+90% Impact",
+      "wikiLink": "https://wiki.warframe.com/w/Heavy_Trauma",
+      "icon": "items/images/en/heavy_trauma.c322d8e6bf1d16616a11834bf8b97b0e.png",
+      "thumb": "items/images/en/thumbs/heavy_trauma.c322d8e6bf1d16616a11834bf8b97b0e.128x128.png"
+    }
+  }
+}

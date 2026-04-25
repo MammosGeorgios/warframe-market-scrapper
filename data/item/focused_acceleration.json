@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a50c",
+  "slug": "focused_acceleration",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TetraFasterProjAiming",
+  "tags": [
+    "primary",
+    "pvp",
+    "rare",
+    "mod",
+    "tetra"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Focused Acceleration",
+      "description": "When Aiming: +80% Projectile Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Focused_Acceleration",
+      "icon": "items/images/en/focused_acceleration.57d5093216cb556eaa9275e6f8b69eb7.png",
+      "thumb": "items/images/en/thumbs/focused_acceleration.57d5093216cb556eaa9275e6f8b69eb7.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6054de665221e30057501070",
+  "slug": "vitreospina",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonBFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vitreospina",
+      "description": "Whatever higher functions this fish once had have been consumed, leaving it a mere automaton of metal and flesh. It ekes out a primitive existence in cave systems.",
+      "wikiLink": "https://wiki.warframe.com/w/Vitreospina",
+      "icon": "items/images/en/vitreospina.80a20c278dacce4cd8b2c9f938f129e9.png",
+      "thumb": "items/images/en/thumbs/vitreospina.80a20c278dacce4cd8b2c9f938f129e9.128x128.png"
+    }
+  }
+}

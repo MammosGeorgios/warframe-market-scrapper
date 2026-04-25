@@ -1,0 +1,24 @@
+{
+  "id": "5ce7fd88d23a3b00908c4215",
+  "slug": "motus_setup",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Raptor/RaptorModB",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Motus Setup",
+      "description": "100% Critical and Status Chance for 4s after landing from a Double or Bullet Jump.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Motus_Setup",
+      "icon": "items/images/en/motus_setup.a901c441bed40b5e7ab7726de16313c2.png",
+      "thumb": "items/images/en/thumbs/motus_setup.a901c441bed40b5e7ab7726de16313c2.128x128.png"
+    }
+  }
+}

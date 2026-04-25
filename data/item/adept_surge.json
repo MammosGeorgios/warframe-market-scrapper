@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4c6",
+  "slug": "adept_surge",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreBulletJumpLessHealthMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Adept Surge",
+      "description": "+10% Mobility\n-25 Health",
+      "wikiLink": "https://wiki.warframe.com/w/Adept_Surge",
+      "icon": "items/images/en/adept_surge.d176142917c6532a97645ade76dd3edc.png",
+      "thumb": "items/images/en/thumbs/adept_surge.d176142917c6532a97645ade76dd3edc.128x128.png"
+    }
+  }
+}

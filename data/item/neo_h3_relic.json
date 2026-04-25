@@ -1,0 +1,27 @@
+{
+  "id": "61a25ffa68fd79003fe3fd5a",
+  "slug": "neo_h3_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaHydroidVaultB",
+  "tags": [
+    "relic",
+    "neo"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Neo H3 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/neo_h3_relic.404dc9ef087cc16ca255f5b5fd17fff0.png",
+      "thumb": "items/images/en/thumbs/neo_h3_relic.404dc9ef087cc16ca255f5b5fd17fff0.128x128.png"
+    }
+  }
+}

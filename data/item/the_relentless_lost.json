@@ -1,0 +1,25 @@
+{
+  "id": "61a25ffa68fd79003fe3fd5c",
+  "slug": "the_relentless_lost",
+  "gameRef": "/Lotus/Powersuits/BrokenFrame/EmbraceAugmentCard",
+  "tags": [
+    "xaku",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "The Relentless Lost",
+      "description": "The Lost Augment: The Lost gains 35% Ability Strength and 15% Ability Efficiency when cast. The effect stacks up to 3x. Casting the same ability back-to-back resets the effect.",
+      "wikiLink": "https://wiki.warframe.com/w/The_Relentless_Lost",
+      "icon": "items/images/en/the_relentless_lost.91e155f5c17760b97b47dd8b5db03d71.png",
+      "thumb": "items/images/en/thumbs/the_relentless_lost.91e155f5c17760b97b47dd8b5db03d71.128x128.png"
+    }
+  }
+}

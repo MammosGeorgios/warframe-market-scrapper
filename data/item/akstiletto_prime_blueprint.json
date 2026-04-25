@@ -1,0 +1,34 @@
+{
+  "id": "573b80450ec44a47787a6915",
+  "slug": "akstiletto_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/AkstilettoPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "secondary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "573b804a0ec44a47787a6916",
+    "573b80450ec44a47787a6915",
+    "573b80590ec44a47787a6918",
+    "573b804f0ec44a47787a6917",
+    "573b805f0ec44a47787a6919"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akstiletto Prime Blueprint",
+      "description": "Stylish, discreet and accurate, perfect for the Tenno of distinction.",
+      "wikiLink": "https://wiki.warframe.com/w/Akstiletto_Prime",
+      "icon": "items/images/en/akstiletto_prime_blueprint.a88c0a1e43ba462af7cc44efd01a7044.png",
+      "thumb": "items/images/en/thumbs/akstiletto_prime_blueprint.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

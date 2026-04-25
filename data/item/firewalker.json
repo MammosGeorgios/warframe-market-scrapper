@@ -1,0 +1,23 @@
+{
+  "id": "55c153b7e779895d77556bb1",
+  "slug": "firewalker",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/FireParkourTwoMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Firewalker",
+      "description": "+24.2% to Parkour Velocity\n+24.2% Aim Glide/Wall Latch Duration\n+275% Heat on Bullet Jump",
+      "wikiLink": "https://wiki.warframe.com/w/Firewalker",
+      "icon": "items/images/en/firewalker.2cb2403fa29e147124f5a0221da9c94d.png",
+      "thumb": "items/images/en/thumbs/firewalker.2cb2403fa29e147124f5a0221da9c94d.128x128.png"
+    }
+  }
+}

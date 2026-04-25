@@ -1,0 +1,18 @@
+{
+  "id": "6901487cf88bae2d5b1f5394",
+  "slug": "deepmines_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/2025FallUpdate/PhotoboothNokkoColony",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deepmines Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/deepmines_scene.bab7642ae582ed65dee67cdbb61e3c78.webp",
+      "thumb": "items/images/en/thumbs/deepmines_scene.bab7642ae582ed65dee67cdbb61e3c78.128x128.webp"
+    }
+  }
+}

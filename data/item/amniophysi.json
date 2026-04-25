@@ -1,0 +1,25 @@
+{
+  "id": "6054de685221e30057501074",
+  "slug": "amniophysi",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonDFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Amniophysi",
+      "description": "These fish hatch out of translucent pods formed in caverns below the Infested landscape. They hover to feed.",
+      "wikiLink": "https://wiki.warframe.com/w/Amniophysi",
+      "icon": "items/images/en/amniophysi.4a06c8e524a38ad11635f4c98c01c298.png",
+      "thumb": "items/images/en/thumbs/amniophysi.4a06c8e524a38ad11635f4c98c01c298.128x128.png"
+    }
+  }
+}

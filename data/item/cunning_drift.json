@@ -1,0 +1,23 @@
+{
+  "id": "566759c8db7c7a568a8d45c6",
+  "slug": "cunning_drift",
+  "gameRef": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModCunning",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cunning Drift",
+      "description": "+12% Slide\n-30% Friction\n+15% Ability Range",
+      "wikiLink": "https://wiki.warframe.com/w/Cunning_Drift",
+      "icon": "items/images/en/cunning_drift.a103fc3c7d90e1fddb3f8fa4d1de1ca8.png",
+      "thumb": "items/images/en/thumbs/cunning_drift.a103fc3c7d90e1fddb3f8fa4d1de1ca8.128x128.png"
+    }
+  }
+}

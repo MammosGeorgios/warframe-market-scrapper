@@ -1,0 +1,22 @@
+{
+  "id": "5dbe9b067ea27b0ffe3ca267",
+  "slug": "master_key",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackLockersMod",
+  "tags": [
+    "mod",
+    "common",
+    "parazon"
+  ],
+  "rarity": "common",
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Master Key",
+      "description": "Unlock 5 lockers within 20m after Hacking",
+      "wikiLink": "https://wiki.warframe.com/w/Master_Key",
+      "icon": "items/images/en/master_key.dedc10144669a1dd3d6f74615d70a349.png",
+      "thumb": "items/images/en/thumbs/master_key.dedc10144669a1dd3d6f74615d70a349.128x128.png"
+    }
+  }
+}

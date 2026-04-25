@@ -1,0 +1,31 @@
+{
+  "id": "56783f24cbfa8f0432dd89aa",
+  "slug": "reaper_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Scythe/ReaperWeapon",
+  "tags": [
+    "prime",
+    "weapon",
+    "melee",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff58",
+    "54a73e65e779893a797fff59",
+    "54a73e65e779893a797fff5a",
+    "56783f24cbfa8f0432dd89aa"
+  ],
+  "ducats": 75,
+  "reqMasteryRank": 10,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reaper Prime Set",
+      "description": "Reaper Prime is an ornamental scythe, with a blade forged from tempered Rubedo.",
+      "wikiLink": "https://wiki.warframe.com/w/Reaper_Prime",
+      "icon": "items/images/en/reaper_prime_set.4e1d36812203a97fd0191930485b1095.png",
+      "thumb": "items/images/en/thumbs/reaper_prime_set.4e1d36812203a97fd0191930485b1095.128x128.png"
+    }
+  }
+}

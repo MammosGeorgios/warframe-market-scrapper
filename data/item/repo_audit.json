@@ -1,0 +1,24 @@
+{
+  "id": "60e5b8fe4794450053e9994c",
+  "slug": "repo_audit",
+  "gameRef": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetPrecepts/ZanukaPetDisarmPulsePrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "hound"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Repo Audit",
+      "description": "Emits a magnetic pulse that disarms enemies within 30m.",
+      "wikiLink": "https://wiki.warframe.com/w/Repo_Audit",
+      "icon": "items/images/en/repo_audit.2ec213871337071fee003cce84c8a64c.png",
+      "thumb": "items/images/en/thumbs/repo_audit.2ec213871337071fee003cce84c8a64c.128x128.png"
+    }
+  }
+}

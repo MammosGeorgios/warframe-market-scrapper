@@ -1,0 +1,23 @@
+{
+  "id": "5be701133ffcc703e462c706",
+  "slug": "thrash_landing",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBTrickExplosionMod",
+  "tags": [
+    "mod",
+    "rare",
+    "k_drive"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Thrash Landing",
+      "description": "Landing a trick releases an explosion dealing 40% Trick Score Blast Damage to enemies within 4m.",
+      "wikiLink": "https://wiki.warframe.com/w/Thrash_Landing",
+      "icon": "items/images/en/thrash_landing.c30cc6c306e463d2d6ff95992e7b2a27.png",
+      "thumb": "items/images/en/thumbs/thrash_landing.c30cc6c306e463d2d6ff95992e7b2a27.128x128.png"
+    }
+  }
+}

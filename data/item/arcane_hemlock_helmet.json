@@ -1,0 +1,20 @@
+{
+  "id": "54aaf29ce7798971c40870b8",
+  "slug": "arcane_hemlock_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Asp/AspAltHelmet",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Hemlock Helmet",
+      "description": "This helmet is worn by Saryn, and increases Movement Speed, with a reduction to Health.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Saryn_Hemlock_Helmet",
+      "icon": "items/images/en/arcane_hemlock_saryn_helmet.e640dccfb81244ae52998f9a44ed1a0c.png",
+      "thumb": "items/images/en/thumbs/arcane_hemlock_saryn_helmet.e640dccfb81244ae52998f9a44ed1a0c.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5615432bb66f8371035bfa2d",
+  "slug": "electro_pulse",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/TaserStun",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "diriga"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Electro Pulse",
+      "description": "Every 5s, Sentinel will continually zap an enemy within 15m, trapping them in a stunned state.",
+      "wikiLink": "https://wiki.warframe.com/w/Electro_Pulse",
+      "icon": "items/images/en/electro_pulse.f4bd69a3149985b72299f5da28a01306.png",
+      "thumb": "items/images/en/thumbs/electro_pulse.f4bd69a3149985b72299f5da28a01306.128x128.png"
+    }
+  }
+}

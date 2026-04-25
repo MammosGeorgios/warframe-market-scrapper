@@ -1,0 +1,27 @@
+{
+  "id": "6054dd095221e30057500f16",
+  "slug": "requiem_iii_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalC",
+  "tags": [
+    "relic",
+    "requiem"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Requiem III Relic",
+      "description": "Holds Requiem Mods and other mysteries.",
+      "icon": "items/images/en/requiem_iii_relic.70479db2ff21c243673e2a3caf93d7b9.png",
+      "thumb": "items/images/en/thumbs/requiem_iii_relic.70479db2ff21c243673e2a3caf93d7b9.128x128.png"
+    }
+  }
+}

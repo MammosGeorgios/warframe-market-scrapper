@@ -1,0 +1,25 @@
+{
+  "id": "6054de945221e30057501089",
+  "slug": "sapcaddy",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolCommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sapcaddy",
+      "description": "Collects fluid samples in the aqua system for the Research Station. It can be found in lakes around Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Sapcaddy",
+      "icon": "items/images/en/sapcaddy.202e75dc588c1f56b883bf34edd33447.png",
+      "thumb": "items/images/en/thumbs/sapcaddy.202e75dc588c1f56b883bf34edd33447.128x128.png"
+    }
+  }
+}

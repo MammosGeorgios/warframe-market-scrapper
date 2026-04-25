@@ -1,0 +1,25 @@
+{
+  "id": "5be5f59f3ffcc7038857f0fe",
+  "slug": "crashing_timber",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPStavesStanceOne",
+  "tags": [
+    "pvp",
+    "uncommon",
+    "stance",
+    "staves",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Crashing Timber",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Crashing_Timber",
+      "icon": "items/images/en/crashing_timber.78bf7c1c0cc21be71bee559092289015.png",
+      "thumb": "items/images/en/thumbs/crashing_timber.78bf7c1c0cc21be71bee559092289015.128x128.png"
+    }
+  }
+}

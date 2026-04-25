@@ -1,0 +1,23 @@
+{
+  "id": "60e70f7a479445008f27257d",
+  "slug": "secondary_dexterity",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnMeleeKill",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secondary Dexterity",
+      "description": "On Melee Kill:\n+60% Damage for 20s. Stacks up to 6x.\n+7.5s Combo Duration\n+7.5s Combo Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Secondary_Dexterity",
+      "icon": "items/images/en/secondary_dexterity.8fa0cf692f8f0e2f900e4175c5613460.png",
+      "thumb": "items/images/en/thumbs/secondary_dexterity.8fa0cf692f8f0e2f900e4175c5613460.128x128.png"
+    }
+  }
+}

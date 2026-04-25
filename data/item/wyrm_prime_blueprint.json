@@ -1,0 +1,33 @@
+{
+  "id": "54ca431ce779891a1adb4901",
+  "slug": "wyrm_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint",
+  "tags": [
+    "sentinel",
+    "blueprint",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54ca431ce779891a1adb4901",
+    "54ca4330e779891a286a5428",
+    "54ca4329e779891a21d036bd",
+    "56783f24cbfa8f0432dd89b3",
+    "54ca4337e779891a2e3fbc83"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Wyrm Prime Blueprint",
+      "description": "Both bodyguard and status symbol, the Wyrm Prime Sentinel was the last line of defense for high ranking Tenno in the Orokin Era.",
+      "wikiLink": "https://wiki.warframe.com/w/Wyrm_Prime",
+      "icon": "items/images/en/wyrm_prime_blueprint.4da3da5cc8eeef554dc3208bbb5a8f26.png",
+      "thumb": "items/images/en/thumbs/wyrm_prime_blueprint.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

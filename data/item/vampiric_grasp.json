@@ -1,0 +1,25 @@
+{
+  "id": "61a25ff968fd79003fe3fd53",
+  "slug": "vampiric_grasp",
+  "gameRef": "/Lotus/Powersuits/BrokenFrame/GraspAugmentCard",
+  "tags": [
+    "xaku",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vampiric Grasp",
+      "description": "Grasp of Lohk Augment: When a stolen weapon deals damage to an enemy affected by The Lost: Gaze or The Vast Untime, Xaku heals by 25.",
+      "wikiLink": "https://wiki.warframe.com/w/Vampiric_Grasp",
+      "icon": "items/images/en/vampiric_grasp.37e2edd4178998409b909bbf41bdad66.png",
+      "thumb": "items/images/en/thumbs/vampiric_grasp.37e2edd4178998409b909bbf41bdad66.128x128.png"
+    }
+  }
+}

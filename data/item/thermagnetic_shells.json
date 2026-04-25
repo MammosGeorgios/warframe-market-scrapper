@@ -1,0 +1,24 @@
+{
+  "id": "580e38faca550948410af0a4",
+  "slug": "thermagnetic_shells",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/SupraCorpusArenaMod",
+  "tags": [
+    "mod",
+    "detron",
+    "rare",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Thermagnetic Shells",
+      "description": "Enemies explode on death, dealing 80 Magnetic Damage (+40% Enemy Max Health) in a 6m radius.",
+      "wikiLink": "https://wiki.warframe.com/w/Thermagnetic_Shells",
+      "icon": "items/images/en/thermagnetic_shells.7e23022e67e879991e92e22ac7ce2727.png",
+      "thumb": "items/images/en/thumbs/thermagnetic_shells.7e23022e67e879991e92e22ac7ce2727.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "64c2aa1666456704eba6ba45",
+  "slug": "shadow_haze",
+  "gameRef": "/Lotus/Powersuits/Wraith/WraithReapAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "sevagoth",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shadow Haze",
+      "description": "Reap Augment: Increase Critical Chance by 50% on enemies inflicted with Death Harvest. A new Shadow emerges from those enemies when they perish. Limit of 3 Shadows.",
+      "wikiLink": "https://wiki.warframe.com/w/Shadow_Haze",
+      "icon": "items/images/en/shadow_haze.66eff73bdcc0450428a261bc5492af59.png",
+      "thumb": "items/images/en/thumbs/shadow_haze.66eff73bdcc0450428a261bc5492af59.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "67db600f9cec3e52e62523e3",
+  "slug": "byteryte",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/AntivirusOneMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "ByteRyte",
+      "description": "Keeps your bytes tight and your bits fit",
+      "icon": "items/images/en/byteryte.b243cf7e52d9957bde234d5dce410bd3.webp",
+      "thumb": "items/images/en/thumbs/byteryte.b243cf7e52d9957bde234d5dce410bd3.128x128.webp"
+    }
+  }
+}

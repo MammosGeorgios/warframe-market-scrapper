@@ -1,0 +1,25 @@
+{
+  "id": "63ee00fd10125411da49e6e9",
+  "slug": "cathode_current",
+  "gameRef": "/Lotus/Powersuits/Gyre/GyreEnergizedAugmentCard",
+  "tags": [
+    "gyre",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cathode Current",
+      "description": "Cathode Grace Augment: Eliminating an enemy while Cathode Grace is active will release an additional discharge from Rotorswell with 200% Damage and extend its duration by the same amount.",
+      "wikiLink": "https://wiki.warframe.com/w/Cathode_Current",
+      "icon": "items/images/en/cathode_current.518865b7d6dd246b66a58217bf3aab8a.png",
+      "thumb": "items/images/en/thumbs/cathode_current.518865b7d6dd246b66a58217bf3aab8a.128x128.png"
+    }
+  }
+}

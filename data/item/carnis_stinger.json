@@ -1,0 +1,24 @@
+{
+  "id": "5f498a269426ed00443bd0d1",
+  "slug": "carnis_stinger",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Ashen/AshenStingerMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Carnis Stinger",
+      "description": "+90% Slash\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Carnis_Stinger",
+      "icon": "items/images/en/carnis_stinger.578ad02e46d5159361f728610bfade88.png",
+      "thumb": "items/images/en/thumbs/carnis_stinger.578ad02e46d5159361f728610bfade88.128x128.png"
+    }
+  }
+}

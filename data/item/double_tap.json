@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a508",
+  "slug": "double_tap",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreDamageonTripleTapRifleMod",
+  "tags": [
+    "primary",
+    "latron",
+    "pvp",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Double Tap",
+      "description": "ON HIT:\n20% Bonus Damage on next Shot for 2s.\nStacks up to 20x outside of Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Double_Tap",
+      "icon": "items/images/en/double_tap.11175026394e8ecf711f55a5d9d3933f.png",
+      "thumb": "items/images/en/thumbs/double_tap.11175026394e8ecf711f55a5d9d3933f.128x128.png"
+    }
+  }
+}

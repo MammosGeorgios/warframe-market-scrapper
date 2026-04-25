@@ -1,0 +1,32 @@
+{
+  "id": "5c196fae96037800ddadac15",
+  "slug": "akjagara_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime",
+  "tags": [
+    "secondary",
+    "weapon",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5c196fac96037800ddadac12",
+    "5c196fad96037800ddadac13",
+    "5c196fb496037800ddadac1a",
+    "5c196fb096037800ddadac18",
+    "5c196fae96037800ddadac15"
+  ],
+  "ducats": 350,
+  "reqMasteryRank": 12,
+  "tradingTax": 12000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akjagara Prime Set",
+      "description": "Precision machined mirrored pistols. Primed and ready.",
+      "wikiLink": "https://wiki.warframe.com/w/Akjagara_Prime",
+      "icon": "items/images/en/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.png",
+      "thumb": "items/images/en/thumbs/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.128x128.png"
+    }
+  }
+}

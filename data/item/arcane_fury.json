@@ -1,0 +1,23 @@
+{
+  "id": "56463c24b66f8358acce4451",
+  "slug": "arcane_fury",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneMeleeDamageOnCrit",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Fury",
+      "description": "On Critical Hit:\n60% chance for +180% Melee Damage to Melee Weapons for 18s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Fury",
+      "icon": "items/images/en/arcane_fury.221e1166ea44c6d2473f59b7cfa4396a.png",
+      "thumb": "items/images/en/thumbs/arcane_fury.221e1166ea44c6d2473f59b7cfa4396a.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "57c05949d0d9ef638234e4ae",
+  "slug": "stand_united",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestThornsAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stand United",
+      "description": "Squad receives +25% Armor",
+      "wikiLink": "https://wiki.warframe.com/w/Stand_United",
+      "icon": "items/images/en/stand_united.1cd80c0f109a360e30d4a69c4e0a99f0.png",
+      "thumb": "items/images/en/thumbs/stand_united.1cd80c0f109a360e30d4a69c4e0a99f0.128x128.png"
+    }
+  }
+}

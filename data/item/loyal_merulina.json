@@ -1,0 +1,24 @@
+{
+  "id": "66049c14dbdd5c1673781db0",
+  "slug": "loyal_merulina",
+  "gameRef": "/Lotus/Powersuits/Yareli/YareliBoardAugmentTwoCard",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe",
+    "yareli"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Loyal Merulina",
+      "description": "Merulina Augment: Yareli no longer rides Merulina. Instead, Merulina follows her and casts Sea Snare on nearby enemies. 2s cooldown.",
+      "wikiLink": "https://wiki.warframe.com/w/Loyal_Merulina",
+      "icon": "items/images/en/loyal_merulina.732462a8024dd7006abf017323be62d9.png",
+      "thumb": "items/images/en/thumbs/loyal_merulina.732462a8024dd7006abf017323be62d9.128x128.png"
+    }
+  }
+}

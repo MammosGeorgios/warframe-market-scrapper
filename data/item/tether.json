@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e1014569703166749f6",
+  "slug": "tether",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipTetherAbilityCard",
+  "tags": [
+    "railjack",
+    "uncommon",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tether",
+      "description": "Ensnares enemies, increasing vulnerability to Railjack weaponry.",
+      "wikiLink": "https://wiki.warframe.com/w/Tether",
+      "icon": "items/images/en/tether.022198c6a9829914063f990be599513d.png",
+      "thumb": "items/images/en/thumbs/tether.022198c6a9829914063f990be599513d.128x128.png"
+    }
+  }
+}

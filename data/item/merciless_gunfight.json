@@ -1,0 +1,24 @@
+{
+  "id": "675c62297b18977f6e64541e",
+  "slug": "merciless_gunfight",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/DualStat/CriticalDamagePunchThroughMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Merciless Gunfight",
+      "description": "+45% Critical Damage\n+1.2 Punch Through",
+      "wikiLink": "https://wiki.warframe.com/w/Merciless_Gunfight",
+      "icon": "items/images/en/merciless_gunfight.8bfe78b71db7e2c7ecb05cd9c49fe6dd.webp",
+      "thumb": "items/images/en/thumbs/merciless_gunfight.8bfe78b71db7e2c7ecb05cd9c49fe6dd.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a510",
+  "slug": "hastened_steps",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FasterSprintLessShield",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hastened Steps",
+      "description": "+20% Sprint Speed\n-20% Shield Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Hastened_Steps",
+      "icon": "items/images/en/hastened_steps.c981a49b2097a6a207d3623dd8a09b91.png",
+      "thumb": "items/images/en/thumbs/hastened_steps.c981a49b2097a6a207d3623dd8a09b91.128x128.png"
+    }
+  }
+}

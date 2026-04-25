@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156e9",
+  "slug": "shotgun_ammo_mutation",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunConvertAmmoMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shotgun Ammo Mutation",
+      "description": "Converts Secondary ammo pickups to 50% of Ammo Pick Up.",
+      "wikiLink": "https://wiki.warframe.com/w/Shotgun_Ammo_Mutation",
+      "icon": "items/images/en/shotgun_ammo_mutation.2a2c46f64e6533beab652081bde6b5b4.png",
+      "thumb": "items/images/en/thumbs/shotgun_ammo_mutation.2a2c46f64e6533beab652081bde6b5b4.128x128.png"
+    }
+  }
+}

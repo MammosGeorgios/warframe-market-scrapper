@@ -1,0 +1,23 @@
+{
+  "id": "5eadc6bf04d55c027d23a6df",
+  "slug": "turret_velocity",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarTurretRangeAndSpeed",
+  "tags": [
+    "rare",
+    "railjack",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Turret Velocity",
+      "description": "+32.2% Turret Range\n+70% Turret Projectile Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Turret_Velocity",
+      "icon": "items/images/en/turret_velocity.1cbc2123b1c3726a810cefc200b56bef.png",
+      "thumb": "items/images/en/thumbs/turret_velocity.1cbc2123b1c3726a810cefc200b56bef.128x128.png"
+    }
+  }
+}

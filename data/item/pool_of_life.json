@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e51564c",
+  "slug": "pool_of_life",
+  "gameRef": "/Lotus/Powersuits/Trinity/WellOfLifeAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "trinity",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pool Of Life",
+      "description": "Well of Life Augment: On death, marked enemies will drop 4 Health Orbs with a 100% chance of dropping an Energy Orb.",
+      "wikiLink": "https://wiki.warframe.com/w/Pool_of_Life",
+      "icon": "items/images/en/pool_of_life.86c8aad96e3d49f9d2dbb0a3be6d7ae1.png",
+      "thumb": "items/images/en/thumbs/pool_of_life.86c8aad96e3d49f9d2dbb0a3be6d7ae1.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "56c3bc115d2f0202da32e946",
+  "slug": "spira_prime_pouch",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLiDaggerHolster",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "56c3bc0c5d2f0202da32e945",
+    "56c3bc025d2f0202da32e944",
+    "56c3bc115d2f0202da32e946",
+    "56c3bc1c5d2f0202da32e947"
+  ],
+  "quantityInSet": 2,
+  "ducats": 100,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Spira Prime Pouch",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Spira_Prime",
+      "icon": "items/images/en/spira_prime_pouch.1a495b1cb31bba268dc7a50f2a4f7134.png",
+      "thumb": "items/images/en/thumbs/spira_prime_pouch.1a495b1cb31bba268dc7a50f2a4f7134.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_holster_128x128.png"
+    }
+  }
+}

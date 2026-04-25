@@ -1,0 +1,25 @@
+{
+  "id": "5be5f59d3ffcc7038857f0f3",
+  "slug": "star_divide",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPTonfaStanceOne",
+  "tags": [
+    "pvp",
+    "uncommon",
+    "stance",
+    "mod",
+    "tonfas"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Star Divide",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Star_Divide",
+      "icon": "items/images/en/star_divide.ddcd391fb37d9135f806013883cee00d.png",
+      "thumb": "items/images/en/thumbs/star_divide.ddcd391fb37d9135f806013883cee00d.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5ca7ae31fc2db20506557090",
+  "slug": "primed_animal_instinct",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/SentinelLootRadarEnemyRadarExpertMod",
+  "tags": [
+    "mod",
+    "legendary",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Animal Instinct",
+      "description": "+55m Loot Radar\n+33m Enemy Radar",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Animal_Instinct",
+      "icon": "items/images/en/primed_animal_instinct.5c821ee7a8d69aace0923cdafe5d2fbb.png",
+      "thumb": "items/images/en/thumbs/primed_animal_instinct.5c821ee7a8d69aace0923cdafe5d2fbb.128x128.png"
+    }
+  }
+}

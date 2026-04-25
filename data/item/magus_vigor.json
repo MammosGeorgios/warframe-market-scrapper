@@ -1,0 +1,23 @@
+{
+  "id": "5a0475086c4655012038ddbf",
+  "slug": "magus_vigor",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthOnOperatorMode",
+  "tags": [
+    "common",
+    "arcane_enhancement"
+  ],
+  "rarity": "common",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magus Vigor",
+      "description": "On Transference Out:\n+600 Health",
+      "wikiLink": "https://wiki.warframe.com/w/Magus_Vigor",
+      "icon": "items/images/en/magus_vigor.473998d768bd420877df79cdd55c6188.png",
+      "thumb": "items/images/en/thumbs/magus_vigor.473998d768bd420877df79cdd55c6188.128x128.png"
+    }
+  }
+}

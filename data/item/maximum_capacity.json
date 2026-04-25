@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a51c",
+  "slug": "maximum_capacity",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/LargerMagLongerReloadRifleMod",
+  "tags": [
+    "common",
+    "primary",
+    "pvp",
+    "mod",
+    "assault_rifle"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Maximum Capacity",
+      "description": "+30% Magazine Capacity\n-15% Reload Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Maximum_Capacity",
+      "icon": "items/images/en/maximum_capacity.622ba4b0a9f284006d04dc5784e8f8af.png",
+      "thumb": "items/images/en/thumbs/maximum_capacity.622ba4b0a9f284006d04dc5784e8f8af.128x128.png"
+    }
+  }
+}

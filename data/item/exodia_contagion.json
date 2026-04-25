@@ -1,0 +1,23 @@
+{
+  "id": "5a26c31dc2c9e903a8381330",
+  "slug": "exodia_contagion",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneProjectileOnJump",
+  "tags": [
+    "legendary",
+    "arcane_enhancement"
+  ],
+  "rarity": "legendary",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Exodia Contagion",
+      "description": "After a Bullet Jump or Double Jump:\rMelee while Aim Gliding launches a projectile that explodes on impact",
+      "wikiLink": "https://wiki.warframe.com/w/Exodia_Contagion",
+      "icon": "items/images/en/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.png",
+      "thumb": "items/images/en/thumbs/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.128x128.png"
+    }
+  }
+}

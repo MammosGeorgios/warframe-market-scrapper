@@ -1,0 +1,22 @@
+{
+  "id": "685f1bf7731e63abe79a5cfa",
+  "slug": "primed_smite_the_murmur",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageMurmursExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "melee"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Smite The Murmur",
+      "description": "x1.55 Damage to Murmur",
+      "icon": "items/images/en/primed_smite_the_murmur.72a5ed9fa6492475778c404423a258f5.webp",
+      "thumb": "items/images/en/thumbs/primed_smite_the_murmur.72a5ed9fa6492475778c404423a258f5.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "566750e45dcbc186f0536bcf",
+  "slug": "arcane_arachne",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneBonusDamageOnWallLatch",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Arachne",
+      "description": "On Wall Latch:\n+150% Damage to Primary and Secondary weapons for 30s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Arachne",
+      "icon": "items/images/en/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.png",
+      "thumb": "items/images/en/thumbs/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515678",
+  "slug": "rejuvenation",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/PlayerHealthRegenAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rejuvenation",
+      "description": "Squad receives +3 Health Regen/s",
+      "wikiLink": "https://wiki.warframe.com/w/Rejuvenation",
+      "icon": "items/images/en/rejuvenation.8679cf8d206d54986ff11d22983cd191.png",
+      "thumb": "items/images/en/thumbs/rejuvenation.8679cf8d206d54986ff11d22983cd191.128x128.png"
+    }
+  }
+}

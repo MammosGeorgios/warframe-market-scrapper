@@ -1,0 +1,24 @@
+{
+  "id": "59e203ce115f1d887cfd7ac6",
+  "slug": "ammo_case",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/ItemVacum",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "carrier"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ammo Case",
+      "description": "Increases Ammo Capacity by 25% and converts Ammo Pickups into ammo for equipped weapons after 2s.",
+      "wikiLink": "https://wiki.warframe.com/w/Ammo_Case",
+      "icon": "items/images/en/ammo_case.862c4134af807edfca25894181d72d50.png",
+      "thumb": "items/images/en/thumbs/ammo_case.862c4134af807edfca25894181d72d50.128x128.png"
+    }
+  }
+}

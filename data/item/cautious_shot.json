@@ -1,0 +1,24 @@
+{
+  "id": "5bc1ab94b919f200c18c10f2",
+  "slug": "cautious_shot",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponResistSelfDamageMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cautious Shot",
+      "description": "+100% chance to reduce the Stagger effect from self-imposed Radial Attacks",
+      "wikiLink": "https://wiki.warframe.com/w/Cautious_Shot",
+      "icon": "items/images/en/cautious_shot.5bdfa8a36260ba57f16bc865b2be61b6.png",
+      "thumb": "items/images/en/thumbs/cautious_shot.5bdfa8a36260ba57f16bc865b2be61b6.128x128.png"
+    }
+  }
+}

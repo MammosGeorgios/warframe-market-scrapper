@@ -1,0 +1,31 @@
+{
+  "id": "60ad4a1bf1904300d012c701",
+  "slug": "gara_prime_set",
+  "gameRef": "/Lotus/Powersuits/Glass/GaraPrime",
+  "tags": [
+    "warframe",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "60ad4a1bf1904300d012c6ff",
+    "60ad4a1df1904300d012c70e",
+    "60ad4a1cf1904300d012c702",
+    "60ad4a1bf1904300d012c701",
+    "60ad4a1cf1904300d012c703"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gara Prime Set",
+      "description": "Continue the legend of the glass-armored warrior Gara. Dominate the battlefield with the power and purity of crystal.",
+      "wikiLink": "https://wiki.warframe.com/w/Gara_Prime",
+      "icon": "items/images/en/gara_prime_set.e0359bcb2d3e747c46edd23083f39de8.png",
+      "thumb": "items/images/en/thumbs/gara_prime_set.e0359bcb2d3e747c46edd23083f39de8.128x128.png"
+    }
+  }
+}

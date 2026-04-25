@@ -1,0 +1,22 @@
+{
+  "id": "67db60149cec3e52e62523e6",
+  "slug": "computer_cop",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/AntivirusEightMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Computer Cop",
+      "description": "Stopping cyber-crime in its tracks",
+      "icon": "items/images/en/computer_cop.94ec9afd1c25db7f15e362bf689c4e31.webp",
+      "thumb": "items/images/en/thumbs/computer_cop.94ec9afd1c25db7f15e362bf689c4e31.128x128.webp"
+    }
+  }
+}

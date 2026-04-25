@@ -1,0 +1,23 @@
+{
+  "id": "5be701153ffcc703e462c70c",
+  "slug": "mag_locks",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindMagnetismMod",
+  "tags": [
+    "mod",
+    "common",
+    "k_drive"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mag Locks",
+      "description": "+30% K-Drive Grind Magnetism",
+      "wikiLink": "https://wiki.warframe.com/w/Mag_Locks",
+      "icon": "items/images/en/mag_locks.276bba4eb302ed0a1f7e10e3ae05784b.png",
+      "thumb": "items/images/en/thumbs/mag_locks.276bba4eb302ed0a1f7e10e3ae05784b.128x128.png"
+    }
+  }
+}

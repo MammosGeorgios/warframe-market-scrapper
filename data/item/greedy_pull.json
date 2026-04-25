@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155c5",
+  "slug": "greedy_pull",
+  "gameRef": "/Lotus/Powersuits/Mag/PullAugmentCard",
+  "tags": [
+    "mag",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Greedy Pull",
+      "description": "Pull Augment: Adds 100% chance to pull pickups towards Mag.",
+      "wikiLink": "https://wiki.warframe.com/w/Greedy_Pull",
+      "icon": "items/images/en/greedy_pull.46407b1a24b9928f281e9fded5134de4.png",
+      "thumb": "items/images/en/thumbs/greedy_pull.46407b1a24b9928f281e9fded5134de4.128x128.png"
+    }
+  }
+}

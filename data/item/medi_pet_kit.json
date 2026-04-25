@@ -1,0 +1,24 @@
+{
+  "id": "580e38faca550948410af0a6",
+  "slug": "medi_pet_kit",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Events/Index/CompanionMedipetKitMod",
+  "tags": [
+    "companion",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Medi-Pet Kit",
+      "description": "+12 Companion Health Regen/s\n-15s Companion Recovery Time",
+      "wikiLink": "https://wiki.warframe.com/w/Medi-Pet_Kit",
+      "icon": "items/images/en/medi_pet_kit.0bb8979ddfec3be2177dd52fca2d1797.png",
+      "thumb": "items/images/en/thumbs/medi_pet_kit.0bb8979ddfec3be2177dd52fca2d1797.128x128.png"
+    }
+  }
+}

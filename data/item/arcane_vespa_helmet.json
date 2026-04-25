@@ -1,0 +1,20 @@
+{
+  "id": "54aaf28ee7798969777a27a9",
+  "slug": "arcane_vespa_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAltB",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Vespa Helmet",
+      "description": "This helmet is worn by Nyx, and adds Ability Efficiency, with a reduction to Armor.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Helmet",
+      "icon": "items/images/en/arcane_vespa_nyx_helmet.a37db070518d6e37e74bf59692dff155.png",
+      "thumb": "items/images/en/thumbs/arcane_vespa_nyx_helmet.a37db070518d6e37e74bf59692dff155.128x128.png"
+    }
+  }
+}

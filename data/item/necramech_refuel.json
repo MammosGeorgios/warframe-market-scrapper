@@ -1,0 +1,23 @@
+{
+  "id": "5f498a269426ed00443bd0cf",
+  "slug": "necramech_refuel",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechBoostRechargeMod",
+  "tags": [
+    "mod",
+    "common",
+    "necramech"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Refuel",
+      "description": "+20% Engine Replenish",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Refuel",
+      "icon": "items/images/en/necramech_refuel.3064dd67344c9dad1449a60a896e66e7.png",
+      "thumb": "items/images/en/thumbs/necramech_refuel.3064dd67344c9dad1449a60a896e66e7.128x128.png"
+    }
+  }
+}

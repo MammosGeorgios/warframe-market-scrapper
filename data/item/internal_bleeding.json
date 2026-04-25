@@ -1,0 +1,24 @@
+{
+  "id": "6055de865221e30083f6f10c",
+  "slug": "internal_bleeding",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponBleedOnImpactProcRifleMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Internal Bleeding",
+      "description": "Impact Status Effects have 35% chance to apply a Slash Status Effect (x2 when Fire Rate is below 2.5)",
+      "wikiLink": "https://wiki.warframe.com/w/Internal_Bleeding",
+      "icon": "items/images/en/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.png",
+      "thumb": "items/images/en/thumbs/internal_bleeding.c0a7b613fed84922cb82ced77350cd88.128x128.png"
+    }
+  }
+}

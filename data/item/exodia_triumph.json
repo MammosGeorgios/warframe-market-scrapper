@@ -1,0 +1,23 @@
+{
+  "id": "5a0475096c4655012038ddc3",
+  "slug": "exodia_triumph",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusChannelingDamage",
+  "tags": [
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Exodia Triumph",
+      "description": "+50% Additional Combo Count Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Exodia_Triumph",
+      "icon": "items/images/en/exodia_triumph.fe6f1256127be984a80deb48afd26faa.png",
+      "thumb": "items/images/en/thumbs/exodia_triumph.fe6f1256127be984a80deb48afd26faa.128x128.png"
+    }
+  }
+}

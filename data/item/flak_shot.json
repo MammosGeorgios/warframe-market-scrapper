@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4d6",
+  "slug": "flak_shot",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/DamageBiasSlashShotgunMod",
+  "tags": [
+    "primary",
+    "uncommon",
+    "pvp",
+    "shotgun",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Flak Shot",
+      "description": "20% of Damage converted into Slash",
+      "wikiLink": "https://wiki.warframe.com/w/Flak_Shot",
+      "icon": "items/images/en/flak_shot.be4117525d415460b856b5c75c0582c2.png",
+      "thumb": "items/images/en/thumbs/flak_shot.be4117525d415460b856b5c75c0582c2.128x128.png"
+    }
+  }
+}

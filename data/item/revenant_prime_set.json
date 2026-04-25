@@ -1,0 +1,31 @@
+{
+  "id": "633e2e6af570d10793afb81a",
+  "slug": "revenant_prime_set",
+  "gameRef": "/Lotus/Powersuits/Revenant/RevenantPrime",
+  "tags": [
+    "prime",
+    "warframe",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "633e2e6cf570d10793afb827",
+    "633e2e6af570d10793afb815",
+    "633e2e6bf570d10793afb81d",
+    "633e2e6af570d10793afb81a",
+    "633e2e6af570d10793afb816"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Revenant Prime Set",
+      "description": "The lost one rises. Reify the essence of the Eidolon as you wield Revenant Prime’s power.",
+      "wikiLink": "https://wiki.warframe.com/w/Revenant_Prime",
+      "icon": "items/images/en/revenant_prime_set.469f99b4183a5dda7769b78b2cde6658.png",
+      "thumb": "items/images/en/thumbs/revenant_prime_set.469f99b4183a5dda7769b78b2cde6658.128x128.png"
+    }
+  }
+}

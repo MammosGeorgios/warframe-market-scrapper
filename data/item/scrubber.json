@@ -1,0 +1,25 @@
+{
+  "id": "6054dea25221e30057501091",
+  "slug": "scrubber",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/SolarisBothCommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Scrubber",
+      "description": "Analyzes the growth of microbes dwelling in the aqua systems to monitor toxicity levels. It can be found in cave pools on Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Scrubber",
+      "icon": "items/images/en/scrubber.08b2a0760d639950f6d5410534949913.png",
+      "thumb": "items/images/en/thumbs/scrubber.08b2a0760d639950f6d5410534949913.128x128.png"
+    }
+  }
+}

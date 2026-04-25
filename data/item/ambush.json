@@ -1,0 +1,24 @@
+{
+  "id": "5bc24accb919f2010f7d579a",
+  "slug": "ambush",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/GhostAugmentCard",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "shade"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ambush",
+      "description": "When Ghost invisibility is broken, Shade's owner is granted +240% Weapon Damage for 3s.",
+      "wikiLink": "https://wiki.warframe.com/w/Ambush",
+      "icon": "items/images/en/ambush.bd6ac0ce71315652d5a7bdd9a80d0218.png",
+      "thumb": "items/images/en/thumbs/ambush.bd6ac0ce71315652d5a7bdd9a80d0218.128x128.png"
+    }
+  }
+}

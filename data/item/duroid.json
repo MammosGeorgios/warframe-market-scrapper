@@ -1,0 +1,25 @@
+{
+  "id": "6054de6b5221e30057501079",
+  "slug": "duroid",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/OrokinRareAFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Duroid",
+      "description": "A living fossil hearkening back to the Orokin era, this elusive fish hides below the surface of Exocrine pools in the deepest caverns it can find. Unlike Infested fish breeds, it has no ability to hover.",
+      "wikiLink": "https://wiki.warframe.com/w/Duroid",
+      "icon": "items/images/en/duroid.d383babc8e0d5dccbd1d8c0d54093fb9.png",
+      "thumb": "items/images/en/thumbs/duroid.d383babc8e0d5dccbd1d8c0d54093fb9.128x128.png"
+    }
+  }
+}

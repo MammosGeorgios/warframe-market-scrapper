@@ -1,0 +1,24 @@
+{
+  "id": "567872749906166591f69a9d",
+  "slug": "vengeful_revenant",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/StalkerSwordMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "swords"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vengeful Revenant",
+      "description": "Hate... Dread... Despair...",
+      "wikiLink": "https://wiki.warframe.com/w/Vengeful_Revenant",
+      "icon": "items/images/en/vengeful_revenant.40b0e3ea102d10548b33641c310851c2.png",
+      "thumb": "items/images/en/thumbs/vengeful_revenant.40b0e3ea102d10548b33641c310851c2.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "687915bb731e63abe79a5d09",
+  "slug": "kullervos_hold_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleSignatureDungeon",
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kullervo's Hold Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/kullervos_hold_scene.764a7245c010702f58c8313a4ddd3a68.webp",
+      "thumb": "items/images/en/thumbs/kullervos_hold_scene.764a7245c010702f58c8313a4ddd3a68.128x128.webp"
+    }
+  }
+}

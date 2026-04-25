@@ -1,0 +1,19 @@
+{
+  "id": "60e70f7f479445008f27259e",
+  "slug": "steel_meridian_gunnery_emote",
+  "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/SMGunneryEmote",
+  "tags": [
+    "syndicate",
+    "emote"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Steel Meridian Gunnery Emote",
+      "description": "Target incoming fighters with this crew-inspired emote.",
+      "icon": "items/images/en/steel_meridian_gunnery_emote.7aaec34224506d2d8ac21c3dbcabfd83.png",
+      "thumb": "items/images/en/thumbs/steel_meridian_gunnery_emote.7aaec34224506d2d8ac21c3dbcabfd83.128x128.png"
+    }
+  }
+}

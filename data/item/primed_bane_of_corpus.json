@@ -1,0 +1,24 @@
+{
+  "id": "56900c0053c8e91351672725",
+  "slug": "primed_bane_of_corpus",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorpus",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Bane Of Corpus",
+      "description": "x1.55 Damage to Corpus",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Bane_of_Corpus",
+      "icon": "items/images/en/primed_bane_of_corpus.7574a28b4b72dc8cf59ceaea00653fa7.png",
+      "thumb": "items/images/en/thumbs/primed_bane_of_corpus.7574a28b4b72dc8cf59ceaea00653fa7.128x128.png"
+    }
+  }
+}

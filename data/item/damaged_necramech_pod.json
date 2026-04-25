@@ -1,0 +1,29 @@
+{
+  "id": "5f498a259426ed00443bd0cd",
+  "slug": "damaged_necramech_pod",
+  "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
+  "tags": [
+    "necramech",
+    "component",
+    "damaged"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5f498a269426ed00443bd0d3",
+    "5f498a209426ed00443bd0a4",
+    "5f498a259426ed00443bd0cd",
+    "5f498a259426ed00443bd0c6",
+    "5f498a1f9426ed00443bd0a0"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Damaged Necramech Pod",
+      "description": "A modular component for a Necramech. It’s damaged and in need of repair.\nLocation: Enemy Necramechs found in Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+      "wikiLink": "https://warframe.fandom.com/wiki/Necramech",
+      "icon": "items/images/en/damaged_necramech_pod.2d84326db74bb9cc5c9a8e60e43c037e.png",
+      "thumb": "items/images/en/thumbs/damaged_necramech_pod.2d84326db74bb9cc5c9a8e60e43c037e.128x128.png"
+    }
+  }
+}

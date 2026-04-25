@@ -1,0 +1,27 @@
+{
+  "id": "61bb64fb3132ff00482b5fb1",
+  "slug": "axi_p4_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionHarrowPrimeD",
+  "tags": [
+    "relic",
+    "axi"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Axi P4 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/axi_p4_relic.a74c06f0cae21bdb8933685c867385f8.png",
+      "thumb": "items/images/en/thumbs/axi_p4_relic.a74c06f0cae21bdb8933685c867385f8.128x128.png"
+    }
+  }
+}

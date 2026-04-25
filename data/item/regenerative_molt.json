@@ -1,0 +1,25 @@
+{
+  "id": "54e644ffe779897594fa68cb",
+  "slug": "regenerative_molt",
+  "gameRef": "/Lotus/Powersuits/Saryn/ShedAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "saryn",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Regenerative Molt",
+      "description": "Molt Augment: After casting Molt, Saryn regenerates 50 Health/s for 10s.",
+      "wikiLink": "https://wiki.warframe.com/w/Regenerative_Molt",
+      "icon": "items/images/en/regenerative_molt.7ebf17142decc24b7b754dd49af560c5.png",
+      "thumb": "items/images/en/thumbs/regenerative_molt.7ebf17142decc24b7b754dd49af560c5.128x128.png"
+    }
+  }
+}

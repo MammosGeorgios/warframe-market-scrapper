@@ -1,0 +1,24 @@
+{
+  "id": "56a7b2bb1133f656cb085d98",
+  "slug": "targeting_subsystem",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/AccuracyWhileAimingPistolMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Targeting Subsystem",
+      "description": "On Hit:\n+30% Accuracy when Aiming for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Targeting_Subsystem",
+      "icon": "items/images/en/targeting_subsystem.bab012feb316116d1c4c66888e73a6e8.png",
+      "thumb": "items/images/en/thumbs/targeting_subsystem.bab012feb316116d1c4c66888e73a6e8.128x128.png"
+    }
+  }
+}

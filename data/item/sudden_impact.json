@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515655",
+  "slug": "sudden_impact",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeStatusChanceMod",
+  "tags": [
+    "common",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sudden Impact",
+      "description": "+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Sudden_Impact",
+      "icon": "items/images/en/sudden_impact.86fff87fc89ac8f586597cdc4f7eed96.png",
+      "thumb": "items/images/en/thumbs/sudden_impact.86fff87fc89ac8f586597cdc4f7eed96.128x128.png"
+    }
+  }
+}

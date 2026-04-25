@@ -1,0 +1,23 @@
+{
+  "id": "5eb5e49904d55c04e80d6a7f",
+  "slug": "ordnance_velocity",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanOrdnanceSpeed",
+  "tags": [
+    "rare",
+    "railjack",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ordnance Velocity",
+      "description": "+90% Ordnance Projectile Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Ordnance_Velocity",
+      "icon": "items/images/en/ordnance_velocity.8ea7d91c7814f39f38d25782c75b00d3.png",
+      "thumb": "items/images/en/thumbs/ordnance_velocity.8ea7d91c7814f39f38d25782c75b00d3.128x128.png"
+    }
+  }
+}

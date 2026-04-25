@@ -1,0 +1,23 @@
+{
+  "id": "657af5ac21646e595134f5cd",
+  "slug": "masters_edge",
+  "gameRef": "/Lotus/Upgrades/EmpoweredHeavyMelee/HeavyAgression",
+  "tags": [
+    "mod",
+    "uncommon",
+    "melee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Master's Edge",
+      "description": "Enables Tennokai. Increases Tennokai damage by 60%.",
+      "wikiLink": "https://wiki.warframe.com/w/Master%27s_Edge",
+      "icon": "items/images/en/masters_edge.0bbc3b8d1d4232cd871b3fcb3a39a78c.png",
+      "thumb": "items/images/en/thumbs/masters_edge.0bbc3b8d1d4232cd871b3fcb3a39a78c.128x128.png"
+    }
+  }
+}

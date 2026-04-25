@@ -1,0 +1,25 @@
+{
+  "id": "58f0ee99aa4b70452a173071",
+  "slug": "negation_swarm",
+  "gameRef": "/Lotus/Powersuits/Sandman/SandmanSwarmAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare",
+    "augment",
+    "inaros"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Negation Armor",
+      "description": "Scarab Shell Augment: When Inaros takes fatal damage, he consumes Scarab Shell to heal with a brief invulnerability that ends with a deadly Slash Status Effect. Cooldown 30s.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Negation_Swarm",
+      "icon": "items/images/en/negation_swarm.32cd331f70a7a848636a1bb777b96201.png",
+      "thumb": "items/images/en/thumbs/negation_swarm.32cd331f70a7a848636a1bb777b96201.128x128.png"
+    }
+  }
+}

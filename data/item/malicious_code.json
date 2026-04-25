@@ -1,0 +1,22 @@
+{
+  "id": "60e5b8fc4794450053e9993e",
+  "slug": "malicious_code",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionTerrifyMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Malicious Code",
+      "description": "50% chance on Mercy Kill for enemies within 15m to cower in fear for 8s",
+      "wikiLink": "https://wiki.warframe.com/w/Malicious_Code",
+      "icon": "items/images/en/malicious_code.4dd2ce62a4ad80921eec32295055d406.png",
+      "thumb": "items/images/en/thumbs/malicious_code.4dd2ce62a4ad80921eec32295055d406.128x128.png"
+    }
+  }
+}

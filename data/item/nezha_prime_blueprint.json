@@ -1,0 +1,33 @@
+{
+  "id": "5f986cf99dbdce024971b0b7",
+  "slug": "nezha_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/NezhaPrimeBlueprint",
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5f986cf99dbdce024971b0b7",
+    "5f986cfa9dbdce024971b0bf",
+    "5f986cfb9dbdce024971b0c1",
+    "5f986cfc9dbdce024971b0c2",
+    "5f986cfa9dbdce024971b0be"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nezha Prime Blueprint",
+      "description": "Behold: the Scion of the Burning Wind, now before you in most courtly accoutrement. Featuring altered mod polarities for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Nezha_Prime",
+      "icon": "items/images/en/nezha_prime_blueprint.462f17d4752cca5cea3988ecb9786467.png",
+      "thumb": "items/images/en/thumbs/nezha_prime_blueprint.462f17d4752cca5cea3988ecb9786467.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

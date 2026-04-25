@@ -1,0 +1,21 @@
+{
+  "id": "60df162816999300b9dd13c1",
+  "slug": "opticor_vandal",
+  "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/Vandal/VandalCrpBFG",
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Opticor Vandal",
+      "description": "With a precision crafted lens, this customized Opticor achieves a level of performance previously thought impossible.",
+      "wikiLink": "https://wiki.warframe.com/w/Opticor_Vandal",
+      "icon": "items/images/en/opticor_vandal.c01ce09e43ba41dae7478179ee3c229d.png",
+      "thumb": "items/images/en/thumbs/opticor_vandal.c01ce09e43ba41dae7478179ee3c229d.128x128.png"
+    }
+  }
+}

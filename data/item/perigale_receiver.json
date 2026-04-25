@@ -1,0 +1,30 @@
+{
+  "id": "63886518e7c988007b5bd517",
+  "slug": "perigale_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnQuadSniperRifleReceiver",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "63886518e7c988007b5bd516",
+    "63886518e7c988007b5bd517",
+    "63886516e7c988007b5bd50c",
+    "63886517e7c988007b5bd50e"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Perigale Receiver",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Perigale",
+      "icon": "items/images/en/perigale_receiver.679b0e40d7651d8a117e07d1c7039886.png",
+      "thumb": "items/images/en/thumbs/perigale_receiver.679b0e40d7651d8a117e07d1c7039886.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

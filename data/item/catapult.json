@@ -1,0 +1,25 @@
+{
+  "id": "5ea087d1c160d001303f9ed8",
+  "slug": "catapult",
+  "gameRef": "/Lotus/Powersuits/Devourer/DevourerBowlAugmentCard",
+  "tags": [
+    "grendel",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Catapult",
+      "description": "Pulverize Augment: to launch Grendel in your aim direction. Costs 5. Crouch to slow down.",
+      "wikiLink": "https://wiki.warframe.com/w/Catapult",
+      "icon": "items/images/en/catapult.8f97b9f8513251cfc346f1fc514da45c.png",
+      "thumb": "items/images/en/thumbs/catapult.8f97b9f8513251cfc346f1fc514da45c.128x128.png"
+    }
+  }
+}

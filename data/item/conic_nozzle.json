@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e111456970316674a16",
+  "slug": "conic_nozzle",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Piloting/ZektiSpeed",
+  "tags": [
+    "rare",
+    "railjack",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Conic Nozzle",
+      "description": "+38.3% Railjack Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Conic_Nozzle",
+      "icon": "items/images/en/conic_nozzle.2a28d8acc04a19e0e5caae4c447db6f9.png",
+      "thumb": "items/images/en/thumbs/conic_nozzle.2a28d8acc04a19e0e5caae4c447db6f9.128x128.png"
+    }
+  }
+}

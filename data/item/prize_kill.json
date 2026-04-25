@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4e6",
+  "slug": "prize_kill",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/RestoreShieldsOnKillMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "shotgun",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prize Kill",
+      "description": "On Kill:\n-100% Shield Recharge Delay for 10s\n-25% from Health Orbs",
+      "wikiLink": "https://wiki.warframe.com/w/Prize_Kill",
+      "icon": "items/images/en/prize_kill.c5cb3aebb3242b81dcc1231bb461ec92.png",
+      "thumb": "items/images/en/thumbs/prize_kill.c5cb3aebb3242b81dcc1231bb461ec92.128x128.png"
+    }
+  }
+}

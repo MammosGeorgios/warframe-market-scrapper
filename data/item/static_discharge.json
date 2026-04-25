@@ -1,0 +1,24 @@
+{
+  "id": "580e392dca550948410af0aa",
+  "slug": "static_discharge",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/Event/CorpusArena/ProvaCorpusArenaMod",
+  "tags": [
+    "mod",
+    "prova",
+    "rare",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Static Discharge",
+      "description": "Heavy Attacks electrify nearby enemies for Electricity Damage equal to 80% of weapon damage.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Static_Discharge",
+      "icon": "items/images/en/static_discharge.d2cf544a23a502e675ccb784bf23b044.png",
+      "thumb": "items/images/en/thumbs/static_discharge.d2cf544a23a502e675ccb784bf23b044.128x128.png"
+    }
+  }
+}

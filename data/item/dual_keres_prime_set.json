@@ -1,0 +1,30 @@
+{
+  "id": "62d3494075156700ce450dee",
+  "slug": "dual_keres_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeDualKeres/PrimeDualKeresWeapon",
+  "tags": [
+    "prime",
+    "melee",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "62d3494175156700ce450e05",
+    "62d3494175156700ce450e00",
+    "62d3494075156700ce450df3",
+    "62d3494075156700ce450dee"
+  ],
+  "ducats": 220,
+  "reqMasteryRank": 14,
+  "tradingTax": 10000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dual Keres Prime Set",
+      "description": "The hunted will meet a quick end when faced with Khora Prime's signature swords. Heavy Attack Efficiency is enhanced when wielded by Khora.",
+      "icon": "items/images/en/dual_keres_prime_set.ea70ac30dab8db745193cb166b246efc.png",
+      "thumb": "items/images/en/thumbs/dual_keres_prime_set.ea70ac30dab8db745193cb166b246efc.128x128.png"
+    }
+  }
+}

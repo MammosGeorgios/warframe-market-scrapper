@@ -1,0 +1,32 @@
+{
+  "id": "5ca2866ffc2db2035eae059c",
+  "slug": "stradavar_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeStradavar/PrimeStradavarGun",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "primary"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5ca2866ffc2db2035eae059b",
+    "5ca28670fc2db2035eae05a7",
+    "5ca28670fc2db2035eae05a3",
+    "5ca2866ffc2db2035eae059c",
+    "5ca28670fc2db2035eae05a4"
+  ],
+  "ducats": 175,
+  "reqMasteryRank": 12,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stradavar Prime Set",
+      "description": "Between measured staccato and staggering crescendo, Stradavar Prime never fails to call down a devastating finale.",
+      "wikiLink": "https://wiki.warframe.com/w/Stradavar_Prime",
+      "icon": "items/images/en/stradavar_prime_set.57c042a30996514288dfd70f2ce267ca.png",
+      "thumb": "items/images/en/thumbs/stradavar_prime_set.57c042a30996514288dfd70f2ce267ca.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "54a73e65e779893a797fff48",
+  "slug": "hikou_prime_stars",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHikouStars",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff46",
+    "54a73e65e779893a797fff47",
+    "56783f24cbfa8f0432dd899e",
+    "54a73e65e779893a797fff48"
+  ],
+  "quantityInSet": 2,
+  "ducats": 15,
+  "reqMasteryRank": 4,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hikou Prime Stars",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Hikou_Prime",
+      "icon": "items/images/en/hikou_prime_stars.cd5cefce60a4e85c15614139a8ee9400.png",
+      "thumb": "items/images/en/thumbs/hikou_prime_stars.cd5cefce60a4e85c15614139a8ee9400.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_stars_128x128.png"
+    }
+  }
+}

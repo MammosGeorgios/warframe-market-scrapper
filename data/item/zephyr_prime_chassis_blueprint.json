@@ -1,0 +1,34 @@
+{
+  "id": "5ab1570db2b6a8044d5137c3",
+  "slug": "zephyr_prime_chassis_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeChassisBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5ab1570db2b6a8044d5137c2",
+    "5ab1570db2b6a8044d5137c3",
+    "5ab1570db2b6a8044d5137c1",
+    "5ab1570db2b6a8044d5137c5",
+    "5ab1570db2b6a8044d5137c4"
+  ],
+  "quantityInSet": 1,
+  "ducats": 25,
+  "reqMasteryRank": 6,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zephyr Prime Chassis Blueprint",
+      "description": "Chassis component of the Zephyr Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Zephyr_Prime",
+      "icon": "items/images/en/zephyr_prime_chassis.4ffc19dd100b3c182beef5f1ef3d337e.png",
+      "thumb": "items/images/en/thumbs/zephyr_prime_chassis.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_chassis_128x128.png"
+    }
+  }
+}

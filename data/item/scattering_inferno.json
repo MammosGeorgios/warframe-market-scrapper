@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515623",
+  "slug": "scattering_inferno",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/FireEventShotgunMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Scattering Inferno",
+      "description": "+60% Heat\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Scattering_Inferno",
+      "icon": "items/images/en/scattering_inferno.0d2bd26b4df8e46933575d5f9e3ebb3f.png",
+      "thumb": "items/images/en/thumbs/scattering_inferno.0d2bd26b4df8e46933575d5f9e3ebb3f.128x128.png"
+    }
+  }
+}

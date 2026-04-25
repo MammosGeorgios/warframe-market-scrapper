@@ -1,0 +1,24 @@
+{
+  "id": "5ce7fd85d23a3b00908c4205",
+  "slug": "anti_grav_grenade",
+  "gameRef": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaLiftBombPrecept",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "moa"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Anti-Grav Grenade",
+      "description": "A grenade that levitates enemies in a 6m. After 6s afflicted enemies come crashing down, causing Impact Damage equal to 80% of the damage taken while floating.",
+      "wikiLink": "https://wiki.warframe.com/w/Anti-Grav_Grenade",
+      "icon": "items/images/en/anti_grav_grenade.08aa82d4bc0f4921a12b4e0b8e8979f6.png",
+      "thumb": "items/images/en/thumbs/anti_grav_grenade.08aa82d4bc0f4921a12b4e0b8e8979f6.128x128.png"
+    }
+  }
+}

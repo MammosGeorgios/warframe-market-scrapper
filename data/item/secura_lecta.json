@@ -1,0 +1,22 @@
+{
+  "id": "57dbdc525e334907aa8edb58",
+  "slug": "secura_lecta",
+  "gameRef": "/Lotus/Weapons/Syndicates/PerrinSequence/Melee/PSLecta",
+  "tags": [
+    "syndicate",
+    "weapon",
+    "melee"
+  ],
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secura Lecta",
+      "description": "Whip the enemy out of their ill-gotten gains; double credit drops on kills.",
+      "wikiLink": "https://wiki.warframe.com/w/Secura_Lecta",
+      "icon": "items/images/en/secura_lecta.44e35643f0208a0aa069fe393cd2e11b.png",
+      "thumb": "items/images/en/thumbs/secura_lecta.44e35643f0208a0aa069fe393cd2e11b.128x128.png"
+    }
+  }
+}

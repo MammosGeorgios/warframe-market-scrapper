@@ -1,0 +1,24 @@
+{
+  "id": "5729bd18cb59ed5a9b484e92",
+  "slug": "fomorian_accelerant",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/DrakgoonNightwatchMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "primary",
+    "drakgoon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fomorian Accelerant",
+      "description": "Flak now bounces up to 4x and travels 60% faster.",
+      "wikiLink": "https://wiki.warframe.com/w/Fomorian_Accelerant",
+      "icon": "items/images/en/fomorian_accelerant.703cc26fdc88d12f834c157eae51704e.png",
+      "thumb": "items/images/en/thumbs/fomorian_accelerant.703cc26fdc88d12f834c157eae51704e.128x128.png"
+    }
+  }
+}

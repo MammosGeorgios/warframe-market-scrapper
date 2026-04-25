@@ -1,0 +1,23 @@
+{
+  "id": "5a0475086c4655012038ddc1",
+  "slug": "exodia_brave",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ChannelKillEnergyRate",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Exodia Brave",
+      "description": "On Heavy Attack Kill:\n+5 Energy Rate for 4s. Stacks up to 3x.",
+      "wikiLink": "https://wiki.warframe.com/w/Exodia_Brave",
+      "icon": "items/images/en/exodia_brave.46667ed53d81bf2cc9aacde46019c7e9.png",
+      "thumb": "items/images/en/thumbs/exodia_brave.46667ed53d81bf2cc9aacde46019c7e9.128x128.png"
+    }
+  }
+}

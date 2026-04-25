@@ -1,0 +1,26 @@
+{
+  "id": "67acda8b125398d92c8bb4f3",
+  "slug": "axi_f3_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeB",
+  "tags": [
+    "axi",
+    "relic"
+  ],
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Axi F3 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/axi_f3_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "thumb": "items/images/en/thumbs/axi_f3_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  }
+}

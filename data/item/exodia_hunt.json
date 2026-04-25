@@ -1,0 +1,23 @@
+{
+  "id": "5a0475096c4655012038ddc2",
+  "slug": "exodia_hunt",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GroundSlamPull",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Exodia Hunt",
+      "description": "On Ground Slam:\n50% chance to pull enemies within 12m into melee range.",
+      "wikiLink": "https://wiki.warframe.com/w/Exodia_Hunt",
+      "icon": "items/images/en/exodia_hunt.991da5e49a00e69755b5c7948f5448f6.png",
+      "thumb": "items/images/en/thumbs/exodia_hunt.991da5e49a00e69755b5c7948f5448f6.128x128.png"
+    }
+  }
+}

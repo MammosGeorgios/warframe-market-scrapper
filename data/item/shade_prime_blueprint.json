@@ -1,0 +1,32 @@
+{
+  "id": "641263e07d179f02100c6d42",
+  "slug": "shade_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/ShadePrimeSentinelBlueprint",
+  "tags": [
+    "sentinel",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "641263e07d179f02100c6d42",
+    "641263e07d179f02100c6d4d",
+    "641263e07d179f02100c6d48",
+    "641263e07d179f02100c6d49",
+    "641263e07d179f02100c6d44"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shade Prime Blueprint",
+      "description": "Shade Prime specializes in stealth and comes locked and loaded with the Burst Laser Prime. Together, you can dominate the shadows.",
+      "wikiLink": "https://wiki.warframe.com/w/Shade_Prime",
+      "icon": "items/images/en/shade_prime_blueprint.d4376af3d68e873e85f81f456c83b261.png",
+      "thumb": "items/images/en/thumbs/shade_prime_blueprint.d4376af3d68e873e85f81f456c83b261.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

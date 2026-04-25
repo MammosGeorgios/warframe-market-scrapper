@@ -1,0 +1,30 @@
+{
+  "id": "5783bf54d9b6753790c89e97",
+  "slug": "onorix_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchAxeBlade",
+  "tags": [
+    "component",
+    "weapon",
+    "archwing"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5783bf54d9b6753790c89e97",
+    "5783bf4ed9b6753790c89e96",
+    "582b0f880af25410b099f7fd"
+  ],
+  "quantityInSet": 2,
+  "reqMasteryRank": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Onorix Blade",
+      "description": "An Archwing weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Onorix",
+      "icon": "items/images/en/onorix_blade.04c7efcf7c6239c88c275d164d6a259a.png",
+      "thumb": "items/images/en/thumbs/onorix_blade.04c7efcf7c6239c88c275d164d6a259a.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_blade_128x128.png"
+    }
+  }
+}

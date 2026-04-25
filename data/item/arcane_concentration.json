@@ -1,0 +1,21 @@
+{
+  "id": "6939d5e1d6a357b81964f866",
+  "slug": "arcane_concentration",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityDurationOnCast",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Concentration",
+      "description": "On Ability Cast:\n+60% Ability Duration for 3s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "icon": "items/images/en/arcane_concentration.8241161cbae0706e313693aef592b971.webp",
+      "thumb": "items/images/en/thumbs/arcane_concentration.8241161cbae0706e313693aef592b971.128x128.webp"
+    }
+  }
+}

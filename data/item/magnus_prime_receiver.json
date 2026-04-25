@@ -1,0 +1,32 @@
+{
+  "id": "6139101b30dd5b004b7f90ae",
+  "slug": "magnus_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/MagnusPrimeReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6139101b30dd5b004b7f90af",
+    "6139101a30dd5b004b7f90a2",
+    "6139101b30dd5b004b7f90ae",
+    "6139101930dd5b004b7f909b"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magnus Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Magnus_Prime",
+      "icon": "items/images/en/magnus_prime_receiver.0a344c24cc5add7707d6bb7c65e585b2.png",
+      "thumb": "items/images/en/thumbs/magnus_prime_receiver.0a344c24cc5add7707d6bb7c65e585b2.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

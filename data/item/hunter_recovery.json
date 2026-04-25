@@ -1,0 +1,24 @@
+{
+  "id": "5a0ef3fb10bc40007cce1c8b",
+  "slug": "hunter_recovery",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Hunter/CompanionHunterRecoveryMod",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "beast"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hunter Recovery",
+      "description": "Warframe healed for +30% Companion Damage dealt",
+      "wikiLink": "https://wiki.warframe.com/w/Hunter_Recovery",
+      "icon": "items/images/en/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
+      "thumb": "items/images/en/thumbs/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png"
+    }
+  }
+}

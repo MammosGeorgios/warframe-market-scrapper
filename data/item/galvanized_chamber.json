@@ -1,0 +1,24 @@
+{
+  "id": "60e5b9014794450053e99961",
+  "slug": "galvanized_chamber",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponFireIterationsSPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galvanized Chamber",
+      "description": "+80% Multishot\nOn Kill:\n+30% Multishot for 20s. Stacks up to 5x.",
+      "wikiLink": "https://wiki.warframe.com/w/Galvanized_Chamber",
+      "icon": "items/images/en/galvanized_chamber.d33b025e74a9afe9a90404ec8308df63.png",
+      "thumb": "items/images/en/thumbs/galvanized_chamber.d33b025e74a9afe9a90404ec8308df63.128x128.png"
+    }
+  }
+}

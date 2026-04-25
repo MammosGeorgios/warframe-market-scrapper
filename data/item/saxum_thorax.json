@@ -1,0 +1,23 @@
+{
+  "id": "5f498a1e9426ed00443bd092",
+  "slug": "saxum_thorax",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Femur/FemurThoraxMod",
+  "tags": [
+    "mod",
+    "common",
+    "melee"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Saxum Thorax",
+      "description": "+90% Impact\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Saxum_Thorax",
+      "icon": "items/images/en/saxum_thorax.de51f81c238742fa68f02341888bce31.png",
+      "thumb": "items/images/en/thumbs/saxum_thorax.de51f81c238742fa68f02341888bce31.128x128.png"
+    }
+  }
+}

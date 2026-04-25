@@ -1,0 +1,25 @@
+{
+  "id": "56dac5a85cc639de0a45c525",
+  "slug": "skull_shots",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/ViperUnlimitedAmmo",
+  "tags": [
+    "pvp",
+    "viper",
+    "rare",
+    "mod",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Skull Shots",
+      "description": "On Headshot:\n+100% Ammo Efficiency for 2s",
+      "wikiLink": "https://wiki.warframe.com/w/Skull_Shots",
+      "icon": "items/images/en/skull_shots_(viper).b6e5631fe9ba10e002354a889629234a.png",
+      "thumb": "items/images/en/thumbs/skull_shots_(viper).b6e5631fe9ba10e002354a889629234a.128x128.png"
+    }
+  }
+}

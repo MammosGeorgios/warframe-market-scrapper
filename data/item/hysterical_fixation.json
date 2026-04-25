@@ -1,0 +1,25 @@
+{
+  "id": "5615432bb66f8371035bfa27",
+  "slug": "hysterical_fixation",
+  "gameRef": "/Lotus/Powersuits/Berserker/LastStandPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "valkyr",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hysterical Fixation",
+      "description": "Hysteria Augment: While Hysteria is active, each kill restores 20% Maximum Shields.",
+      "wikiLink": "https://wiki.warframe.com/w/Hysterical_Fixation",
+      "icon": "items/images/en/hysterical_fixation.ee66a28ce6af173f246b554544b1121f.png",
+      "thumb": "items/images/en/thumbs/hysterical_fixation.ee66a28ce6af173f246b554544b1121f.128x128.png"
+    }
+  }
+}

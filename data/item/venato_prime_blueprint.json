@@ -1,0 +1,32 @@
+{
+  "id": "68add0fa731e63abe79a5d1c",
+  "slug": "venato_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/VentoPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "melee",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "68add0fa731e63abe79a5d1d",
+    "68add0fa731e63abe79a5d1c",
+    "68add0fa731e63abe79a5d1e",
+    "68add0fa731e63abe79a5d1b"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Venato Prime Blueprint",
+      "description": "Fashioned from the willingly donated bone of the Sentient Ur-Hatho and embellished by Orokin luxurator Sembik Vol, Venato Prime was to be wielded against “common enemies” of the united peoples – had any ever emerged from the darkness beyond Tau.",
+      "icon": "items/unknown.png",
+      "thumb": "",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

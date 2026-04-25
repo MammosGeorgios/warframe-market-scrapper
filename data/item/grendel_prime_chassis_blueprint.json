@@ -1,0 +1,34 @@
+{
+  "id": "653060f332327ba8746da747",
+  "slug": "grendel_prime_chassis_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeChassisBlueprint",
+  "tags": [
+    "prime",
+    "component",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "653060f332327ba8746da745",
+    "653060f332327ba8746da747",
+    "653060f332327ba8746da746",
+    "653060f332327ba8746da744",
+    "653060f332327ba8746da748"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Grendel Prime Chassis Blueprint",
+      "description": "Chassis component of the Grendel Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Grendel_Prime",
+      "icon": "items/images/en/grendel_prime_chassis_blueprint.c684407cdaea9bef16f0c7aa97c74369.png",
+      "thumb": "items/images/en/thumbs/grendel_prime_chassis_blueprint.c684407cdaea9bef16f0c7aa97c74369.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_chassis_128x128.png"
+    }
+  }
+}

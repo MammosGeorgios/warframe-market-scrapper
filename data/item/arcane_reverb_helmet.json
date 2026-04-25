@@ -1,0 +1,20 @@
+{
+  "id": "54aaf284e77989627dc20627",
+  "slug": "arcane_reverb_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmet",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Reverb Helmet",
+      "description": "This helmet is worn by Banshee, and grants Max Energy Boost, with a reduction to Health.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Banshee_Reverb_Helmet",
+      "icon": "items/images/en/arcane_reverb_banshee_helmet.c543a6ee57a307736eb58cb31df74935.png",
+      "thumb": "items/images/en/thumbs/arcane_reverb_banshee_helmet.c543a6ee57a307736eb58cb31df74935.128x128.png"
+    }
+  }
+}

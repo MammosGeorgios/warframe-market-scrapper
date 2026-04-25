@@ -1,0 +1,30 @@
+{
+  "id": "582b0f850af25410b099f7f9",
+  "slug": "fluctus_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow",
+  "tags": [
+    "weapon",
+    "set",
+    "primary",
+    "archwing"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "582b0f850af25410b099f7f9",
+    "5783bf15d9b6753790c89e8b",
+    "5783bf1ad9b6753790c89e8c",
+    "5783bf20d9b6753790c89e8d"
+  ],
+  "reqMasteryRank": 2,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fluctus Set",
+      "description": "An Archwing energy weapon that sends waves of deadly plasma crashing into enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Fluctus",
+      "icon": "items/images/en/fluctus_set.764b2148dde0c8969f748d6e0b80f957.png",
+      "thumb": "items/images/en/thumbs/fluctus_set.764b2148dde0c8969f748d6e0b80f957.128x128.png"
+    }
+  }
+}

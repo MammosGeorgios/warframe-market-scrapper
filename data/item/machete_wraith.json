@@ -1,0 +1,21 @@
+{
+  "id": "56153f3bb66f83707da7eef9",
+  "slug": "machete_wraith",
+  "gameRef": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon",
+  "tags": [
+    "weapon",
+    "melee"
+  ],
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Machete Wraith",
+      "description": "A different take on a familiar combat knife, the Machete Wraith features unique styling.",
+      "wikiLink": "https://wiki.warframe.com/w/Machete_Wraith",
+      "icon": "items/images/en/machete_wraith.6d6dc37e4b72f552963591b652dbd5f9.png",
+      "thumb": "items/images/en/thumbs/machete_wraith.6d6dc37e4b72f552963591b652dbd5f9.128x128.png"
+    }
+  }
+}

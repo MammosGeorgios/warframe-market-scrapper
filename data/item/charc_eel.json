@@ -1,0 +1,25 @@
+{
+  "id": "6054de6c5221e3005750107b",
+  "slug": "charc_eel",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Charc Eel",
+      "description": "Discharges electricity from luminous glands along its flanks to stun its prey.",
+      "wikiLink": "https://wiki.warframe.com/w/Charc_Eel",
+      "icon": "items/images/en/charc_eel.41e212b6fe01e186d698fdbf459356ff.png",
+      "thumb": "items/images/en/thumbs/charc_eel.41e212b6fe01e186d698fdbf459356ff.128x128.png"
+    }
+  }
+}

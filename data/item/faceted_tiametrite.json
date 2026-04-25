@@ -1,0 +1,20 @@
+{
+  "id": "5f498a209426ed00443bd0a3",
+  "slug": "faceted_tiametrite",
+  "gameRef": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemACutItem",
+  "tags": [
+    "gem"
+  ],
+  "bulkTradable": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Faceted Tiametrite",
+      "description": "Refined purity freed from the Infested mass. Blueprint sold by Otak in the Necralisk on Deimos.",
+      "wikiLink": "https://wiki.warframe.com/w/Faceted_Tiametrite",
+      "icon": "items/images/en/faceted_tiametrite.aa463bcd1c7e977a29a8cd586a8d3e9f.png",
+      "thumb": "items/images/en/thumbs/faceted_tiametrite.aa463bcd1c7e977a29a8cd586a8d3e9f.128x128.png"
+    }
+  }
+}

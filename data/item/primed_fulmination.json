@@ -1,0 +1,24 @@
+{
+  "id": "5fca4b457bfda40043597ee9",
+  "slug": "primed_fulmination",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/AmbulasEvent/Expert/SecondaryExplosionRadiusModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Fulmination",
+      "description": "Improves the Blast Radius of weapons with Radial Attacks. +44% Blast Range",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Fulmination",
+      "icon": "items/images/en/primed_fulmination.fc3edbbe1b507a08c07859846921d94e.png",
+      "thumb": "items/images/en/thumbs/primed_fulmination.fc3edbbe1b507a08c07859846921d94e.128x128.png"
+    }
+  }
+}

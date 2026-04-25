@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515642",
+  "slug": "continuity",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarAbilityDurationMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Continuity",
+      "description": "+30% Ability Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Continuity",
+      "icon": "items/images/en/continuity.c8f4628b5ad77db5bee66f587e6a1b96.png",
+      "thumb": "items/images/en/thumbs/continuity.c8f4628b5ad77db5bee66f587e6a1b96.128x128.png"
+    }
+  }
+}

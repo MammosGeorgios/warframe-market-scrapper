@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155db",
+  "slug": "vile_acceleration",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedFireRateDamageRifle",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vile Acceleration",
+      "description": "+90% Fire Rate (x2 for Bows)\n-15% Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Vile_Acceleration",
+      "icon": "items/images/en/vile_acceleration.099e12a749ebb259d6cf079c8608297f.png",
+      "thumb": "items/images/en/thumbs/vile_acceleration.099e12a749ebb259d6cf079c8608297f.128x128.png"
+    }
+  }
+}

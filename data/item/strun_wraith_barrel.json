@@ -1,0 +1,31 @@
+{
+  "id": "56aba2f38d6d183da42403bf",
+  "slug": "strun_wraith_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/StrunWraithBarrel",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "56aba2f38d6d183da42403bf",
+    "56aba2e88d6d183da42403be",
+    "56aba2f78d6d183da42403c0",
+    "56aba3108d6d183da42403c2",
+    "56aba30b8d6d183da42403c1"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Strun Wraith Barrel",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Strun_Wraith",
+      "icon": "items/images/en/strun_wraith_barrel.0ef693321b08beb361c5a654663ecf32.png",
+      "thumb": "items/images/en/thumbs/strun_wraith_barrel.0ef693321b08beb361c5a654663ecf32.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_barrel_128x128.png"
+    }
+  }
+}

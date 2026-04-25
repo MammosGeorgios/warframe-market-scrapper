@@ -1,0 +1,19 @@
+{
+  "id": "54d4c727e77989281cc7d753",
+  "slug": "mutalist_alad_v_assassinate_key",
+  "gameRef": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
+  "tags": [
+    "key"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mutalist Alad V Assassinate (Key)",
+      "description": "Put an end to Alad V and his Mutalist experiments",
+      "wikiLink": "https://wiki.warframe.com/w/Mutalist_Alad_V_Assassinate_Key",
+      "icon": "items/images/en/mutalist_alad_v_assassinate_key.7540fb6d7ef2b2843352e32c9ff64e73.png",
+      "thumb": "items/images/en/thumbs/mutalist_alad_v_assassinate_key.7540fb6d7ef2b2843352e32c9ff64e73.128x128.png"
+    }
+  }
+}

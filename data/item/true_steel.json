@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515673",
+  "slug": "true_steel",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponCritChanceMod",
+  "tags": [
+    "mod",
+    "melee",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "True Steel",
+      "description": "+120% Critical Chance (x2 for Heavy Attacks)",
+      "wikiLink": "https://wiki.warframe.com/w/True_Steel",
+      "icon": "items/images/en/true_steel.56d021e0c096dadd750bdb11955f5ee7.png",
+      "thumb": "items/images/en/thumbs/true_steel.56d021e0c096dadd750bdb11955f5ee7.128x128.png"
+    }
+  }
+}

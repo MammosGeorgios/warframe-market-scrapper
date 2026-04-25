@@ -1,0 +1,32 @@
+{
+  "id": "5bebf1713ffcc704caf38cf6",
+  "slug": "akvasto_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/AkvastoPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "secondary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5bebf1713ffcc704caf38cf6",
+    "5bebf1713ffcc704caf38cf7",
+    "5bebf1713ffcc704caf38cf4"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akvasto Prime Blueprint",
+      "description": "Orokin craftsmanship married with superior firepower. Dual Vastos, primed and ready to strike.",
+      "wikiLink": "https://wiki.warframe.com/w/Akvasto_Prime",
+      "icon": "items/images/en/akvasto_prime_blueprint.029887bbd387510ffec1debd81f65dab.png",
+      "thumb": "items/images/en/thumbs/akvasto_prime_blueprint.029887bbd387510ffec1debd81f65dab.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

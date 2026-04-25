@@ -1,0 +1,24 @@
+{
+  "id": "5e7caa02267539063de48c40",
+  "slug": "energizing_shot",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/ShootPickUpPistolMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "pistol_(no_aoe)"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Energizing Shot",
+      "description": "Shoot Energy Orbs to obtain them with +110% extra effect.",
+      "wikiLink": "https://wiki.warframe.com/w/Energizing_Shot",
+      "icon": "items/images/en/energizing_shot.8e0c1b01dba24357b770fe970d57c459.png",
+      "thumb": "items/images/en/thumbs/energizing_shot.8e0c1b01dba24357b770fe970d57c459.128x128.png"
+    }
+  }
+}

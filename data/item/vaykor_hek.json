@@ -1,0 +1,22 @@
+{
+  "id": "55e797c8e779892474566543",
+  "slug": "vaykor_hek",
+  "gameRef": "/Lotus/Weapons/Syndicates/SteelMeridian/LongGuns/SMHek",
+  "tags": [
+    "syndicate",
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vaykor Hek",
+      "description": "Forged in the fires of rebel struggle, this shotgun is a force for liberation.",
+      "wikiLink": "https://wiki.warframe.com/w/Vaykor_Hek",
+      "icon": "items/images/en/vaykor_hek.2276a61ab8713d1b35e651db67402ca9.png",
+      "thumb": "items/images/en/thumbs/vaykor_hek.2276a61ab8713d1b35e651db67402ca9.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "59f38f588c202c007335ba68",
+  "slug": "fateful_truth",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPKatanaStanceOne",
+  "tags": [
+    "pvp",
+    "uncommon",
+    "stance",
+    "nikanas",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fateful Truth",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Fateful_Truth",
+      "icon": "items/images/en/fateful_truth.7676a4b419b615a0f254bb7324b5f206.png",
+      "thumb": "items/images/en/thumbs/fateful_truth.7676a4b419b615a0f254bb7324b5f206.128x128.png"
+    }
+  }
+}

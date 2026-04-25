@@ -1,0 +1,30 @@
+{
+  "id": "63ee00fc10125411da49e6e6",
+  "slug": "corufell_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/GunScytheReceiver",
+  "tags": [
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "63ee010010125411da49e6ff",
+    "63ee00fe10125411da49e6f2",
+    "63ee00fc10125411da49e6e6",
+    "63ee00fe10125411da49e6f1"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Corufell Receiver",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Corufell",
+      "icon": "items/images/en/corufell_receiver.784286cecaf71b494449fa3fa721c641.png",
+      "thumb": "items/images/en/thumbs/corufell_receiver.784286cecaf71b494449fa3fa721c641.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

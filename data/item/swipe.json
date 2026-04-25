@@ -1,0 +1,24 @@
+{
+  "id": "57b4e5486f6b2fda8ea6caa1",
+  "slug": "swipe",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowSwipePrecept",
+  "tags": [
+    "mod",
+    "uncommon",
+    "melee",
+    "kavat_claws"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Swipe",
+      "description": "Strikes 4 additional enemies and increases Attack Range by 2m.",
+      "wikiLink": "https://wiki.warframe.com/w/Swipe",
+      "icon": "items/images/en/swipe.9cd13bf445a46803ff0439d6333f49d9.png",
+      "thumb": "items/images/en/thumbs/swipe.9cd13bf445a46803ff0439d6333f49d9.128x128.png"
+    }
+  }
+}

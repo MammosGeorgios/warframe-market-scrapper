@@ -1,0 +1,25 @@
+{
+  "id": "5adf872a931bcf00574adc14",
+  "slug": "peculiar_bloom",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Peculiars/FlowerPowerMod",
+  "tags": [
+    "mod",
+    "peculiar",
+    "arcane_enhancement",
+    "warframe"
+  ],
+  "rarity": "peculiar",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Peculiar Bloom",
+      "description": "Critical hits cause flowers to grow from the wounds.",
+      "wikiLink": "https://wiki.warframe.com/w/Peculiar_Bloom",
+      "icon": "items/images/en/peculiar_bloom.835675287908be4212f4765014b2f6bd.png",
+      "thumb": "items/images/en/thumbs/peculiar_bloom.835675287908be4212f4765014b2f6bd.128x128.png"
+    }
+  }
+}

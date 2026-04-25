@@ -1,0 +1,25 @@
+{
+  "id": "6054de675221e30057501073",
+  "slug": "kymaeros",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonCFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kymaeros",
+      "description": "The Infestation has suborned these fish to its own purposes, using them as antibodies to repel the non-Infested. They swim through and above the Exocrine found on Deimos’ surface.",
+      "wikiLink": "https://wiki.warframe.com/w/Kymaeros",
+      "icon": "items/images/en/kymaeros.0e3d7278b025ef71f33f3751f37b8df4.png",
+      "thumb": "items/images/en/thumbs/kymaeros.0e3d7278b025ef71f33f3751f37b8df4.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "675c61797b18977f6e645408",
+  "slug": "höllvanian_old_town_in_fall",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetStrencu",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Höllvanian Old Town In Fall Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/höllvanian_old_town_in_fall.344818cf886ef0e7aa674b4aee6de1dc.webp",
+      "thumb": "items/images/en/thumbs/höllvanian_old_town_in_fall.344818cf886ef0e7aa674b4aee6de1dc.128x128.webp"
+    }
+  }
+}

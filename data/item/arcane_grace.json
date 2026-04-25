@@ -1,0 +1,23 @@
+{
+  "id": "55a46a58e77989027c23b89c",
+  "slug": "arcane_grace",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/HealthRegenOnDamage",
+  "tags": [
+    "legendary",
+    "arcane_enhancement"
+  ],
+  "rarity": "legendary",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 2100000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Grace",
+      "description": "On Health Damaged:\n9% chance for +6% Health Regeneration/s for 9s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Grace",
+      "icon": "items/images/en/arcane_grace.3e4f746417d977c6ac5f2c9edd71ada0.png",
+      "thumb": "items/images/en/thumbs/arcane_grace.3e4f746417d977c6ac5f2c9edd71ada0.128x128.png"
+    }
+  }
+}

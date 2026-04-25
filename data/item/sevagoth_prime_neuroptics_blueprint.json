@@ -1,0 +1,34 @@
+{
+  "id": "66c6080366bbb2aedca6957d",
+  "slug": "sevagoth_prime_neuroptics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeHelmetBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "66c6080266bbb2aedca6957b",
+    "66c6080266bbb2aedca6957c",
+    "66c6080366bbb2aedca6957e",
+    "66c6080366bbb2aedca6957d",
+    "66c6080366bbb2aedca6957f"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sevagoth Prime Neuroptics Blueprint",
+      "description": "Neuroptics component of the Sevagoth Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Sevagoth_Prime",
+      "icon": "items/images/en/sevagoth_prime_neuroptics_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/sevagoth_prime_neuroptics_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+      "subIcon": "sub_icons/warframe/prime_helmet_128x128.png"
+    }
+  }
+}

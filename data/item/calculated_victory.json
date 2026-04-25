@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4ce",
+  "slug": "calculated_victory",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/RestoreShieldsOnKillMod",
+  "tags": [
+    "secondary",
+    "pvp",
+    "rare",
+    "mod",
+    "pistol"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Calculated Victory",
+      "description": "On Kill:\n-100% Shield Recharge Delay for 10s\n-25% from Health Orbs",
+      "wikiLink": "https://wiki.warframe.com/w/Calculated_Victory",
+      "icon": "items/images/en/calculated_victory.81ed757051bacbeae81aab2e70e1a65a.png",
+      "thumb": "items/images/en/thumbs/calculated_victory.81ed757051bacbeae81aab2e70e1a65a.128x128.png"
+    }
+  }
+}

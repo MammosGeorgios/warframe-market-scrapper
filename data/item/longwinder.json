@@ -1,0 +1,25 @@
+{
+  "id": "6054dea55221e30057501094",
+  "slug": "longwinder",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/SolarisWarmRareFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Longwinder",
+      "description": "Repairs leaks and clear blockages within the aqua systems. It can be found in the lake on Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Longwinder",
+      "icon": "items/images/en/longwinder.4c808577089eadb98dcb9dddd73445da.png",
+      "thumb": "items/images/en/thumbs/longwinder.4c808577089eadb98dcb9dddd73445da.128x128.png"
+    }
+  }
+}

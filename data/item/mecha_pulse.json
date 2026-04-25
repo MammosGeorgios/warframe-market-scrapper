@@ -1,0 +1,23 @@
+{
+  "id": "5be4b0a53ffcc703294e76b7",
+  "slug": "mecha_pulse",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Mecha/WarframeMechaPulseMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mecha Pulse",
+      "description": "Killing a Marked Enemy grants +60% Armor for 20s for each enemy within 30m.",
+      "wikiLink": "https://wiki.warframe.com/w/Mecha_Pulse",
+      "icon": "items/images/en/mecha_pulse.ef4fbfb1218faa280cece59aa493f4f8.png",
+      "thumb": "items/images/en/thumbs/mecha_pulse.ef4fbfb1218faa280cece59aa493f4f8.128x128.png"
+    }
+  }
+}

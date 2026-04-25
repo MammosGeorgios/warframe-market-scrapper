@@ -1,0 +1,23 @@
+{
+  "id": "626a197af40db600660a1d83",
+  "slug": "eternal_eradicate",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/OperatorOnOperatorAbilityIncreaseDamage",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Eternal Eradicate",
+      "description": "On Operator Ability:\n+60% Damage to Amps for 8s",
+      "wikiLink": "https://wiki.warframe.com/w/Eternal_Eradicate",
+      "icon": "items/images/en/eternal_eradicate.75f8c32b70d1fa1fc211942ce7c3119e.png",
+      "thumb": "items/images/en/thumbs/eternal_eradicate.75f8c32b70d1fa1fc211942ce7c3119e.128x128.png"
+    }
+  }
+}

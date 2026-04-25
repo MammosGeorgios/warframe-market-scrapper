@@ -1,0 +1,19 @@
+{
+  "id": "645ba2a67ec1900802a58a46",
+  "slug": "teshins_cave_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriTeshinsCave",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Teshin's Cave Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/teshins_cave_scene.45ae9de5d7625f6164ceea64fa009f83.png",
+      "thumb": "items/images/en/thumbs/teshins_cave_scene.45ae9de5d7625f6164ceea64fa009f83.128x128.png"
+    }
+  }
+}

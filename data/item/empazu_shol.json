@@ -1,0 +1,22 @@
+{
+  "id": "693e660b03903ae8993ffaf0",
+  "slug": "empazu_shol",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/UltimateInitialChargeSchools",
+  "tags": [
+    "mod",
+    "rare",
+    "any"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Empazu-Shol",
+      "description": "+12% Tauron Strike Initial Charge.\n+2% bonus for each Mod from a unique School",
+      "icon": "items/images/en/empazu_shol.6043bd6b8c9b40dd3bf6aa9b0cc0cc50.webp",
+      "thumb": "items/images/en/thumbs/empazu_shol.6043bd6b8c9b40dd3bf6aa9b0cc0cc50.128x128.webp"
+    }
+  }
+}

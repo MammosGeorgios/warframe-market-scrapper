@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515626",
+  "slug": "crimson_dervish",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "swords"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Crimson Dervish",
+      "description": "Strong whirlwind attacks.",
+      "wikiLink": "https://wiki.warframe.com/w/Crimson_Dervish",
+      "icon": "items/images/en/crimson_dervish.cbdbd8ebb0221bf67f7aacd3fa52ed7f.png",
+      "thumb": "items/images/en/thumbs/crimson_dervish.cbdbd8ebb0221bf67f7aacd3fa52ed7f.128x128.png"
+    }
+  }
+}

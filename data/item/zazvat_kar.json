@@ -1,0 +1,24 @@
+{
+  "id": "5f4ed3f6d5c36d0086f55b05",
+  "slug": "zazvat_kar",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/AkstilettoEfficiencyWhileAirborneMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "akstiletto_prime"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zazvat-Kar",
+      "description": "+75% Ammo Efficiency while Airborne",
+      "wikiLink": "https://wiki.warframe.com/w/Zazvat-Kar",
+      "icon": "items/images/en/zazvat_kar.6fb7481187c9e006985e7bcfa4a6e6d0.png",
+      "thumb": "items/images/en/thumbs/zazvat_kar.6fb7481187c9e006985e7bcfa4a6e6d0.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5c1bda1514a8e4006b1dad86",
+  "slug": "strain_eruption",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Strain/HelminthStrainEruptionMod",
+  "tags": [
+    "mod",
+    "rare",
+    "helminth charger",
+    "helminth_charger"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Strain Eruption",
+      "description": "Maggots explode on death, dealing 4% of an enemy's current Health as Corrosive Damage to any enemy within 8m.",
+      "wikiLink": "https://wiki.warframe.com/w/Strain_Eruption",
+      "icon": "items/images/en/strain_eruption.adb0c475cb76b9495bfbdf02ff96b160.png",
+      "thumb": "items/images/en/thumbs/strain_eruption.adb0c475cb76b9495bfbdf02ff96b160.128x128.png"
+    }
+  }
+}

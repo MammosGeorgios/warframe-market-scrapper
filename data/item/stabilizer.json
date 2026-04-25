@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156de",
+  "slug": "stabilizer",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponRecoilReductionMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stabilizer",
+      "description": "-60% Weapon Recoil",
+      "wikiLink": "https://wiki.warframe.com/w/Stabilizer",
+      "icon": "items/images/en/stabilizer.a31ad68e7d65e2e209c966fac3d5a6d1.png",
+      "thumb": "items/images/en/thumbs/stabilizer.a31ad68e7d65e2e209c966fac3d5a6d1.128x128.png"
+    }
+  }
+}

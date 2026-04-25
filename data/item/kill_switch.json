@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a516",
+  "slug": "kill_switch",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/FasterReloadOnKillShotgunMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "shotgun",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kill Switch",
+      "description": "On Kill:\n+50% Reload Speed for 3s",
+      "wikiLink": "https://wiki.warframe.com/w/Kill_Switch",
+      "icon": "items/images/en/kill_switch.96ca67221bbb27cb0da2566ac276b735.png",
+      "thumb": "items/images/en/thumbs/kill_switch.96ca67221bbb27cb0da2566ac276b735.128x128.png"
+    }
+  }
+}

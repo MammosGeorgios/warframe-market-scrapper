@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a504",
+  "slug": "adrenaline_boost",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreEnergyLessHealthMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Adrenaline Boost",
+      "description": "+50% Energy\n-20% Health",
+      "wikiLink": "https://wiki.warframe.com/w/Adrenaline_Boost",
+      "icon": "items/images/en/adrenaline_boost.d0b54aa1b828e5d35467055a35d357e2.png",
+      "thumb": "items/images/en/thumbs/adrenaline_boost.d0b54aa1b828e5d35467055a35d357e2.128x128.png"
+    }
+  }
+}

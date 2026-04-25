@@ -1,0 +1,25 @@
+{
+  "id": "5ada1ab4b2b6a80bb33793f6",
+  "slug": "energy_transfer",
+  "gameRef": "/Lotus/Powersuits/YinYang/YinYangBurstAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "equinox"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Energy Transfer",
+      "description": "Mend & Maim Augment: 100% of charge is conserved when switching between forms.",
+      "wikiLink": "https://wiki.warframe.com/w/Energy_Transfer",
+      "icon": "items/images/en/energy_transfer.af31c7a3333fd9b17ac2f266fe39216b.png",
+      "thumb": "items/images/en/thumbs/energy_transfer.af31c7a3333fd9b17ac2f266fe39216b.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "69d67750b3984cc97e241759",
+  "slug": "sarofang_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/SarofangPrimeBlueprint",
+  "tags": [
+    "melee",
+    "weapon",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "69d67751b3984cc97e24175a",
+    "69d67750b3984cc97e241759",
+    "69d67752b3984cc97e24175b",
+    "69d6774fb3984cc97e241758"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 16,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sarofang Prime Blueprint",
+      "description": "Voruna Prime's signature axe is adorned with Orokin gold. She personally ensured that the former owners would have no further use for it.",
+      "icon": "items/images/en/sarofang_prime_blueprint.fbbab9117b49d01d099fd937219c9749.webp",
+      "thumb": "items/images/en/thumbs/sarofang_prime_blueprint.fbbab9117b49d01d099fd937219c9749.128x128.webp",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

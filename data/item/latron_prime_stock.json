@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff4c",
+  "slug": "latron_prime_stock",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatronPrimeStock",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff49",
+    "54a73e65e779893a797fff4a",
+    "54a73e65e779893a797fff4b",
+    "56783f24cbfa8f0432dd89a1",
+    "54a73e65e779893a797fff4c"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Latron Prime Stock",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Latron_Prime",
+      "icon": "items/images/en/latron_prime_stock.5c8b8009acbdb97fd49177ba155ecfbe.png",
+      "thumb": "items/images/en/thumbs/latron_prime_stock.5c8b8009acbdb97fd49177ba155ecfbe.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_stock_128x128.png"
+    }
+  }
+}

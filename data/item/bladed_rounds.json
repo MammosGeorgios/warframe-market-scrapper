@@ -1,0 +1,24 @@
+{
+  "id": "56a7b2851133f656cb085d8d",
+  "slug": "bladed_rounds",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/CritDamageWhileAimingRifleMod",
+  "tags": [
+    "rifle",
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Bladed Rounds",
+      "description": "On Kill:\n+120% Critical Damage when Aiming for 9s",
+      "wikiLink": "https://warframe.fandom.com/wiki/Bladed_Rounds",
+      "icon": "items/images/en/bladed_rounds.ef8baaa32b793cfea6ede28f48ec2dd9.png",
+      "thumb": "items/images/en/thumbs/bladed_rounds.ef8baaa32b793cfea6ede28f48ec2dd9.128x128.png"
+    }
+  }
+}

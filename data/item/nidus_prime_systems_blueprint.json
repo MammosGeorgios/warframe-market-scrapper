@@ -1,0 +1,34 @@
+{
+  "id": "6139101a30dd5b004b7f90a8",
+  "slug": "nidus_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeSystemsBlueprint",
+  "tags": [
+    "blueprint",
+    "component",
+    "warframe",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6139101830dd5b004b7f9093",
+    "6139101a30dd5b004b7f90ad",
+    "6139101a30dd5b004b7f90ac",
+    "6139101930dd5b004b7f909e",
+    "6139101a30dd5b004b7f90a8"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nidus Prime Systems Blueprint",
+      "description": "Systems component of the Nidus Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Nidus_Prime",
+      "icon": "items/images/en/nidus_prime_systems.1cf479b37c98ce42340156c9c005e91e.png",
+      "thumb": "items/images/en/thumbs/nidus_prime_systems.1cf479b37c98ce42340156c9c005e91e.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

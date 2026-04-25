@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156b5",
+  "slug": "voltaic_strike",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/DualStat/ElectEventMeleeMod",
+  "tags": [
+    "mod",
+    "melee",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Voltaic Strike",
+      "description": "+60% Electricity\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Voltaic_Strike",
+      "icon": "items/images/en/voltaic_strike.20c6b446182f406f4d6df6f4844db7fb.png",
+      "thumb": "items/images/en/thumbs/voltaic_strike.20c6b446182f406f4d6df6f4844db7fb.128x128.png"
+    }
+  }
+}

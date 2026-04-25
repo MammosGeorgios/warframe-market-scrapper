@@ -1,0 +1,23 @@
+{
+  "id": "57b4e5486f6b2fda8ea6caa3",
+  "slug": "sharpened_claws",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowShredPrecept",
+  "tags": [
+    "mod",
+    "kavat",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sharpened Claws",
+      "description": "A vicious attack dealing 300% damage that sunders armor by 120% and rends flesh.",
+      "wikiLink": "https://wiki.warframe.com/w/Sharpened_Claws",
+      "icon": "items/images/en/sharpened_claws.52d84f002b93e89569ee95d885e585c9.png",
+      "thumb": "items/images/en/thumbs/sharpened_claws.52d84f002b93e89569ee95d885e585c9.128x128.png"
+    }
+  }
+}

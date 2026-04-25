@@ -1,0 +1,32 @@
+{
+  "id": "54a73e65e779893a797fff65",
+  "slug": "vasto_prime_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/VastoPrimeBarrel",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff65",
+    "54a73e65e779893a797fff66",
+    "54a73e65e779893a797fff67",
+    "56783f24cbfa8f0432dd89b0"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vasto Prime Barrel",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Vasto_Prime",
+      "icon": "items/images/en/vasto_prime_barrel.213e4b3b9b3be0f4facb77fd5242b6a4.png",
+      "thumb": "items/images/en/thumbs/vasto_prime_barrel.213e4b3b9b3be0f4facb77fd5242b6a4.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
+    }
+  }
+}

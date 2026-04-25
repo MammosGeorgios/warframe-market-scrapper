@@ -1,0 +1,22 @@
+{
+  "id": "657af5ac21646e595134f5cf",
+  "slug": "disciplines_merit",
+  "gameRef": "/Lotus/Upgrades/EmpoweredHeavyMelee/CertainStrike",
+  "tags": [
+    "mod",
+    "rare",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Discipline's Merit",
+      "description": "Enables Tennokai. Opportunities occur every 4 melee hits instead of at random.",
+      "icon": "items/images/en/disciplines_merit.41f5604d68000956bb277a3e6858107f.png",
+      "thumb": "items/images/en/thumbs/disciplines_merit.41f5604d68000956bb277a3e6858107f.128x128.png"
+    }
+  }
+}

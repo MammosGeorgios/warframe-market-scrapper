@@ -1,0 +1,25 @@
+{
+  "id": "5783908fd9b6753790c89e80",
+  "slug": "afterburner",
+  "gameRef": "/Lotus/Powersuits/Archwing/DemolitionJetPack/ExhaustTrailAugmentCard",
+  "tags": [
+    "mod",
+    "archwing",
+    "elytron",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Afterburner",
+      "description": "Core Vent Augment: Blast Damage ignites exhaust fumes for 12s. Enemies passing through the flames take 500 Heat Damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Afterburner",
+      "icon": "items/images/en/afterburner.755307558060af227fdb36ba72d805e9.png",
+      "thumb": "items/images/en/thumbs/afterburner.755307558060af227fdb36ba72d805e9.128x128.png"
+    }
+  }
+}

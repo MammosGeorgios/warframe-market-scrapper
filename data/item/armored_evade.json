@@ -1,0 +1,24 @@
+{
+  "id": "568c177fc221c673bc088845",
+  "slug": "armored_evade",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/DamageResistanceLessSlide",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Armored Evade",
+      "description": "+40% Damage Resistance while Dodging\n-10% Mobility",
+      "wikiLink": "https://warframe.fandom.com/wiki/Armored_Evade",
+      "icon": "items/images/en/armored_evade.726f03c9e8f010cb3074d216fc1a68f2.png",
+      "thumb": "items/images/en/thumbs/armored_evade.726f03c9e8f010cb3074d216fc1a68f2.128x128.png"
+    }
+  }
+}

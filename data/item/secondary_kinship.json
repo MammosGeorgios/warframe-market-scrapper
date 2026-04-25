@@ -1,0 +1,23 @@
+{
+  "id": "63ee00fe10125411da49e6f5",
+  "slug": "secondary_kinship",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryCritChancePerBuff",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secondary Kinship",
+      "description": "While Buffing Ally Warframes: +20% Critical Chance per buff",
+      "wikiLink": "https://wiki.warframe.com/w/Secondary_Kinship",
+      "icon": "items/images/en/secondary_kinship.43ae6eafe467db9484220ac71028362d.png",
+      "thumb": "items/images/en/thumbs/secondary_kinship.43ae6eafe467db9484220ac71028362d.128x128.png"
+    }
+  }
+}

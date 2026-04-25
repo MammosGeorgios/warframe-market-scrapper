@@ -1,0 +1,23 @@
+{
+  "id": "5655c4e5b66f832e25b8ce7b",
+  "slug": "primed_morphic_transformer",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Expert/ArchwingSuitAbilityStrengthModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "archwing"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Morphic Transformer",
+      "description": "+55% Ability Strength",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Morphic_Transformer",
+      "icon": "items/images/en/primed_morphic_transformer.d9aafc2cca4aed29c725c5b131874ffe.png",
+      "thumb": "items/images/en/thumbs/primed_morphic_transformer.d9aafc2cca4aed29c725c5b131874ffe.128x128.png"
+    }
+  }
+}

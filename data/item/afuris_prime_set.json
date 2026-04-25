@@ -1,0 +1,32 @@
+{
+  "id": "639a941c74b02f008887784c",
+  "slug": "afuris_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeAfuris/PrimeAFurisWeapon",
+  "tags": [
+    "prime",
+    "secondary",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "639a941c74b02f008887784b",
+    "639a941d74b02f008887784f",
+    "639a941d74b02f008887784d",
+    "639a941e74b02f0088877853",
+    "639a941c74b02f008887784c"
+  ],
+  "ducats": 290,
+  "reqMasteryRank": 12,
+  "tradingTax": 12000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Afuris Prime Set",
+      "description": "Vanquish chaos with dual firepower.",
+      "wikiLink": "https://wiki.warframe.com/w/Afuris_Prime",
+      "icon": "items/images/en/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.png",
+      "thumb": "items/images/en/thumbs/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.128x128.png"
+    }
+  }
+}

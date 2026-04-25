@@ -1,0 +1,30 @@
+{
+  "id": "582b0f890af25410b099f7ff",
+  "slug": "corvas_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon",
+  "tags": [
+    "weapon",
+    "set",
+    "primary",
+    "archwing"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "578d33bf34003bbbb9e20921",
+    "578d33bf34003bbbb9e20922",
+    "582b0f890af25410b099f7ff",
+    "578d33bf34003bbbb9e20923"
+  ],
+  "reqMasteryRank": 1,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Corvas Set",
+      "description": "When fully charged, this flak-cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors.",
+      "wikiLink": "https://wiki.warframe.com/w/Corvas",
+      "icon": "items/images/en/corvas_set.0248b2ad006d7ad6a460cc03eac4baa7.png",
+      "thumb": "items/images/en/thumbs/corvas_set.0248b2ad006d7ad6a460cc03eac4baa7.128x128.png"
+    }
+  }
+}

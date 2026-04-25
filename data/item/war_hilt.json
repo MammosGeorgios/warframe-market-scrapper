@@ -1,0 +1,29 @@
+{
+  "id": "56fdbd5d2e26966de716e432",
+  "slug": "war_hilt",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/WarHilt",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "582b0eb80af25410a4931616",
+    "56fdbd6c2e26966de716e433",
+    "56fdbd5d2e26966de716e432"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "War Hilt",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/War",
+      "icon": "items/images/en/war_hilt.79aea5cde8a32f0cdb77bc19b5d1e9a5.png",
+      "thumb": "items/images/en/thumbs/war_hilt.79aea5cde8a32f0cdb77bc19b5d1e9a5.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_hilt_128x128.png"
+    }
+  }
+}

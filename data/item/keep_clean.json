@@ -1,0 +1,22 @@
+{
+  "id": "67db60119cec3e52e62523e4",
+  "slug": "keep_clean",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/AntivirusFourMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Keep-Clean",
+      "description": "There's no Clean like Keep-Clean",
+      "icon": "items/images/en/keep_clean.c35f41c7f373c6f6c3ef3d6614f4b3d3.webp",
+      "thumb": "items/images/en/thumbs/keep_clean.c35f41c7f373c6f6c3ef3d6614f4b3d3.128x128.webp"
+    }
+  }
+}

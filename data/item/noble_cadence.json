@@ -1,0 +1,25 @@
+{
+  "id": "5800c901c021d9dc0a9f891e",
+  "slug": "noble_cadence",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPHeavyBladeStanceOne",
+  "tags": [
+    "pvp",
+    "uncommon",
+    "stance",
+    "mod",
+    "heavy_blade"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Noble Cadence",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Noble_Cadence",
+      "icon": "items/images/en/noble_cadence.181a81c57ee312bbd781192b6369efb2.png",
+      "thumb": "items/images/en/thumbs/noble_cadence.181a81c57ee312bbd781192b6369efb2.128x128.png"
+    }
+  }
+}

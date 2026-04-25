@@ -1,0 +1,23 @@
+{
+  "id": "5f4ed3f2d5c36d0086f55afe",
+  "slug": "necramech_stretch",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityRangeMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "necramech"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Stretch",
+      "description": "+45% Ability Range",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Stretch",
+      "icon": "items/images/en/necramech_stretch.b9ce692c97d911a5124428cf359bbcd6.png",
+      "thumb": "items/images/en/thumbs/necramech_stretch.b9ce692c97d911a5124428cf359bbcd6.128x128.png"
+    }
+  }
+}

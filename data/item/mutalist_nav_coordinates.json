@@ -1,0 +1,18 @@
+{
+  "id": "54d4c752e77989282cc8b0a0",
+  "slug": "mutalist_nav_coordinates",
+  "gameRef": "",
+  "tags": [
+    "misc"
+  ],
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mutalist Alad V Nav Coordinate",
+      "description": "Nav Coordinates are Pickups similar to Energy orbs though darker and with a \"space\" effect inside. They can be commonly found inside storage containers and lockers on every level, inclusive of the Orokin Void or rarely be dropped by Eximi, Feral Kubrows, and Drahks. Five of them are required to craft each Orokin Derelict key, except Assassination keys.",
+      "wikiLink": "https://wiki.warframe.com/w/Mutalist_Alad_V_Nav_Coordinate",
+      "icon": "items/images/en/mutalist_nav_coordinates.15993c196cd1145c0c7ab083ca73b00d.webp",
+      "thumb": "items/images/en/thumbs/mutalist_nav_coordinates.15993c196cd1145c0c7ab083ca73b00d.128x128.webp"
+    }
+  }
+}

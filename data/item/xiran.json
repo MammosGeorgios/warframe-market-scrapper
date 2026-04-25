@@ -1,0 +1,23 @@
+{
+  "id": "645ba2a57ec1900802a58a45",
+  "slug": "xiran",
+  "gameRef": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishBItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Xiran",
+      "description": "The Golden Maw finds Xirans exceptionally delicious.",
+      "wikiLink": "https://wiki.warframe.com/w/Xiran",
+      "icon": "items/images/en/xiran.29027ac9267e9979b3e6cd14120c3c2c.png",
+      "thumb": "items/images/en/thumbs/xiran.29027ac9267e9979b3e6cd14120c3c2c.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5527a26de77989205156b2b7",
+  "slug": "odonata_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingBlueprint",
+  "tags": [
+    "archwing",
+    "blueprint",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5527a26de77989205156b2b7",
+    "5527a279e77989205639861f",
+    "56783f24cbfa8f0432dd89a7",
+    "5527a288e77989205f31e525",
+    "5527a280e779892059574ca9"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Odonata Prime Blueprint",
+      "description": "This enhanced version of the first Archwing prototype takes the design to its theoretical limits.",
+      "wikiLink": "https://wiki.warframe.com/w/Odonata_Prime",
+      "icon": "items/images/en/odonata_prime_blueprint.9087f5267b49dee37c38d36f57387753.png",
+      "thumb": "items/images/en/thumbs/odonata_prime_blueprint.9087f5267b49dee37c38d36f57387753.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

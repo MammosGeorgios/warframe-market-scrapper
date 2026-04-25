@@ -1,0 +1,32 @@
+{
+  "id": "68add07d731e63abe79a5d19",
+  "slug": "vadarya_prime_stock",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunStock",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "68add07d731e63abe79a5d17",
+    "68add07d731e63abe79a5d16",
+    "68add07d731e63abe79a5d18",
+    "68add07d731e63abe79a5d15",
+    "68add07d731e63abe79a5d19"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 15,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vadarya Prime Stock",
+      "description": "A prime weapon-crafting component.",
+      "icon": "items/unknown.png",
+      "thumb": "",
+      "subIcon": "sub_icons/weapon/prime_stock_128x128.png"
+    }
+  }
+}

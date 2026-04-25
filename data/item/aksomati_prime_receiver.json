@@ -1,0 +1,33 @@
+{
+  "id": "5df955131456970150510f26",
+  "slug": "aksomati_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AksomatiPrimeReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5df955141456970150510f2a",
+    "5df955141456970150510f28",
+    "5df955131456970150510f24",
+    "5df955131456970150510f26",
+    "5df955131456970150510f23"
+  ],
+  "quantityInSet": 2,
+  "ducats": 15,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Aksomati Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Aksomati_Prime",
+      "icon": "items/images/en/aksomati_prime_receiver.617fca3e38e6696ec87a6c28bd6bbebf.png",
+      "thumb": "items/images/en/thumbs/aksomati_prime_receiver.617fca3e38e6696ec87a6c28bd6bbebf.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

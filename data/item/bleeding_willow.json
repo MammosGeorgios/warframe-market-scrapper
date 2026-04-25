@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51566c",
+  "slug": "bleeding_willow",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "polearms"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Bleeding Willow",
+      "description": "A blend of strong and rapid strikes with leaping combos.",
+      "wikiLink": "https://wiki.warframe.com/w/Bleeding_Willow",
+      "icon": "items/images/en/bleeding_willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.png",
+      "thumb": "items/images/en/thumbs/bleeding_willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.128x128.png"
+    }
+  }
+}

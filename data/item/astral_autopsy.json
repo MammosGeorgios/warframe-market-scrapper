@@ -1,0 +1,24 @@
+{
+  "id": "588a789c3cf52c408a2f88dc",
+  "slug": "astral_autopsy",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeScanOnKillMod",
+  "tags": [
+    "rare",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Astral Autopsy",
+      "description": "Fatal strikes against an enemy also perform a Codex Scan. Scans require an equipped Codex Scanner and an available charge.",
+      "wikiLink": "https://wiki.warframe.com/w/Astral_Autopsy",
+      "icon": "items/images/en/astral_autopsy.82ebcf9eb4a7b94e04806f6fb9267f3f.png",
+      "thumb": "items/images/en/thumbs/astral_autopsy.82ebcf9eb4a7b94e04806f6fb9267f3f.128x128.png"
+    }
+  }
+}

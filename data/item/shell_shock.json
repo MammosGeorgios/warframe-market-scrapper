@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515638",
+  "slug": "shell_shock",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ElectEventShotgunMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shell Shock",
+      "description": "+60% Electricity\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Shell_Shock",
+      "icon": "items/images/en/shell_shock.35bf2750cb8660baea04267adab60b34.png",
+      "thumb": "items/images/en/thumbs/shell_shock.35bf2750cb8660baea04267adab60b34.128x128.png"
+    }
+  }
+}

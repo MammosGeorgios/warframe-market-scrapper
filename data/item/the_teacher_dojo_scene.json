@@ -1,0 +1,18 @@
+{
+  "id": "690148edf88bae2d5b1f539a",
+  "slug": "the_teacher_dojo_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/2025FallUpdate/PhotoboothTheTeacherDojo",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "The Teacher Dojo Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/the_teacher_dojo_scene.8df0044abc25f14bfa2da7e09d8c4089.webp",
+      "thumb": "items/images/en/thumbs/the_teacher_dojo_scene.8df0044abc25f14bfa2da7e09d8c4089.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5ce7fd88d23a3b00908c4212",
+  "slug": "proton_snap",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModC",
+  "tags": [
+    "mod",
+    "rare",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Proton Snap",
+      "description": "Hold Wall Latch for 2s to gain +100% Toxin Damage and +50% Status Chance for 20s.",
+      "wikiLink": "https://wiki.warframe.com/w/Proton_Snap",
+      "icon": "items/images/en/proton_snap.86503734ed8eb3c634d064905a602fce.png",
+      "thumb": "items/images/en/thumbs/proton_snap.86503734ed8eb3c634d064905a602fce.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5ce7fd87d23a3b00908c420f",
+  "slug": "stasis_field",
+  "gameRef": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaStasisFieldPrecept",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "moa"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stasis Field",
+      "description": "Creates a stasis field for 30s. While inside the field, all enemy projectiles move 90% slower and deal 60% less Damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Stasis_Field",
+      "icon": "items/images/en/stasis_field.103c8611cc2434079a94b65c9796606a.png",
+      "thumb": "items/images/en/thumbs/stasis_field.103c8611cc2434079a94b65c9796606a.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "641263e07d179f02100c6d4d",
+  "slug": "shade_prime_carapace",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ShadePrimeCarapace",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "641263e07d179f02100c6d42",
+    "641263e07d179f02100c6d4d",
+    "641263e07d179f02100c6d48",
+    "641263e07d179f02100c6d49",
+    "641263e07d179f02100c6d44"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shade Prime Carapace",
+      "description": "A prime sentinel-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Shade_Prime",
+      "icon": "items/images/en/shade_prime_carapace.d4376af3d68e873e85f81f456c83b261.png",
+      "thumb": "items/images/en/thumbs/shade_prime_carapace.d4376af3d68e873e85f81f456c83b261.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_carapace_128x128.png"
+    }
+  }
+}

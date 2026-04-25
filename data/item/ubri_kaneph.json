@@ -1,0 +1,22 @@
+{
+  "id": "693e642103903ae8993ffaea",
+  "slug": "ubri_kaneph",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/WeaponDamageSchools",
+  "tags": [
+    "mod",
+    "rare",
+    "any"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ubri-Kaneph",
+      "description": "+60% Damage to Amps\n+10% bonus for each Mod from a unique School",
+      "icon": "items/images/en/ubri_kaneph.a2aeae39ce6c57d304d359f4e9a5702e.webp",
+      "thumb": "items/images/en/thumbs/ubri_kaneph.a2aeae39ce6c57d304d359f4e9a5702e.128x128.webp"
+    }
+  }
+}

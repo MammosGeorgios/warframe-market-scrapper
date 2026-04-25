@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155a2",
+  "slug": "savagery",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowClonedFinisherMod",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "sunika_kubrow"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Savagery",
+      "description": "The Kubrow rushes at 8 enemies within 10m, dealing damage and knocking them over.",
+      "wikiLink": "https://wiki.warframe.com/w/Savagery",
+      "icon": "items/images/en/savagery.c02dd408812e29360368792883093dba.png",
+      "thumb": "items/images/en/thumbs/savagery.c02dd408812e29360368792883093dba.128x128.png"
+    }
+  }
+}

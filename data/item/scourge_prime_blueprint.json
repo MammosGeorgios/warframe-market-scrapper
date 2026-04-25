@@ -1,0 +1,34 @@
+{
+  "id": "61bb64fe3132ff00482b5fd6",
+  "slug": "scourge_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/ScourgePrimeBlueprint",
+  "tags": [
+    "primary",
+    "weapon",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "61bb64fd3132ff00482b5fc5",
+    "61bb64fb3132ff00482b5fb8",
+    "61bb64fe3132ff00482b5fd6",
+    "61bb64fe3132ff00482b5fd4",
+    "61bb64fe3132ff00482b5fcf"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Scourge Prime Blueprint",
+      "description": "Smite the unrighteous with Harrow Prime's signature speargun.",
+      "wikiLink": "https://wiki.warframe.com/w/Scourge_Prime",
+      "icon": "items/images/en/scourge_prime_blueprint.0a3ad76487e9722f613f6e57e3983cbd.png",
+      "thumb": "items/images/en/thumbs/scourge_prime_blueprint.0a3ad76487e9722f613f6e57e3983cbd.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

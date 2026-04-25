@@ -1,0 +1,24 @@
+{
+  "id": "60e5b8fd4794450053e99944",
+  "slug": "galvanized_aptitude",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponStatusChanceSPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galvanized Aptitude",
+      "description": "+80% Status Chance\nOn Kill:\n+40% Direct Damage per Status Type affecting the target for 20s. Stacks up to 2x.",
+      "wikiLink": "https://wiki.warframe.com/w/Galvanized_Aptitude",
+      "icon": "items/images/en/galvanized_aptitude.4efa17fe5ff1b28b63d47f786a4680ef.png",
+      "thumb": "items/images/en/thumbs/galvanized_aptitude.4efa17fe5ff1b28b63d47f786a4680ef.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5d6ea67d7ea27b05d929cc01",
+  "slug": "topaz_antitoxin",
+  "gameRef": "/Lotus/Types/Restoratives/Consumable/Toxins/NightUnCommonAntitoxin",
+  "tags": [
+    "consumable"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Topaz Antitoxin",
+      "description": "This is a moderately effective antitoxin.",
+      "wikiLink": "https://wiki.warframe.com/w/Topaz_Antitoxin",
+      "icon": "items/images/en/topaz_antitoxin.059998459db9749a8b0e25e51b86e4d1.png",
+      "thumb": "items/images/en/thumbs/topaz_antitoxin.059998459db9749a8b0e25e51b86e4d1.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "60ad4a1cf1904300d012c708",
+  "slug": "astilla_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeAstilla/AstillaPrimeWeapon",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "primary"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "60ad4a1cf1904300d012c707",
+    "60ad4a1cf1904300d012c704",
+    "60ad4a1cf1904300d012c706",
+    "60ad4a1cf1904300d012c708",
+    "60ad4a1cf1904300d012c70b"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 14,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Astilla Prime Set",
+      "description": "Loose explosive glass slugs that tear through enemies with Gara’s signature shotgun, presented here in its spectacular Prime form.",
+      "wikiLink": "https://wiki.warframe.com/w/Astilla_Prime",
+      "icon": "items/images/en/astilla_prime_set.4bad71b95376c38d100a5d8caa581266.png",
+      "thumb": "items/images/en/thumbs/astilla_prime_set.4bad71b95376c38d100a5d8caa581266.128x128.png"
+    }
+  }
+}

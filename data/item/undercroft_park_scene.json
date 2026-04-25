@@ -1,0 +1,19 @@
+{
+  "id": "644b00237ec1900044b97730",
+  "slug": "undercroft_park_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriArenaPark",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Undercroft Park Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/undercroft_park_scene.0e97b9557b85e2024781081ef8e9b22b.png",
+      "thumb": "items/images/en/thumbs/undercroft_park_scene.0e97b9557b85e2024781081ef8e9b22b.128x128.png"
+    }
+  }
+}

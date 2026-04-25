@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51567a",
+  "slug": "malicious_raptor",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ClawCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "claws"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Malicious Raptor",
+      "description": "Puncturing strikes and quick slashes.",
+      "wikiLink": "https://wiki.warframe.com/w/Malicious_Raptor",
+      "icon": "items/images/en/malicious_raptor.501a9e285cf7f788e2a9b4678a38c367.png",
+      "thumb": "items/images/en/thumbs/malicious_raptor.501a9e285cf7f788e2a9b4678a38c367.128x128.png"
+    }
+  }
+}

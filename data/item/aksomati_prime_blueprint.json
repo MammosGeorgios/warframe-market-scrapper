@@ -1,0 +1,34 @@
+{
+  "id": "5df955141456970150510f28",
+  "slug": "aksomati_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/AksomatiPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "secondary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5df955141456970150510f2a",
+    "5df955141456970150510f28",
+    "5df955131456970150510f24",
+    "5df955131456970150510f26",
+    "5df955131456970150510f23"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Aksomati Prime Blueprint",
+      "description": "The elegant Aksomati precisely refined to this, their ultimate manifestation.",
+      "wikiLink": "https://wiki.warframe.com/w/Aksomati_Prime",
+      "icon": "items/images/en/aksomati_prime_blueprint.617fca3e38e6696ec87a6c28bd6bbebf.png",
+      "thumb": "items/images/en/thumbs/aksomati_prime_blueprint.617fca3e38e6696ec87a6c28bd6bbebf.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

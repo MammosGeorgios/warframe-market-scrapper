@@ -1,0 +1,28 @@
+{
+  "id": "67e8c929cedcd0be6d13594f",
+  "slug": "efv_5_jupiter_set",
+  "gameRef": "/Lotus/Weapons/Lasria/LasGooAK/LasGooAKPlayerWeapon",
+  "tags": [
+    "weapon",
+    "primary",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "67e8c929cedcd0be6d135950",
+    "67e8c92acedcd0be6d135951",
+    "67e8c929cedcd0be6d13594f",
+    "67e8c92bcedcd0be6d135952"
+  ],
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "EFV-5 Jupiter Set",
+      "description": "Perforate Techrot, and anyone else who stands in your way, with this Scaldra machine gun. Alternative fire pummels targets with Efervon laced buckshot.",
+      "icon": "items/images/en/efv_5_jupiter_set.c69153cce49d7d087e5b2268b3d37ac3.webp",
+      "thumb": "items/images/en/thumbs/efv_5_jupiter_set.c69153cce49d7d087e5b2268b3d37ac3.128x128.webp"
+    }
+  }
+}

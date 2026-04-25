@@ -1,0 +1,23 @@
+{
+  "id": "59dfeb63115f1d887cfd7abc",
+  "slug": "vigilante_pursuit",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Vigilante/WarframeVigilantePursuitMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vigilante Pursuit",
+      "description": "+30m Enemy Radar",
+      "wikiLink": "https://wiki.warframe.com/w/Vigilante_Pursuit",
+      "icon": "items/images/en/vigilante_pursuit.332dedb5fa7b6edac656a8fd1ad10535.png",
+      "thumb": "items/images/en/thumbs/vigilante_pursuit.332dedb5fa7b6edac656a8fd1ad10535.128x128.png"
+    }
+  }
+}

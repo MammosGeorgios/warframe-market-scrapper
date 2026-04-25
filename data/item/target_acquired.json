@@ -1,0 +1,24 @@
+{
+  "id": "59f38f558c202c007335ba65",
+  "slug": "target_acquired",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/SniperHeadshotMultiplierMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "sniper"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Target Acquired",
+      "description": "+60% to Headshot Multiplier",
+      "wikiLink": "https://wiki.warframe.com/w/Target_Acquired",
+      "icon": "items/images/en/target_acquired.8b1eb4ae05f10fefe7f70ef5ac76ac78.png",
+      "thumb": "items/images/en/thumbs/target_acquired.8b1eb4ae05f10fefe7f70ef5ac76ac78.128x128.png"
+    }
+  }
+}

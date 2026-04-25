@@ -1,0 +1,25 @@
+{
+  "id": "584470092c2ada00787e0888",
+  "slug": "savior_decoy",
+  "gameRef": "/Lotus/Powersuits/Loki/DecoyAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "loki",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Savior Decoy",
+      "description": "Decoy Augment: If Loki takes fatal damage, Decoy absorbs the damage and swaps locations. Also increases Casting Speed of Decoy by 50%",
+      "wikiLink": "https://wiki.warframe.com/w/Savior_Decoy",
+      "icon": "items/images/en/savior_decoy.3b7d00bb0966017aa4b8bcb50803069c.png",
+      "thumb": "items/images/en/thumbs/savior_decoy.3b7d00bb0966017aa4b8bcb50803069c.128x128.png"
+    }
+  }
+}

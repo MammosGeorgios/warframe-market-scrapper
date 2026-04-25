@@ -1,0 +1,24 @@
+{
+  "id": "554d3f0ce779894445a848f8",
+  "slug": "bore",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponEventPunctureDamageMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Bore",
+      "description": "+120% Puncture",
+      "wikiLink": "https://wiki.warframe.com/w/Bore",
+      "icon": "items/images/en/bore.85134a49bc61d938217e3df664f0cef5.png",
+      "thumb": "items/images/en/thumbs/bore.85134a49bc61d938217e3df664f0cef5.128x128.png"
+    }
+  }
+}

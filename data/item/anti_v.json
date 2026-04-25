@@ -1,0 +1,22 @@
+{
+  "id": "67db600e9cec3e52e62523e2",
+  "slug": "anti_v",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/AntivirusSevenMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Anti-V",
+      "description": "Digital extremists stand no chance when you have Anti-V on your side",
+      "icon": "items/images/en/anti_v.8bea75b3c049ea5311b7765916ee1b71.webp",
+      "thumb": "items/images/en/thumbs/anti_v.8bea75b3c049ea5311b7765916ee1b71.128x128.webp"
+    }
+  }
+}

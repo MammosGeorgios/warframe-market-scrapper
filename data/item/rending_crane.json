@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155c0",
+  "slug": "rending_crane",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/AxeCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "uncommon",
+    "stance",
+    "heavy_blade"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rending Crane",
+      "description": "Downward cuts with an impact combo.",
+      "wikiLink": "https://wiki.warframe.com/w/Rending_Crane",
+      "icon": "items/images/en/rending_crane.47206f0333e0e5bc9f144b3d7353d7b1.png",
+      "thumb": "items/images/en/thumbs/rending_crane.47206f0333e0e5bc9f144b3d7353d7b1.128x128.png"
+    }
+  }
+}

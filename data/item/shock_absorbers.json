@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515597",
+  "slug": "shock_absorbers",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceKnockdown",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shock Absorbers",
+      "description": "+20% Physical Damage Resistance",
+      "wikiLink": "https://wiki.warframe.com/w/Shock_Absorbers",
+      "icon": "items/images/en/shock_absorbers.f8b689167fd8fe8c992773d65dcb95fe.png",
+      "thumb": "items/images/en/thumbs/shock_absorbers.f8b689167fd8fe8c992773d65dcb95fe.128x128.png"
+    }
+  }
+}

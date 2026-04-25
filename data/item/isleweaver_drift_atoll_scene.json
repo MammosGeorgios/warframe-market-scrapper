@@ -1,0 +1,19 @@
+{
+  "id": "6877cadd731e63abe79a5d00",
+  "slug": "isleweaver_drift_atoll_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapK",
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Isleweaver Drift Atoll Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/isleweaver_drift_atoll_scene.d67e425ea5d6d622be308bb5eca4fc96.webp",
+      "thumb": "items/images/en/thumbs/isleweaver_drift_atoll_scene.d67e425ea5d6d622be308bb5eca4fc96.128x128.webp"
+    }
+  }
+}

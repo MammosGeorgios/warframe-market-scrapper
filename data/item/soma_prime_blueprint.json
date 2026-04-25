@@ -1,0 +1,34 @@
+{
+  "id": "54a73e65e779893a797fff62",
+  "slug": "soma_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/SomaPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "primary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff61",
+    "54a73e65e779893a797fff62",
+    "54a73e65e779893a797fff63",
+    "56783f24cbfa8f0432dd89ae",
+    "54a73e65e779893a797fff64"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 7,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Soma Prime Blueprint",
+      "description": "Known for taking down whole squads with its single massive magazine, few weapons were as feared as the Prime Soma.",
+      "wikiLink": "https://wiki.warframe.com/w/Soma_Prime",
+      "icon": "items/images/en/soma_prime_blueprint.1bf4937a6c2106c373cffeb93b1c87e0.png",
+      "thumb": "items/images/en/thumbs/soma_prime_blueprint.1bf4937a6c2106c373cffeb93b1c87e0.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

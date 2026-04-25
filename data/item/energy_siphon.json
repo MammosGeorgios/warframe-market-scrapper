@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515618",
+  "slug": "energy_siphon",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/PlayerEnergyRegenAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Energy Siphon",
+      "description": "Squad receives +0.6 Energy Regen/s",
+      "wikiLink": "https://wiki.warframe.com/w/Energy_Siphon",
+      "icon": "items/images/en/energy_siphon.c8633b0c81bfa7eb93afe95cc861663d.png",
+      "thumb": "items/images/en/thumbs/energy_siphon.c8633b0c81bfa7eb93afe95cc861663d.128x128.png"
+    }
+  }
+}

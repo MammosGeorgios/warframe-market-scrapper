@@ -1,0 +1,24 @@
+{
+  "id": "5f498a1f9426ed00443bd09d",
+  "slug": "endoparasitic_vector",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorSpitParasitePrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "pharaoh_predasite"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Endoparasitic Vector",
+      "description": "Transmit an endoparasite to an enemy within 30m. Tentacles spawn from it, clinging to enemies within 10m slowing them as they move further from the parasite, and dealing 20 Viral Damage/sec over 5s.",
+      "wikiLink": "https://wiki.warframe.com/w/Endoparasitic_Vector",
+      "icon": "items/images/en/endoparasitic_vector.859783a4c5f3b7251771d56121f34ca5.png",
+      "thumb": "items/images/en/thumbs/endoparasitic_vector.859783a4c5f3b7251771d56121f34ca5.128x128.png"
+    }
+  }
+}

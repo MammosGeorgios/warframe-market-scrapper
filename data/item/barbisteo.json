@@ -1,0 +1,25 @@
+{
+  "id": "6054de675221e30057501072",
+  "slug": "barbisteo",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonBFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Barbisteo",
+      "description": "As ravenous as the Infestation itself, this fish feeds on the remains of others. It shuns the light, preferring an enclosed cave environment.",
+      "wikiLink": "https://wiki.warframe.com/w/Barbisteo",
+      "icon": "items/images/en/barbisteo.84f1b278faa86c27bee4bbf1c66b8299.png",
+      "thumb": "items/images/en/thumbs/barbisteo.84f1b278faa86c27bee4bbf1c66b8299.128x128.png"
+    }
+  }
+}

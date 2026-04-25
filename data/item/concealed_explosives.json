@@ -1,0 +1,24 @@
+{
+  "id": "55c15473e779895de4118590",
+  "slug": "concealed_explosives",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/ThrowingExplosionChanceMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "thrown"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Concealed Explosives",
+      "description": "+80% Chance to Explode (Use with Caution)",
+      "wikiLink": "https://wiki.warframe.com/w/Concealed_Explosives",
+      "icon": "items/images/en/concealed_explosives.7c258d92086d8fff96684d6170455fe8.png",
+      "thumb": "items/images/en/thumbs/concealed_explosives.7c258d92086d8fff96684d6170455fe8.128x128.png"
+    }
+  }
+}

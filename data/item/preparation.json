@@ -1,0 +1,23 @@
+{
+  "id": "5e7caa01267539063de48c3e",
+  "slug": "preparation",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarSpawnEnergyMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Preparation",
+      "description": "+100% Maximum Energy is filled on Spawn",
+      "wikiLink": "https://wiki.warframe.com/w/Preparation",
+      "icon": "items/images/en/preparation.f41baaf0f6a981eac9583d5b4cda7162.png",
+      "thumb": "items/images/en/thumbs/preparation.f41baaf0f6a981eac9583d5b4cda7162.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "657af5ac21646e595134f5cb",
+  "slug": "opportunitys_reach",
+  "gameRef": "/Lotus/Upgrades/EmpoweredHeavyMelee/PerfectReach",
+  "tags": [
+    "mod",
+    "uncommon",
+    "melee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Opportunity's Reach",
+      "description": "Enables Tennokai. Increases opportunity window to 4.0s and melee range by 3m for Tennokai attacks.",
+      "wikiLink": "https://wiki.warframe.com/w/Opportunity%27s_Reach",
+      "icon": "items/images/en/opportunitys_reach.9e203401224e754b250feadd2d672deb.png",
+      "thumb": "items/images/en/thumbs/opportunitys_reach.9e203401224e754b250feadd2d672deb.128x128.png"
+    }
+  }
+}

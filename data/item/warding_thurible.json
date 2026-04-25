@@ -1,0 +1,25 @@
+{
+  "id": "5b50a3ad3a84fd02a782324c",
+  "slug": "warding_thurible",
+  "gameRef": "/Lotus/Powersuits/Priest/PriestRavageAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare",
+    "augment",
+    "harrow"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Warding Thurible",
+      "description": "Thurible Augment: Allies in range take 50% less Damage while channeling Thurible and grant 1.0 additional Energy charge whenever damaged.",
+      "wikiLink": "https://wiki.warframe.com/w/Warding_Thurible",
+      "icon": "items/images/en/warding_thurible.73ca05e0681f7517d599fbcd874f7124.png",
+      "thumb": "items/images/en/thumbs/warding_thurible.73ca05e0681f7517d599fbcd874f7124.128x128.png"
+    }
+  }
+}

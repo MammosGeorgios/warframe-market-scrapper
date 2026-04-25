@@ -1,0 +1,25 @@
+{
+  "id": "5911f11d97a0add8e9d5da4f",
+  "slug": "stockpiled_blight",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/KunaiMod",
+  "tags": [
+    "syndicate",
+    "secondary",
+    "mod",
+    "rare",
+    "kunai"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stockpiled Blight",
+      "description": "+200% Magazine Capacity\n+1 'Blight'",
+      "wikiLink": "https://warframe.fandom.com/wiki/Stockpiled_Blight",
+      "icon": "items/images/en/stockpiled_blight.3231785f2d66f6d8a1a452aacffb0d3d.png",
+      "thumb": "items/images/en/thumbs/stockpiled_blight.3231785f2d66f6d8a1a452aacffb0d3d.128x128.png"
+    }
+  }
+}

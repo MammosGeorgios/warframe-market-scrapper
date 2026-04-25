@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515665",
+  "slug": "fast_hands",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponReloadSpeedMod",
+  "tags": [
+    "common",
+    "mod",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fast Hands",
+      "description": "+30% Reload Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Fast_Hands",
+      "icon": "items/images/en/fast_hands.3c06265d8ae1caa404ae7b20d394301b.png",
+      "thumb": "items/images/en/thumbs/fast_hands.3c06265d8ae1caa404ae7b20d394301b.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155ee",
+  "slug": "entropy_flight",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/KestrelMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "melee",
+    "rare",
+    "kestrel"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Entropy Flight",
+      "description": "+140% Projectile Speed\n+1 'Entropy'",
+      "wikiLink": "https://wiki.warframe.com/w/Entropy_Flight",
+      "icon": "items/images/en/entropy_flight.d0aac5dc51491213cff3e4ff49c9acff.png",
+      "thumb": "items/images/en/thumbs/entropy_flight.d0aac5dc51491213cff3e4ff49c9acff.128x128.png"
+    }
+  }
+}

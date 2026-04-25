@@ -1,0 +1,28 @@
+{
+  "id": "5f498a219426ed00443bd0a8",
+  "slug": "damaged_necramech_weapon_set",
+  "gameRef": "",
+  "tags": [
+    "necramech",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5f498a219426ed00443bd0a7",
+    "5f498a219426ed00443bd0a9",
+    "5f498a219426ed00443bd0a8",
+    "5f498a249426ed00443bd0be"
+  ],
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Damaged Necramech Weapon Set",
+      "description": "It’s damaged and in need of repair.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Necramech",
+      "icon": "items/images/en/damaged_necramech_weapon_set.b273d89779e4f681c8323227ce22052f.webp",
+      "thumb": "items/images/en/thumbs/damaged_necramech_weapon_set.b273d89779e4f681c8323227ce22052f.128x128.webp"
+    }
+  }
+}

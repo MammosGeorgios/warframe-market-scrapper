@@ -1,0 +1,25 @@
+{
+  "id": "6054de695221e30057501075",
+  "slug": "lobotriscid",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lobotriscid",
+      "description": "A muscular, three-tailed fish, the Lobotriscid trawls through Exocrine vapor across the surface of Deimos when Vome is dominant.",
+      "wikiLink": "https://wiki.warframe.com/w/Lobotriscid",
+      "icon": "items/images/en/lobotriscid.a0dcd2f81b406e8c72f3761a91361f63.png",
+      "thumb": "items/images/en/thumbs/lobotriscid.a0dcd2f81b406e8c72f3761a91361f63.128x128.png"
+    }
+  }
+}

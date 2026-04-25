@@ -1,0 +1,22 @@
+{
+  "id": "5fde10c36db57b0185b39079",
+  "slug": "ceti_lacera_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/OperationsLaceraBlueprint",
+  "tags": [
+    "weapon",
+    "melee",
+    "blueprint"
+  ],
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ceti Lacera Blueprint",
+      "description": "Forged for veterans of the Scarlet Spear conflict, this Lacera has been modified to enhance nimbleness and lethality.",
+      "wikiLink": "https://wiki.warframe.com/w/Ceti_Lacera",
+      "icon": "items/images/en/ceti_lacera_blueprint.a867f2ea0f314050b613e5e49012cc6f.png",
+      "thumb": "items/images/en/thumbs/ceti_lacera_blueprint.a867f2ea0f314050b613e5e49012cc6f.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5be5f5a03ffcc7038857f105",
+  "slug": "venom_teeth",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowPoisonEventMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "claws"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Venom Teeth",
+      "description": "+60% Toxin\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Venom_Teeth",
+      "icon": "items/images/en/venom_teeth.34e128ccb964bde24be6e935b6dc51a7.png",
+      "thumb": "items/images/en/thumbs/venom_teeth.34e128ccb964bde24be6e935b6dc51a7.128x128.png"
+    }
+  }
+}

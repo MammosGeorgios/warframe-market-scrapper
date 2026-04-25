@@ -1,0 +1,28 @@
+{
+  "id": "626ca573f40db600829c9d0f",
+  "slug": "hespar_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/HeavyScythe/DuviriScythe/DuviriHeavyScytheWeapon",
+  "tags": [
+    "melee",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "626ca573f40db600829c9d10",
+    "626ca573f40db600829c9d0b",
+    "626ca573f40db600829c9d0f"
+  ],
+  "reqMasteryRank": 12,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hespar Set",
+      "description": "This Heavy Scythe echoes battles of another time. It is far more a weapon of sheer force than one of finesse.",
+      "wikiLink": "https://wiki.warframe.com/w/Hespar",
+      "icon": "items/images/en/hespar_set.58bd4fbd6ed4930402342b2662d68ac4.png",
+      "thumb": "items/images/en/thumbs/hespar_set.58bd4fbd6ed4930402342b2662d68ac4.128x128.png"
+    }
+  }
+}

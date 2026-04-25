@@ -1,0 +1,37 @@
+{
+  "id": "645104637ec190030e510937",
+  "slug": "cinta_grip_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/DaxDuviriAsymmetricalLongBowGripBlueprint",
+  "tags": [
+    "component",
+    "weapon",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "645104637ec190030e510936",
+    "645104637ec190030e510937",
+    "645104637ec190030e510938",
+    "645104637ec190030e510939",
+    "645104637ec190030e51093a",
+    "665d132c941a9cc3e8b9014b"
+  ],
+  "quantityInSet": 1,
+  "subtypes": [
+    "crafted",
+    "blueprint"
+  ],
+  "reqMasteryRank": 6,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cinta Grip Blueprint",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Cinta",
+      "icon": "items/images/en/cinta_grip_blueprint.9362297c3ebd9acd6e874dd3b8a85e34.png",
+      "thumb": "items/images/en/thumbs/cinta_grip_blueprint.9362297c3ebd9acd6e874dd3b8a85e34.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_grip_128x128.png"
+    }
+  }
+}

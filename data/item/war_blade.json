@@ -1,0 +1,29 @@
+{
+  "id": "56fdbd6c2e26966de716e433",
+  "slug": "war_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/WarBlade",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "582b0eb80af25410a4931616",
+    "56fdbd6c2e26966de716e433",
+    "56fdbd5d2e26966de716e432"
+  ],
+  "quantityInSet": 2,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "War Blade",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/War",
+      "icon": "items/images/en/war_blade.79aea5cde8a32f0cdb77bc19b5d1e9a5.png",
+      "thumb": "items/images/en/thumbs/war_blade.79aea5cde8a32f0cdb77bc19b5d1e9a5.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_blade_128x128.png"
+    }
+  }
+}

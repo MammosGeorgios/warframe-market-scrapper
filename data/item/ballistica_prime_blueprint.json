@@ -1,0 +1,35 @@
+{
+  "id": "59a5c2565cd9938cfede703d",
+  "slug": "ballistica_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/PrimeBallisticaBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "secondary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "59a5c2565cd9938cfede703d",
+    "59a5cd4d5cd9938cfede7044",
+    "59a5cd4d5cd9938cfede7046",
+    "59a5c2565cd9938cfede703e",
+    "59a5cd4d5cd9938cfede7045",
+    "59a5cd4d5cd9938cfede7043"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ballistica Prime Blueprint",
+      "description": "The beauty of this luxuriously gilded crossbow cannot obscure its lethal purpose.",
+      "wikiLink": "https://wiki.warframe.com/w/Ballistica_Prime",
+      "icon": "items/images/en/ballistica_prime_blueprint.4ed33348008ace40406d0383f692ecac.png",
+      "thumb": "items/images/en/thumbs/ballistica_prime_blueprint.4ed33348008ace40406d0383f692ecac.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

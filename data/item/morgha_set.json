@@ -1,0 +1,30 @@
+{
+  "id": "5fde10c36db57b0185b39078",
+  "slug": "morgha_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher",
+  "tags": [
+    "primary",
+    "archwing",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5fde10c46db57b0185b3907b",
+    "5fde10c26db57b0185b39072",
+    "5fde10c36db57b0185b39078",
+    "5fde10c26db57b0185b39071"
+  ],
+  "reqMasteryRank": 15,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Morgha Set",
+      "description": "Blast through enemies with a double-barreled shot of energized slugs. This siphons their life essence which is then used to generate the secondary fire's massive air-burst mortar. The ancient Entrati weapon was built for Necramechs but also functions as an Archgun.",
+      "wikiLink": "https://wiki.warframe.com/w/Morgha",
+      "icon": "items/images/en/morgha_set.f2cd71d06c4e7d5c63b1d66a986bfdd8.png",
+      "thumb": "items/images/en/thumbs/morgha_set.f2cd71d06c4e7d5c63b1d66a986bfdd8.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "5ee7de8a04d55c0b1052e4bb",
+  "slug": "corpus_ship_hangar_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileCorpusShipHangar",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Corpus Ship Hangar Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/corpus_ship_hangar_scene.d26bef383671de26a0c2aa3bc8e0e522.png",
+      "thumb": "items/images/en/thumbs/corpus_ship_hangar_scene.d26bef383671de26a0c2aa3bc8e0e522.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5b6b4850b6de79023813f39e",
+  "slug": "primed_quickdraw",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponReloadSpeedModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Quickdraw",
+      "description": "+88% Reload Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Quickdraw",
+      "icon": "items/images/en/primed_quickdraw.1768ebb4f9758fa903319e3979fa2239.png",
+      "thumb": "items/images/en/thumbs/primed_quickdraw.1768ebb4f9758fa903319e3979fa2239.128x128.png"
+    }
+  }
+}

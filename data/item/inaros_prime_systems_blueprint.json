@@ -1,0 +1,34 @@
+{
+  "id": "5f0deab79f527b024d48f059",
+  "slug": "inaros_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/InarosPrimeSystemsBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5f0deab79f527b024d48f058",
+    "5f0deab69f527b024d48f056",
+    "5f0deab69f527b024d48f057",
+    "5f0deab69f527b024d48f055",
+    "5f0deab79f527b024d48f059"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Inaros Prime Systems Blueprint",
+      "description": "Systems component of the Inaros Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Inaros_Prime",
+      "icon": "items/images/en/inaros_prime_systems.58fc170fbf04332e7d541a615c198b41.png",
+      "thumb": "items/images/en/thumbs/inaros_prime_systems.58fc170fbf04332e7d541a615c198b41.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

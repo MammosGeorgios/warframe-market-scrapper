@@ -1,0 +1,28 @@
+{
+  "id": "62af145d5d2dab005422903f",
+  "slug": "prisma_burst_laser",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelWeapons/PrismaBurstLaserPistol",
+  "tags": [
+    "sentinel",
+    "primary"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "62af145d5d2dab005422903f",
+    "585a93012c2ada004f1a297e",
+    "62af145c5d2dab0054229039"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Burst Laser",
+      "description": "Fires a small burst of lasers.",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma",
+      "icon": "items/images/en/prisma_burst_laser.f4a86f6ebcd9df7e028c911d259ac431.png",
+      "thumb": "items/images/en/thumbs/prisma_burst_laser.f4a86f6ebcd9df7e028c911d259ac431.128x128.png"
+    }
+  }
+}

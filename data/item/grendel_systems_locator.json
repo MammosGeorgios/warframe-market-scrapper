@@ -1,0 +1,20 @@
+{
+  "id": "5dfea13b1456970294aff358",
+  "slug": "grendel_systems_locator",
+  "gameRef": "",
+  "tags": [
+    "mod",
+    "locator"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Grendel Systems Locator",
+      "description": "The Grendel Systems Locator unlocks the Mine of Karishh, an Excavation mission where players have to collect 800 Cryotic.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Grendel",
+      "icon": "items/images/en/grendel_systems_locator.158a0b63e183838d0d90fd2210f8f1dc.webp",
+      "thumb": "items/images/en/thumbs/grendel_systems_locator.158a0b63e183838d0d90fd2210f8f1dc.128x128.webp"
+    }
+  }
+}

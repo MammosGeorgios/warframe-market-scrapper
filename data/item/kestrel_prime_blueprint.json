@@ -1,0 +1,32 @@
+{
+  "id": "6939aac85d9ebda239125d32",
+  "slug": "kestrel_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/KestrelPrimeBlueprint",
+  "tags": [
+    "prime",
+    "weapon",
+    "melee",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6939aaca5d9ebda239125d34",
+    "6939aac85d9ebda239125d32",
+    "6939aac95d9ebda239125d33",
+    "6939aac75d9ebda239125d31"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kestrel Prime Blueprint",
+      "description": "With heightened agility and power the Kestrel Prime’s heavy attacks easily knock down foes, ensuring none shall stand before it.",
+      "icon": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+      "thumb": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

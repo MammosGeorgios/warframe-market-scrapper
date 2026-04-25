@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e51569d",
+  "slug": "frigid_blast",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/IceEventShotgunMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Frigid Blast",
+      "description": "+60% Cold\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Frigid_Blast",
+      "icon": "items/images/en/frigid_blast.0b918ce4eea7e629fbde24ad88de852e.png",
+      "thumb": "items/images/en/thumbs/frigid_blast.0b918ce4eea7e629fbde24ad88de852e.128x128.png"
+    }
+  }
+}

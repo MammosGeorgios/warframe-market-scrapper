@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a522",
+  "slug": "sudden_justice",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/SybarisIncreaseRoFonHit",
+  "tags": [
+    "sybaris",
+    "primary",
+    "pvp",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sudden Justice",
+      "description": "On 2 Hits within 0.2s:\n+30% Fire Rate for 2s",
+      "wikiLink": "https://wiki.warframe.com/w/Sudden_Justice",
+      "icon": "items/images/en/sudden_justice.da82a75c334bd02464893ca9a7a39ee0.png",
+      "thumb": "items/images/en/thumbs/sudden_justice.da82a75c334bd02464893ca9a7a39ee0.128x128.png"
+    }
+  }
+}

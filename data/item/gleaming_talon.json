@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51567c",
+  "slug": "gleaming_talon",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "glaives"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gleaming Talon",
+      "description": "Fast arcing strikes.",
+      "wikiLink": "https://wiki.warframe.com/w/Gleaming_Talon",
+      "icon": "items/images/en/gleaming_talon.d891c21d066a48485059c35cf0d55214.png",
+      "thumb": "items/images/en/thumbs/gleaming_talon.d891c21d066a48485059c35cf0d55214.128x128.png"
+    }
+  }
+}

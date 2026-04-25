@@ -1,0 +1,33 @@
+{
+  "id": "5f0e0fde9f527b0285718f1e",
+  "slug": "karyst_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/KarystPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "melee",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5f0e0fde9f527b0285718f1f",
+    "5f0e0fde9f527b0285718f1e",
+    "5f0e0fdc9f527b0285718f18",
+    "5f0e0fdc9f527b0285718f19"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Karyst Prime Blueprint",
+      "description": "This master blade is the heavier, oversized and far more lethal version of the signature weapon of an extinct order of Tenno assassins.",
+      "wikiLink": "https://wiki.warframe.com/w/Karyst_Prime",
+      "icon": "items/images/en/karyst_prime_blueprint.4ac2616227b5e4e2e42e44473acf9a91.png",
+      "thumb": "items/images/en/thumbs/karyst_prime_blueprint.4ac2616227b5e4e2e42e44473acf9a91.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

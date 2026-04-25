@@ -1,0 +1,33 @@
+{
+  "id": "639a941d74b02f0088877850",
+  "slug": "cobra_and_crane_prime_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/CobraCranePrimeBlade",
+  "tags": [
+    "prime",
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "639a941d74b02f0088877850",
+    "639a941d74b02f008887784e",
+    "639a941c74b02f008887784a",
+    "639a941d74b02f0088877851",
+    "639a941e74b02f0088877852"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cobra & Crane Prime Blade",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Cobra_%26_Crane_Prime",
+      "icon": "items/images/en/cobra_and_crane_prime_blade.84b2733b9f7486c23028b5a2b4e012b4.png",
+      "thumb": "items/images/en/thumbs/cobra_and_crane_prime_blade.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_blade_128x128.png"
+    }
+  }
+}

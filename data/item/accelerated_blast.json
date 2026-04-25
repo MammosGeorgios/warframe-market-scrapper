@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156bd",
+  "slug": "accelerated_blast",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/AcceleratedBlastMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Accelerated Blast",
+      "description": "+60% Fire Rate\n+60% Puncture",
+      "wikiLink": "https://wiki.warframe.com/w/Accelerated_Blast",
+      "icon": "items/images/en/accelerated_blast.11868e0d3de7aa13ec22647b3d0d3230.png",
+      "thumb": "items/images/en/thumbs/accelerated_blast.11868e0d3de7aa13ec22647b3d0d3230.128x128.png"
+    }
+  }
+}

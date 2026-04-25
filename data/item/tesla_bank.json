@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e51562b",
+  "slug": "tesla_bank",
+  "gameRef": "/Lotus/Powersuits/Trapper/ZapTrapAugmentCard",
+  "tags": [
+    "vauban",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tesla Bank",
+      "description": "Tesla Nervos Augment: Enemy health when a Nervos is first attached is converted into 8m burst of Electricity when killed.",
+      "wikiLink": "https://wiki.warframe.com/w/Tesla_Bank",
+      "icon": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
+      "thumb": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
+    }
+  }
+}

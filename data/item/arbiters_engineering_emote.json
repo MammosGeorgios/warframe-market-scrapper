@@ -1,0 +1,19 @@
+{
+  "id": "60e70f7e479445008f272593",
+  "slug": "arbiters_engineering_emote",
+  "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/AHEngineeringEmote",
+  "tags": [
+    "syndicate",
+    "emote"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arbiters Engineering Emote",
+      "description": "Engineering is on the job with this crew-inspired emote.",
+      "icon": "items/images/en/arbiters_engineering_emote.03f12e3b2ced32fef8293e5af0b1422b.png",
+      "thumb": "items/images/en/thumbs/arbiters_engineering_emote.03f12e3b2ced32fef8293e5af0b1422b.128x128.png"
+    }
+  }
+}

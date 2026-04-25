@@ -1,0 +1,23 @@
+{
+  "id": "566759c8db7c7a568a8d45c9",
+  "slug": "speed_drift",
+  "gameRef": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModSpeed",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Speed Drift",
+      "description": "+12% Sprint Speed\n+15% Casting Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Speed_Drift",
+      "icon": "items/images/en/speed_drift.53a547593da9f3d0310f6c9c0a1bb958.png",
+      "thumb": "items/images/en/thumbs/speed_drift.53a547593da9f3d0310f6c9c0a1bb958.128x128.png"
+    }
+  }
+}

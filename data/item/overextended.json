@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155d6",
+  "slug": "overextended",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/DualStat/CorruptedRangePowerWarframe",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Overextended",
+      "description": "+90% Ability Range\n-60% Ability Strength",
+      "wikiLink": "https://wiki.warframe.com/w/Overextended",
+      "icon": "items/images/en/overextended.4939196d35936b87b0ba4c85cdc97bef.png",
+      "thumb": "items/images/en/thumbs/overextended.4939196d35936b87b0ba4c85cdc97bef.128x128.png"
+    }
+  }
+}

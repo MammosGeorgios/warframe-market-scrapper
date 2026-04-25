@@ -1,0 +1,24 @@
+{
+  "id": "5f4ed3f5d5c36d0086f55b02",
+  "slug": "damzav_vati",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/AkbroncoViralDamageMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "akbronco_prime"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Damzav-Vati",
+      "description": "+240% Viral",
+      "wikiLink": "https://wiki.warframe.com/w/Damzav-Vati",
+      "icon": "items/images/en/damzav_vati.7ed9e8ee920872beab987ff36c0e7e37.png",
+      "thumb": "items/images/en/thumbs/damzav_vati.7ed9e8ee920872beab987ff36c0e7e37.128x128.png"
+    }
+  }
+}

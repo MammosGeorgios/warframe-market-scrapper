@@ -1,0 +1,23 @@
+{
+  "id": "5a0ef3fc10bc40007cce1c8e",
+  "slug": "hunter_munitions",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Hunter/PrimaryHunterMunitionsMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hunter Munitions",
+      "description": "+30% chance to apply on Critical",
+      "wikiLink": "https://wiki.warframe.com/w/Hunter_Munitions",
+      "icon": "items/images/en/hunter_munitions.1c7942f9b55cb2f49605aa4037d98dfd.png",
+      "thumb": "items/images/en/thumbs/hunter_munitions.1c7942f9b55cb2f49605aa4037d98dfd.128x128.png"
+    }
+  }
+}

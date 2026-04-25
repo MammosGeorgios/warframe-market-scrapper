@@ -1,0 +1,35 @@
+{
+  "id": "641263e07d179f02100c6d4e",
+  "slug": "larkspur_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/LarkspurPrimeBlueprint",
+  "tags": [
+    "prime",
+    "archwing",
+    "primary",
+    "weapon",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "641263e07d179f02100c6d47",
+    "641263e07d179f02100c6d4e",
+    "641263e07d179f02100c6d4c",
+    "641263e07d179f02100c6d45",
+    "641263e07d179f02100c6d4a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Larkspur Prime Blueprint",
+      "description": "Embrace pandemonium. Chainfire and explosive potential meet in Larkspur Prime. Hildryn packs more ammo when she wields this mighty weapon.",
+      "wikiLink": "https://wiki.warframe.com/w/Larkspur_Prime",
+      "icon": "items/images/en/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.png",
+      "thumb": "items/images/en/thumbs/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5783beebd9b6753790c89e88",
+  "slug": "velocitus_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRailgunBarrel",
+  "tags": [
+    "component",
+    "weapon",
+    "archwing"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "582b0f850af25410b099f7f8",
+    "5783beebd9b6753790c89e88",
+    "5783bf0ad9b6753790c89e89",
+    "5783bf10d9b6753790c89e8a"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Velocitus Barrel",
+      "description": "An Archwing weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Velocitus",
+      "icon": "items/images/en/velocitus_barrel.0e2289bd3cc8bba9a0393d1fad061ab6.png",
+      "thumb": "items/images/en/thumbs/velocitus_barrel.0e2289bd3cc8bba9a0393d1fad061ab6.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_barrel_128x128.png"
+    }
+  }
+}

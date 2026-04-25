@@ -1,0 +1,25 @@
+{
+  "id": "6054de7b5221e30057501082",
+  "slug": "yogwun",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Yogwun",
+      "description": "This slow fish meanders through the waters and is often preyed upon by larger predators.",
+      "wikiLink": "https://wiki.warframe.com/w/Yogwun",
+      "icon": "items/images/en/yogwun.414590414a035d3f173860e662950d60.png",
+      "thumb": "items/images/en/thumbs/yogwun.414590414a035d3f173860e662950d60.128x128.png"
+    }
+  }
+}

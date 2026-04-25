@@ -1,0 +1,21 @@
+{
+  "id": "58d8f22a11efe42a5e5231ff",
+  "slug": "vulkar_wraith",
+  "gameRef": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/VulkarWraith",
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 7,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vulkar Wraith",
+      "description": "A blood-red variant of this devastating sniper rifle.",
+      "wikiLink": "https://wiki.warframe.com/w/Vulkar_Wraith",
+      "icon": "items/images/en/vulkar_wraith.f8429a3c0e4db52e800fae7bc4aa19ea.png",
+      "thumb": "items/images/en/thumbs/vulkar_wraith.f8429a3c0e4db52e800fae7bc4aa19ea.128x128.png"
+    }
+  }
+}

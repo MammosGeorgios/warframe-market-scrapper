@@ -1,0 +1,23 @@
+{
+  "id": "5ce7fd89d23a3b00908c4217",
+  "slug": "motus_signal",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Raptor/RaptorModA",
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Motus Signal",
+      "description": "Increase Double Jump strength by +200%.",
+      "wikiLink": "https://wiki.warframe.com/w/Motus_Signal",
+      "icon": "items/images/en/motus_signal.82e3d6747a47f0aed2d30057d39d7cec.png",
+      "thumb": "items/images/en/thumbs/motus_signal.82e3d6747a47f0aed2d30057d39d7cec.128x128.png"
+    }
+  }
+}

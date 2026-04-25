@@ -1,0 +1,31 @@
+{
+  "id": "62d3494075156700ce450df4",
+  "slug": "khora_prime_set",
+  "gameRef": "/Lotus/Powersuits/Khora/KhoraPrime",
+  "tags": [
+    "prime",
+    "warframe",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "62d3494075156700ce450df5",
+    "62d3493f75156700ce450ded",
+    "62d3494175156700ce450dff",
+    "62d3494075156700ce450df4",
+    "62d3494175156700ce450e04"
+  ],
+  "ducats": 225,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Khora Prime Set",
+      "description": "A harmony of mistress and monster. The gilded huntress and her loyal Kavat, Venari, dominate the battlefield with their will.",
+      "wikiLink": "https://wiki.warframe.com/w/Khora_Prime",
+      "icon": "items/images/en/khora_prime_set.12b9da415ed4f659296947b5c7157dc0.png",
+      "thumb": "items/images/en/thumbs/khora_prime_set.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+    }
+  }
+}

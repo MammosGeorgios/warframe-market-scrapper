@@ -1,0 +1,24 @@
+{
+  "id": "56a7b27a1133f656cb085d8b",
+  "slug": "laser_sight",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/CritChanceWhileAimingShotgunMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Laser Sight",
+      "description": "On Headshot:\n+120% Critical Chance when Aiming for 9s",
+      "wikiLink": "https://warframe.fandom.com/wiki/Laser_Sight",
+      "icon": "items/images/en/laser_sight.856fb0b93fb9bd6cc8bbd68041666039.png",
+      "thumb": "items/images/en/thumbs/laser_sight.856fb0b93fb9bd6cc8bbd68041666039.128x128.png"
+    }
+  }
+}

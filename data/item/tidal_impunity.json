@@ -1,0 +1,25 @@
+{
+  "id": "54e0c9eee7798903744178ad",
+  "slug": "tidal_impunity",
+  "gameRef": "/Lotus/Powersuits/Pirate/TidalWaveAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "hydroid",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tidal Impunity",
+      "description": "Tidal Surge Augment: Clears Status Effects and grants 12s of Status Immunity for yourself and allies that come in contact with it. Reduces Tidal Surge's Energy cost to 15.",
+      "wikiLink": "https://wiki.warframe.com/w/Tidal_Impunity",
+      "icon": "items/images/en/tidal_impunity.6414d27def8a8df37d74995e295da154.png",
+      "thumb": "items/images/en/thumbs/tidal_impunity.6414d27def8a8df37d74995e295da154.128x128.png"
+    }
+  }
+}

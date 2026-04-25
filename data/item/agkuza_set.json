@@ -1,0 +1,30 @@
+{
+  "id": "582b0f890af25410b099f7fe",
+  "slug": "agkuza_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon",
+  "tags": [
+    "weapon",
+    "set",
+    "melee",
+    "archwing"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5783bf59d9b6753790c89e98",
+    "5783bf5ed9b6753790c89e99",
+    "5783bf62d9b6753790c89e9a",
+    "582b0f890af25410b099f7fe"
+  ],
+  "reqMasteryRank": 3,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Agkuza Set",
+      "description": "Tear apart incoming enemies with this massive hooked blade.",
+      "wikiLink": "https://wiki.warframe.com/w/Agkuza",
+      "icon": "items/images/en/agkuza_set.037f45c1777df3ce5657b0c40aac04b1.png",
+      "thumb": "items/images/en/thumbs/agkuza_set.037f45c1777df3ce5657b0c40aac04b1.128x128.png"
+    }
+  }
+}

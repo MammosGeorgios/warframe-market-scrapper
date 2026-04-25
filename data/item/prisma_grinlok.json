@@ -1,0 +1,21 @@
+{
+  "id": "5c8693d22cc6ce0bbc095d9c",
+  "slug": "prisma_grinlok",
+  "gameRef": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/PrismaGrinlokWeapon",
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Grinlok",
+      "description": "Prisma-crystal enhancement creates here a prestige instrument; a weapon capable of taking life at astonishing range with but a single pull of its exquisitely-tooled trigger.",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma_Grinlok",
+      "icon": "items/images/en/prisma_grinlok.eebf106cbbb7b962f75b00ce34cb4d20.png",
+      "thumb": "items/images/en/thumbs/prisma_grinlok.eebf106cbbb7b962f75b00ce34cb4d20.128x128.png"
+    }
+  }
+}

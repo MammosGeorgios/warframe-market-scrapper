@@ -1,0 +1,24 @@
+{
+  "id": "60e5b9004794450053e99960",
+  "slug": "equilibrium_audit",
+  "gameRef": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetPrecepts/ZanukaPetAntiMeleePrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "hound"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Equilibrium Audit",
+      "description": "Unleashes a series of shockwaves that knockdown enemies within 15m and deal 300 damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Equilibrium_Audit",
+      "icon": "items/images/en/equilibrium_audit.38c489ece2eb11b1be3f60602a9b56b0.png",
+      "thumb": "items/images/en/thumbs/equilibrium_audit.38c489ece2eb11b1be3f60602a9b56b0.128x128.png"
+    }
+  }
+}

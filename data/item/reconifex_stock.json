@@ -1,0 +1,30 @@
+{
+  "id": "67661f9e47952ab3ea192903",
+  "slug": "reconifex_stock",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStock",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67661f9c47952ab3ea192901",
+    "67661f9d47952ab3ea192902",
+    "675d11b247952ab3ea1928f8",
+    "67661f9e47952ab3ea192903"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reconifex Stock",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Reconifex",
+      "icon": "items/images/en/reconifex_stock.10aa404ed9bd3e72d208a42fc1181b69.webp",
+      "thumb": "items/images/en/thumbs/reconifex_stock.10aa404ed9bd3e72d208a42fc1181b69.128x128.webp",
+      "subIcon": "sub_icons/weapon/generic_stock_128x128.png"
+    }
+  }
+}

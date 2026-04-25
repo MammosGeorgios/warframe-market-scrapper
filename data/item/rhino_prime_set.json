@@ -1,0 +1,31 @@
+{
+  "id": "56783f24cbfa8f0432dd89ab",
+  "slug": "rhino_prime_set",
+  "gameRef": "/Lotus/Powersuits/Rhino/RhinoPrime",
+  "tags": [
+    "set",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff77",
+    "54a73e65e779893a797fff78",
+    "54a73e65e779893a797fff6f",
+    "56783f24cbfa8f0432dd89ab",
+    "54a73e65e779893a797fff7f"
+  ],
+  "ducats": 225,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rhino Prime Set",
+      "description": "Takes Rhino's ground-shaking abilities to the next level with altered mod polarities that offer greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Rhino_Prime",
+      "icon": "items/images/en/rhino_prime_set.22301207f9463fe9ab215e40eb23a326.png",
+      "thumb": "items/images/en/thumbs/rhino_prime_set.22301207f9463fe9ab215e40eb23a326.128x128.png"
+    }
+  }
+}

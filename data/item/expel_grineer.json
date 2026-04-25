@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e515696",
+  "slug": "expel_grineer",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageGrineer",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Expel Grineer",
+      "description": "x1.3 Damage to Grineer",
+      "wikiLink": "https://wiki.warframe.com/w/Expel_Grineer",
+      "icon": "items/images/en/expel_grineer.93ee977e75b55886a5cdcda023bed2a3.png",
+      "thumb": "items/images/en/thumbs/expel_grineer.93ee977e75b55886a5cdcda023bed2a3.128x128.png"
+    }
+  }
+}

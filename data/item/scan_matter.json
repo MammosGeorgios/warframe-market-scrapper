@@ -1,0 +1,24 @@
+{
+  "id": "5be701103ffcc703e462c701",
+  "slug": "scan_matter",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/LocateResources",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "oxylus"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Scan Matter",
+      "description": "Reveals resource containers and mineral deposits within 60m. Automatically breaks containers and collects resources every 3s.",
+      "wikiLink": "https://wiki.warframe.com/w/Scan_Matter",
+      "icon": "items/images/en/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.png",
+      "thumb": "items/images/en/thumbs/scan_matter.725a0529832b4e5b3b5a4d9f6319a1b6.128x128.png"
+    }
+  }
+}

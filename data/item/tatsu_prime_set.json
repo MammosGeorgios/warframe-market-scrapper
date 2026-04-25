@@ -1,0 +1,31 @@
+{
+  "id": "633e2e6af570d10793afb817",
+  "slug": "tatsu_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeTatsu/PrimeTatsuWeapon",
+  "tags": [
+    "weapon",
+    "prime",
+    "melee",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "633e2e6af570d10793afb812",
+    "633e2e6af570d10793afb818",
+    "633e2e6bf570d10793afb81e",
+    "633e2e6af570d10793afb817"
+  ],
+  "ducats": 160,
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tatsu Prime Set",
+      "description": "Tatsu Prime glows with spectral splendor. It grows more powerful with each enemy’s demise, especially when wielded by Revenant.",
+      "wikiLink": "https://wiki.warframe.com/w/Tatsu_Prime",
+      "icon": "items/images/en/tatsu_prime_set.d517fb4c89ed6076ddf26ffdb8efb88e.png",
+      "thumb": "items/images/en/thumbs/tatsu_prime_set.d517fb4c89ed6076ddf26ffdb8efb88e.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "57c20990022d3f62c0d81aa7",
+  "slug": "assimilate",
+  "gameRef": "/Lotus/Powersuits/Jade/SelfBulletAttractorAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nyx",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Assimilate",
+      "description": "Absorb Augment: Nyx can use weapons during Absorb and its duration is infinite, but it consumes 6.5 Energy/s and its area of effect is halved.",
+      "wikiLink": "https://wiki.warframe.com/w/Assimilate",
+      "icon": "items/images/en/assimilate.042003ad4a45c28afa5e6e72d5761c54.png",
+      "thumb": "items/images/en/thumbs/assimilate.042003ad4a45c28afa5e6e72d5761c54.128x128.png"
+    }
+  }
+}

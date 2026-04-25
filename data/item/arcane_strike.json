@@ -1,0 +1,23 @@
+{
+  "id": "551085e4e7798972c7353fb0",
+  "slug": "arcane_strike",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeSpeedOnHit",
+  "tags": [
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Strike",
+      "description": "On Hit:\n15% chance for +60% Attack Speed to Melee Weapons for 18s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Strike",
+      "icon": "items/images/en/arcane_strike.27c40994b55f506fe736175c9cebbf0e.png",
+      "thumb": "items/images/en/thumbs/arcane_strike.27c40994b55f506fe736175c9cebbf0e.128x128.png"
+    }
+  }
+}

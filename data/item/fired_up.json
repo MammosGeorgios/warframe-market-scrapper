@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e51569b",
+  "slug": "fired_up",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/SentinelOverheatDamageMod",
+  "tags": [
+    "mod",
+    "sentinel",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fired Up",
+      "description": "5% Heat Damage on weapon per hit. Stacks up to 100%. Resets after 5s with no hits.",
+      "wikiLink": "https://wiki.warframe.com/w/Fired_Up",
+      "icon": "items/images/en/fired_up.33e41b63a3f193f1e801b503a1afb585.png",
+      "thumb": "items/images/en/thumbs/fired_up.33e41b63a3f193f1e801b503a1afb585.128x128.png"
+    }
+  }
+}

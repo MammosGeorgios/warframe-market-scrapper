@@ -1,0 +1,24 @@
+{
+  "id": "67db60849cec3e52e62523f0",
+  "slug": "cataclysmic_gate",
+  "gameRef": "/Lotus/Powersuits/Wisp/WispSunAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "wisp",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cataclysmic Gate",
+      "description": "Sol Gate Augment : Wisp and 2 spectral images cast a single blast of Sol Gate, leaving an area with 500 Heat Damage / Second with guaranteed Heat and Radiation Status Effects for 10s.",
+      "icon": "items/images/en/cataclysmic_gate.d10ed0788b9090b251aaf2578c221e74.webp",
+      "thumb": "items/images/en/thumbs/cataclysmic_gate.d10ed0788b9090b251aaf2578c221e74.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5ce7fd88d23a3b00908c4216",
+  "slug": "gale_kick",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/WarframeMightyKickMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gale Kick",
+      "description": "+100% of Melee Damage converted to Impact Damage on Jump Kick, knocking down nearby enemies on kill.",
+      "wikiLink": "https://wiki.warframe.com/w/Gale_Kick",
+      "icon": "items/images/en/gale_kick.df7464675f52fc74c5273bea84ec6e13.png",
+      "thumb": "items/images/en/thumbs/gale_kick.df7464675f52fc74c5273bea84ec6e13.128x128.png"
+    }
+  }
+}

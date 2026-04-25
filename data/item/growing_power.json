@@ -1,0 +1,23 @@
+{
+  "id": "57c05949d0d9ef638234e4ab",
+  "slug": "growing_power",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestCritToAbilityAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Growing Power",
+      "description": "On Status Effect with Weapon: Squad increases personal Ability Strength by 25% for 6s.",
+      "wikiLink": "https://wiki.warframe.com/w/Growing_Power",
+      "icon": "items/images/en/growing_power.9afc4cbee02acdde54e5f875b8048202.png",
+      "thumb": "items/images/en/thumbs/growing_power.9afc4cbee02acdde54e5f875b8048202.128x128.png"
+    }
+  }
+}

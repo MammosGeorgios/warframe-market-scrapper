@@ -1,0 +1,24 @@
+{
+  "id": "67db60859cec3e52e62523f3",
+  "slug": "fused_crucible",
+  "gameRef": "/Lotus/Powersuits/ConcreteFrame/ConcreteLaserAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "qorvex",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fused Crucible",
+      "description": "Crucible Blast Augment: Becomes a channeled ability consuming 20 Energy/s that ramps up. While active Chyrinka Pillars trigger chain reactions and their duration is frozen. Mobility is greatly reduced.",
+      "icon": "items/images/en/fused_crucible.5034790b46d86f81e5459d0d034f18f3.webp",
+      "thumb": "items/images/en/thumbs/fused_crucible.5034790b46d86f81e5459d0d034f18f3.128x128.webp"
+    }
+  }
+}

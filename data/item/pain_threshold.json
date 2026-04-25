@@ -1,0 +1,23 @@
+{
+  "id": "580e392dca550948410af0ab",
+  "slug": "pain_threshold",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/Events/AvatarStaggerRecoveryMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pain Threshold",
+      "description": "+160% Faster Stagger Recovery",
+      "wikiLink": "https://wiki.warframe.com/w/Pain_Threshold",
+      "icon": "items/images/en/pain_threshold.734138fbeec37d2b7f270d646283595e.png",
+      "thumb": "items/images/en/thumbs/pain_threshold.734138fbeec37d2b7f270d646283595e.128x128.png"
+    }
+  }
+}

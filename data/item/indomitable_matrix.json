@@ -1,0 +1,23 @@
+{
+  "id": "6056348390a69e004e86287c",
+  "slug": "indomitable_matrix",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Piloting/ZektiSiegeMatrixAura",
+  "tags": [
+    "mod",
+    "uncommon",
+    "railjack"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Indomitable Matrix",
+      "description": "-18% Breach Chance\n+22% Shield Recharge during Breach\n+30% Armor when below 53% Hull",
+      "wikiLink": "https://wiki.warframe.com/w/Indomitable_Matrix",
+      "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
+      "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png"
+    }
+  }
+}

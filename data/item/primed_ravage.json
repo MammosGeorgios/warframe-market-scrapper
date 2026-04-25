@@ -1,0 +1,24 @@
+{
+  "id": "54c685c4e77989137eb0f9be",
+  "slug": "primed_ravage",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Ravage",
+      "description": "+110% Critical Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Ravage",
+      "icon": "items/images/en/primed_ravage.a0c43849bce0a4b4b68b54a3d799d314.png",
+      "thumb": "items/images/en/thumbs/primed_ravage.a0c43849bce0a4b4b68b54a3d799d314.128x128.png"
+    }
+  }
+}

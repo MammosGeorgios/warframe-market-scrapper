@@ -1,0 +1,23 @@
+{
+  "id": "55c15430e779895dc0c17945",
+  "slug": "seismic_wave",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeSlamDamageMod",
+  "tags": [
+    "mod",
+    "melee",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Seismic Wave",
+      "description": "+200% Slam Attack Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Seismic_Wave",
+      "icon": "items/images/en/seismic_wave.e6eff1df92f0d295abf54746067b9e70.png",
+      "thumb": "items/images/en/thumbs/seismic_wave.e6eff1df92f0d295abf54746067b9e70.128x128.png"
+    }
+  }
+}

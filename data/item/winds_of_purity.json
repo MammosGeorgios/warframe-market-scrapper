@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e51569a",
+  "slug": "winds_of_purity",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/FurisMod",
+  "tags": [
+    "furis",
+    "syndicate",
+    "secondary",
+    "mod",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Winds Of Purity",
+      "description": "+20% Life Steal\n+1 'Purity'",
+      "wikiLink": "https://wiki.warframe.com/w/Winds_of_Purity",
+      "icon": "items/images/en/winds_of_purity.1ddc46bdcc0721c654edf27fe0e430cb.png",
+      "thumb": "items/images/en/thumbs/winds_of_purity.1ddc46bdcc0721c654edf27fe0e430cb.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5dbe9b157ea27b0ffe3ca28a",
+  "slug": "split_flights",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/BowMultiShotOnHitMod",
+  "tags": [
+    "mod",
+    "rare",
+    "bow",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Split Flights",
+      "description": "On Hit:\n+100% Multishot\n-180% Accuracy for 2s. Stacks up to 4x.\n(Non-AOE Bows)",
+      "wikiLink": "https://wiki.warframe.com/w/Split_Flights",
+      "icon": "items/images/en/split_flights.6d6878ae710916731799c8be89d29426.png",
+      "thumb": "items/images/en/thumbs/split_flights.6d6878ae710916731799c8be89d29426.128x128.png"
+    }
+  }
+}

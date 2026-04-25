@@ -1,0 +1,33 @@
+{
+  "id": "682dfa9835715d4f3e9c64ea",
+  "slug": "yareli_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/YareliPrimeSystemsBlueprint",
+  "tags": [
+    "component",
+    "warframe",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "682dfa9835715d4f3e9c64e7",
+    "682dfa9835715d4f3e9c64e9",
+    "682dfa9835715d4f3e9c64e8",
+    "682dfa9835715d4f3e9c64e6",
+    "682dfa9835715d4f3e9c64ea"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Yareli Prime Systems Blueprint",
+      "description": "Systems component of the Yareli Prime Warframe.",
+      "icon": "items/images/en/yareli_prime_systems_blueprint.80badf98bdde8e0c47cac61aa6149ea0.webp",
+      "thumb": "items/images/en/thumbs/yareli_prime_systems_blueprint.80badf98bdde8e0c47cac61aa6149ea0.128x128.webp",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

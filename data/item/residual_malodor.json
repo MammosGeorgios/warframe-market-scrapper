@@ -1,0 +1,23 @@
+{
+  "id": "5fb84768c34da3004797d54f",
+  "slug": "residual_malodor",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Residual Malodor",
+      "description": "On Kitgun Kill:\n20% chance to create a frigid mist for 12s, dealing 40 Cold Damage/s. Standing in the area applies Cold Damage to Theorem Arcanes.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Residual_Malodor",
+      "icon": "items/images/en/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.png",
+      "thumb": "items/images/en/thumbs/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.128x128.png"
+    }
+  }
+}

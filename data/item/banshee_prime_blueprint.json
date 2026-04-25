@@ -1,0 +1,33 @@
+{
+  "id": "58b57068eb26db5c3119210a",
+  "slug": "banshee_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeBlueprint",
+  "tags": [
+    "warframe",
+    "blueprint",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "58b57068eb26db5c3119210a",
+    "58b57068eb26db5c3119210c",
+    "58b57068eb26db5c3119210b",
+    "58b57068eb26db5c3119210e",
+    "58b57068eb26db5c3119210d"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Banshee Prime Blueprint",
+      "description": "Banshee Prime assails her foes by manipulating sonic forces to deadly effect. Featuring altered mod polarities for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Banshee_Prime",
+      "icon": "items/images/en/banshee_prime_blueprint.a0956816beb733841bce57e69a568cd6.png",
+      "thumb": "items/images/en/thumbs/banshee_prime_blueprint.a0956816beb733841bce57e69a568cd6.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5c196fb096037800ddadac18",
+  "slug": "akjagara_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkjagaraPrimeReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5c196fac96037800ddadac12",
+    "5c196fad96037800ddadac13",
+    "5c196fb496037800ddadac1a",
+    "5c196fb096037800ddadac18",
+    "5c196fae96037800ddadac15"
+  ],
+  "quantityInSet": 2,
+  "ducats": 45,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akjagara Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Akjagara_Prime",
+      "icon": "items/images/en/akjagara_prime_receiver.5ed111e5dcb3df5d57c5411849c113e4.png",
+      "thumb": "items/images/en/thumbs/akjagara_prime_receiver.5ed111e5dcb3df5d57c5411849c113e4.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

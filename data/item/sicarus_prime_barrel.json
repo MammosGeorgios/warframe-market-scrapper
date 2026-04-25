@@ -1,0 +1,32 @@
+{
+  "id": "54a73e65e779893a797fff5e",
+  "slug": "sicarus_prime_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/SicarusPrimeBarrel",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff5e",
+    "54a73e65e779893a797fff5f",
+    "54a73e65e779893a797fff60",
+    "56783f24cbfa8f0432dd89ad"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sicarus Prime Barrel",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Sicarus_Prime",
+      "icon": "items/images/en/sicarus_prime_barrel.e7c07172e6d63d49ae349d508c56fc85.png",
+      "thumb": "items/images/en/thumbs/sicarus_prime_barrel.e7c07172e6d63d49ae349d508c56fc85.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
+    }
+  }
+}

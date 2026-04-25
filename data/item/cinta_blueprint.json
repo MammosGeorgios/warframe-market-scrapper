@@ -1,0 +1,33 @@
+{
+  "id": "665d132c941a9cc3e8b9014b",
+  "slug": "cinta_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/DaxDuviriAsymmetricalLongBowPlayerWeaponBlueprint",
+  "tags": [
+    "weapon",
+    "primary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "665d132c941a9cc3e8b9014b",
+    "645104637ec190030e510937",
+    "645104637ec190030e51093a",
+    "645104637ec190030e510939",
+    "645104637ec190030e510938",
+    "645104637ec190030e510936"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 6,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cinta Blueprint",
+      "description": "The versatile Cinta can fire arrows in quick succession, quickly charge a shock wave, or fully charge a powerful focused shot.",
+      "wikiLink": "https://wiki.warframe.com/w/Cinta",
+      "icon": "items/images/en/cinta_blueprint.b194993855e39e7e4c47706e7344736e.png",
+      "thumb": "items/images/en/thumbs/cinta_blueprint.b194993855e39e7e4c47706e7344736e.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

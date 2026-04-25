@@ -1,0 +1,33 @@
+{
+  "id": "65a7fca4ed5b0d2e3eb462cd",
+  "slug": "akarius_prime_link",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkariusPrimeLink",
+  "tags": [
+    "prime",
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "65a7fca4ed5b0d2e3eb462cb",
+    "65a7fca4ed5b0d2e3eb462ca",
+    "65a7fca4ed5b0d2e3eb462cd",
+    "65a7fca4ed5b0d2e3eb462cc",
+    "65a7fca4ed5b0d2e3eb462c9"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akarius Prime Link",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Akarius_Prime",
+      "icon": "items/images/en/akarius_prime_link.9e88bceafe14482e1a01672c1c292fe1.png",
+      "thumb": "items/images/en/thumbs/akarius_prime_link.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_link_128x128.png"
+    }
+  }
+}

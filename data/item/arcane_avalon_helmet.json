@@ -1,0 +1,20 @@
+{
+  "id": "54aaf1d2e77989786a5f748b",
+  "slug": "arcane_avalon_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAlt",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Avalon Helmet",
+      "description": "This helmet is worn by Excalibur, increases Shields at the expense of Health.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Helmet",
+      "icon": "items/images/en/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.png",
+      "thumb": "items/images/en/thumbs/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.128x128.png"
+    }
+  }
+}

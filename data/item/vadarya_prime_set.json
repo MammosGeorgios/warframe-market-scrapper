@@ -1,0 +1,31 @@
+{
+  "id": "68add07d731e63abe79a5d15",
+  "slug": "vadarya_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeLightningGun/PrimeLightningGun",
+  "tags": [
+    "weapon",
+    "primary",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "68add07d731e63abe79a5d17",
+    "68add07d731e63abe79a5d16",
+    "68add07d731e63abe79a5d18",
+    "68add07d731e63abe79a5d15",
+    "68add07d731e63abe79a5d19"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 15,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vadarya Prime Set",
+      "description": "Caliban Prime's signature sniper rifle is no mere ceremonial weapon. A sign, perhaps, that peace between Orokin and Sentient was destined to be fleeting. Struck enemies become lightning rods, with a chance to attract bolts of chain lightning that can jump to nearby enemies.",
+      "icon": "items/images/en/vadarya_prime_set.0456477036c7f0194f3db68594ca85ab.webp",
+      "thumb": "items/images/en/thumbs/vadarya_prime_set.0456477036c7f0194f3db68594ca85ab.128x128.webp"
+    }
+  }
+}

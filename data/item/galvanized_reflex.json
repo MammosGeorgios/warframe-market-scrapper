@@ -1,0 +1,24 @@
+{
+  "id": "66fd6c933a826eccf651cd84",
+  "slug": "galvanized_reflex",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponHeavyAttackEfficiencySPSubMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galvanized Reflex",
+      "description": "On Melee Kill:\n+20 Initial Combo for 20s. Stacks up to 4x.",
+      "wikiLink": "https://wiki.warframe.com/w/Galvanized_Reflex",
+      "icon": "items/images/en/galvanized_reflex.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/galvanized_reflex.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

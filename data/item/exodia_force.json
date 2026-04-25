@@ -1,0 +1,23 @@
+{
+  "id": "5a04750b6c4655012038ddc9",
+  "slug": "exodia_force",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusTriggerRadialDamage",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Exodia Force",
+      "description": "On Status Effect:\n50% chance to deal 200% Weapon Damage to enemies within 6m.",
+      "wikiLink": "https://wiki.warframe.com/w/Exodia_Force",
+      "icon": "items/images/en/exodia_force.3777cf3132503f972624ac56c1731743.png",
+      "thumb": "items/images/en/thumbs/exodia_force.3777cf3132503f972624ac56c1731743.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4e4",
+  "slug": "overcharge_detectors",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EffectOnFullEnergyMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Overcharge Detectors",
+      "description": "Exposes enemies at maximum Energy Capacity within 30m.",
+      "wikiLink": "https://wiki.warframe.com/w/Overcharge_Detectors",
+      "icon": "items/images/en/overcharge_detectors.b9a371b79d26b7eb4a755729147a8ca7.png",
+      "thumb": "items/images/en/thumbs/overcharge_detectors.b9a371b79d26b7eb4a755729147a8ca7.128x128.png"
+    }
+  }
+}

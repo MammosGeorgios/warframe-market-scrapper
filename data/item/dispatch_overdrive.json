@@ -1,0 +1,23 @@
+{
+  "id": "58446f672c2ada00485f0fce",
+  "slug": "dispatch_overdrive",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/MoveSpeedOnChannelKillMod",
+  "tags": [
+    "mod",
+    "melee",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dispatch Overdrive",
+      "description": "On Heavy Attack Hit:\n+60% Movement Speed for 15s",
+      "wikiLink": "https://wiki.warframe.com/w/Dispatch_Overdrive",
+      "icon": "items/images/en/dispatch_overdrive.26aea9b40f1e9d1ffec5f83a7bff5fad.png",
+      "thumb": "items/images/en/thumbs/dispatch_overdrive.26aea9b40f1e9d1ffec5f83a7bff5fad.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6877cae9731e63abe79a5d02",
+  "slug": "scholars_landing_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriScholarsLandingMITW",
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Scholar's Landing Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/scholars_landing_scene.e0e8f05e4099791b466423901e225df1.webp",
+      "thumb": "items/images/en/thumbs/scholars_landing_scene.e0e8f05e4099791b466423901e225df1.128x128.webp"
+    }
+  }
+}

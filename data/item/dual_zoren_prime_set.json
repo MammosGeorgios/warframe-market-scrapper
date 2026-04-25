@@ -1,0 +1,30 @@
+{
+  "id": "67acd912125398d92c8bb4e5",
+  "slug": "dual_zoren_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeZoren/PrimeZorenAxeWeapon",
+  "tags": [
+    "melee",
+    "weapon",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "67acd915125398d92c8bb4e8",
+    "67acd913125398d92c8bb4e6",
+    "67acd914125398d92c8bb4e7",
+    "67acd912125398d92c8bb4e5"
+  ],
+  "ducats": 275,
+  "reqMasteryRank": 13,
+  "tradingTax": 10000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dual Zoren Prime Set",
+      "description": "Axes worthy of an executioner, refined to Orokin perfection.",
+      "icon": "items/images/en/dual_zoren_prime_set.d98ec2f1e8178524255002d3f248089f.webp",
+      "thumb": "items/images/en/thumbs/dual_zoren_prime_set.d98ec2f1e8178524255002d3f248089f.128x128.webp"
+    }
+  }
+}

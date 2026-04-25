@@ -1,0 +1,18 @@
+{
+  "id": "626a1979f40db600660a1d7e",
+  "slug": "zariman_schoolyard_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarSchool",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zariman Schoolyard Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/zariman_classroom_scene.4dc36a5bf318f5971c0a1f5fc21a0a1e.png",
+      "thumb": "items/images/en/thumbs/zariman_classroom_scene.4dc36a5bf318f5971c0a1f5fc21a0a1e.128x128.png"
+    }
+  }
+}

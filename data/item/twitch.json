@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a500",
+  "slug": "twitch",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HolsterSpeedBonusMod",
+  "tags": [
+    "primary",
+    "uncommon",
+    "pvp",
+    "rifle",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Twitch",
+      "description": "On Equip: -40% Weapon Recoil and +40% Accuracy for 8s",
+      "wikiLink": "https://wiki.warframe.com/w/Twitch",
+      "icon": "items/images/en/twitch.68504ad3e5c72b7885dbdb4f0a99ee0c.png",
+      "thumb": "items/images/en/thumbs/twitch.68504ad3e5c72b7885dbdb4f0a99ee0c.128x128.png"
+    }
+  }
+}

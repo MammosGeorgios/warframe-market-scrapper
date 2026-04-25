@@ -1,0 +1,24 @@
+{
+  "id": "5f498a219426ed00443bd0aa",
+  "slug": "infectious_bite",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorInfectiousBitePrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "medjay_predasite"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Infectious Bite",
+      "description": "An attack that deals +200% Finisher Damage and infects the target with a Virus that grows 4 volatile pustules that react to damage and explode.",
+      "wikiLink": "https://wiki.warframe.com/w/Infectious_Bite",
+      "icon": "items/images/en/infectious_bite.ac34b12fe1e906cab5394254ddb5ee46.png",
+      "thumb": "items/images/en/thumbs/infectious_bite.ac34b12fe1e906cab5394254ddb5ee46.128x128.png"
+    }
+  }
+}

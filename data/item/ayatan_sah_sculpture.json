@@ -1,0 +1,24 @@
+{
+  "id": "57e91e65c76eb74c087f4931",
+  "slug": "ayatan_sah_sculpture",
+  "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexA",
+  "tags": [
+    "ayatan_sculpture"
+  ],
+  "bulkTradable": true,
+  "maxAmberStars": 1,
+  "maxCyanStars": 2,
+  "baseEndo": 300,
+  "endoMultiplier": 2,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ayatan Sah Sculpture",
+      "description": "This kinetic Orokin sculpture springs to life when filled with Ayatan Stars. It may also be a source of Endo.",
+      "wikiLink": "https://wiki.warframe.com/w/Ayatan_Anasa_Sculpture",
+      "icon": "items/images/en/ayatan_sah_sculpture.29dc05cf1143890b000ce67f6af4660c.png",
+      "thumb": "items/images/en/thumbs/ayatan_sah_sculpture.29dc05cf1143890b000ce67f6af4660c.128x128.png"
+    }
+  }
+}

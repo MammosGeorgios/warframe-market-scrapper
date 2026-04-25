@@ -1,0 +1,23 @@
+{
+  "id": "59dfeb5c115f1d887cfd7ab3",
+  "slug": "gladiator_aegis",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Gladiator/WarframeGladiatorAegisMod",
+  "tags": [
+    "mod",
+    "common",
+    "warframe"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gladiator Aegis",
+      "description": "+40% Armor",
+      "wikiLink": "https://warframe.fandom.com/wiki/Gladiator_Aegis",
+      "icon": "items/images/en/gladiator_aegis.b090c523158aaeb9625bdca8df150372.png",
+      "thumb": "items/images/en/thumbs/gladiator_aegis.b090c523158aaeb9625bdca8df150372.128x128.png"
+    }
+  }
+}

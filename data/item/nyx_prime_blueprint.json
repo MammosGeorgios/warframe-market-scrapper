@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff72",
+  "slug": "nyx_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/NyxPrimeBlueprint",
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff72",
+    "54a73e65e779893a797fff73",
+    "54a73e65e779893a797fff71",
+    "56783f24cbfa8f0432dd89a6",
+    "54a73e65e779893a797fff76"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nyx Prime Blueprint",
+      "description": "Infiltrate the minds of your enemies with Nyx Prime. Featuring altered mod polarities for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Nyx_Prime",
+      "icon": "items/images/en/nyx_prime_blueprint.fd41c04c9e9bcc7e0e6963914f68f880.png",
+      "thumb": "items/images/en/thumbs/nyx_prime_blueprint.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

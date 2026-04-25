@@ -1,0 +1,23 @@
+{
+  "id": "566751b75dcbc186f0536bd5",
+  "slug": "arcane_ultimatum",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneArmorOnFinisher",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Ultimatum",
+      "description": "On Finisher Kill:\n+1200 Armor for 45s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Ultimatum",
+      "icon": "items/images/en/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.png",
+      "thumb": "items/images/en/thumbs/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.128x128.png"
+    }
+  }
+}

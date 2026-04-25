@@ -1,0 +1,25 @@
+{
+  "id": "5526aec1e779896af9418260",
+  "slug": "hushed_invisibility",
+  "gameRef": "/Lotus/Powersuits/Loki/InvisibilityAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "loki",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hushed Invisibility",
+      "description": "Invisibility Augment: Weapon noise is reduced by 100% while invisible.",
+      "wikiLink": "https://wiki.warframe.com/w/Hushed_Invisibility",
+      "icon": "items/images/en/hushed_invisibility.d13d04f2ee52db1b892c0246cbbe8a80.png",
+      "thumb": "items/images/en/thumbs/hushed_invisibility.d13d04f2ee52db1b892c0246cbbe8a80.128x128.png"
+    }
+  }
+}

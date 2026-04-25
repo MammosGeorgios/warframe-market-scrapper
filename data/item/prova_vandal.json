@@ -1,0 +1,21 @@
+{
+  "id": "56153f4cb66f837080b7120d",
+  "slug": "prova_vandal",
+  "gameRef": "/Lotus/Weapons/ClanTech/Energy/VandalElectroProd",
+  "tags": [
+    "weapon",
+    "melee"
+  ],
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prova Vandal",
+      "description": "A customized version of the vicious Prova, with metallic finish and Lotus decal.",
+      "wikiLink": "https://wiki.warframe.com/w/Prova_Vandal",
+      "icon": "items/images/en/prova_vandal.05e4450f5ba01240165a9b0f63c7e973.png",
+      "thumb": "items/images/en/thumbs/prova_vandal.05e4450f5ba01240165a9b0f63c7e973.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "67351810db3ac2cfade14a86",
+  "slug": "neo_g8_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeC",
+  "tags": [
+    "neo",
+    "relic"
+  ],
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Neo G8 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/neo_g8_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "thumb": "items/images/en/thumbs/neo_g8_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  }
+}

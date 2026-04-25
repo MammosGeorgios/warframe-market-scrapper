@@ -1,0 +1,24 @@
+{
+  "id": "5914639e6b46c14200a37888",
+  "slug": "fulmination",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/AmbulasEvent/SecondaryExplosionRadiusMod",
+  "tags": [
+    "mod",
+    "pistol",
+    "secondary",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fulmination",
+      "description": "Improves the Blast Radius of weapons with Radial Attacks. +24% Blast Range",
+      "wikiLink": "https://wiki.warframe.com/w/Fulmination",
+      "icon": "items/images/en/fulmination.dd67c2c78640367e5e6cfd94435cf100.png",
+      "thumb": "items/images/en/thumbs/fulmination.dd67c2c78640367e5e6cfd94435cf100.128x128.png"
+    }
+  }
+}

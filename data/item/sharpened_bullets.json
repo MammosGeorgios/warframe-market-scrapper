@@ -1,0 +1,24 @@
+{
+  "id": "56a7b2801133f656cb085d8c",
+  "slug": "sharpened_bullets",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/CritDamageWhileAimingPistolMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sharpened Bullets",
+      "description": "On Kill:\n+75% Critical Damage when Aiming for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Sharpened_Bullets",
+      "icon": "items/images/en/sharpened_bullets.e2574bfc3a35927af69218dd4f48a6f6.png",
+      "thumb": "items/images/en/thumbs/sharpened_bullets.e2574bfc3a35927af69218dd4f48a6f6.128x128.png"
+    }
+  }
+}

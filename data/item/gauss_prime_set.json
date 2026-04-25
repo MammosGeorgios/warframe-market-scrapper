@@ -1,0 +1,31 @@
+{
+  "id": "65a7fc5aed5b0d2e3eb462b2",
+  "slug": "gauss_prime_set",
+  "gameRef": "/Lotus/Powersuits/Runner/GaussPrime",
+  "tags": [
+    "prime",
+    "warframe",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "65a7fc5aed5b0d2e3eb462b3",
+    "65a7fc5aed5b0d2e3eb462b5",
+    "65a7fc5aed5b0d2e3eb462b4",
+    "65a7fc5aed5b0d2e3eb462b2",
+    "65a7fc5aed5b0d2e3eb462b6"
+  ],
+  "ducats": 185,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gauss Prime Set",
+      "description": "Quicksilver takes form. Gauss Prime brooks no talk of defeat.",
+      "wikiLink": "https://wiki.warframe.com/w/Gauss_Prime",
+      "icon": "items/images/en/gauss_prime_set.df5aa569d863730a4de767fd449c107e.png",
+      "thumb": "items/images/en/thumbs/gauss_prime_set.df5aa569d863730a4de767fd449c107e.128x128.png"
+    }
+  }
+}

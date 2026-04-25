@@ -1,0 +1,23 @@
+{
+  "id": "59dfeb5c115f1d887cfd7ab8",
+  "slug": "gladiator_vice",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Gladiator/MeleeGladiatorViceMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gladiator Vice",
+      "description": "+30% Attack Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Gladiator_Vice",
+      "icon": "items/images/en/gladiator_vice.8439406db915505dbb8a387dc6b4e416.png",
+      "thumb": "items/images/en/thumbs/gladiator_vice.8439406db915505dbb8a387dc6b4e416.128x128.png"
+    }
+  }
+}

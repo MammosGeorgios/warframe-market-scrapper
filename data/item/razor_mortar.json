@@ -1,0 +1,24 @@
+{
+  "id": "685d4fdbf41598dddb4cc2f8",
+  "slug": "razor_mortar",
+  "gameRef": "/Lotus/Powersuits/Sentient/SentientWhirlwindAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "caliban",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Razor Mortar",
+      "description": "Razor Gyre Augment: Groups enemies together, while Lethal Progeny's Ortholysts focus fire on those enemies with +70% Electricity Damage and Fire Rate for 6s.",
+      "icon": "items/images/en/razor_mortar.e7efa4bdcc9ff8de1497a34173cbf890.webp",
+      "thumb": "items/images/en/thumbs/razor_mortar.e7efa4bdcc9ff8de1497a34173cbf890.128x128.webp"
+    }
+  }
+}

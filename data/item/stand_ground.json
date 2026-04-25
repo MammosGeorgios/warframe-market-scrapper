@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4f9",
+  "slug": "stand_ground",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Melee/AbilityDamageBlockMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stand Ground",
+      "description": "Blocking reduces damage taken from enemy abilities by 60%.",
+      "wikiLink": "https://wiki.warframe.com/w/Stand_Ground",
+      "icon": "items/images/en/stand_ground.363d438b54e942781d9db3665d197a59.png",
+      "thumb": "items/images/en/thumbs/stand_ground.363d438b54e942781d9db3665d197a59.128x128.png"
+    }
+  }
+}

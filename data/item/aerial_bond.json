@@ -1,0 +1,24 @@
+{
+  "id": "653169d3f31453d36319c575",
+  "slug": "aerial_bond",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/VoidBond/Copilot",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Aerial Bond",
+      "description": "Airborne kills decrease Companion Recovery timer by 3s and 9s for headshot kills. Companion creates a field of cold that increases up to 35% and 10m radius while Warframe is airborne, lasting for 3s after returning to ground.",
+      "wikiLink": "https://wiki.warframe.com/w/Aerial_Bond",
+      "icon": "items/images/en/aerial_bond.0c83c8838ad44a1ad6212fcc0d6ea7fb.png",
+      "thumb": "items/images/en/thumbs/aerial_bond.0c83c8838ad44a1ad6212fcc0d6ea7fb.128x128.png"
+    }
+  }
+}

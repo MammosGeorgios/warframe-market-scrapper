@@ -1,0 +1,25 @@
+{
+  "id": "578390a2d9b6753790c89e84",
+  "slug": "nebula_bore",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatPunctureStatusMeleeMod",
+  "tags": [
+    "rare",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nebula Bore",
+      "description": "+90% Puncture",
+      "wikiLink": "https://wiki.warframe.com/w/Nebula_Bore",
+      "icon": "items/images/en/nebula_bore.fd708a4b4dcd2f8a9c8fc0b16a351a7d.png",
+      "thumb": "items/images/en/thumbs/nebula_bore.fd708a4b4dcd2f8a9c8fc0b16a351a7d.128x128.png"
+    }
+  }
+}

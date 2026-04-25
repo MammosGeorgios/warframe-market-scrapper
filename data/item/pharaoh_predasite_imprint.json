@@ -1,0 +1,21 @@
+{
+  "id": "62d3078680f54c00b5ddf5d1",
+  "slug": "pharaoh_predasite_imprint",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/PharaohPredatorKubrowPetPowerSuit",
+  "tags": [
+    "kubrow",
+    "pet",
+    "imprint"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pharaoh Predasite Imprint",
+      "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Pharaoh_Predasite",
+      "icon": "items/images/en/pharaoh_predasite_imprint.bbae682e5bcf50e30380da7b9be7945e.png",
+      "thumb": "items/images/en/thumbs/pharaoh_predasite_imprint.bbae682e5bcf50e30380da7b9be7945e.128x128.png"
+    }
+  }
+}

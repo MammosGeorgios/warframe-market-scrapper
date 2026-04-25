@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155f7",
+  "slug": "loot_detector",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/PlayerLootRadarAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Loot Detector",
+      "description": "Minimap shows loot crates. Squad receives +30 Loot Radar",
+      "wikiLink": "https://wiki.warframe.com/w/Loot_Detector",
+      "icon": "items/images/en/loot_detector.6aa5548d69fc0e07a731d65c9845c6f9.png",
+      "thumb": "items/images/en/thumbs/loot_detector.6aa5548d69fc0e07a731d65c9845c6f9.128x128.png"
+    }
+  }
+}

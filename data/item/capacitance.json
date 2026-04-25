@@ -1,0 +1,25 @@
+{
+  "id": "5526aec0e779896af941825e",
+  "slug": "capacitance",
+  "gameRef": "/Lotus/Powersuits/Volt/OverloadAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "volt"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Capacitance",
+      "description": "Discharge Augment: Converts 3% of Damage dealt into Shields split between Volt and Squadmates.",
+      "wikiLink": "https://wiki.warframe.com/w/Capacitance",
+      "icon": "items/images/en/capacitance.d58fa98b900e20e34c6e9efb597a8f0d.png",
+      "thumb": "items/images/en/thumbs/capacitance.d58fa98b900e20e34c6e9efb597a8f0d.128x128.png"
+    }
+  }
+}

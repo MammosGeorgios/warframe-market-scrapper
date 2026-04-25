@@ -1,0 +1,18 @@
+{
+  "id": "675c61627b18977f6e645400",
+  "slug": "höllvanian_intersection_in_winter",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetJekabpils",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Höllvanian Intersection In Winter Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/höllvanian_intersection_in_winter.2d0d55f1d75f98af5a4bb4455abb3eb9.webp",
+      "thumb": "items/images/en/thumbs/höllvanian_intersection_in_winter.2d0d55f1d75f98af5a4bb4455abb3eb9.128x128.webp"
+    }
+  }
+}

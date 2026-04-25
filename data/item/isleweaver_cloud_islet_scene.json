@@ -1,0 +1,19 @@
+{
+  "id": "6877cad6731e63abe79a5cfe",
+  "slug": "isleweaver_cloud_islet_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapJ",
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Isleweaver Cloud Islet Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/isleweaver_cloud_islet_scene.1f5d4c62832a88e9e9e5e02dc61f0b91.webp",
+      "thumb": "items/images/en/thumbs/isleweaver_cloud_islet_scene.1f5d4c62832a88e9e9e5e02dc61f0b91.128x128.webp"
+    }
+  }
+}

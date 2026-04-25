@@ -1,0 +1,23 @@
+{
+  "id": "55a46912e77989020f0a68d9",
+  "slug": "sinister_reach",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponBeamDistanceMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sinister Reach",
+      "description": "+12m Beam Range",
+      "wikiLink": "https://wiki.warframe.com/w/Sinister_Reach",
+      "icon": "items/images/en/sinister_reach.00fe6e847ea514728bf3c7ce6c6fe673.png",
+      "thumb": "items/images/en/thumbs/sinister_reach.00fe6e847ea514728bf3c7ce6c6fe673.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "685d4f1ef41598dddb4cc2f2",
+  "slug": "spontaneous_singularity",
+  "gameRef": "/Lotus/Upgrades/Mods/Nightwave/NightwaveCephPrimaryAugmentMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "simulor"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Spontaneous Singularity",
+      "description": "Orbs that strike targets will explode immediately with 90% Bonus Damage and a 18% chance of Singularity that pulls in more targets. Orbs do not bounce or combine.",
+      "icon": "items/images/en/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.webp",
+      "thumb": "items/images/en/thumbs/spontaneous_singularity.44bf408dc4fc55d0119a6792667631f0.128x128.webp"
+    }
+  }
+}

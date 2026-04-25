@@ -1,0 +1,22 @@
+{
+  "id": "693e6add03903ae8993ffb06",
+  "slug": "esti_vel_ikha",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/DashDistanceSchools",
+  "tags": [
+    "mod",
+    "rare",
+    "any"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Esti Vel-Ikha",
+      "description": "Increases maximum Void Sling distance by +30%.\n+10% Void Sling radius for each Mod from a unique School",
+      "icon": "items/images/en/esti_vel_ikha.e085545ccecd182c4ee58db16da03b12.webp",
+      "thumb": "items/images/en/thumbs/esti_vel_ikha.e085545ccecd182c4ee58db16da03b12.128x128.webp"
+    }
+  }
+}

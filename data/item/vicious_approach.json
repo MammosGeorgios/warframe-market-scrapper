@@ -1,0 +1,25 @@
+{
+  "id": "5be5f5a13ffcc7038857f110",
+  "slug": "vicious_approach",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPPunchKickStanceOne",
+  "tags": [
+    "sparring",
+    "uncommon",
+    "stance",
+    "pvp",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vicious Approach",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Vicious_Approach",
+      "icon": "items/images/en/vicious_approach.4ed4f3c55e9a8ec701ce0b61c7424de6.png",
+      "thumb": "items/images/en/thumbs/vicious_approach.4ed4f3c55e9a8ec701ce0b61c7424de6.128x128.png"
+    }
+  }
+}

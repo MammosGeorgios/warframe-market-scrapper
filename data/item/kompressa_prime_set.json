@@ -1,0 +1,30 @@
+{
+  "id": "682dfb8835715d4f3e9c64f3",
+  "slug": "kompressa_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeKompressa/PrimeKompressa",
+  "tags": [
+    "secondary",
+    "weapon",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "682dfb8835715d4f3e9c64f5",
+    "682dfb8835715d4f3e9c64f4",
+    "682dfb8835715d4f3e9c64f6",
+    "682dfb8835715d4f3e9c64f3"
+  ],
+  "ducats": 160,
+  "reqMasteryRank": 13,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kompressa Prime Set",
+      "description": "Glinting like a golden dawn, Yareli Prime’s signature pistol engulfs foes in a cascade of virulent, explosive, water globules. None can escape the sea.",
+      "icon": "items/images/en/kompressa_prime_set.5a08eed489a41bc8482f21bdabea7637.webp",
+      "thumb": "items/images/en/thumbs/kompressa_prime_set.5a08eed489a41bc8482f21bdabea7637.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5814b1f2ca550948410af0ad",
+  "slug": "drifting_contact",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/DualStat/ComboTimeStatusChanceMod",
+  "tags": [
+    "mod",
+    "melee",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Drifting Contact",
+      "description": "+10s Combo Duration\n+40% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Drifting_Contact",
+      "icon": "items/images/en/drifting_contact.6d7d0f454d97b9a7427eaa9c54e58a60.png",
+      "thumb": "items/images/en/thumbs/drifting_contact.6d7d0f454d97b9a7427eaa9c54e58a60.128x128.png"
+    }
+  }
+}

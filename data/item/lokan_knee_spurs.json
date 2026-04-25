@@ -1,0 +1,26 @@
+{
+  "id": "60e70f7a479445008f272579",
+  "slug": "lokan_knee_spurs",
+  "gameRef": "/Lotus/Upgrades/Skins/Armor/NLokaArmor/NLokaLArmor",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60e70f7b479445008f27257e",
+    "60e70f7d479445008f272590",
+    "60e70f7e479445008f272596",
+    "60e70f7a479445008f272579"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lokan Knee Spurs",
+      "description": "Orchid patterns and flowing organic lines are signature to New Lokan armor.",
+      "icon": "items/images/en/lokan_knee_spurs.8a7c25d472af612432b65790c6fec05a.png",
+      "thumb": "items/images/en/thumbs/lokan_knee_spurs.8a7c25d472af612432b65790c6fec05a.128x128.png"
+    }
+  }
+}

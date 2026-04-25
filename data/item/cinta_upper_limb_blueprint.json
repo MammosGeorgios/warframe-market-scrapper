@@ -1,0 +1,36 @@
+{
+  "id": "645104637ec190030e510936",
+  "slug": "cinta_upper_limb_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/DaxDuviriAsymmetricalLongBowUpperLimbBlueprint",
+  "tags": [
+    "component",
+    "weapon",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "645104637ec190030e510936",
+    "645104637ec190030e510937",
+    "645104637ec190030e510938",
+    "645104637ec190030e510939",
+    "645104637ec190030e51093a",
+    "665d132c941a9cc3e8b9014b"
+  ],
+  "quantityInSet": 1,
+  "subtypes": [
+    "crafted",
+    "blueprint"
+  ],
+  "reqMasteryRank": 6,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cinta Upper Limb Blueprint",
+      "description": "A weapon-crafting component.",
+      "icon": "items/images/en/cinta_upper_limb_blueprint.9362297c3ebd9acd6e874dd3b8a85e34.png",
+      "thumb": "items/images/en/thumbs/cinta_upper_limb_blueprint.9362297c3ebd9acd6e874dd3b8a85e34.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_limb_128x128.png"
+    }
+  }
+}

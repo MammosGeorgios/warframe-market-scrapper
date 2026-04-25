@@ -1,0 +1,25 @@
+{
+  "id": "56dac58b5cc639de0a45c521",
+  "slug": "discharge_strike",
+  "gameRef": "/Lotus/Powersuits/Necro/SoulPunchPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nekros",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Discharge Strike",
+      "description": "Soul Punch Augment: Depletes up to 25 Energy from the target.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Discharge_Strike",
+      "icon": "items/images/en/discharge_strike.11efeba0f37f6436bad4160e0d60ec15.png",
+      "thumb": "items/images/en/thumbs/discharge_strike.11efeba0f37f6436bad4160e0d60ec15.128x128.png"
+    }
+  }
+}

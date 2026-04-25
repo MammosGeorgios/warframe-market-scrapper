@@ -1,0 +1,25 @@
+{
+  "id": "5800c901c021d9dc0a9f891d",
+  "slug": "rending_wind",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPMacheteStanceOne",
+  "tags": [
+    "pvp",
+    "uncommon",
+    "machetes",
+    "stance",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rending Wind",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Rending_Wind",
+      "icon": "items/images/en/rending_wind.a5712d17ddc13c130600bd4aace80eb5.png",
+      "thumb": "items/images/en/thumbs/rending_wind.a5712d17ddc13c130600bd4aace80eb5.128x128.png"
+    }
+  }
+}

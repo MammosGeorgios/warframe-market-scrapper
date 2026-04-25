@@ -1,0 +1,23 @@
+{
+  "id": "56a7b24c1133f656cb085d85",
+  "slug": "blood_rush",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/Event/ComboCritChanceMod",
+  "tags": [
+    "mod",
+    "melee",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 10,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Blood Rush",
+      "description": "+40% Critical Chance stacks with Combo Multiplier",
+      "wikiLink": "https://wiki.warframe.com/w/Blood_Rush",
+      "icon": "items/images/en/blood_rush.7512063f1029665d1ddc9b5d9a0700f8.png",
+      "thumb": "items/images/en/thumbs/blood_rush.7512063f1029665d1ddc9b5d9a0700f8.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "576459af3ae92d545fd1e7b7",
+  "slug": "primal_rage",
+  "gameRef": "/Lotus/Powersuits/MonkeyKing/MonkeyStaffAugmentCard",
+  "tags": [
+    "wukong",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primal Rage",
+      "description": "Primal Fury Augment: Killing an enemy increases Critical Chance by 15%. The increase decays by 1%/s",
+      "wikiLink": "https://wiki.warframe.com/w/Primal_Rage",
+      "icon": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png",
+      "thumb": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png"
+    }
+  }
+}

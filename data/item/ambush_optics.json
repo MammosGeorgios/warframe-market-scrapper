@@ -1,0 +1,25 @@
+{
+  "id": "56dac5b05cc639de0a45c527",
+  "slug": "ambush_optics",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RubicoLowZoom",
+  "tags": [
+    "rubico",
+    "primary",
+    "pvp",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ambush Optics",
+      "description": "-50% Zoom",
+      "wikiLink": "https://wiki.warframe.com/w/Ambush_Optics",
+      "icon": "items/images/en/ambush_optics_(rubico).95034bc198404a324392a661e7e6cd0c.png",
+      "thumb": "items/images/en/thumbs/ambush_optics_(rubico).95034bc198404a324392a661e7e6cd0c.128x128.png"
+    }
+  }
+}

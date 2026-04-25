@@ -1,0 +1,19 @@
+{
+  "id": "69765a067b65a4e83d4ab4b1",
+  "slug": "zid-an-haras",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/AmmoEfficencyDuringUltimate",
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zid-an Haras",
+      "description": "▐▒▒▒▌% Warframe Ammo Efficiency for ▐▒▒▒▌s after executing Tauron Strike",
+      "icon": "items/images/en/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.webp",
+      "thumb": "items/images/en/thumbs/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "60e5b8fe4794450053e9994d",
+  "slug": "galvanized_crosshairs",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/CritChanceWhileAimingPistolSPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galvanized Crosshairs",
+      "description": "On Headshot:\n+120% Critical Chance when Aiming for 12s\nOn Headshot Kill:\n+40% Critical Chance when Aiming for 12s. Stacks up to 5x.",
+      "wikiLink": "https://wiki.warframe.com/w/Galvanized_Crosshairs",
+      "icon": "items/images/en/galvanized_crosshairs.9366d80f8e8db9216eb77d9975dab06c.png",
+      "thumb": "items/images/en/thumbs/galvanized_crosshairs.9366d80f8e8db9216eb77d9975dab06c.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "54c686dce7798913e1a86565",
+  "slug": "primed_heated_charge",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponFireDamageModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Heated Charge",
+      "description": "+165% Heat",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Heated_Charge",
+      "icon": "items/images/en/primed_heated_charge.be3ac37bf7d2d82f77587dff71452c21.png",
+      "thumb": "items/images/en/thumbs/primed_heated_charge.be3ac37bf7d2d82f77587dff71452c21.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155c7",
+  "slug": "combustion_rounds",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFireDamageMod",
+  "tags": [
+    "uncommon",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Combustion Rounds",
+      "description": "+120% Heat",
+      "wikiLink": "https://wiki.warframe.com/w/Combustion_Rounds",
+      "icon": "items/images/en/combustion_rounds.5f8d4224dcdc992f9029cd491cd98f35.png",
+      "thumb": "items/images/en/thumbs/combustion_rounds.5f8d4224dcdc992f9029cd491cd98f35.128x128.png"
+    }
+  }
+}

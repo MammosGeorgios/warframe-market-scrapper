@@ -1,0 +1,31 @@
+{
+  "id": "5d93ca117ea27b0a87566f6b",
+  "slug": "dethcube_prime_set",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeDethCubePowerSuit",
+  "tags": [
+    "set",
+    "prime",
+    "sentinel"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5d93ca117ea27b0a87566f6a",
+    "5d93ca107ea27b0a87566f5f",
+    "5d93ca107ea27b0a87566f62",
+    "5d93ca117ea27b0a87566f6b",
+    "5d93ca117ea27b0a87566f6e"
+  ],
+  "ducats": 225,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dethcube Prime Set",
+      "description": "With 'Assault Mode' and 'Vaporize' as default precepts, Dethcube Prime is the apex of lethal support. Comes loaded with Deth Machine Rifle Prime weapon.",
+      "wikiLink": "https://wiki.warframe.com/w/Dethcube_Prime",
+      "icon": "items/images/en/dethcube_prime_set.47a0e82681bf367a015928558a9f133b.png",
+      "thumb": "items/images/en/thumbs/dethcube_prime_set.47a0e82681bf367a015928558a9f133b.128x128.png"
+    }
+  }
+}

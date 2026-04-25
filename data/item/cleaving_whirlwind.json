@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51567e",
+  "slug": "cleaving_whirlwind",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "heavy_blade"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cleaving Whirlwind",
+      "description": "Arcing cuts with spinning finish.",
+      "wikiLink": "https://wiki.warframe.com/w/Cleaving_Whirlwind",
+      "icon": "items/images/en/cleaving_whirlwind.8a59807c69c368ffe0b459a4f3d0dc08.png",
+      "thumb": "items/images/en/thumbs/cleaving_whirlwind.8a59807c69c368ffe0b459a4f3d0dc08.128x128.png"
+    }
+  }
+}

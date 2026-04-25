@@ -1,0 +1,23 @@
+{
+  "id": "5f498a1f9426ed00443bd097",
+  "slug": "necramech_vitality",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechHealthMaxMod",
+  "tags": [
+    "mod",
+    "common",
+    "necramech"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Vitality",
+      "description": "+100% Health",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Vitality",
+      "icon": "items/images/en/necramech_vitality.ed1a2158133a660eba51d903adfa2355.png",
+      "thumb": "items/images/en/thumbs/necramech_vitality.ed1a2158133a660eba51d903adfa2355.128x128.png"
+    }
+  }
+}

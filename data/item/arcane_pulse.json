@@ -1,0 +1,23 @@
+{
+  "id": "56153e9bb66f837074af99c5",
+  "slug": "arcane_pulse",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialHealOnHealthPickup",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Pulse",
+      "description": "On Health Pickup:\n60% chance to restore 500 Health to allies within 25m\n15s cooldown\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Pulse",
+      "icon": "items/images/en/arcane_pulse.9f9a959b60addb3377fec907f8c5d35b.png",
+      "thumb": "items/images/en/thumbs/arcane_pulse.9f9a959b60addb3377fec907f8c5d35b.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5ecd08d804d55c0806f85351",
+  "slug": "precision_strike",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnGrenadeLauncherArbitrationMod",
+  "tags": [
+    "tonkor",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Precision Strike",
+      "description": "Hitting an enemy directly with the grenade increases Reload Speed by 150% for 5s.",
+      "wikiLink": "https://wiki.warframe.com/w/Precision_Strike",
+      "icon": "items/images/en/precision_strike.14f3667f16001c975dea86b16c7fe074.png",
+      "thumb": "items/images/en/thumbs/precision_strike.14f3667f16001c975dea86b16c7fe074.128x128.png"
+    }
+  }
+}

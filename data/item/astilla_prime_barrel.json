@@ -1,0 +1,33 @@
+{
+  "id": "60ad4a1cf1904300d012c707",
+  "slug": "astilla_prime_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AstillaPrimeBarrel",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60ad4a1cf1904300d012c707",
+    "60ad4a1cf1904300d012c704",
+    "60ad4a1cf1904300d012c706",
+    "60ad4a1cf1904300d012c708",
+    "60ad4a1cf1904300d012c70b"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Astilla Prime Barrel",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Astilla_Prime",
+      "icon": "items/images/en/astilla_prime_barrel.4bad71b95376c38d100a5d8caa581266.png",
+      "thumb": "items/images/en/thumbs/astilla_prime_barrel.4bad71b95376c38d100a5d8caa581266.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5be5f5a23ffcc7038857f119",
+  "slug": "flame_gland",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowFireEventMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "claws"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Flame Gland",
+      "description": "+60% Heat\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Flame_Gland",
+      "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
+      "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png"
+    }
+  }
+}

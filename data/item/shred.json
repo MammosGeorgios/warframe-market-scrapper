@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515594",
+  "slug": "shred",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/DualStat/ShredMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shred",
+      "description": "+30% Fire Rate (x2 for Bows)\n+1.2 Punch Through",
+      "wikiLink": "https://wiki.warframe.com/w/Shred",
+      "icon": "items/images/en/shred.268f7dec2759ea43457995ca16deae78.png",
+      "thumb": "items/images/en/thumbs/shred.268f7dec2759ea43457995ca16deae78.128x128.png"
+    }
+  }
+}

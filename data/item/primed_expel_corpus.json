@@ -1,0 +1,24 @@
+{
+  "id": "5bb7658f92ea46005b6d386e",
+  "slug": "primed_expel_corpus",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Expel Corpus",
+      "description": "x1.55 Damage to Corpus",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Expel_Corpus",
+      "icon": "items/images/en/primed_expel_corpus.a7084d32e9f304849b28b8a1b680671c.png",
+      "thumb": "items/images/en/thumbs/primed_expel_corpus.a7084d32e9f304849b28b8a1b680671c.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "554d3f0ce779894445a848fb",
+  "slug": "funnel_clouds",
+  "gameRef": "/Lotus/Powersuits/Tengu/TornadoAugmentCard",
+  "tags": [
+    "mod",
+    "zephyr",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Funnel Clouds",
+      "description": "Tornado Augment: Creates 8 additional tornadoes. All tornadoes are 50% their original size and won't pick up enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Funnel_Clouds",
+      "icon": "items/images/en/funnel_clouds.b40582a7a46c29c0b6717a57b1bc7e4a.png",
+      "thumb": "items/images/en/thumbs/funnel_clouds.b40582a7a46c29c0b6717a57b1bc7e4a.128x128.png"
+    }
+  }
+}

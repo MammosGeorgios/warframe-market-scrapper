@@ -1,0 +1,24 @@
+{
+  "id": "61bb64fb3132ff00482b5fb3",
+  "slug": "boreals_contempt",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Boreal/BorealMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "polearms"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Boreal's Contempt",
+      "description": "+90% Melee Damage\n+60% Status Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Boreal%27s_Contempt",
+      "icon": "items/images/en/boreals_contempt.3722d4914db38a3d0c12be96eedc04bd.png",
+      "thumb": "items/images/en/thumbs/boreals_contempt.3722d4914db38a3d0c12be96eedc04bd.128x128.png"
+    }
+  }
+}

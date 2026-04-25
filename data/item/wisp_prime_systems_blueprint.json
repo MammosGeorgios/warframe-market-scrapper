@@ -1,0 +1,34 @@
+{
+  "id": "64c2aa1666456704eba6ba44",
+  "slug": "wisp_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeSystemsBlueprint",
+  "tags": [
+    "prime",
+    "component",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "64c2aa1666456704eba6ba4a",
+    "64c2aa1466456704eba6ba2d",
+    "64c2aa1566456704eba6ba38",
+    "64c2aa1466456704eba6ba35",
+    "64c2aa1666456704eba6ba44"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Wisp Prime Systems Blueprint",
+      "description": "Systems component of the Wisp Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Wisp_Prime",
+      "icon": "items/images/en/wisp_prime_systems_blueprint.609bc4e8676a77247cc126ca150cb132.png",
+      "thumb": "items/images/en/thumbs/wisp_prime_systems_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

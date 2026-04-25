@@ -1,0 +1,22 @@
+{
+  "id": "58f0efdfaa4b70452a173075",
+  "slug": "orvius_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/TeshinGlaiveBlade",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "reqMasteryRank": 6,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Orvius Blade",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Orvius",
+      "icon": "items/images/en/orvius_blade.65c03b5b689ec5f70399b9a02f539994.png",
+      "thumb": "items/images/en/thumbs/orvius_blade.65c03b5b689ec5f70399b9a02f539994.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_blade_128x128.png"
+    }
+  }
+}

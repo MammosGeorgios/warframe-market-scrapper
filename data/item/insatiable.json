@@ -1,0 +1,25 @@
+{
+  "id": "5b50a3ac3a84fd02a782324b",
+  "slug": "insatiable",
+  "gameRef": "/Lotus/Powersuits/Infestation/InfestPodsAugmentCard",
+  "tags": [
+    "nidus",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Insatiable",
+      "description": "Ravenous Augment: Nidus has a chance for additional Mutation stacks while in the infestation. The base 60% chance increases with power strength, and multiple stacks are possible above 100%.",
+      "wikiLink": "https://wiki.warframe.com/w/Insatiable",
+      "icon": "items/images/en/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.png",
+      "thumb": "items/images/en/thumbs/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.128x128.png"
+    }
+  }
+}

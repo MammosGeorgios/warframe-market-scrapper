@@ -1,0 +1,22 @@
+{
+  "id": "693e6a9603903ae8993ffb02",
+  "slug": "vikla_safor",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/FireRateAndEfficiency",
+  "tags": [
+    "mod",
+    "common",
+    "any"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vikla-Safor",
+      "description": "+30% Amp Fire Rate\n+30% Amp Ammo Efficiency",
+      "icon": "items/images/en/vikla_safor.f0035498c4194ca08356392bbafc79b1.webp",
+      "thumb": "items/images/en/thumbs/vikla_safor.f0035498c4194ca08356392bbafc79b1.128x128.webp"
+    }
+  }
+}

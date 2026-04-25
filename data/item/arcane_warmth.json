@@ -1,0 +1,22 @@
+{
+  "id": "551085f4e7798972d0eaf1ad",
+  "slug": "arcane_warmth",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FreezeProcResist",
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "rarity": "common",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Warmth",
+      "description": "+102% chance to resist a Cold Status effect.\n+1 Arcane Revive",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Warmth",
+      "icon": "items/images/en/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.png",
+      "thumb": "items/images/en/thumbs/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.128x128.png"
+    }
+  }
+}

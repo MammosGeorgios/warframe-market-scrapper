@@ -1,0 +1,23 @@
+{
+  "id": "5be701153ffcc703e462c70b",
+  "slug": "assault_mode",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/SentinelAttack",
+  "tags": [
+    "sentinel",
+    "mod",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Assault Mode",
+      "description": "Sentinel will attack the first visible enemy within 30m.",
+      "wikiLink": "https://wiki.warframe.com/w/Assault_Mode",
+      "icon": "items/images/en/assault_mode.3d12d35a3c4a0e0ba6f22fa09f553fdf.png",
+      "thumb": "items/images/en/thumbs/assault_mode.3d12d35a3c4a0e0ba6f22fa09f553fdf.128x128.png"
+    }
+  }
+}

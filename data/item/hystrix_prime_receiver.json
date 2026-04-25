@@ -1,0 +1,32 @@
+{
+  "id": "62d3494075156700ce450df7",
+  "slug": "hystrix_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/HystrixPrimeReceiver",
+  "tags": [
+    "prime",
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "62d3494175156700ce450dfd",
+    "62d3493f75156700ce450de7",
+    "62d3494075156700ce450df7",
+    "62d3494075156700ce450df0"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hystrix Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Hystrix_Prime",
+      "icon": "items/images/en/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.png",
+      "thumb": "items/images/en/thumbs/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

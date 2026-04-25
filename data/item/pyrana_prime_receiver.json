@@ -1,0 +1,32 @@
+{
+  "id": "5b2985e1eb069f04ea65b0ee",
+  "slug": "pyrana_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PyranaPrimeReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5b2985e1eb069f04ea65b0f3",
+    "5b2985e1eb069f04ea65b0ea",
+    "5b2985e1eb069f04ea65b0ee",
+    "5b2985e3eb069f04ea65b0fa"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pyrana Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Pyrana_Prime",
+      "icon": "items/images/en/pyrana_prime_receiver.006fc1f35a3662cb6d84ce6a7f63cd9e.png",
+      "thumb": "items/images/en/thumbs/pyrana_prime_receiver.006fc1f35a3662cb6d84ce6a7f63cd9e.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a50b",
+  "slug": "final_tap",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HindDamageonFifthHit",
+  "tags": [
+    "primary",
+    "hind",
+    "pvp",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Final Tap",
+      "description": "On 4 Hits within 0.05s:\n+100% Damage for 0.2s",
+      "wikiLink": "https://wiki.warframe.com/w/Final_Tap",
+      "icon": "items/images/en/final_tap.e06ec710b97bbbe0a82278fc7bcdca2b.png",
+      "thumb": "items/images/en/thumbs/final_tap.e06ec710b97bbbe0a82278fc7bcdca2b.128x128.png"
+    }
+  }
+}

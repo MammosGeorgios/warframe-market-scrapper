@@ -1,0 +1,33 @@
+{
+  "id": "6939aa455d9ebda239125d29",
+  "slug": "gyre_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeSystemsBlueprint",
+  "tags": [
+    "warframe",
+    "prime",
+    "component",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6939aa415d9ebda239125d26",
+    "6939aa445d9ebda239125d28",
+    "6939aa435d9ebda239125d27",
+    "6939aa405d9ebda239125d25",
+    "6939aa455d9ebda239125d29"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gyre Prime Systems Blueprint",
+      "description": "Systems component of the Gyre Prime Warframe.",
+      "icon": "items/images/en/gyre_prime_systems_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+      "thumb": "items/images/en/thumbs/gyre_prime_systems_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

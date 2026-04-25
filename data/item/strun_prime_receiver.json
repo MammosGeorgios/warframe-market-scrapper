@@ -1,0 +1,33 @@
+{
+  "id": "6139101a30dd5b004b7f90a4",
+  "slug": "strun_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/StrunPrimeReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6139101a30dd5b004b7f90a7",
+    "6139101930dd5b004b7f909f",
+    "6139101a30dd5b004b7f90a4",
+    "6139101830dd5b004b7f9096",
+    "6139101a30dd5b004b7f90a9"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Strun Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Strun_Prime",
+      "icon": "items/images/en/strun_prime_receiver.e7f858160a34886c105633deab6b343e.png",
+      "thumb": "items/images/en/thumbs/strun_prime_receiver.e7f858160a34886c105633deab6b343e.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

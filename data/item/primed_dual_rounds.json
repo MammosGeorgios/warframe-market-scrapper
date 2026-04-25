@@ -1,0 +1,25 @@
+{
+  "id": "667ebc4259acb6bf03ebc329",
+  "slug": "primed_dual_rounds",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/PrimedArchwingRifleFireIterationsMod",
+  "tags": [
+    "primary",
+    "mod",
+    "legendary",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Dual Rounds",
+      "description": "+110% Multishot",
+      "wikiLink": "https://wiki.warframe.com/w/Rime_Rounds",
+      "icon": "items/images/en/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.webp",
+      "thumb": "items/images/en/thumbs/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.128x128.webp"
+    }
+  }
+}

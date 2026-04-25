@@ -1,0 +1,25 @@
+{
+  "id": "5911f11d97a0add8e9d5da4e",
+  "slug": "voltage_sequence",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/LankaMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "rare",
+    "primary",
+    "lanka"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Voltage Sequence",
+      "description": "Killing a flying enemy creates a lightning trap from their remains, lasting 8s\n+1 'Sequence'",
+      "wikiLink": "https://wiki.warframe.com/w/Voltage_Sequence",
+      "icon": "items/images/en/voltage_sequence.65e42495eb08f41e8bbeb35b041e981a.png",
+      "thumb": "items/images/en/thumbs/voltage_sequence.65e42495eb08f41e8bbeb35b041e981a.128x128.png"
+    }
+  }
+}

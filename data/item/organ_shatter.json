@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156ae",
+  "slug": "organ_shatter",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponCritDamageMod",
+  "tags": [
+    "mod",
+    "melee",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Organ Shatter",
+      "description": "+90% Critical Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Organ_Shatter",
+      "icon": "items/images/en/organ_shatter.d0948b147f608627817540ab9299dbcc.png",
+      "thumb": "items/images/en/thumbs/organ_shatter.d0948b147f608627817540ab9299dbcc.128x128.png"
+    }
+  }
+}

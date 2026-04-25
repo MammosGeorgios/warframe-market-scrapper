@@ -1,0 +1,31 @@
+{
+  "id": "56783f24cbfa8f0432dd899d",
+  "slug": "glaive_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Glaives/PrimeGlaive/PrimeGlaiveWeapon",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff43",
+    "54a73e65e779893a797fff44",
+    "54a73e65e779893a797fff45",
+    "56783f24cbfa8f0432dd899d"
+  ],
+  "ducats": 235,
+  "reqMasteryRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Glaive Prime Set",
+      "description": "The Glaive Prime is a deadly and beautiful weapon from the Orokin era. The blades are as effective in close quarters as they are when thrown at distant enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Glaive_Prime",
+      "icon": "items/images/en/glaive_prime_set.17767ab370f143a315df90177995ef92.png",
+      "thumb": "items/images/en/thumbs/glaive_prime_set.17767ab370f143a315df90177995ef92.128x128.png"
+    }
+  }
+}

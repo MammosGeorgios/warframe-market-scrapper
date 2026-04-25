@@ -1,0 +1,35 @@
+{
+  "id": "54a73e65e779893a797fff55",
+  "slug": "paris_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/BowPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "primary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff55",
+    "54a73e65e779893a797fff53",
+    "54a73e65e779893a797fff54",
+    "56783f24cbfa8f0432dd89a9",
+    "54a73e65e779893a797fff56",
+    "54a73e65e779893a797fff57"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Paris Prime Blueprint",
+      "description": "Discovered deep inside an ancient Orokin derelict, the Paris Prime increases the kinetic energy of any bolt it fires, dealing more damage than its more common counterpart.",
+      "wikiLink": "https://wiki.warframe.com/w/Paris_Prime",
+      "icon": "items/images/en/paris_prime_blueprint.971f957f8304ce10617836343d47b238.png",
+      "thumb": "items/images/en/thumbs/paris_prime_blueprint.971f957f8304ce10617836343d47b238.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

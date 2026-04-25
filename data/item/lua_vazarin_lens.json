@@ -1,0 +1,20 @@
+{
+  "id": "5d6ea67e7ea27b05d929cc03",
+  "slug": "lua_vazarin_lens",
+  "gameRef": "/Lotus/Upgrades/Focus/DefenseLensLua",
+  "tags": [
+    "focus",
+    "lens"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lua Vazarin Lens",
+      "description": "Converts 5.5% of excess Affinity into Focus for the Vazarin Way.",
+      "wikiLink": "https://wiki.warframe.com/w/Lua_Vazarin_Lens",
+      "icon": "items/images/en/lua_vazarin_lens.e3b2ed7d024b138843320d13d204e020.png",
+      "thumb": "items/images/en/thumbs/lua_vazarin_lens.e3b2ed7d024b138843320d13d204e020.128x128.png"
+    }
+  }
+}

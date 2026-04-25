@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155a3",
+  "slug": "energy_inversion",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitShieldMaxMod",
+  "tags": [
+    "mod",
+    "archwing",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Energy Inversion",
+      "description": "+100% Shield Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Energy_Inversion",
+      "icon": "items/images/en/energy_inversion.7d740ef630c6614d7ae0d72789a69c7f.png",
+      "thumb": "items/images/en/thumbs/energy_inversion.7d740ef630c6614d7ae0d72789a69c7f.128x128.png"
+    }
+  }
+}

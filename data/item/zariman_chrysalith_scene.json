@@ -1,0 +1,18 @@
+{
+  "id": "626a109cf40db6004517215c",
+  "slug": "zariman_chrysalith_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarParkHub",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zariman Chrysalith Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/zariman_chrysalith_scene.add7a8699f1c4035d636f2c6349d169d.png",
+      "thumb": "items/images/en/thumbs/zariman_chrysalith_scene.add7a8699f1c4035d636f2c6349d169d.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5be4b0a53ffcc703294e76b9",
+  "slug": "synth_charge",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Synth/PistolSynthChargeMod",
+  "tags": [
+    "mod",
+    "pistol",
+    "secondary",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Synth Charge",
+      "description": "+200% Bonus Damage on final shot. Requires Magazine 6 or higher.",
+      "wikiLink": "https://wiki.warframe.com/w/Synth_Charge",
+      "icon": "items/images/en/synth_charge.84e81d207601b7b7088e8015eedceb38.png",
+      "thumb": "items/images/en/thumbs/synth_charge.84e81d207601b7b7088e8015eedceb38.128x128.png"
+    }
+  }
+}

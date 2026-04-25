@@ -1,0 +1,29 @@
+{
+  "id": "67e8c6becedcd0be6d13594b",
+  "slug": "purgator_1_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasrianNoxPlayerWeaponBarrel",
+  "tags": [
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67e8c6becedcd0be6d13594b",
+    "67e8c6bfcedcd0be6d13594c",
+    "67e8c6bdcedcd0be6d13594a",
+    "67e8c6c0cedcd0be6d13594d"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Purgator 1 Barrel",
+      "description": "A weapon-crafting component.",
+      "icon": "items/images/en/purgator_1_barrel.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+      "thumb": "items/images/en/thumbs/purgator_1_barrel.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp",
+      "subIcon": "sub_icons/weapon/generic_barrel_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5bbcec53f639cf007b7357cf",
+  "slug": "primed_expel_corrupted",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorruptedExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Expel Orokin",
+      "description": "x1.55 Damage to Orokin",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Expel_Orokin",
+      "icon": "items/images/en/primed_expel_corrupted.8c7d6df438f5bf500adda9c1745190fc.png",
+      "thumb": "items/images/en/thumbs/primed_expel_corrupted.8c7d6df438f5bf500adda9c1745190fc.128x128.png"
+    }
+  }
+}

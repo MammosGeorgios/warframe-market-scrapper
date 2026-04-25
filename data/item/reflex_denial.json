@@ -1,0 +1,24 @@
+{
+  "id": "60e5b8ff4794450053e99954",
+  "slug": "reflex_denial",
+  "gameRef": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetPrecepts/ZanukaPetMagneticRepulsePrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "hound"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reflex Denial",
+      "description": "Generates a shield that reflects 90% Damage taken in pulses over 10s as Magnetic Damage in a 12m radius.",
+      "wikiLink": "https://wiki.warframe.com/w/Reflex_Denial",
+      "icon": "items/images/en/reflex_denial.77e47267a53294f95a2d66c592e7d69e.png",
+      "thumb": "items/images/en/thumbs/reflex_denial.77e47267a53294f95a2d66c592e7d69e.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6054de845221e30057501086",
+  "slug": "norg",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Norg",
+      "description": "This fish inhabits the shallows and feeds of crabs and other small crustaceans. When threatened it forces air into its brain to give it the impression of being much bigger than it normally is.",
+      "wikiLink": "https://wiki.warframe.com/w/Norg",
+      "icon": "items/images/en/norg.6ed3a518e958e16e5f1e162a9ea829b7.png",
+      "thumb": "items/images/en/thumbs/norg.6ed3a518e958e16e5f1e162a9ea829b7.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5dfea1431456970294aff388",
+  "slug": "primed_smite_corpus",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageCorpusExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "melee"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Smite Corpus",
+      "description": "x1.55 Damage to Corpus",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Smite_Corpus",
+      "icon": "items/images/en/primed_smite_corpus.c6335de9a70ac156604d8251a665d1df.png",
+      "thumb": "items/images/en/thumbs/primed_smite_corpus.c6335de9a70ac156604d8251a665d1df.128x128.png"
+    }
+  }
+}

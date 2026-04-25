@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff81",
+  "slug": "ember_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/EmberPrimeBlueprint",
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff81",
+    "54a73e65e779893a797fff7e",
+    "54a73e65e779893a797fff6d",
+    "56783f24cbfa8f0432dd899a",
+    "54a73e65e779893a797fff7a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ember Prime Blueprint",
+      "description": "Ember Prime offers the same potential for wanton destruction as Ember but provides unique mod polarities, allowing for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Ember_Prime",
+      "icon": "items/images/en/ember_prime_blueprint.971255acc3f1ad8a374d236c6af1c816.png",
+      "thumb": "items/images/en/thumbs/ember_prime_blueprint.971255acc3f1ad8a374d236c6af1c816.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

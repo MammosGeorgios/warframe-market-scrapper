@@ -1,0 +1,23 @@
+{
+  "id": "55c153e7e779895d9dec229d",
+  "slug": "patagium",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/SuperGlideParkourTwoMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Patagium",
+      "description": "+90% Aim Glide/Wall Latch Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Patagium",
+      "icon": "items/images/en/patagium.61f5090481883dcd5c935250f103f9e2.png",
+      "thumb": "items/images/en/thumbs/patagium.61f5090481883dcd5c935250f103f9e2.128x128.png"
+    }
+  }
+}

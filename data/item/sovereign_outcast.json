@@ -1,0 +1,24 @@
+{
+  "id": "588247dcefa102dc532bd503",
+  "slug": "sovereign_outcast",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/TonfaCmbTwoMeleeTree",
+  "tags": [
+    "tonfas",
+    "mod",
+    "stance",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sovereign Outcast",
+      "description": "An outlandish style with sweeping attacks.",
+      "wikiLink": "https://wiki.warframe.com/w/Sovereign_Outcast",
+      "icon": "items/images/en/sovereign_outcast.c7057a1044205cdfd9422199b5d76d41.png",
+      "thumb": "items/images/en/thumbs/sovereign_outcast.c7057a1044205cdfd9422199b5d76d41.128x128.png"
+    }
+  }
+}

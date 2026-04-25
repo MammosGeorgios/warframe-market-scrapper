@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155c4",
+  "slug": "tranquil_cleave",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "nikanas"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tranquil Cleave",
+      "description": "Powerful arcs with frenzied combo.",
+      "wikiLink": "https://wiki.warframe.com/w/Tranquil_Cleave",
+      "icon": "items/images/en/tranquil_cleave.e23ba51f66afdbde9fdf05c445ea99c2.png",
+      "thumb": "items/images/en/thumbs/tranquil_cleave.e23ba51f66afdbde9fdf05c445ea99c2.128x128.png"
+    }
+  }
+}

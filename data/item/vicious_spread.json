@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51560c",
+  "slug": "vicious_spread",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedDamageAccuracyShotgun",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vicious Spread",
+      "description": "+90% Damage\n-60% Accuracy",
+      "wikiLink": "https://wiki.warframe.com/w/Vicious_Spread",
+      "icon": "items/images/en/vicious_spread.19c08f4fbc9b85fa04676afc1331f63b.png",
+      "thumb": "items/images/en/thumbs/vicious_spread.19c08f4fbc9b85fa04676afc1331f63b.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5f498a1f9426ed00443bd09c",
+  "slug": "acidic_spittle",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorSpitAcidPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "vizier_predasite"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Acidic Spittle",
+      "description": "Every 5s spit acidic tar at an enemy within 30m, blinding them for 12s and dealing 120 Corrosive Damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Acidic_Spittle",
+      "icon": "items/images/en/acidic_spittle.65e03dd651fa5e263fa011a352c12f7e.png",
+      "thumb": "items/images/en/thumbs/acidic_spittle.65e03dd651fa5e263fa011a352c12f7e.128x128.png"
+    }
+  }
+}

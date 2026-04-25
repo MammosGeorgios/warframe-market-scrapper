@@ -1,0 +1,20 @@
+{
+  "id": "5a9e8669b2b6a800db67f123",
+  "slug": "grineer_shipyards_manufactory_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicateNewLokaConveyor",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Grineer Shipyards Manufactory Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/grineer_shipyards_manufactory_scene.bb08875906c694180fafaaa36a807957.png",
+      "thumb": "items/images/en/thumbs/grineer_shipyards_manufactory_scene.bb08875906c694180fafaaa36a807957.128x128.png"
+    }
+  }
+}

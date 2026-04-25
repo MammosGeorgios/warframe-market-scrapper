@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515627",
+  "slug": "deep_freeze",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponFreezeDamageMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deep Freeze",
+      "description": "+90% Cold",
+      "wikiLink": "https://wiki.warframe.com/w/Deep_Freeze",
+      "icon": "items/images/en/deep_freeze.337e20a21ade89374d13a36733da015f.png",
+      "thumb": "items/images/en/thumbs/deep_freeze.337e20a21ade89374d13a36733da015f.128x128.png"
+    }
+  }
+}

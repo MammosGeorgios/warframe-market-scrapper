@@ -1,0 +1,21 @@
+{
+  "id": "567872299906166591f69a9b",
+  "slug": "naramon_transmute_core",
+  "gameRef": "/Lotus/Upgrades/Mods/TransmuteCores/TacticTransmuteCore",
+  "tags": [
+    "mod",
+    "rare"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Naramon Transmute Core",
+      "description": "Ensures transmuted mod is of Naramon polarity and eliminates credit cost.",
+      "wikiLink": "https://wiki.warframe.com/w/Naramon_Transmute_Core",
+      "icon": "items/images/en/naramon_transmute_core.b0d18cc44f9794f22d441ca8aa499d4f.png",
+      "thumb": "items/images/en/thumbs/naramon_transmute_core.b0d18cc44f9794f22d441ca8aa499d4f.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "54a74454e779892d5e515649",
+  "slug": "intruder",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarTimeLimitIncreaseMod",
+  "tags": [
+    "mod",
+    "common",
+    "parazon"
+  ],
+  "rarity": "common",
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Intruder",
+      "description": "+8s to Hacking",
+      "wikiLink": "https://wiki.warframe.com/w/Intruder",
+      "icon": "items/images/en/intruder.c38f0366ae84d068f18fdb3c22448731.png",
+      "thumb": "items/images/en/thumbs/intruder.c38f0366ae84d068f18fdb3c22448731.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5be5f5a03ffcc7038857f108",
+  "slug": "scarlet_hurricane",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPClawStanceOne",
+  "tags": [
+    "claws",
+    "pvp",
+    "uncommon",
+    "stance",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Scarlet Hurricane",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Scarlet_Hurricane",
+      "icon": "items/images/en/scarlet_hurricane.1f4c763aa9db4ebbb599b301614a9f4f.png",
+      "thumb": "items/images/en/thumbs/scarlet_hurricane.1f4c763aa9db4ebbb599b301614a9f4f.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5655c4b3b66f832e11abd3fb",
+  "slug": "primed_shotgun_ammo_mutation",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Shotgun Ammo Mutation",
+      "description": "Converts Secondary ammo pickups to 92% of Ammo Pick Up.",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Shotgun_Ammo_Mutation",
+      "icon": "items/images/en/primed_shotgun_ammo_mutation.3b4752657f1d04139d6cd22039bf49d2.png",
+      "thumb": "items/images/en/thumbs/primed_shotgun_ammo_mutation.3b4752657f1d04139d6cd22039bf49d2.128x128.png"
+    }
+  }
+}

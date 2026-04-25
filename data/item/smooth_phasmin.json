@@ -1,0 +1,20 @@
+{
+  "id": "5be5f5a43ffcc7038857f132",
+  "slug": "smooth_phasmin",
+  "gameRef": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+  "tags": [
+    "gem"
+  ],
+  "bulkTradable": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Smooth Phasmin",
+      "description": "Polished and cut to perfection. Blueprint sold by Smokefinger in Fortuna on Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Smooth_Phasmin",
+      "icon": "items/images/en/smooth_phasmin.890678cdbcd828e4605b5e6181cd7b67.png",
+      "thumb": "items/images/en/thumbs/smooth_phasmin.890678cdbcd828e4605b5e6181cd7b67.128x128.png"
+    }
+  }
+}

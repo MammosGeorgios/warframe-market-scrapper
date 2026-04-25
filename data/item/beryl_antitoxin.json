@@ -1,0 +1,19 @@
+{
+  "id": "5d6ea67a7ea27b05d929cbfd",
+  "slug": "beryl_antitoxin",
+  "gameRef": "/Lotus/Types/Restoratives/Consumable/Toxins/DayCommonAntitoxin",
+  "tags": [
+    "consumable"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Beryl Antitoxin",
+      "description": "This is a mildly effective antitoxin.",
+      "wikiLink": "https://wiki.warframe.com/w/Beryl_Antitoxin",
+      "icon": "items/images/en/beryl_antitoxin.d47e1fee3d4febb10914272694be914b.png",
+      "thumb": "items/images/en/thumbs/beryl_antitoxin.d47e1fee3d4febb10914272694be914b.128x128.png"
+    }
+  }
+}

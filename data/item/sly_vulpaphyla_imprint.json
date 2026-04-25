@@ -1,0 +1,21 @@
+{
+  "id": "62d3078580f54c00b5ddf5cd",
+  "slug": "sly_vulpaphyla_imprint",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/VulpineInfestedCatbrowPetPowerSuit",
+  "tags": [
+    "kubrow",
+    "pet",
+    "imprint"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sly Vulpaphyla Imprint",
+      "description": "Fast and foxy, Vulpaphyla are agile allies to bring along on your next adventure.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Sly_Vulpaphyla",
+      "icon": "items/images/en/sly_vulpaphyla_imprint.34f6989d4510346445a34ddd2d6bdb84.png",
+      "thumb": "items/images/en/thumbs/sly_vulpaphyla_imprint.34f6989d4510346445a34ddd2d6bdb84.128x128.png"
+    }
+  }
+}

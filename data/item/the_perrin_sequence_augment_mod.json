@@ -1,0 +1,22 @@
+{
+  "id": "5800c6c9c021d9dc0a9f8916",
+  "slug": "the_perrin_sequence_augment_mod",
+  "gameRef": "",
+  "tags": [
+    "syndicate",
+    "mod",
+    "rare"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "The Perrin Sequence Augment Mod",
+      "description": "Tenno who ally themselves with this Syndicate will receive unique Augment Mods for The Perrin Sequence’s favoured weapons after obtaining the title of Senior Executive. The weapons include Acrid, Grinlok, and Spectra.",
+      "wikiLink": "http://warframe.wikia.com/wiki/The_Perrin_Sequence",
+      "icon": "items/images/en/the_perrin_sequence_augment_mod.c4b984d8cc314def94439a70bf22df7a.webp",
+      "thumb": "items/images/en/thumbs/the_perrin_sequence_augment_mod.c4b984d8cc314def94439a70bf22df7a.128x128.webp"
+    }
+  }
+}

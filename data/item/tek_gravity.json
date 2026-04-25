@@ -1,0 +1,23 @@
+{
+  "id": "5be4b0a53ffcc703294e76b5",
+  "slug": "tek_gravity",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Tek/MeleeTekGravityMod",
+  "tags": [
+    "mod",
+    "melee",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tek Gravity",
+      "description": "Slam Attacks in the Marked Zone pull all enemies within 20m.",
+      "wikiLink": "https://wiki.warframe.com/w/Tek_Gravity",
+      "icon": "items/images/en/tek_gravity.9a654d9bd7e1612aa5aaddc128d5c0a6.png",
+      "thumb": "items/images/en/thumbs/tek_gravity.9a654d9bd7e1612aa5aaddc128d5c0a6.128x128.png"
+    }
+  }
+}

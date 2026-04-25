@@ -1,0 +1,25 @@
+{
+  "id": "667238bc8ba7c81b70d02cbc",
+  "slug": "temporal_artillery",
+  "gameRef": "/Lotus/Powersuits/Odalisk/OdaliskBFGAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "protea",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Temporal Artillery",
+      "description": "Blaze Artillery Augment : When Temporal Anchor is activated, one existing Artillery unit will attach to Protea, halting its duration countdown. Max combo count is 20x.",
+      "wikiLink": "https://wiki.warframe.com/w/Temporal_Artillery",
+      "icon": "items/images/en/temporal_artillery.7119a48e5579f9f73016c98e123f1d81.webp",
+      "thumb": "items/images/en/thumbs/temporal_artillery.7119a48e5579f9f73016c98e123f1d81.128x128.webp"
+    }
+  }
+}

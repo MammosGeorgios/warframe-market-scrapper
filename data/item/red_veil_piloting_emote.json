@@ -1,0 +1,19 @@
+{
+  "id": "60e70f80479445008f2725a3",
+  "slug": "red_veil_piloting_emote",
+  "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/RVPilotingEmote",
+  "tags": [
+    "syndicate",
+    "emote"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Red Veil Piloting Emote",
+      "description": "Take the controls with this crew-inspired emote.",
+      "icon": "items/images/en/red_veil_piloting_emote.910324ce7dfef7ec73e66d023d3397d6.png",
+      "thumb": "items/images/en/thumbs/red_veil_piloting_emote.910324ce7dfef7ec73e66d023d3397d6.128x128.png"
+    }
+  }
+}

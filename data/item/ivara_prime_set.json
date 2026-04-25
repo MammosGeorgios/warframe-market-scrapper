@@ -1,0 +1,31 @@
+{
+  "id": "5df8b0ab1456970087cd9b00",
+  "slug": "ivara_prime_set",
+  "gameRef": "/Lotus/Powersuits/Ranger/IvaraPrime",
+  "tags": [
+    "set",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5df8b0aa1456970087cd9aff",
+    "5df8b0ab1456970087cd9b02",
+    "5df8b0ab1456970087cd9b01",
+    "5df8b0ab1456970087cd9b00",
+    "5df8b0ac1456970087cd9b03"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ivara Prime Set",
+      "description": "As regal and lethal as a nighttime wood, this is the queen of the hunt in her ultimate form.",
+      "wikiLink": "https://wiki.warframe.com/w/Ivara_Prime",
+      "icon": "items/images/en/ivara_prime_set.5c4fbd8ffa071c741cf93e260e43b6db.png",
+      "thumb": "items/images/en/thumbs/ivara_prime_set.5c4fbd8ffa071c741cf93e260e43b6db.128x128.png"
+    }
+  }
+}

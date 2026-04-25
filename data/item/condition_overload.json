@@ -1,0 +1,23 @@
+{
+  "id": "58446f192c2ada003b4d4ffc",
+  "slug": "condition_overload",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponDamageIfVictimProcActive",
+  "tags": [
+    "mod",
+    "melee",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Condition Overload",
+      "description": "+80% Melee Damage per Status Type affecting the target",
+      "wikiLink": "https://wiki.warframe.com/w/Condition_Overload",
+      "icon": "items/images/en/condition_overload.fe7962221a25bc6305bbad0dc925e38b.png",
+      "thumb": "items/images/en/thumbs/condition_overload.fe7962221a25bc6305bbad0dc925e38b.128x128.png"
+    }
+  }
+}

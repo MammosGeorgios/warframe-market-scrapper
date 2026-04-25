@@ -1,0 +1,23 @@
+{
+  "id": "63229386dd457f0096113c42",
+  "slug": "archon_flow",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/Kahl/KahlAvatarPowerMaxMod",
+  "tags": [
+    "mod",
+    "archon",
+    "warframe"
+  ],
+  "rarity": "archon",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Archon Flow",
+      "description": "+185% Energy Max\nEnemies killed by Cold Abilities have 10% chance to drop an Energy Orb. Cooldown: 10s",
+      "wikiLink": "https://wiki.warframe.com/w/Archon_Flow",
+      "icon": "items/images/en/archon_flow.9f720d15c3cf1d9fbd3506e7bee5bd67.png",
+      "thumb": "items/images/en/thumbs/archon_flow.9f720d15c3cf1d9fbd3506e7bee5bd67.128x128.png"
+    }
+  }
+}

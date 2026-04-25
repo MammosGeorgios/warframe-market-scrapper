@@ -1,0 +1,34 @@
+{
+  "id": "61bb64fe3132ff00482b5fce",
+  "slug": "harrow_prime_chassis_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeChassisBlueprint",
+  "tags": [
+    "warframe",
+    "component",
+    "blueprint",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "61bb64fc3132ff00482b5fba",
+    "61bb64fe3132ff00482b5fce",
+    "61bb64fd3132ff00482b5fc4",
+    "61bb64fc3132ff00482b5fbb",
+    "61bb64fe3132ff00482b5fd2"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Harrow Prime Chassis Blueprint",
+      "description": "Chassis component of the Harrow Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Harrow_Prime",
+      "icon": "items/images/en/harrow_prime_chassis.532d5a9a035beaca81c15bbaa4001a1d.png",
+      "thumb": "items/images/en/thumbs/harrow_prime_chassis.532d5a9a035beaca81c15bbaa4001a1d.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_chassis_128x128.png"
+    }
+  }
+}

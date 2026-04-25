@@ -1,0 +1,18 @@
+{
+  "id": "690148eff88bae2d5b1f539c",
+  "slug": "the_teacher_reactor_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/2025FallUpdate/PhotoboothTheTeacherReactor",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "The Teacher Reactor Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/the_teacher_reactor_scene.9205f172a01588547feb333a8830347d.webp",
+      "thumb": "items/images/en/thumbs/the_teacher_reactor_scene.9205f172a01588547feb333a8830347d.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "603621500a372600fd5614da",
+  "slug": "octavia_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaPrimeSystemsBlueprint",
+  "tags": [
+    "blueprint",
+    "warframe",
+    "prime",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6036214f0a372600fd5614cf",
+    "603621500a372600fd5614d7",
+    "603621500a372600fd5614d8",
+    "603621500a372600fd5614dc",
+    "603621500a372600fd5614da"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Octavia Prime Systems Blueprint",
+      "description": "Systems component of the Octavia Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Octavia_Prime",
+      "icon": "items/images/en/octavia_prime_systems.4e24ab1ec9ff333596952d391e69b397.png",
+      "thumb": "items/images/en/thumbs/octavia_prime_systems.4e24ab1ec9ff333596952d391e69b397.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

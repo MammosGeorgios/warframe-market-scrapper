@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4ea",
+  "slug": "recuperate",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/RestoreHealthOnKillMod",
+  "tags": [
+    "secondary",
+    "pvp",
+    "rare",
+    "mod",
+    "pistol"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Recuperate",
+      "description": "On Kill:\n+15 Heal Rate for 10s\n-25% from Health Orbs",
+      "wikiLink": "https://wiki.warframe.com/w/Recuperate",
+      "icon": "items/images/en/recuperate.2ea103ce905a7fe31472049be189dbdb.png",
+      "thumb": "items/images/en/thumbs/recuperate.2ea103ce905a7fe31472049be189dbdb.128x128.png"
+    }
+  }
+}

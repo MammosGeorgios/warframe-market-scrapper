@@ -1,0 +1,25 @@
+{
+  "id": "657af5ac21646e595134f5d0",
+  "slug": "containment_breach",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventRadiationFireIterationRifleMod",
+  "tags": [
+    "mod",
+    "archwing",
+    "primary",
+    "rare",
+    "archgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Containment Breach",
+      "description": "+60% Radiation\n+30% Multishot",
+      "wikiLink": "https://wiki.warframe.com/w/Containment_Breach",
+      "icon": "items/images/en/containment_breach.2fda17b7ca344b0a5a33570e769141c6.png",
+      "thumb": "items/images/en/thumbs/containment_breach.2fda17b7ca344b0a5a33570e769141c6.128x128.png"
+    }
+  }
+}

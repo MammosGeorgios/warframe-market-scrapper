@@ -1,0 +1,23 @@
+{
+  "id": "5ce7fd85d23a3b00908c4204",
+  "slug": "proton_pulse",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModA",
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Proton Pulse",
+      "description": "Wall Dashing grants +100% Bullet Jump Speed.",
+      "wikiLink": "https://wiki.warframe.com/w/Proton_Pulse",
+      "icon": "items/images/en/proton_pulse.1421f759fe461d981591d55621cba142.png",
+      "thumb": "items/images/en/thumbs/proton_pulse.1421f759fe461d981591d55621cba142.128x128.png"
+    }
+  }
+}

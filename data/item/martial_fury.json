@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4df",
+  "slug": "martial_fury",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Melee/MeleeAutoTargetBonus",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Martial Fury",
+      "description": "+20% Attack Speed\n-50% Energy Rate",
+      "wikiLink": "https://wiki.warframe.com/w/Martial_Fury",
+      "icon": "items/images/en/martial_fury.64a61f03496f077ae930609b5834a53d.png",
+      "thumb": "items/images/en/thumbs/martial_fury.64a61f03496f077ae930609b5834a53d.128x128.png"
+    }
+  }
+}

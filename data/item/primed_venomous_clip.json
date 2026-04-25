@@ -1,0 +1,24 @@
+{
+  "id": "694ec216f384e9a134cf4f47",
+  "slug": "primed_venomous_clip",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingWeaponToxinDamageModExpert",
+  "tags": [
+    "primary",
+    "archwing",
+    "legendary",
+    "mod",
+    "archgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Venomous Clip",
+      "description": "+187% Toxin",
+      "icon": "items/images/en/primed_venomous_clip.3da375b43efdcdc065e4f8d060ab3968.webp",
+      "thumb": "items/images/en/thumbs/primed_venomous_clip.3da375b43efdcdc065e4f8d060ab3968.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5eb5e49a04d55c04e80d6a80",
+  "slug": "primed_cleanse_grineer",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageGrineerExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Cleanse Grineer",
+      "description": "x1.55 Damage to Grineer",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Cleanse_Grineer",
+      "icon": "items/images/en/primed_cleanse_grineer.58b58698d52bfa948c0b10130787bd2b.png",
+      "thumb": "items/images/en/thumbs/primed_cleanse_grineer.58b58698d52bfa948c0b10130787bd2b.128x128.png"
+    }
+  }
+}

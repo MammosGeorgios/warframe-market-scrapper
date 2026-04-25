@@ -1,0 +1,20 @@
+{
+  "id": "5bd05ad13ffcc700eb7cfd00",
+  "slug": "silver_grove_shrine_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicateNewLokaSilverGrove",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Silver Grove Shrine Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/silver_grove_shrine_scene.1b33e9f5c3bef41ae49ac347639bbd30.png",
+      "thumb": "items/images/en/thumbs/silver_grove_shrine_scene.1b33e9f5c3bef41ae49ac347639bbd30.128x128.png"
+    }
+  }
+}

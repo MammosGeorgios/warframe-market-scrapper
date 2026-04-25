@@ -1,0 +1,21 @@
+{
+  "id": "5678722e9906166591f69a9c",
+  "slug": "vazarin_transmute_core",
+  "gameRef": "/Lotus/Upgrades/Mods/TransmuteCores/DefenseTransmuteCore",
+  "tags": [
+    "mod",
+    "rare"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vazarin Transmute Core",
+      "description": "Ensures transmuted mod is of Vazarin polarity and eliminates credit cost.",
+      "wikiLink": "https://wiki.warframe.com/w/Vazarin_Transmute_Core",
+      "icon": "items/images/en/vazarin_transmute_core.6ffe9f46821c5f74f31505452e02f314.png",
+      "thumb": "items/images/en/thumbs/vazarin_transmute_core.6ffe9f46821c5f74f31505452e02f314.128x128.png"
+    }
+  }
+}

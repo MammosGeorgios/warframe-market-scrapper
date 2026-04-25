@@ -1,0 +1,20 @@
+{
+  "id": "54aaf153e779892a1bb42966",
+  "slug": "arcane_thrak_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAlt",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Thrak Helmet",
+      "description": "This helmet is worn by Rhino, and increases Health, but reduces Sprint Speed.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Helmet",
+      "icon": "items/images/en/arcane_thrak_rhino_helmet.b4ecbae748043d7c5b1105e6d7184115.png",
+      "thumb": "items/images/en/thumbs/arcane_thrak_rhino_helmet.b4ecbae748043d7c5b1105e6d7184115.128x128.png"
+    }
+  }
+}

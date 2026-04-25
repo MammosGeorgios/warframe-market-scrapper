@@ -1,0 +1,23 @@
+{
+  "id": "59dfeb6c115f1d887cfd7abf",
+  "slug": "augur_accord",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Augur/WarframeAugurAccordMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Augur Accord",
+      "description": "+70% Shield Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Augur_Accord",
+      "icon": "items/images/en/augur_accord.068cadfef07bb4e729df53eb1b2f46db.png",
+      "thumb": "items/images/en/thumbs/augur_accord.068cadfef07bb4e729df53eb1b2f46db.128x128.png"
+    }
+  }
+}

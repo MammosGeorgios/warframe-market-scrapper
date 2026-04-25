@@ -1,0 +1,25 @@
+{
+  "id": "61a25ff968fd79003fe3fd54",
+  "slug": "champions_blessing",
+  "gameRef": "/Lotus/Powersuits/Trinity/BlessingAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "trinity",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Champion's Blessing",
+      "description": "Blessing Augment: Gain Primary and Secondary Critical Chance for 30s for each percent you heal on allies up to 350%.",
+      "wikiLink": "https://wiki.warframe.com/w/Champion%27s_Blessing",
+      "icon": "items/images/en/champions_blessing.df69afba3b546fb6e42461d932603c01.png",
+      "thumb": "items/images/en/thumbs/champions_blessing.df69afba3b546fb6e42461d932603c01.128x128.png"
+    }
+  }
+}

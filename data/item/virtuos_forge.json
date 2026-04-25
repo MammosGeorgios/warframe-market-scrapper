@@ -1,0 +1,24 @@
+{
+  "id": "5c1bda1914a8e4006b1dad8c",
+  "slug": "virtuos_forge",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToHeatDamage",
+  "tags": [
+    "operator",
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Virtuos Forge",
+      "description": "On Hit:\nConverts 98% Void Damage to Heat Damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Virtuos_Forge",
+      "icon": "items/images/en/virtuos_forge.51355a12fdc05c779f027af6caa6f157.png",
+      "thumb": "items/images/en/thumbs/virtuos_forge.51355a12fdc05c779f027af6caa6f157.128x128.png"
+    }
+  }
+}

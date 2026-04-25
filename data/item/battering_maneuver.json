@@ -1,0 +1,23 @@
+{
+  "id": "55c153d3e779895d8cb3df5f",
+  "slug": "battering_maneuver",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/ImpactParkourTwoMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Battering Maneuver",
+      "description": "+18% to Parkour Velocity\n+18% Aim Glide/Wall Latch Duration\n+60% Impact on Bullet Jump",
+      "wikiLink": "https://wiki.warframe.com/w/Battering_Maneuver",
+      "icon": "items/images/en/battering_maneuver.d33bb84231ed2212119a5cef817ba5f7.png",
+      "thumb": "items/images/en/thumbs/battering_maneuver.d33bb84231ed2212119a5cef817ba5f7.128x128.png"
+    }
+  }
+}

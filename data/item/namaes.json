@@ -1,0 +1,23 @@
+{
+  "id": "645ba2a57ec1900802a58a43",
+  "slug": "namaes",
+  "gameRef": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishDItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Namaes",
+      "description": "The Namaes has evolved the ability to tense its tail muscles and use its tail as a fearsome weapon.",
+      "wikiLink": "https://wiki.warframe.com/w/Namaes",
+      "icon": "items/images/en/namaes.37fb90afc87b94c2c5efbf54ed37a334.png",
+      "thumb": "items/images/en/thumbs/namaes.37fb90afc87b94c2c5efbf54ed37a334.128x128.png"
+    }
+  }
+}

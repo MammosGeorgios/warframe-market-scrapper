@@ -1,0 +1,24 @@
+{
+  "id": "568c17a0c221c673bc088846",
+  "slug": "armored_acrobatics",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/DamageResistanceLessMobility",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Armored Acrobatics",
+      "description": "+20% Damage Resistance during Bullet Jump\n-10% Mobility",
+      "wikiLink": "https://wiki.warframe.com/w/Armored_Acrobatics",
+      "icon": "items/images/en/armored_acrobatics.b11d5151eae71051909a66fe4d53eb90.png",
+      "thumb": "items/images/en/thumbs/armored_acrobatics.b11d5151eae71051909a66fe4d53eb90.128x128.png"
+    }
+  }
+}

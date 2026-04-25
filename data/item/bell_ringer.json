@@ -1,0 +1,24 @@
+{
+  "id": "66fd6a383a826eccf651cd77",
+  "slug": "bell_ringer",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/BeastKnockdownWeaponMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "melee",
+    "claws"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Bell Ringer",
+      "description": "Melee attacks knock down enemies and apply +4 Impact Status Effects",
+      "wikiLink": "https://wiki.warframe.com/w/Bell_Ringer",
+      "icon": "items/images/en/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/bell_ringer.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

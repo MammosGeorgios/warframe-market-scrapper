@@ -1,0 +1,25 @@
+{
+  "id": "54e644ffe779897594fa68cc",
+  "slug": "repelling_bastille",
+  "gameRef": "/Lotus/Powersuits/Trapper/LevTrapAugmentCard",
+  "tags": [
+    "vauban",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Enduring Bastille",
+      "description": "Bastille Augment: Killing an enemy in Bastille extends the duration by 2s. Vortex's duration is increased by 70% of its Maximum Duration for each additional Vortex thrown into it.",
+      "wikiLink": "https://wiki.warframe.com/w/Repelling_Bastille",
+      "icon": "items/images/en/repelling_bastille.342178f3f8cdb716c8545e5d4fa03227.png",
+      "thumb": "items/images/en/thumbs/repelling_bastille.342178f3f8cdb716c8545e5d4fa03227.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "5667576ddb7c7a568a8d45c1",
+  "slug": "zenurik_lens",
+  "gameRef": "/Lotus/Upgrades/Focus/PowerLens",
+  "tags": [
+    "focus",
+    "lens"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zenurik Lens",
+      "description": "Converts 2% of excess Affinity into Focus for the Zenurik Way.",
+      "wikiLink": "https://wiki.warframe.com/w/Zenurik_Lens",
+      "icon": "items/images/en/zenurik_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png",
+      "thumb": "items/images/en/thumbs/zenurik_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png"
+    }
+  }
+}

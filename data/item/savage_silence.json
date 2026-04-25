@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e515690",
+  "slug": "savage_silence",
+  "gameRef": "/Lotus/Powersuits/Banshee/SilenceAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "banshee",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Savage Silence",
+      "description": "Silence Augment: Silence staggers enemies and Finisher damage is increased by 300%",
+      "wikiLink": "https://wiki.warframe.com/w/Savage_Silence",
+      "icon": "items/images/en/savage_silence.ac9dfbbdd2b49fac9fe8a9fadd681463.png",
+      "thumb": "items/images/en/thumbs/savage_silence.ac9dfbbdd2b49fac9fe8a9fadd681463.128x128.png"
+    }
+  }
+}

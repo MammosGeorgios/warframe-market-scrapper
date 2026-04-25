@@ -1,0 +1,19 @@
+{
+  "id": "57222fbf92cc365777a61c10",
+  "slug": "sands_of_inaros",
+  "gameRef": "/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain",
+  "tags": [
+    "key"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sands Of Inaros",
+      "description": "Help Baro Ki'Teer raid an ancient Martian tomb for a mysterious treasure.",
+      "wikiLink": "https://wiki.warframe.com/w/Sands_of_Inaros",
+      "icon": "items/images/en/sands_of_inaros.1673d171ddb1a58800c1742a184d2af2.png",
+      "thumb": "items/images/en/thumbs/sands_of_inaros.1673d171ddb1a58800c1742a184d2af2.128x128.png"
+    }
+  }
+}

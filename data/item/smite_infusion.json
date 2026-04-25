@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e5156aa",
+  "slug": "smite_infusion",
+  "gameRef": "/Lotus/Powersuits/Paladin/SmiteAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "oberon",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Smite Infusion",
+      "description": "Smite Augment: Hold to cast will grant all allies within 15m an additional 100% Radiation Damage to their attacks for 40s.",
+      "wikiLink": "https://wiki.warframe.com/w/Smite_Infusion",
+      "icon": "items/images/en/smite_infusion.924b32e9b01f426767218887c9b9bd73.png",
+      "thumb": "items/images/en/thumbs/smite_infusion.924b32e9b01f426767218887c9b9bd73.128x128.png"
+    }
+  }
+}

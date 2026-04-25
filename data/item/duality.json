@@ -1,0 +1,25 @@
+{
+  "id": "56b656e0ef0390c7e4006383",
+  "slug": "duality",
+  "gameRef": "/Lotus/Powersuits/YinYang/YinYangSwitchAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "equinox"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Duality",
+      "description": "Metamorphosis Augment: Equinox's other half breaks free for 10s, dealing 300% Damage.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Duality",
+      "icon": "items/images/en/duality.c5a99dd847f4468edbeb94731ec38d99.png",
+      "thumb": "items/images/en/thumbs/duality.c5a99dd847f4468edbeb94731ec38d99.128x128.png"
+    }
+  }
+}

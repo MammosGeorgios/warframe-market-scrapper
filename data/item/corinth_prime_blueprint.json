@@ -1,0 +1,34 @@
+{
+  "id": "5e839493267539077b0dd69e",
+  "slug": "corinth_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/CorinthPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "primary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5e839494267539077b0dd6b4",
+    "5e839493267539077b0dd69e",
+    "5e839494267539077b0dd6b5",
+    "5e839493267539077b0dd6a5",
+    "5e839493267539077b0dd69a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Corinth Prime Blueprint",
+      "description": "Heavy in the hand with a bone-crunching kickback. This Prime version of this shotgun adds remote detonation of the weapon's airburst round.",
+      "wikiLink": "https://wiki.warframe.com/w/Corinth_Prime",
+      "icon": "items/images/en/corinth_prime_blueprint.1f73bc83dd117b5e0295b90ed0cccc8d.png",
+      "thumb": "items/images/en/thumbs/corinth_prime_blueprint.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

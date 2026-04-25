@@ -1,0 +1,24 @@
+{
+  "id": "5d6ea6767ea27b05d929cbfa",
+  "slug": "exposing_harpoon",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnHarpoonGunArbitrationMod",
+  "tags": [
+    "mod",
+    "harpak",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Exposing Harpoon",
+      "description": "Pulling an enemy will give +300% Critical Chance for 15s.",
+      "wikiLink": "https://wiki.warframe.com/w/Exposing_Harpoon",
+      "icon": "items/images/en/exposing_harpoon.d67847859c5d5e1ef2619fa513b5051d.png",
+      "thumb": "items/images/en/thumbs/exposing_harpoon.d67847859c5d5e1ef2619fa513b5051d.128x128.png"
+    }
+  }
+}

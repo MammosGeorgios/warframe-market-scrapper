@@ -1,0 +1,23 @@
+{
+  "id": "644b00227ec1900044b97723",
+  "slug": "arcane_intention",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/HealthWhileUsingChanneledAbilities",
+  "tags": [
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Intention",
+      "description": "Gain +250 Max Health per active channeled ability.\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Intention",
+      "icon": "items/images/en/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.png",
+      "thumb": "items/images/en/thumbs/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.128x128.png"
+    }
+  }
+}

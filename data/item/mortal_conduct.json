@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a51e",
+  "slug": "mortal_conduct",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Melee/ChannelingEfficiencyOnLowHealth",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mortal Conduct",
+      "description": "At Less than 50 Health:\r+60% Damage taken is reflected when Blocking attacks while Channeling for 8s",
+      "wikiLink": "https://wiki.warframe.com/w/Mortal_Conduct",
+      "icon": "items/images/en/mortal_conduct.1891d5e6d5e0cb468f6d0947d91bf260.png",
+      "thumb": "items/images/en/thumbs/mortal_conduct.1891d5e6d5e0cb468f6d0947d91bf260.128x128.png"
+    }
+  }
+}

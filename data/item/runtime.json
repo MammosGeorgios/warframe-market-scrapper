@@ -1,0 +1,22 @@
+{
+  "id": "5dbe9b077ea27b0ffe3ca268",
+  "slug": "runtime",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackSprintSpeedMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Runtime",
+      "description": "+75% Sprint Speed for 15s after Hacking",
+      "wikiLink": "https://wiki.warframe.com/w/Runtime",
+      "icon": "items/images/en/runtime.01958fa28f5f3acc1b83faa2339a9b75.png",
+      "thumb": "items/images/en/thumbs/runtime.01958fa28f5f3acc1b83faa2339a9b75.128x128.png"
+    }
+  }
+}

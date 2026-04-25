@@ -1,0 +1,34 @@
+{
+  "id": "639a8d9374b02f003889eb71",
+  "slug": "baruuk_prime_chassis_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeChassisBlueprint",
+  "tags": [
+    "prime",
+    "component",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "639a8d9374b02f003889eb77",
+    "639a8d9374b02f003889eb71",
+    "639a8d9474b02f003889eb81",
+    "639a8d9474b02f003889eb84",
+    "639a8d9374b02f003889eb7e"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Baruuk Prime Chassis Blueprint",
+      "description": "Chassis component of the Baruuk Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Baruuk_Prime",
+      "icon": "items/images/en/baruuk_prime_chassis_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png",
+      "thumb": "items/images/en/thumbs/baruuk_prime_chassis_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_chassis_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "67db60639cec3e52e62523ee",
+  "slug": "technocyte_coda_stadium_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/PhotoboothTileRJLasXStadiumBossArena",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Technocyte Coda Stadium Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/technocyte_coda_stadium_scene.12413b6912f2f7eaea7e909415274572.webp",
+      "thumb": "items/images/en/thumbs/technocyte_coda_stadium_scene.12413b6912f2f7eaea7e909415274572.128x128.webp"
+    }
+  }
+}

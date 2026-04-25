@@ -1,0 +1,23 @@
+{
+  "id": "5c1bda1b14a8e4006b1dad91",
+  "slug": "poppin_vert",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBDoubleJumpHeightMod",
+  "tags": [
+    "mod",
+    "rare",
+    "k_drive"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Poppin' Vert",
+      "description": "+80% K-Drive Double Jump Height",
+      "wikiLink": "https://wiki.warframe.com/w/Poppin%27_Vert",
+      "icon": "items/images/en/poppin_vert.db243b0661f0728060eaaa4b8deb2ff7.png",
+      "thumb": "items/images/en/thumbs/poppin_vert.db243b0661f0728060eaaa4b8deb2ff7.128x128.png"
+    }
+  }
+}

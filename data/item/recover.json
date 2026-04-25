@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4e9",
+  "slug": "recover",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RestoreHealthOnKillMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "rare",
+    "mod",
+    "assault_rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Recover",
+      "description": "On Kill:\n+15 Heal Rate for 10s\n-25% from Health Orbs",
+      "wikiLink": "https://wiki.warframe.com/w/Recover",
+      "icon": "items/images/en/recover.c9a08b3ae365a5dd429a2ea357cb8c91.png",
+      "thumb": "items/images/en/thumbs/recover.c9a08b3ae365a5dd429a2ea357cb8c91.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff5f",
+  "slug": "sicarus_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/SicarusPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "secondary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff5e",
+    "54a73e65e779893a797fff5f",
+    "54a73e65e779893a797fff60",
+    "56783f24cbfa8f0432dd89ad"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sicarus Prime Blueprint",
+      "description": "The Sicarus Prime is an ornamental firearm that fires rounds in rapid bursts, providing a balance between the lethality of auto-pistols and the accuracy of semi-automatic pistols.",
+      "wikiLink": "https://wiki.warframe.com/w/Sicarus_Prime",
+      "icon": "items/images/en/sicarus_prime_blueprint.e7c07172e6d63d49ae349d508c56fc85.png",
+      "thumb": "items/images/en/thumbs/sicarus_prime_blueprint.e7c07172e6d63d49ae349d508c56fc85.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

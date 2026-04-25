@@ -1,0 +1,24 @@
+{
+  "id": "5788fad54fff472f131a1360",
+  "slug": "mischief",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowDistractPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kavat",
+    "smeeta_kavat"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mischief",
+      "description": "Smeeta Kavat becomes invisible for 9s every 7s while a decoy kavat draws fire. Decoy has a 15% chance to evade damage and blinds nearby enemies on death.",
+      "wikiLink": "https://wiki.warframe.com/w/Mischief",
+      "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
+      "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png"
+    }
+  }
+}

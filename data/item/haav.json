@@ -1,0 +1,23 @@
+{
+  "id": "645ba2a57ec1900802a58a44",
+  "slug": "haav",
+  "gameRef": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishCItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Haav",
+      "description": "Haav prefer to swim near the surface. Duviri citizens often mistake them for logs, which can be startling when Haav show their fangs.",
+      "wikiLink": "https://wiki.warframe.com/w/Haav",
+      "icon": "items/images/en/haav.4d650b51ed938546b787f4d2d2f73838.png",
+      "thumb": "items/images/en/thumbs/haav.4d650b51ed938546b787f4d2d2f73838.128x128.png"
+    }
+  }
+}

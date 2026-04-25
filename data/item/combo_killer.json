@@ -1,0 +1,24 @@
+{
+  "id": "5fa5698e9dbdce0625d562a8",
+  "slug": "combo_killer",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSecondaryHeadshotKillMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "melee",
+    "thrown_melee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Combo Killer",
+      "description": "+5s Combo Duration\nOn Kill with Secondary Weapon:\nReset Melee Combo Timer",
+      "wikiLink": "https://wiki.warframe.com/w/Combo_Killer",
+      "icon": "items/images/en/combo_killer.ef8b83e5e66815da4fc1615ff4e30b29.png",
+      "thumb": "items/images/en/thumbs/combo_killer.ef8b83e5e66815da4fc1615ff4e30b29.128x128.png"
+    }
+  }
+}

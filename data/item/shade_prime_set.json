@@ -1,0 +1,30 @@
+{
+  "id": "641263e07d179f02100c6d49",
+  "slug": "shade_prime_set",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeShadePowerSuit",
+  "tags": [
+    "prime",
+    "sentinel",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "641263e07d179f02100c6d42",
+    "641263e07d179f02100c6d4d",
+    "641263e07d179f02100c6d48",
+    "641263e07d179f02100c6d49",
+    "641263e07d179f02100c6d44"
+  ],
+  "ducats": 205,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shade Prime Set",
+      "description": "Shade Prime specializes in stealth and comes locked and loaded with the Burst Laser Prime. Together, you can dominate the shadows.",
+      "wikiLink": "https://wiki.warframe.com/w/Shade_Prime",
+      "icon": "items/images/en/shade_prime_set.d4376af3d68e873e85f81f456c83b261.png",
+      "thumb": "items/images/en/thumbs/shade_prime_set.d4376af3d68e873e85f81f456c83b261.128x128.png"
+    }
+  }
+}

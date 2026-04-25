@@ -1,0 +1,32 @@
+{
+  "id": "663267c5e85cac3856c86db7",
+  "slug": "velox_prime_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/VeloxPrimeBarrel",
+  "tags": [
+    "weapon",
+    "component",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "663267c5e85cac3856c86db7",
+    "663267c4e85cac3856c86db5",
+    "663267c6e85cac3856c86db9",
+    "663267c3e85cac3856c86db3"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Velox Prime Barrel",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Velox_Prime",
+      "icon": "items/images/en/velox_prime_barrel.bc5a5e03386043e26ec2a69b90cc0cad.png",
+      "thumb": "items/images/en/thumbs/velox_prime_barrel.bc5a5e03386043e26ec2a69b90cc0cad.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
+    }
+  }
+}

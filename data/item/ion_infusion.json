@@ -1,0 +1,25 @@
+{
+  "id": "5c4050e22cc6ce023b79c0f0",
+  "slug": "ion_infusion",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventElectricStatusMeleeMod",
+  "tags": [
+    "rare",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ion Infusion",
+      "description": "+60% Electricity\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Ion_Infusion",
+      "icon": "items/images/en/ion_infusion.d55bc560a2b2e1fdf3f6e78c175efebe.png",
+      "thumb": "items/images/en/thumbs/ion_infusion.d55bc560a2b2e1fdf3f6e78c175efebe.128x128.png"
+    }
+  }
+}

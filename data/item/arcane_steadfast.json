@@ -1,0 +1,23 @@
+{
+  "id": "63ee00fd10125411da49e6ea",
+  "slug": "arcane_steadfast",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/NoCostCastChanceOnCast",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Steadfast",
+      "description": "On Ability Cast: 20% chance that the next three Abilities will not cost Energy.\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Steadfast",
+      "icon": "items/images/en/arcane_steadfast.ccf77e85d0ff32f127e1a71d38ea8c0e.png",
+      "thumb": "items/images/en/thumbs/arcane_steadfast.ccf77e85d0ff32f127e1a71d38ea8c0e.128x128.png"
+    }
+  }
+}

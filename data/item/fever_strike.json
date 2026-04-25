@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515669",
+  "slug": "fever_strike",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponToxinDamageMod",
+  "tags": [
+    "mod",
+    "melee",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fever Strike",
+      "description": "+90% Toxin",
+      "wikiLink": "https://wiki.warframe.com/w/Fever_Strike",
+      "icon": "items/images/en/fever_strike.bf321f3944fc5640a739184a2a2fdf5b.png",
+      "thumb": "items/images/en/thumbs/fever_strike.bf321f3944fc5640a739184a2a2fdf5b.128x128.png"
+    }
+  }
+}

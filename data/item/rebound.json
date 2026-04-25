@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155f1",
+  "slug": "rebound",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveReflectionIncreaseMod",
+  "tags": [
+    "mod",
+    "common",
+    "melee",
+    "thrown_melee"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rebound",
+      "description": "+4 Bounce",
+      "wikiLink": "https://wiki.warframe.com/w/Rebound",
+      "icon": "items/images/en/rebound.81cc7cf721d2395f2669fafac3eed574.png",
+      "thumb": "items/images/en/thumbs/rebound.81cc7cf721d2395f2669fafac3eed574.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "60537c312201ea0053ec2e59",
+  "slug": "nihils_oubliette_(key)",
+  "gameRef": "/Lotus/Types/Items/ShipDecos/Nightwave/GlassmakerShipDeco",
+  "tags": [
+    "key"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nihil's Oubliette (Key)",
+      "description": "Nihil, the once-feared Orokin Glassmaker, now imprisoned for eternity in this tiny bottle. Handle with care.",
+      "icon": "items/images/en/nihils_oubliette_(key).a25ee2dd868149b3492280528bdbfa86.png",
+      "thumb": "items/images/en/thumbs/nihils_oubliette_(key).a25ee2dd868149b3492280528bdbfa86.128x128.png"
+    }
+  }
+}

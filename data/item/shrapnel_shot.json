@@ -1,0 +1,24 @@
+{
+  "id": "56a7b28a1133f656cb085d8e",
+  "slug": "shrapnel_shot",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/CritDamageWhileAimingShotgunMod",
+  "tags": [
+    "common",
+    "shotgun",
+    "mod",
+    "primary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shrapnel Shot",
+      "description": "On Kill:\n+99% Critical Damage when Aiming for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Shrapnel_Shot",
+      "icon": "items/images/en/shrapnel_shot.1683a43d4d96837610006fcd1de3bdb2.png",
+      "thumb": "items/images/en/thumbs/shrapnel_shot.1683a43d4d96837610006fcd1de3bdb2.128x128.png"
+    }
+  }
+}

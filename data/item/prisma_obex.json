@@ -1,0 +1,21 @@
+{
+  "id": "590e255197a0add8e9d5da4b",
+  "slug": "prisma_obex",
+  "gameRef": "/Lotus/Weapons/Corpus/Melee/KickAndPunch/PrismaObex",
+  "tags": [
+    "weapon",
+    "melee"
+  ],
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Obex",
+      "description": "Dazzle, distract and destroy with these sparring weapons of impossibly hard prisma crystal.",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma_Obex",
+      "icon": "items/images/en/prisma_obex.f75428632785a844c428f7e2fa2a9bc6.png",
+      "thumb": "items/images/en/thumbs/prisma_obex.f75428632785a844c428f7e2fa2a9bc6.128x128.png"
+    }
+  }
+}

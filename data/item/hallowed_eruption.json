@@ -1,0 +1,25 @@
+{
+  "id": "54e64500e779897594fa68d4",
+  "slug": "hallowed_eruption",
+  "gameRef": "/Lotus/Powersuits/Paladin/StairwayToHeavenAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "oberon",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hallowed Eruption",
+      "description": "Hallowed Ground Augment: Reactivate to deal all Remaining Damage and Radiation Status.\nPassive: +100% Hallowed Ground Duration.",
+      "wikiLink": "https://wiki.warframe.com/w/Hallowed_Eruption",
+      "icon": "items/images/en/hallowed_eruption.76c36d2a76a53af8772a80501f9ca138.png",
+      "thumb": "items/images/en/thumbs/hallowed_eruption.76c36d2a76a53af8772a80501f9ca138.128x128.png"
+    }
+  }
+}

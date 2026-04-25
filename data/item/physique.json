@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515628",
+  "slug": "physique",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/PlayerHealthAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Physique",
+      "description": "Squad gains +20% Maximum Health",
+      "wikiLink": "https://wiki.warframe.com/w/Physique",
+      "icon": "items/images/en/physique.51690dd724964ede7510962e6419f809.png",
+      "thumb": "items/images/en/thumbs/physique.51690dd724964ede7510962e6419f809.128x128.png"
+    }
+  }
+}

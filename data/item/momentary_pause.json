@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4e1",
+  "slug": "momentary_pause",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/RestoreHealthOnKillMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "shotgun",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Momentary Pause",
+      "description": "On Kill:\n+15 Heal Rate for 10s\n-25% from Health Orbs",
+      "wikiLink": "https://wiki.warframe.com/w/Momentary_Pause",
+      "icon": "items/images/en/momentary_pause.cfa0810112f6ea7122d776e57552bbaf.png",
+      "thumb": "items/images/en/thumbs/momentary_pause.cfa0810112f6ea7122d776e57552bbaf.128x128.png"
+    }
+  }
+}

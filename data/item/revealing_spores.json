@@ -1,0 +1,24 @@
+{
+  "id": "5ecd08d804d55c0806f8534c",
+  "slug": "revealing_spores",
+  "gameRef": "/Lotus/Powersuits/Saryn/PoisonAugmentTwoCard",
+  "tags": [
+    "mod",
+    "saryn",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Revealing Spores",
+      "description": "Spores Augment: Infected enemies within 40m appear on the minimap. +40 Enemy Radar.",
+      "wikiLink": "https://wiki.warframe.com/w/Revealing_Spores",
+      "icon": "items/images/en/revealing_spores.255124e5a65762daa4ad1f9c3c1d2514.png",
+      "thumb": "items/images/en/thumbs/revealing_spores.255124e5a65762daa4ad1f9c3c1d2514.128x128.png"
+    }
+  }
+}

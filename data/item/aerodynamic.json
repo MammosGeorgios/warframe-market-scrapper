@@ -1,0 +1,23 @@
+{
+  "id": "5d8765de7ea27b08950c13c5",
+  "slug": "aerodynamic",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/WarframeAuraVerticalityMod",
+  "tags": [
+    "mod",
+    "rare",
+    "aura"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Aerodynamic",
+      "description": "Squad takes 24% reduced damage while airborne, gains +6s Aim Glide and +12s Wall Latch",
+      "wikiLink": "https://wiki.warframe.com/w/Aerodynamic",
+      "icon": "items/images/en/aerodynamic.bfc306bc0e3d8fad358b3bf416fd23e0.png",
+      "thumb": "items/images/en/thumbs/aerodynamic.bfc306bc0e3d8fad358b3bf416fd23e0.128x128.png"
+    }
+  }
+}

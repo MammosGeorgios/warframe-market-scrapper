@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e515695",
+  "slug": "glacial_edge",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFreezeDamageMod",
+  "tags": [
+    "uncommon",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Glacial Edge",
+      "description": "+120% Cold",
+      "wikiLink": "https://wiki.warframe.com/w/Glacial_Edge",
+      "icon": "items/images/en/glacial_edge.34a006b5d2a18e9cc682b49562fe467d.png",
+      "thumb": "items/images/en/thumbs/glacial_edge.34a006b5d2a18e9cc682b49562fe467d.128x128.png"
+    }
+  }
+}

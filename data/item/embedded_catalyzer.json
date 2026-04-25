@@ -1,0 +1,24 @@
+{
+  "id": "56a7b29e1133f656cb085d92",
+  "slug": "embedded_catalyzer",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/StatusProcWhileAimingPistolMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Embedded Catalyzer",
+      "description": "On Ability Cast:\n+90% Status Chance when Aiming for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Embedded_Catalyzer",
+      "icon": "items/images/en/embedded_catalyzer.b6ea1f474cd68fcb3ffe93bc0cc24300.png",
+      "thumb": "items/images/en/thumbs/embedded_catalyzer.b6ea1f474cd68fcb3ffe93bc0cc24300.128x128.png"
+    }
+  }
+}

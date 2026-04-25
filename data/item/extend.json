@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515683",
+  "slug": "extend",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeRangeIncMod",
+  "tags": [
+    "common",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Extend",
+      "description": "+100 Attraction Range (In Space)\n+3 Melee Range",
+      "wikiLink": "https://wiki.warframe.com/w/Extend",
+      "icon": "items/images/en/extend.12e6d7c851dc98d1acee4856d59efa51.png",
+      "thumb": "items/images/en/thumbs/extend.12e6d7c851dc98d1acee4856d59efa51.128x128.png"
+    }
+  }
+}

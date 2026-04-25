@@ -1,0 +1,25 @@
+{
+  "id": "554d3f0ce779894445a848f3",
+  "slug": "singularity",
+  "gameRef": "/Lotus/Powersuits/Jade/SelfBulletAttractorPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nyx",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Singularity",
+      "description": "Absorb Augment: Create a ring every 3s that drags in enemies at 15m/s.",
+      "wikiLink": "https://wiki.warframe.com/w/Singularity",
+      "icon": "items/images/en/singularity.35761be20b6fae2d9a65cd2b57ebe67f.png",
+      "thumb": "items/images/en/thumbs/singularity.35761be20b6fae2d9a65cd2b57ebe67f.128x128.png"
+    }
+  }
+}

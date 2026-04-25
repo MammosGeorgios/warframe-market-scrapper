@@ -1,0 +1,25 @@
+{
+  "id": "6054de955221e3005750108a",
+  "slug": "eye_eye",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolUncommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Eye-Eye",
+      "description": "A surveillance drone that monitors any activity that disturbs the waters. It can be found in ponds around Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Eye-Eye",
+      "icon": "items/images/en/eye_eye.fb04eaae06d8e2b7dc34b9a851e9f4af.png",
+      "thumb": "items/images/en/thumbs/eye_eye.fb04eaae06d8e2b7dc34b9a851e9f4af.128x128.png"
+    }
+  }
+}

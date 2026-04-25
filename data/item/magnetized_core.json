@@ -1,0 +1,25 @@
+{
+  "id": "675c628e7b18977f6e645428",
+  "slug": "magnetized_core",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventMagneticCritDamageMeleeMod",
+  "tags": [
+    "rare",
+    "archwing",
+    "melee",
+    "mod",
+    "archmelee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magnetized Core",
+      "description": "+60% Magnetic\n+40% Critical Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Magnetized_Core",
+      "icon": "items/images/en/magnetized_core.05217fab0fb13f88d483c65f3f614b18.webp",
+      "thumb": "items/images/en/thumbs/magnetized_core.05217fab0fb13f88d483c65f3f614b18.128x128.webp"
+    }
+  }
+}

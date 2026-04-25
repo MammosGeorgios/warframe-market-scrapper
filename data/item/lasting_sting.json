@@ -1,0 +1,23 @@
+{
+  "id": "554d3f0ce779894445a848f7",
+  "slug": "lasting_sting",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponProcTimeMod",
+  "tags": [
+    "mod",
+    "melee",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lasting Sting",
+      "description": "+110% Status Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Lasting_Sting",
+      "icon": "items/images/en/lasting_sting.ab8009693f998998e6ba9c8d2f650ca6.png",
+      "thumb": "items/images/en/thumbs/lasting_sting.ab8009693f998998e6ba9c8d2f650ca6.128x128.png"
+    }
+  }
+}

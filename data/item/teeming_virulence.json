@@ -1,0 +1,25 @@
+{
+  "id": "5cb04869fc2db2068006980f",
+  "slug": "teeming_virulence",
+  "gameRef": "/Lotus/Powersuits/Infestation/InfestRuptureAugmentCard",
+  "tags": [
+    "nidus",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Teeming Virulence",
+      "description": "Virulence Augment: Hitting 4 enemies with Virulence grants 120% Primary Weapon Critical Chance for 15s.",
+      "wikiLink": "https://wiki.warframe.com/w/Teeming_Virulence",
+      "icon": "items/images/en/teeming_virulence.fa710f9e32c92ec59ee9bd77215811d0.png",
+      "thumb": "items/images/en/thumbs/teeming_virulence.fa710f9e32c92ec59ee9bd77215811d0.128x128.png"
+    }
+  }
+}

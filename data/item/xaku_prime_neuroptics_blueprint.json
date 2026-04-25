@@ -1,0 +1,34 @@
+{
+  "id": "673516abdb3ac2cfade14a72",
+  "slug": "xaku_prime_neuroptics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetBlueprint",
+  "tags": [
+    "warframe",
+    "component",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "673516a9db3ac2cfade14a70",
+    "673516aadb3ac2cfade14a71",
+    "673516acdb3ac2cfade14a73",
+    "673516abdb3ac2cfade14a72",
+    "673516addb3ac2cfade14a74"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Xaku Prime Neuroptics Blueprint",
+      "description": "Neuroptics component of the Xaku Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Xaku_Prime",
+      "icon": "items/images/en/xaku_prime_neuroptics_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp",
+      "thumb": "items/images/en/thumbs/xaku_prime_neuroptics_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp",
+      "subIcon": "sub_icons/warframe/prime_helmet_128x128.png"
+    }
+  }
+}

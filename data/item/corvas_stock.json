@@ -1,0 +1,31 @@
+{
+  "id": "578d33bf34003bbbb9e20923",
+  "slug": "corvas_stock",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchCannonStock",
+  "tags": [
+    "component",
+    "weapon",
+    "archwing"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "578d33bf34003bbbb9e20921",
+    "578d33bf34003bbbb9e20922",
+    "582b0f890af25410b099f7ff",
+    "578d33bf34003bbbb9e20923"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Corvas Stock",
+      "description": "An Archwing weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Corvas",
+      "icon": "items/images/en/corvas_stock.0248b2ad006d7ad6a460cc03eac4baa7.png",
+      "thumb": "items/images/en/thumbs/corvas_stock.0248b2ad006d7ad6a460cc03eac4baa7.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_stock_128x128.png"
+    }
+  }
+}

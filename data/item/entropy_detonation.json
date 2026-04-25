@@ -1,0 +1,25 @@
+{
+  "id": "5911f11d97a0add8e9d5da50",
+  "slug": "entropy_detonation",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/ObexMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "melee",
+    "rare",
+    "obex"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Entropy Detonation",
+      "description": "Lethal ground attacks cause enemies to explode dealing +1000\n(+20% Enemy Max Health) Blast Damage\nin a +10m radius.\n+1 'Entropy'",
+      "wikiLink": "https://wiki.warframe.com/w/Entropy_Detonation",
+      "icon": "items/images/en/entropy_detonation.2330a8de6cb887513a92da41f5ea4708.png",
+      "thumb": "items/images/en/thumbs/entropy_detonation.2330a8de6cb887513a92da41f5ea4708.128x128.png"
+    }
+  }
+}

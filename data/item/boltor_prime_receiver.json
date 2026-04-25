@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff30",
+  "slug": "boltor_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/BoltorPrimeReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff2e",
+    "54a73e65e779893a797fff2f",
+    "54a73e65e779893a797fff30",
+    "56783f24cbfa8f0432dd8992",
+    "54a73e65e779893a797fff31"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Boltor Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Boltor_Prime",
+      "icon": "items/images/en/boltor_prime_receiver.a26157003dea5b1e1fe6660f46f3ea11.png",
+      "thumb": "items/images/en/thumbs/boltor_prime_receiver.a26157003dea5b1e1fe6660f46f3ea11.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

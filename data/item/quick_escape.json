@@ -1,0 +1,23 @@
+{
+  "id": "5c1bda0314a8e4006b1dad5d",
+  "slug": "quick_escape",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBEscapePlanMod",
+  "tags": [
+    "mod",
+    "rare",
+    "k_drive"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Quick Escape",
+      "description": "Gain invulnerability for 5s mounting a K-drive, but will expire early upon dismounting. ",
+      "wikiLink": "https://wiki.warframe.com/w/Quick_Escape",
+      "icon": "items/images/en/quick_escape.c68e7272fccf580837b72ea0526cbcb3.png",
+      "thumb": "items/images/en/thumbs/quick_escape.c68e7272fccf580837b72ea0526cbcb3.128x128.png"
+    }
+  }
+}

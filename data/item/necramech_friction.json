@@ -1,0 +1,23 @@
+{
+  "id": "5fb84769c34da3004797d555",
+  "slug": "necramech_friction",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideEfficiencyMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "necramech"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Friction",
+      "description": "+60% Slide Efficiency",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Friction",
+      "icon": "items/images/en/necramech_friction.fd671126fd4051e8e3addc13ae56d1f0.png",
+      "thumb": "items/images/en/thumbs/necramech_friction.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+    }
+  }
+}

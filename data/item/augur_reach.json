@@ -1,0 +1,23 @@
+{
+  "id": "59dfeb6c115f1d887cfd7ac2",
+  "slug": "augur_reach",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Augur/WarframeAugurReachMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Augur Reach",
+      "description": "+30% Ability Range",
+      "wikiLink": "https://wiki.warframe.com/w/Augur_Reach",
+      "icon": "items/images/en/augur_reach.f7ec6b1dd7f4636d502d4a463883e027.png",
+      "thumb": "items/images/en/thumbs/augur_reach.f7ec6b1dd7f4636d502d4a463883e027.128x128.png"
+    }
+  }
+}

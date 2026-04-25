@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4c9",
+  "slug": "anticipation",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/StaggerImmunityMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Anticipation",
+      "description": "Immune to Knockdown for an additional +4s after being knocked down.\nImmune to Stagger for an additional +4s after being Staggered.",
+      "wikiLink": "https://wiki.warframe.com/w/Anticipation",
+      "icon": "items/images/en/anticipation.881bb001c85c0b9000f0f9171738053b.png",
+      "thumb": "items/images/en/thumbs/anticipation.881bb001c85c0b9000f0f9171738053b.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5c1bda2014a8e4006b1dad98",
+  "slug": "magus_drive",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HoverboardSpeedOnTransferenceIn",
+  "tags": [
+    "common",
+    "arcane_enhancement"
+  ],
+  "rarity": "common",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magus Drive",
+      "description": "On Transference In:\nIncrease K-Drive Speed by 150% for 30s.",
+      "wikiLink": "https://wiki.warframe.com/w/Magus_Drive",
+      "icon": "items/images/en/magus_drive.618edddcaa1b6d427526a4fe89063deb.png",
+      "thumb": "items/images/en/thumbs/magus_drive.618edddcaa1b6d427526a4fe89063deb.128x128.png"
+    }
+  }
+}

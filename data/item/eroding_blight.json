@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155a0",
+  "slug": "eroding_blight",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/EmbolistMod",
+  "tags": [
+    "embolist",
+    "syndicate",
+    "secondary",
+    "mod",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Eroding Blight",
+      "description": "+200% Magazine Capacity\n+1 'Blight'",
+      "wikiLink": "https://wiki.warframe.com/w/Eroding_Blight",
+      "icon": "items/images/en/eroding_blight.8c40cf12f0b4d2b85870306b2ba2e5cd.png",
+      "thumb": "items/images/en/thumbs/eroding_blight.8c40cf12f0b4d2b85870306b2ba2e5cd.128x128.png"
+    }
+  }
+}

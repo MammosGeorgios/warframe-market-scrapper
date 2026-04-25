@@ -1,0 +1,21 @@
+{
+  "id": "636d085bd6e304004d0be569",
+  "slug": "vericres",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Warfan/TnMoonWarfan/MoonWarfanWeapon",
+  "tags": [
+    "melee",
+    "weapon"
+  ],
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vericres",
+      "description": "Unfurl this warfan like a rapidly waxing moon.",
+      "wikiLink": "https://wiki.warframe.com/w/Vericres",
+      "icon": "items/images/en/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.png",
+      "thumb": "items/images/en/thumbs/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.128x128.png"
+    }
+  }
+}

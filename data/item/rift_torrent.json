@@ -1,0 +1,25 @@
+{
+  "id": "54e0c9eee7798903744178ab",
+  "slug": "rift_torrent",
+  "gameRef": "/Lotus/Powersuits/Magician/VolatileAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "limbo",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rift Torrent",
+      "description": "Rift Surge Augment: Limbo deals 30% Extra Damage for each enemy affected by Rift Surge while in the rift.",
+      "wikiLink": "https://wiki.warframe.com/w/Rift_Torrent",
+      "icon": "items/images/en/rift_torrent.b72016d654f06dd8a0f9f21b86f38910.png",
+      "thumb": "items/images/en/thumbs/rift_torrent.b72016d654f06dd8a0f9f21b86f38910.128x128.png"
+    }
+  }
+}

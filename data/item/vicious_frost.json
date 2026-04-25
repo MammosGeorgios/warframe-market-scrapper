@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155ad",
+  "slug": "vicious_frost",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/DualStat/IceEventMeleeMod",
+  "tags": [
+    "mod",
+    "melee",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vicious Frost",
+      "description": "+60% Cold\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Vicious_Frost",
+      "icon": "items/images/en/vicious_frost.10569aa5e77c090ee245ca87cd25b7ef.png",
+      "thumb": "items/images/en/thumbs/vicious_frost.10569aa5e77c090ee245ca87cd25b7ef.128x128.png"
+    }
+  }
+}

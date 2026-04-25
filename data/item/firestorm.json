@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155e7",
+  "slug": "firestorm",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponIncreaseRadialExplosionMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Firestorm",
+      "description": "Improves the Blast Radius of weapons with Radial Attacks. +24% Blast Range",
+      "wikiLink": "https://wiki.warframe.com/w/Firestorm",
+      "icon": "items/images/en/firestorm.2082d7fa0de3a3e7a8014e6c141d9744.png",
+      "thumb": "items/images/en/thumbs/firestorm.2082d7fa0de3a3e7a8014e6c141d9744.128x128.png"
+    }
+  }
+}

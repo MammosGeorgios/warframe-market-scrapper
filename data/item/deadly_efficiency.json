@@ -1,0 +1,25 @@
+{
+  "id": "5c1bda1814a8e4006b1dad8a",
+  "slug": "deadly_efficiency",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDamageAfterReloadMod",
+  "tags": [
+    "rare",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deadly Efficiency",
+      "description": "On Reload From Empty:\n+120% Damage for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Deadly_Efficiency",
+      "icon": "items/images/en/deadly_efficiency.302b1c7eefacaad306cc6d2fda818e90.png",
+      "thumb": "items/images/en/thumbs/deadly_efficiency.302b1c7eefacaad306cc6d2fda818e90.128x128.png"
+    }
+  }
+}

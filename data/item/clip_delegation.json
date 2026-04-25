@@ -1,0 +1,23 @@
+{
+  "id": "66453d566cf5812870c33d29",
+  "slug": "clip_delegation",
+  "gameRef": "/Lotus/Upgrades/Mods/Nightwave/SobekNightwaveMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "sobek"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Clip Delegation",
+      "description": "On Reload: Next Magazine has Status Chance and Multishot increased by 15% per shot landed with current Magazine. Max 15 stacks.",
+      "icon": "items/images/en/clip_delegation.6885d4d8b7f79e214e4afbd6f7af73e9.png",
+      "thumb": "items/images/en/thumbs/clip_delegation.6885d4d8b7f79e214e4afbd6f7af73e9.128x128.png"
+    }
+  }
+}

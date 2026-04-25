@@ -1,0 +1,22 @@
+{
+  "id": "693e6a7803903ae8993ffb00",
+  "slug": "kaal_zidi",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/Ghostwalk",
+  "tags": [
+    "mod",
+    "uncommon",
+    "any"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kaal-Zidi",
+      "description": "+30% Void Mode efficiency\n+5% Movement Speed in Void Mode for each <NARAMON_CLEAN>Naramon School Mod",
+      "icon": "items/images/en/kaal_zidi.edc5a3c1e1630c4a1d8f843529ee5c9c.webp",
+      "thumb": "items/images/en/thumbs/kaal_zidi.edc5a3c1e1630c4a1d8f843529ee5c9c.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "693e65e103903ae8993ffaee",
+  "slug": "lashta_vak",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/VoidSlingCrateBreaker",
+  "tags": [
+    "mod",
+    "rare",
+    "any"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lashta-Vak",
+      "description": "Void Sling emits a pulse that breaks Containers within 12 m\n+2m bonus for each Mod from a unique School",
+      "icon": "items/images/en/lashta_vak.cb9be622c064361a7328a41536fbc0b5.webp",
+      "thumb": "items/images/en/thumbs/lashta_vak.cb9be622c064361a7328a41536fbc0b5.128x128.webp"
+    }
+  }
+}

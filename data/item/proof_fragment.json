@@ -1,0 +1,19 @@
+{
+  "id": "54d4c7eae779892855c69de9",
+  "slug": "proof_fragment",
+  "gameRef": "/Lotus/Types/Items/MiscItems/Beacon",
+  "tags": [
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Proof Fragment",
+      "description": "One part of a long lost mathematical proof.",
+      "wikiLink": "https://wiki.warframe.com/w/Proof_Fragment",
+      "icon": "items/images/en/proof_fragment.c6c1af33ecce7a87b4b5970e3c52848f.png",
+      "thumb": "items/images/en/thumbs/proof_fragment.c6c1af33ecce7a87b4b5970e3c52848f.128x128.png"
+    }
+  }
+}

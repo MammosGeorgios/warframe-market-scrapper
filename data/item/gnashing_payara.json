@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51568b",
+  "slug": "gnashing_payara",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "dual_daggers"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gnashing Payara",
+      "description": "Lunging punctures with impaling spirals.",
+      "wikiLink": "https://wiki.warframe.com/w/Gnashing_Payara",
+      "icon": "items/images/en/gnashing_payara.376c7788c5604a5109534a1695b2503d.png",
+      "thumb": "items/images/en/thumbs/gnashing_payara.376c7788c5604a5109534a1695b2503d.128x128.png"
+    }
+  }
+}

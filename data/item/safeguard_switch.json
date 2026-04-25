@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e5156c3",
+  "slug": "safeguard_switch",
+  "gameRef": "/Lotus/Powersuits/Loki/SwitchAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "loki",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Safeguard Switch",
+      "description": "Switch Teleport Augment: Switch with an enemy for 3s invulnerability. Switch with an ally to give ally 6s invulnerability. Switch also removes negative status effects on Loki and allies.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Safeguard_Switch",
+      "icon": "items/images/en/safeguard_switch.0d84e8aee50d18ced179eddf30cdc991.png",
+      "thumb": "items/images/en/thumbs/safeguard_switch.0d84e8aee50d18ced179eddf30cdc991.128x128.png"
+    }
+  }
+}

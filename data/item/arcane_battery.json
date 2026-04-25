@@ -1,0 +1,22 @@
+{
+  "id": "6672373e8ba7c81b70d02c94",
+  "slug": "arcane_battery",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MaxEnergyForArmor",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Battery",
+      "description": "Gain 0.30 maximum Energy per Armor point, up to 1000 Energy.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Battery",
+      "icon": "items/images/en/arcane_battery.2a7148e4cd7466c1e52d821a479d3e4e.webp",
+      "thumb": "items/images/en/thumbs/arcane_battery.2a7148e4cd7466c1e52d821a479d3e4e.128x128.webp"
+    }
+  }
+}

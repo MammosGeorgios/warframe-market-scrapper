@@ -1,0 +1,23 @@
+{
+  "id": "57c05949d0d9ef638234e4ad",
+  "slug": "empowered_blades",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestShieldsToCritAuraMod",
+  "tags": [
+    "mod",
+    "rare",
+    "aura"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Empowered Blades",
+      "description": "Squad receives +60% Status Chance and Status Damage on Heavy Attacks, but lose 90 Shields per hit.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Empowered_Blades",
+      "icon": "items/images/en/empowered_blades.99e396cdb655abbd8cb07ca3901f1079.png",
+      "thumb": "items/images/en/thumbs/empowered_blades.99e396cdb655abbd8cb07ca3901f1079.128x128.png"
+    }
+  }
+}

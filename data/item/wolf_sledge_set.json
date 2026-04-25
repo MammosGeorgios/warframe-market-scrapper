@@ -1,0 +1,30 @@
+{
+  "id": "5c7849e22cc6ce090383e267",
+  "slug": "wolf_sledge_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Hammer/ThrowingHammer",
+  "tags": [
+    "melee",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5c7849e22cc6ce090383e262",
+    "5c7849e22cc6ce090383e25d",
+    "5c7849e22cc6ce090383e266",
+    "5c7849e22cc6ce090383e26a",
+    "5c7849e22cc6ce090383e267"
+  ],
+  "reqMasteryRank": 7,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Wolf Sledge Set",
+      "description": "The signature weapon of the only lunatic fearsome enough to bust out of the Saturn Six Max-Pen. Once loosed this formidable throwing hammer always finds its way home.",
+      "wikiLink": "https://wiki.warframe.com/w/Wolf_Sledge",
+      "icon": "items/images/en/wolf_sledge_set.6b288aa755e84f886faa90486ed17d37.png",
+      "thumb": "items/images/en/thumbs/wolf_sledge_set.6b288aa755e84f886faa90486ed17d37.128x128.png"
+    }
+  }
+}

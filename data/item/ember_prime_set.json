@@ -1,0 +1,31 @@
+{
+  "id": "56783f24cbfa8f0432dd899a",
+  "slug": "ember_prime_set",
+  "gameRef": "/Lotus/Powersuits/Ember/EmberPrime",
+  "tags": [
+    "set",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff81",
+    "54a73e65e779893a797fff7e",
+    "54a73e65e779893a797fff6d",
+    "56783f24cbfa8f0432dd899a",
+    "54a73e65e779893a797fff7a"
+  ],
+  "ducats": 175,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ember Prime Set",
+      "description": "Ember Prime offers the same potential for wanton destruction as Ember but provides unique mod polarities, allowing for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Ember_Prime",
+      "icon": "items/images/en/ember_prime_set.971255acc3f1ad8a374d236c6af1c816.png",
+      "thumb": "items/images/en/thumbs/ember_prime_set.971255acc3f1ad8a374d236c6af1c816.128x128.png"
+    }
+  }
+}

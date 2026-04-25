@@ -1,0 +1,24 @@
+{
+  "id": "6055de865221e30083f6f108",
+  "slug": "hemorrhage",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponBleedOnImpactPistolMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hemorrhage",
+      "description": "Impact Status Effects have 35% chance to apply a Slash Status Effect (x2 when Fire Rate is below 2.5)",
+      "wikiLink": "https://wiki.warframe.com/w/Hemorrhage",
+      "icon": "items/images/en/hemorrhage.9fa6a7835706ed24963b83ea11e38950.png",
+      "thumb": "items/images/en/thumbs/hemorrhage.9fa6a7835706ed24963b83ea11e38950.128x128.png"
+    }
+  }
+}

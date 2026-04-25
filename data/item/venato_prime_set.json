@@ -1,0 +1,30 @@
+{
+  "id": "68add0fa731e63abe79a5d1b",
+  "slug": "venato_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Scythe/PrimeVento/PrimeVentoScythe",
+  "tags": [
+    "weapon",
+    "prime",
+    "melee",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "68add0fa731e63abe79a5d1d",
+    "68add0fa731e63abe79a5d1c",
+    "68add0fa731e63abe79a5d1e",
+    "68add0fa731e63abe79a5d1b"
+  ],
+  "ducats": 160,
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Venato Prime Set",
+      "description": "Fashioned from the willingly donated bone of the Sentient Ur-Hatho and embellished by Orokin luxurator Sembik Vol, Venato Prime was to be wielded against “common enemies” of the united peoples – had any ever emerged from the darkness beyond Tau.",
+      "icon": "items/images/en/venato_prime_set.b920bae8db1aa3422664d86c0bed2bb2.webp",
+      "thumb": "items/images/en/thumbs/venato_prime_set.b920bae8db1aa3422664d86c0bed2bb2.128x128.webp"
+    }
+  }
+}

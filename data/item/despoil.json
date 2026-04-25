@@ -1,0 +1,25 @@
+{
+  "id": "54e644ffe779897594fa68cd",
+  "slug": "despoil",
+  "gameRef": "/Lotus/Powersuits/Necro/SearchTheDeadAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nekros",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Despoil",
+      "description": "Desecrate Augment: No longer consumes Energy, but consumes 10 Health per corpse instead.",
+      "wikiLink": "https://wiki.warframe.com/w/Despoil",
+      "icon": "items/images/en/despoil.2633a2c7793d85b21d22cb4c4a0b70cf.png",
+      "thumb": "items/images/en/thumbs/despoil.2633a2c7793d85b21d22cb4c4a0b70cf.128x128.png"
+    }
+  }
+}

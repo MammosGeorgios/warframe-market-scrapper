@@ -1,0 +1,23 @@
+{
+  "id": "5f498a1f9426ed00443bd09e",
+  "slug": "necramech_thrusters",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechBoostMaxMod",
+  "tags": [
+    "mod",
+    "rare",
+    "necramech"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Thrusters",
+      "description": "+100% Engine Max",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Thrusters",
+      "icon": "items/images/en/necramech_thrusters.3b81fa35b2c3386ac45b4c06c543d608.png",
+      "thumb": "items/images/en/thumbs/necramech_thrusters.3b81fa35b2c3386ac45b4c06c543d608.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5a26c320c2c9e903a8381331",
+  "slug": "exodia_epidemic",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneShockwaveOnJump",
+  "tags": [
+    "legendary",
+    "arcane_enhancement"
+  ],
+  "rarity": "legendary",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Exodia Epidemic",
+      "description": "After a Bullet Jump or Double Jump:\rSlam emits a shockwave forwards that suspends enemies in the air for a short period",
+      "wikiLink": "https://wiki.warframe.com/w/Exodia_Epidemic",
+      "icon": "items/images/en/exodia_epidemic.3807403ba71019a6186468b251bc1d3a.png",
+      "thumb": "items/images/en/thumbs/exodia_epidemic.3807403ba71019a6186468b251bc1d3a.128x128.png"
+    }
+  }
+}

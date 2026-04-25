@@ -1,0 +1,24 @@
+{
+  "id": "675c61d47b18977f6e645414",
+  "slug": "magnetic_claws",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowMagneticEventMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "claws"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magnetic Claws",
+      "description": "+60% Magnetic\n+40% Status Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Magnetic_Claws",
+      "icon": "items/images/en/magnetic_claws.b0d0d9a3250b28c86c06be61e46f3988.webp",
+      "thumb": "items/images/en/thumbs/magnetic_claws.b0d0d9a3250b28c86c06be61e46f3988.128x128.webp"
+    }
+  }
+}

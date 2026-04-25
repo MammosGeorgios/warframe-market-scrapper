@@ -1,0 +1,24 @@
+{
+  "id": "5fb84767c34da3004797d542",
+  "slug": "volatile_quick_return",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionDecreaseMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "melee",
+    "thrown_melee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Volatile Quick Return",
+      "description": "-4 Bounce\n+3 Blast Radius\n+100% Chance to explode on Bounce (Disables Punch Through)",
+      "wikiLink": "https://wiki.warframe.com/w/Volatile_Quick_Return",
+      "icon": "items/images/en/volatile_quick_return.fd671126fd4051e8e3addc13ae56d1f0.png",
+      "thumb": "items/images/en/thumbs/volatile_quick_return.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+    }
+  }
+}

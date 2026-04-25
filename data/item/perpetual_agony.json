@@ -1,0 +1,24 @@
+{
+  "id": "554d3af4e77989420d3de2a4",
+  "slug": "perpetual_agony",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponProcTimeMod",
+  "tags": [
+    "common",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Perpetual Agony",
+      "description": "+90% Status Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Perpetual_Agony",
+      "icon": "items/images/en/perpetual_agony.544534318a687be2710174e2c8826f96.png",
+      "thumb": "items/images/en/thumbs/perpetual_agony.544534318a687be2710174e2c8826f96.128x128.png"
+    }
+  }
+}

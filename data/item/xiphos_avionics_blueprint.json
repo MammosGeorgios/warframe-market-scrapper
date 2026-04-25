@@ -1,0 +1,28 @@
+{
+  "id": "571955834445c3e28b80fc7b",
+  "slug": "xiphos_avionics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/LandingCraftRecipes/Gyroscope/GyroscopeAvionicsBlueprint",
+  "tags": [
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "571955834445c3e28b80fc7b",
+    "5719557e4445c3e28b80fc7a",
+    "571955784445c3e28b80fc79",
+    "57222f1692cc365777a61c0e"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Xiphos Avionics Blueprint",
+      "description": "Avionics component of the Xiphos landing craft.",
+      "wikiLink": "https://wiki.warframe.com/w/Xiphos",
+      "icon": "items/images/en/xiphos_avionics.452dba7ad34799a24d7d72d8f5e206eb.png",
+      "thumb": "items/images/en/thumbs/xiphos_avionics.452dba7ad34799a24d7d72d8f5e206eb.128x128.png",
+      "subIcon": "sub_icons/landingCraft/generic_avionics_128x128.png"
+    }
+  }
+}

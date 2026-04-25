@@ -1,0 +1,18 @@
+{
+  "id": "675c61697b18977f6e645402",
+  "slug": "höllvania_central_mall_subway",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallStargla",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Höllvania Central Mall Subway",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/höllvania_central_mall_subway.519164f9ef93cf13877d8c6b4d8b5ccf.webp",
+      "thumb": "items/images/en/thumbs/höllvania_central_mall_subway.519164f9ef93cf13877d8c6b4d8b5ccf.128x128.webp"
+    }
+  }
+}

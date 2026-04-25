@@ -1,0 +1,23 @@
+{
+  "id": "6056348090a69e004e862876",
+  "slug": "protective_shots",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanProtectiveShots",
+  "tags": [
+    "mod",
+    "uncommon",
+    "railjack"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Protective Shots",
+      "description": "+30% Turret Damage when Shields are above 75%",
+      "wikiLink": "https://wiki.warframe.com/w/Protective_Shots",
+      "icon": "items/images/en/protective_shots.5084394b3db9fed24856164e4d58b2d2.png",
+      "thumb": "items/images/en/thumbs/protective_shots.5084394b3db9fed24856164e4d58b2d2.128x128.png"
+    }
+  }
+}

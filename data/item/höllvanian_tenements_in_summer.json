@@ -1,0 +1,18 @@
+{
+  "id": "675c616b7b18977f6e645404",
+  "slug": "höllvanian_tenements_in_summer",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetMatisa",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Höllvanian Tenements In Summer Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/höllvanian_tenements_in_summer.7de4fda12372b3949f958e419dc29d2a.webp",
+      "thumb": "items/images/en/thumbs/höllvanian_tenements_in_summer.7de4fda12372b3949f958e419dc29d2a.128x128.webp"
+    }
+  }
+}

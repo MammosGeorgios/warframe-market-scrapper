@@ -1,0 +1,24 @@
+{
+  "id": "56a7b2a91133f656cb085d94",
+  "slug": "nano_applicator",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/StatusProcWhileAimingShotgunMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nano-Applicator",
+      "description": "On Ability Cast:\n+90% Status Chance when Aiming for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Nano-Applicator",
+      "icon": "items/images/en/nano_applicator.ec520af73a56f8c1db97dafface96ddc.png",
+      "thumb": "items/images/en/thumbs/nano_applicator.ec520af73a56f8c1db97dafface96ddc.128x128.png"
+    }
+  }
+}

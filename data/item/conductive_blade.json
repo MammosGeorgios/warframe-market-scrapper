@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515689",
+  "slug": "conductive_blade",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponElectricityDamageMod",
+  "tags": [
+    "uncommon",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Conductive Blade",
+      "description": "+120% Electricity",
+      "wikiLink": "https://warframe.fandom.com/wiki/Galvanized_Blade",
+      "icon": "items/images/en/conductive_blade.dbd843a5bdcdf3c963a99b8afbf906c8.png",
+      "thumb": "items/images/en/thumbs/conductive_blade.dbd843a5bdcdf3c963a99b8afbf906c8.128x128.png"
+    }
+  }
+}

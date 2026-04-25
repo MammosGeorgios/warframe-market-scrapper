@@ -1,0 +1,30 @@
+{
+  "id": "5fde10c66db57b0185b39085",
+  "slug": "bonewidow_capsule",
+  "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem",
+  "tags": [
+    "necramech",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5fde10c66db57b0185b39085",
+    "5fde10c26db57b0185b39070",
+    "5fde10c66db57b0185b39083",
+    "5fde10c16db57b0185b3906e",
+    "5fde10c26db57b0185b3906f"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Bonewidow Capsule",
+      "description": "Capsule component for the Bonewidow Necramech.",
+      "wikiLink": "https://wiki.warframe.com/w/Bonewidow",
+      "icon": "items/images/en/bonewidow_capsule.75bd55fc8ff8512e1667272e4bc4e567.png",
+      "thumb": "items/images/en/thumbs/bonewidow_capsule.75bd55fc8ff8512e1667272e4bc4e567.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "60cca19052f60b004dfea04e",
+  "slug": "airburst_rounds",
+  "gameRef": "/Lotus/Powersuits/Tengu/TenguBurstAugmentCard",
+  "tags": [
+    "mod",
+    "zephyr",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Airburst Rounds",
+      "description": "Airburst Augment: Each enemy hit by Airburst increases secondary damage by 40% for 14s.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Airburst_Rounds",
+      "icon": "items/images/en/airburst_rounds.91fb63fbc494c4cfbc99d2d4f5358b49.png",
+      "thumb": "items/images/en/thumbs/airburst_rounds.91fb63fbc494c4cfbc99d2d4f5358b49.128x128.png"
+    }
+  }
+}

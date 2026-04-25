@@ -1,0 +1,25 @@
+{
+  "id": "54e0c9eee7798903744178ac",
+  "slug": "total_eclipse",
+  "gameRef": "/Lotus/Powersuits/Harlequin/LightAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "mirage",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Total Eclipse",
+      "description": "Eclipse Augment: While active, allies within 15m benefit from Eclipse.",
+      "wikiLink": "https://wiki.warframe.com/w/Total_Eclipse",
+      "icon": "items/images/en/total_eclipse.9d19977af2d94de19562ee54db12363c.png",
+      "thumb": "items/images/en/thumbs/total_eclipse.9d19977af2d94de19562ee54db12363c.128x128.png"
+    }
+  }
+}

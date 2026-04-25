@@ -1,0 +1,20 @@
+{
+  "id": "54aaefd0e77989436b138405",
+  "slug": "arcane_chlora_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Asp/AspAltHelmetB",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Chlora Helmet",
+      "description": "This helmet is worn by Saryn, and increases velocity of parkour maneuvers, but reduces Ability Duration.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Saryn_Chlora_Helmet",
+      "icon": "items/images/en/arcane_chlora_saryn_helmet.142e97dacf6f8ea77e8f325358cef0d0.png",
+      "thumb": "items/images/en/thumbs/arcane_chlora_saryn_helmet.142e97dacf6f8ea77e8f325358cef0d0.128x128.png"
+    }
+  }
+}

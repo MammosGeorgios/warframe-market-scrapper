@@ -1,0 +1,24 @@
+{
+  "id": "57c5948794b4b0f159ab5e0e",
+  "slug": "spinning_needle",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbThreeMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "dual_daggers"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Spinning Needle",
+      "description": "Swift stabs, twisting slashes.",
+      "wikiLink": "https://wiki.warframe.com/w/Spinning_Needle",
+      "icon": "items/images/en/spinning_needle.25e28011109a702f282cc2604067b432.png",
+      "thumb": "items/images/en/thumbs/spinning_needle.25e28011109a702f282cc2604067b432.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51558d",
+  "slug": "hammer_shot",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/DualStat/HammerShotMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hammer Shot",
+      "description": "+60% Critical Damage\n+80% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Hammer_Shot",
+      "icon": "items/images/en/hammer_shot.fb11fe7457d821871f4c92b9acea585e.png",
+      "thumb": "items/images/en/thumbs/hammer_shot.fb11fe7457d821871f4c92b9acea585e.128x128.png"
+    }
+  }
+}

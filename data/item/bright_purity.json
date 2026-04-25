@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e51568a",
+  "slug": "bright_purity",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/SkanaMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "melee",
+    "rare",
+    "skana"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Bright Purity",
+      "description": "+100% Melee Damage\n+1 'Purity'",
+      "wikiLink": "https://warframe.fandom.com/wiki/Bright_Purity",
+      "icon": "items/images/en/bright_purity.3efd8f002eda7453eaa2672792b613fc.png",
+      "thumb": "items/images/en/thumbs/bright_purity.3efd8f002eda7453eaa2672792b613fc.128x128.png"
+    }
+  }
+}

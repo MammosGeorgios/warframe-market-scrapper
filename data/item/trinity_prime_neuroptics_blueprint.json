@@ -1,0 +1,34 @@
+{
+  "id": "56153692b66f836f7d649936",
+  "slug": "trinity_prime_neuroptics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/TrinityPrimeHelmetBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "56153689b66f836f7a3c0baf",
+    "5615369ab66f836f805c5a8b",
+    "56153692b66f836f7d649936",
+    "56783f24cbfa8f0432dd89af",
+    "561536a1b66f836f854b966a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 25,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Trinity Prime Neuroptics Blueprint",
+      "description": "Neuroptics component of the Trinity Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Trinity_Prime",
+      "icon": "items/images/en/trinity_prime_neuroptics.4115dba418ab8ee70197a7fdaee8da76.png",
+      "thumb": "items/images/en/thumbs/trinity_prime_neuroptics.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_helmet_128x128.png"
+    }
+  }
+}

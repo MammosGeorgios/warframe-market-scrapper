@@ -1,0 +1,27 @@
+{
+  "id": "6054dd115221e30057500f1b",
+  "slug": "axi_k2_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionZephyrPrimeA",
+  "tags": [
+    "relic",
+    "axi"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Axi K2 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/axi_k2_relic.a74c06f0cae21bdb8933685c867385f8.png",
+      "thumb": "items/images/en/thumbs/axi_k2_relic.a74c06f0cae21bdb8933685c867385f8.128x128.png"
+    }
+  }
+}

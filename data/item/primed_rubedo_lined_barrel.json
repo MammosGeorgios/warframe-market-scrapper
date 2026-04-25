@@ -1,0 +1,25 @@
+{
+  "id": "5ef0a62004d55c0c40f06526",
+  "slug": "primed_rubedo_lined_barrel",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert",
+  "tags": [
+    "legendary",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Rubedo-Lined Barrel",
+      "description": "+187% Damage",
+      "wikiLink": "https://warframe.fandom.com/wiki/Primed_Rubedo-Lined_Barrel",
+      "icon": "items/images/en/primed_rubedo_lined_barrel.f907cff537d893315d623f87d3b700eb.png",
+      "thumb": "items/images/en/thumbs/primed_rubedo_lined_barrel.f907cff537d893315d623f87d3b700eb.128x128.png"
+    }
+  }
+}

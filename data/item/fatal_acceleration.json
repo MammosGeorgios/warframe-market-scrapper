@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155bc",
+  "slug": "fatal_acceleration",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponProjectileSpeedMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fatal Acceleration",
+      "description": "+40% Projectile Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Fatal_Acceleration",
+      "icon": "items/images/en/fatal_acceleration.cb3c34161c56cbf17bae039fcdccd2ed.png",
+      "thumb": "items/images/en/thumbs/fatal_acceleration.cb3c34161c56cbf17bae039fcdccd2ed.128x128.png"
+    }
+  }
+}

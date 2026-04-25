@@ -1,0 +1,23 @@
+{
+  "id": "5bf54b483ffcc7066e7eb855",
+  "slug": "pax_seeker",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SeekerProjOnHeadshotKill",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pax Seeker",
+      "description": "On Headshot Kill:\n4 projectiles burst from the target and seek the heads of nearby enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Pax_Seeker",
+      "icon": "items/images/en/pax_seeker.8e3a7fb880c0e047f9a7d60ca4fbfb84.png",
+      "thumb": "items/images/en/thumbs/pax_seeker.8e3a7fb880c0e047f9a7d60ca4fbfb84.128x128.png"
+    }
+  }
+}

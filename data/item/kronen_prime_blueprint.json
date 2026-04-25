@@ -1,0 +1,33 @@
+{
+  "id": "5ab167b7b2b6a80475780fad",
+  "slug": "kronen_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/KronenPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "melee",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5ab167b9b2b6a80475780fd1",
+    "5ab167b7b2b6a80475780fad",
+    "5ab167b7b2b6a80475780fb5",
+    "5ab167b7b2b6a80475780fb3"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kronen Prime Blueprint",
+      "description": "Ancient blades, perfected for today’s combat.",
+      "wikiLink": "https://wiki.warframe.com/w/Kronen_Prime",
+      "icon": "items/images/en/kronen_prime_blueprint.09023145e06199878b94a9c664e95ce7.png",
+      "thumb": "items/images/en/thumbs/kronen_prime_blueprint.09023145e06199878b94a9c664e95ce7.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

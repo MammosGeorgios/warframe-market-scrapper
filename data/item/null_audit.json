@@ -1,0 +1,24 @@
+{
+  "id": "60e5b9004794450053e9995d",
+  "slug": "null_audit",
+  "gameRef": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetPrecepts/ZanukaPetStealEximusPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "hound"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Null Audit",
+      "description": "The Hound utilizes the same Aura and Abilities as an Eximus enemy for 60s, while stripping its Overguard by 50%.",
+      "wikiLink": "https://wiki.warframe.com/w/Null_Audit",
+      "icon": "items/images/en/null_audit.92612ee891efb1a2494f0a975b1a5940.png",
+      "thumb": "items/images/en/thumbs/null_audit.92612ee891efb1a2494f0a975b1a5940.128x128.png"
+    }
+  }
+}

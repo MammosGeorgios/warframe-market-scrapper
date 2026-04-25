@@ -1,0 +1,32 @@
+{
+  "id": "56675641f9001cd2824a6824",
+  "slug": "dera_vandal_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/DeraVandalBlueprint",
+  "tags": [
+    "primary",
+    "weapon",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "56675652f9001cd2824a6825",
+    "56675641f9001cd2824a6824",
+    "56675652f9001cd2824a6826",
+    "56783f24cbfa8f0432dd8998",
+    "56675653f9001cd2824a6827"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 7,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dera Vandal Blueprint",
+      "description": "A customized version of the Dera, featuring a metallic finish and Lotus decal.",
+      "wikiLink": "https://wiki.warframe.com/w/Dera_Vandal",
+      "icon": "items/images/en/dera_vandal_blueprint.15c5a1f8b62ab0520cf7394563f73aea.png",
+      "thumb": "items/images/en/thumbs/dera_vandal_blueprint.15c5a1f8b62ab0520cf7394563f73aea.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

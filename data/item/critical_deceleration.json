@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e515698",
+  "slug": "critical_deceleration",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedCritChanceFireRateShotgun",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Critical Deceleration",
+      "description": "+200% Critical Chance\n-20% Fire Rate",
+      "wikiLink": "https://wiki.warframe.com/w/Critical_Deceleration",
+      "icon": "items/images/en/critical_deceleration.1e6f0389e96ef70a93f09667ac7282a4.png",
+      "thumb": "items/images/en/thumbs/critical_deceleration.1e6f0389e96ef70a93f09667ac7282a4.128x128.png"
+    }
+  }
+}

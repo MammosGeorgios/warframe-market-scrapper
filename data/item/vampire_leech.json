@@ -1,0 +1,25 @@
+{
+  "id": "5526aec0e779896af941825b",
+  "slug": "vampire_leech",
+  "gameRef": "/Lotus/Powersuits/Trinity/EnergyVampireAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "trinity",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vampire Leech",
+      "description": "Energy Vampire Augment: Excess Energy replenishes Shields by 225%.",
+      "wikiLink": "https://wiki.warframe.com/w/Vampire_Leech",
+      "icon": "items/images/en/vampire_leech.97cf256f35ee533378a490c5f27e0e2e.png",
+      "thumb": "items/images/en/thumbs/vampire_leech.97cf256f35ee533378a490c5f27e0e2e.128x128.png"
+    }
+  }
+}

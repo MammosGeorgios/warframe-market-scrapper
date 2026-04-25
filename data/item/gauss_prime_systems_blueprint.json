@@ -1,0 +1,34 @@
+{
+  "id": "65a7fc5aed5b0d2e3eb462b6",
+  "slug": "gauss_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeSystemsBlueprint",
+  "tags": [
+    "prime",
+    "warframe",
+    "component",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "65a7fc5aed5b0d2e3eb462b3",
+    "65a7fc5aed5b0d2e3eb462b5",
+    "65a7fc5aed5b0d2e3eb462b4",
+    "65a7fc5aed5b0d2e3eb462b2",
+    "65a7fc5aed5b0d2e3eb462b6"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gauss Prime Systems Blueprint",
+      "description": "Systems component of the Gauss Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Gauss_Prime",
+      "icon": "items/images/en/gauss_prime_systems_blueprint.df5aa569d863730a4de767fd449c107e.png",
+      "thumb": "items/images/en/thumbs/gauss_prime_systems_blueprint.df5aa569d863730a4de767fd449c107e.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

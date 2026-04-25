@@ -1,0 +1,24 @@
+{
+  "id": "66fd69d63a826eccf651cd6f",
+  "slug": "prosperous_retriever",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/BeastCreditDoublingMod",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "beast"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prosperous Retriever",
+      "description": "18% chance to double Credit pickups",
+      "wikiLink": "https://wiki.warframe.com/w/Prosperous_Retriever",
+      "icon": "items/images/en/prosperous_retriever.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/prosperous_retriever.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

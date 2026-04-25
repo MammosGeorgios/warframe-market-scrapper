@@ -1,0 +1,24 @@
+{
+  "id": "5bc1ab93b919f200c18c10f0",
+  "slug": "sharpshooter",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/EnergyOnHeadshotRifle",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "sniper"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sharpshooter",
+      "description": "On Headshot Kill:\n+15 Energy",
+      "wikiLink": "https://wiki.warframe.com/w/Sharpshooter",
+      "icon": "items/images/en/sharpshooter.82008706e945ec2bf7c88a0587ae404d.png",
+      "thumb": "items/images/en/thumbs/sharpshooter.82008706e945ec2bf7c88a0587ae404d.128x128.png"
+    }
+  }
+}

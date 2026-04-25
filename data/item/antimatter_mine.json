@@ -1,0 +1,25 @@
+{
+  "id": "56dac57b5cc639de0a45c51e",
+  "slug": "antimatter_mine",
+  "gameRef": "/Lotus/Powersuits/AntiMatter/AntiMatterDropPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nova",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Antimatter Mine",
+      "description": "Antimatter Drop Augment: Creates a fully charged stationary orb that explodes after 6s or within enemy proximity.",
+      "wikiLink": "https://wiki.warframe.com/w/Antimatter_Mine",
+      "icon": "items/images/en/antimatter_mine.384adc9bfe518c61363ea6c5640c89ee.png",
+      "thumb": "items/images/en/thumbs/antimatter_mine.384adc9bfe518c61363ea6c5640c89ee.128x128.png"
+    }
+  }
+}

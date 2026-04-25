@@ -1,0 +1,22 @@
+{
+  "id": "57dbdc525e334907aa8edb5a",
+  "slug": "sancti_magistar",
+  "gameRef": "/Lotus/Weapons/Syndicates/NewLoka/Melee/NLMagistar",
+  "tags": [
+    "syndicate",
+    "weapon",
+    "melee"
+  ],
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sancti Magistar",
+      "description": "Each charged attack turns the enemy’s pain into a healing pulse that washes over allies. Also, creates resistance to Status Effects when held.",
+      "wikiLink": "https://wiki.warframe.com/w/Sancti_Magistar",
+      "icon": "items/images/en/sancti_magistar.65c32b4c5b64ff010486af11e6c127c2.png",
+      "thumb": "items/images/en/thumbs/sancti_magistar.65c32b4c5b64ff010486af11e6c127c2.128x128.png"
+    }
+  }
+}

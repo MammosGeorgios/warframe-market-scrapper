@@ -1,0 +1,32 @@
+{
+  "id": "5baa8bbe4567de01ac283491",
+  "slug": "rubico_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/RubicoPrime/RubicoPrimeWeapon",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "primary"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5baa8bbf4567de01ac283493",
+    "5baa8bbf4567de01ac283499",
+    "5baa8bbf4567de01ac283494",
+    "5baa8bbe4567de01ac283491",
+    "5baa8bbf4567de01ac283498"
+  ],
+  "ducats": 185,
+  "reqMasteryRank": 12,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rubico Prime Set",
+      "description": "For the hunter, the apex of the sniper's art. For the hunted, a gateway to the next life.",
+      "wikiLink": "https://wiki.warframe.com/w/Rubico_Prime",
+      "icon": "items/images/en/rubico_prime_set.2071211bc2436d4e768dbb61f98f6efd.png",
+      "thumb": "items/images/en/thumbs/rubico_prime_set.2071211bc2436d4e768dbb61f98f6efd.128x128.png"
+    }
+  }
+}

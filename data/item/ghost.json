@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515660",
+  "slug": "ghost",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/Ghost",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "shade"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ghost",
+      "description": "Cloaks owner when enemies are within 24m. The cloak is disrupted if owner attacks.",
+      "wikiLink": "https://wiki.warframe.com/w/Ghost",
+      "icon": "items/images/en/ghost.9c61a624b07663f8d4d710a3331cccce.png",
+      "thumb": "items/images/en/thumbs/ghost.9c61a624b07663f8d4d710a3331cccce.128x128.png"
+    }
+  }
+}

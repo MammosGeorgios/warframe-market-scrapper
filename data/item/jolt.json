@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155a8",
+  "slug": "jolt",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Jolt",
+      "description": "+60% Electricity\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Jolt",
+      "icon": "items/images/en/jolt.3f5c65020bd76023e1636555496c91c6.png",
+      "thumb": "items/images/en/thumbs/jolt.3f5c65020bd76023e1636555496c91c6.128x128.png"
+    }
+  }
+}

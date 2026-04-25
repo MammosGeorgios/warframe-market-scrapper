@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156d4",
+  "slug": "holster_amp",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/PlayerHolsterSpeedAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Holster Amp",
+      "description": "On Equip:\nSquad gains 60% Weapon Damage for 3s",
+      "wikiLink": "https://wiki.warframe.com/w/Holster_Amp",
+      "icon": "items/images/en/speed_holster.54553d4b3c642c7702ab942455e005bb.png",
+      "thumb": "items/images/en/thumbs/speed_holster.54553d4b3c642c7702ab942455e005bb.128x128.png"
+    }
+  }
+}

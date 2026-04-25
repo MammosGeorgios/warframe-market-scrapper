@@ -1,0 +1,25 @@
+{
+  "id": "56b656edef0390c7e4006385",
+  "slug": "peaceful_provocation",
+  "gameRef": "/Lotus/Powersuits/YinYang/YinYangAuraAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "equinox"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Peaceful Provocation",
+      "description": "Pacify & Provoke Augment: Pacify converts damage done to allies into an aura that slows enemies by 40%. Provoke converts damage done to enemies into 15% extra Ability Strength.",
+      "wikiLink": "https://wiki.warframe.com/w/Peaceful_Provocation",
+      "icon": "items/images/en/peaceful_provocation.5dd2d6341733219501c35d6503fa36f5.png",
+      "thumb": "items/images/en/thumbs/peaceful_provocation.5dd2d6341733219501c35d6503fa36f5.128x128.png"
+    }
+  }
+}

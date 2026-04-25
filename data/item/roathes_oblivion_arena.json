@@ -1,0 +1,18 @@
+{
+  "id": "693e62c903903ae8993ffad8",
+  "slug": "roathes_oblivion_arena",
+  "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileDevilTowerUrielArena",
+  "tags": [
+    "simulacrum"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Roathe's Oblivion Arena",
+      "description": "Simulate a battle in the deepest depths of a tormented mind. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+      "icon": "items/images/en/roathes_oblivion_arena.6fd83e987d608e83e7c2c74a16002915.webp",
+      "thumb": "items/images/en/thumbs/roathes_oblivion_arena.6fd83e987d608e83e7c2c74a16002915.128x128.webp"
+    }
+  }
+}

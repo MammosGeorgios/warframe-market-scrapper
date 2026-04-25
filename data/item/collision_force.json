@@ -1,0 +1,23 @@
+{
+  "id": "554d3f0ce779894445a848ff",
+  "slug": "collision_force",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponEventMeleeImpactDamageMod",
+  "tags": [
+    "mod",
+    "melee",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Collision Force",
+      "description": "+120% Impact",
+      "wikiLink": "https://wiki.warframe.com/w/Collision_Force",
+      "icon": "items/images/en/collision_force.2f14bb6f9c6d9e152d5e836124c8c4b0.png",
+      "thumb": "items/images/en/thumbs/collision_force.2f14bb6f9c6d9e152d5e836124c8c4b0.128x128.png"
+    }
+  }
+}

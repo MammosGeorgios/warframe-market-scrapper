@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e51559b",
+  "slug": "lightning_rod",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceElectricity",
+  "tags": [
+    "mod",
+    "warframe",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lightning Rod",
+      "description": "+60% Electricity Resistance",
+      "wikiLink": "https://wiki.warframe.com/w/Lightning_Rod",
+      "icon": "items/images/en/lightning_rod.d7cb1098d167e8d17cadf6065eb99d34.png",
+      "thumb": "items/images/en/thumbs/lightning_rod.d7cb1098d167e8d17cadf6065eb99d34.128x128.png"
+    }
+  }
+}

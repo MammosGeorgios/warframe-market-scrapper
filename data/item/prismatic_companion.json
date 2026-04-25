@@ -1,0 +1,24 @@
+{
+  "id": "685d4fcef41598dddb4cc2f6",
+  "slug": "prismatic_companion",
+  "gameRef": "/Lotus/Powersuits/Geode/GeodeCrystalAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "citrine",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prismatic Companion",
+      "description": "Prismatic Gem Augment: The gem now attaches to your free-moving companion. Passive : +50% Prismatic Gem Duration.",
+      "icon": "items/images/en/prismatic_companion.d887dd4b03e654a4615278b2afa7a9bf.webp",
+      "thumb": "items/images/en/thumbs/prismatic_companion.d887dd4b03e654a4615278b2afa7a9bf.128x128.webp"
+    }
+  }
+}

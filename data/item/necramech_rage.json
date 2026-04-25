@@ -1,0 +1,23 @@
+{
+  "id": "5fde10c46db57b0185b3907a",
+  "slug": "necramech_rage",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechAvatarDamageToEnergyMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "necramech"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Rage",
+      "description": "Convert +15% of Damage on Health to Energy. Without Shields, ally Overguard imitates Health.",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Rage",
+      "icon": "items/images/en/necramech_rage.dbd0173509d7cfb6fed7bad884568e9f.png",
+      "thumb": "items/images/en/thumbs/necramech_rage.dbd0173509d7cfb6fed7bad884568e9f.128x128.png"
+    }
+  }
+}

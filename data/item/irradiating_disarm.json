@@ -1,0 +1,25 @@
+{
+  "id": "54e0c9eee7798903744178b0",
+  "slug": "irradiating_disarm",
+  "gameRef": "/Lotus/Powersuits/Loki/DisarmAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "loki",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Irradiating Disarm",
+      "description": "Radial Disarm Augment: Enemies will be affected by Radiation Status for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Irradiating_Disarm",
+      "icon": "items/images/en/irradiating_disarm.cffd5ed77e1365babfd3e9559b96ebc6.png",
+      "thumb": "items/images/en/thumbs/irradiating_disarm.cffd5ed77e1365babfd3e9559b96ebc6.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "5dfea1461456970294aff396",
+  "slug": "grendel_neuroptics_locator",
+  "gameRef": "",
+  "tags": [
+    "mod",
+    "locator"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Grendel Neuroptics Locator",
+      "description": "The Grendel Neuroptics Locator unlocks the Archaeo-freighter, a 20-minute Survival mission.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Grendel",
+      "icon": "items/images/en/grendel_neuroptics_locator.7dd4fc179a716ae22358bb6484f1c648.webp",
+      "thumb": "items/images/en/thumbs/grendel_neuroptics_locator.7dd4fc179a716ae22358bb6484f1c648.128x128.webp"
+    }
+  }
+}

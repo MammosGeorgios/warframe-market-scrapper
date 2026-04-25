@@ -1,0 +1,27 @@
+{
+  "id": "60e70f7b479445008f272582",
+  "slug": "ostron_chest_guard",
+  "gameRef": "/Lotus/Upgrades/Skins/Armor/OstronCrewArmor/OstronCrewArmorC",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60e70f80479445008f2725a1",
+    "60e70f7e479445008f272594",
+    "60e70f7b479445008f272582",
+    "60e70f7f479445008f27259f"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ostron Chest Guard",
+      "description": "An Ostron armor set crafted from Orokin tower salvage.",
+      "wikiLink": "https://wiki.warframe.com/w/Ostron",
+      "icon": "items/images/en/ostron_chest_guard.aa95b7acc34aa43b0bd0c43fba0336c9.png",
+      "thumb": "items/images/en/thumbs/ostron_chest_guard.aa95b7acc34aa43b0bd0c43fba0336c9.128x128.png"
+    }
+  }
+}

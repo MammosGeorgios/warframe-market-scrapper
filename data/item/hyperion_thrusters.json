@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156ea",
+  "slug": "hyperion_thrusters",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitSprintSpeedMod",
+  "tags": [
+    "mod",
+    "archwing",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hyperion Thrusters",
+      "description": "+27.5% Flight Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Hyperion_Thrusters",
+      "icon": "items/images/en/hyperion_thrusters.d180283d2297c661b4dda819da35006d.png",
+      "thumb": "items/images/en/thumbs/hyperion_thrusters.d180283d2297c661b4dda819da35006d.128x128.png"
+    }
+  }
+}

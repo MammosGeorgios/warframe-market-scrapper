@@ -1,0 +1,25 @@
+{
+  "id": "64c2aa1566456704eba6ba43",
+  "slug": "temporal_erosion",
+  "gameRef": "/Lotus/Powersuits/Odalisk/OdaliskAnchorAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "protea",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Temporal Erosion",
+      "description": "Temporal Anchor Augment: While Temporal Anchor is active, each strike of Grenade Fan and Blaze Artillery strips 10% Armor from enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Temporal_Erosion",
+      "icon": "items/images/en/temporal_erosion.3ec11d68874ffe97d9c9b37ad6b265c6.png",
+      "thumb": "items/images/en/thumbs/temporal_erosion.3ec11d68874ffe97d9c9b37ad6b265c6.128x128.png"
+    }
+  }
+}

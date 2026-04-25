@@ -1,0 +1,23 @@
+{
+  "id": "60e5b9004794450053e9995e",
+  "slug": "oull",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/ImmortalWildcardMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Oull",
+      "description": "Through endless faces, countless forms, a multitude unfolds. (Mimics any Requiem Mod)",
+      "wikiLink": "https://wiki.warframe.com/w/Oull",
+      "icon": "items/images/en/oull.5e6a9b7cd07dfa6cd299006523c3f802.png",
+      "thumb": "items/images/en/thumbs/oull.5e6a9b7cd07dfa6cd299006523c3f802.128x128.png"
+    }
+  }
+}

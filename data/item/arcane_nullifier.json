@@ -1,0 +1,22 @@
+{
+  "id": "56153e78b66f83706f01716f",
+  "slug": "arcane_nullifier",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MagneticProcResist",
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "rarity": "common",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Nullifier",
+      "description": "+102% chance to resist a Magnetic Status effect.\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Nullifier",
+      "icon": "items/images/en/arcane_nullifier.2fa3bc7cd7e902ae797f175896f10f97.png",
+      "thumb": "items/images/en/thumbs/arcane_nullifier.2fa3bc7cd7e902ae797f175896f10f97.128x128.png"
+    }
+  }
+}

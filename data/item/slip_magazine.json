@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155b1",
+  "slug": "slip_magazine",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponClipMaxMod",
+  "tags": [
+    "common",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Slip Magazine",
+      "description": "+30% Magazine Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Slip_Magazine",
+      "icon": "items/images/en/slip_magazine.c72bb3d9a2f6bd363c43f32dc1f81572.png",
+      "thumb": "items/images/en/thumbs/slip_magazine.c72bb3d9a2f6bd363c43f32dc1f81572.128x128.png"
+    }
+  }
+}

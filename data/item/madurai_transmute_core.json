@@ -1,0 +1,21 @@
+{
+  "id": "567872239906166591f69a9a",
+  "slug": "madurai_transmute_core",
+  "gameRef": "/Lotus/Upgrades/Mods/TransmuteCores/AttackTransmuteCore",
+  "tags": [
+    "mod",
+    "rare"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Madurai Transmute Core",
+      "description": "Ensures transmuted mod is of Madurai polarity and eliminates credit cost.",
+      "wikiLink": "https://wiki.warframe.com/w/Madurai_Transmute_Core",
+      "icon": "items/images/en/madurai_transmute_core.4550b0b0a7749bc7d89773b220b0c60d.png",
+      "thumb": "items/images/en/thumbs/madurai_transmute_core.4550b0b0a7749bc7d89773b220b0c60d.128x128.png"
+    }
+  }
+}

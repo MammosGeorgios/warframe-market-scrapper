@@ -1,0 +1,24 @@
+{
+  "id": "667237bd8ba7c81b70d02cae",
+  "slug": "shotgun_cannonade",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/ShotgunSemiAutoFantasyMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Semi-Shotgun Cannonade",
+      "description": "Only compatible with Semi-Auto Trigger. Fire Rate cannot be modified. +240% Damage\n+1.5 Punch Through",
+      "wikiLink": "https://wiki.warframe.com/w/Semi-Shotgun_Cannonade",
+      "icon": "items/images/en/shotgun_cannonade.8c165fbcd25c558ed10526cdedac747c.webp",
+      "thumb": "items/images/en/thumbs/shotgun_cannonade.8c165fbcd25c558ed10526cdedac747c.128x128.webp"
+    }
+  }
+}

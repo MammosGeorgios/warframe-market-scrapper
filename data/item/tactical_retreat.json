@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a523",
+  "slug": "tactical_retreat",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/IncreasedMobilityOnLowHealth",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tactical Retreat",
+      "description": "On Low Health:\n+10% Mobility for 4s",
+      "wikiLink": "https://wiki.warframe.com/w/Tactical_Retreat",
+      "icon": "items/images/en/tactical_retreat.90f93980f8da9a73157f4a6bca59e78f.png",
+      "thumb": "items/images/en/thumbs/tactical_retreat.90f93980f8da9a73157f4a6bca59e78f.128x128.png"
+    }
+  }
+}

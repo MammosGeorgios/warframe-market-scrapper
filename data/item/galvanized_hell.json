@@ -1,0 +1,24 @@
+{
+  "id": "60e5b8fb4794450053e9993d",
+  "slug": "galvanized_hell",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireIterationsSPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galvanized Hell",
+      "description": "+110% Multishot\nOn Kill:\n+30% Multishot for 20s. Stacks up to 4x.",
+      "wikiLink": "https://wiki.warframe.com/w/Galvanized_Hell",
+      "icon": "items/images/en/galvanized_hell.b411e995f8116a7ac6adbce1128b7689.png",
+      "thumb": "items/images/en/thumbs/galvanized_hell.b411e995f8116a7ac6adbce1128b7689.128x128.png"
+    }
+  }
+}

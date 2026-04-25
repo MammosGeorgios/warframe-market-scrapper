@@ -1,0 +1,34 @@
+{
+  "id": "5a2feeb2c2c9e90cbdaa23d5",
+  "slug": "mirage_prime_chassis_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeChassisBlueprint",
+  "tags": [
+    "warframe",
+    "component",
+    "blueprint",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5a2feeb2c2c9e90cbdaa23d4",
+    "5a2feeb2c2c9e90cbdaa23d5",
+    "5a2feeb2c2c9e90cbdaa23d6",
+    "5a2feeb2c2c9e90cbdaa23d3",
+    "5a2feeb1c2c9e90cbdaa23d2"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mirage Prime Chassis Blueprint",
+      "description": "Chassis component of the Mirage Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Mirage_Prime",
+      "icon": "items/images/en/mirage_prime_chassis.e7f8f484dd6ae6c35f0767fff35a5109.png",
+      "thumb": "items/images/en/thumbs/mirage_prime_chassis.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_chassis_128x128.png"
+    }
+  }
+}

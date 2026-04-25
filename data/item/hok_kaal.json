@@ -1,0 +1,22 @@
+{
+  "id": "693e6afd03903ae8993ffb08",
+  "slug": "hok_kaal",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/DamageWhileInvisible",
+  "tags": [
+    "mod",
+    "common",
+    "any"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hok-Kaal",
+      "description": "After using Void Mode, the next Amp attack deals x3.0 bonus damage (cooldown 5s)",
+      "icon": "items/images/en/hok_kaal.c0c4e0b2a5f76c9d3ee1a7ed04551822.webp",
+      "thumb": "items/images/en/thumbs/hok_kaal.c0c4e0b2a5f76c9d3ee1a7ed04551822.128x128.webp"
+    }
+  }
+}

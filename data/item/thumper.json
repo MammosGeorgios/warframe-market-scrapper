@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515607",
+  "slug": "thumper",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/Thumper",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "djinn"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Thumper",
+      "description": "Djinn will attack the first visible enemy within 60m.",
+      "wikiLink": "https://wiki.warframe.com/w/Thumper",
+      "icon": "items/images/en/thumper.e357cdd92fb471cd5743fafdee3fa63b.png",
+      "thumb": "items/images/en/thumbs/thumper.e357cdd92fb471cd5743fafdee3fa63b.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "551085a6e77989729ab10a35",
+  "slug": "arcane_awakening",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/PistolDamageOnReload",
+  "tags": [
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Awakening",
+      "description": "On Reload:\n60% chance for +150% Damage to Pistols for 24s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Awakening",
+      "icon": "items/images/en/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.png",
+      "thumb": "items/images/en/thumbs/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515639",
+  "slug": "furor",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeFireRateMod",
+  "tags": [
+    "uncommon",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Furor",
+      "description": "+10% Attack Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Furor",
+      "icon": "items/images/en/furor.071ae1a3bff51fa6de6657046b22617e.png",
+      "thumb": "items/images/en/thumbs/furor.071ae1a3bff51fa6de6657046b22617e.128x128.png"
+    }
+  }
+}

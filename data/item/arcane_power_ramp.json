@@ -1,0 +1,23 @@
+{
+  "id": "649322af7ec190215a693091",
+  "slug": "arcane_power_ramp",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnCast",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Power Ramp",
+      "description": "On Ability Cast: Next Ability cast gains +9% Ability Strength, stacking up to 4x. Resets when the same ability is recast consecutively.\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Power_Ramp",
+      "icon": "items/images/en/arcane_power_ramp.3acad1eaec440c1505c01661a7228664.png",
+      "thumb": "items/images/en/thumbs/arcane_power_ramp.3acad1eaec440c1505c01661a7228664.128x128.png"
+    }
+  }
+}

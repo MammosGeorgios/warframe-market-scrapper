@@ -1,0 +1,23 @@
+{
+  "id": "645ba2a67ec1900802a58a49",
+  "slug": "inaak",
+  "gameRef": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Inaak",
+      "description": "Some theorize that Duviri stands upon the shell of a giant Inaak. Naturally, some wonder what the giant Inaak stands upon. The answer, of course, is other Inaaks, all the way down.",
+      "wikiLink": "https://wiki.warframe.com/w/Inaak",
+      "icon": "items/images/en/inaak.1844cea2c8d539d0c9e00adc0382749d.png",
+      "thumb": "items/images/en/thumbs/inaak.1844cea2c8d539d0c9e00adc0382749d.128x128.png"
+    }
+  }
+}

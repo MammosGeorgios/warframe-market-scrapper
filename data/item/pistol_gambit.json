@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155ca",
+  "slug": "pistol_gambit",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponCritChanceMod",
+  "tags": [
+    "common",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pistol Gambit",
+      "description": "+120% Critical Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Pistol_Gambit",
+      "icon": "items/images/en/pistol_gambit.b7912cda548f169c61b0102350caa3ad.png",
+      "thumb": "items/images/en/thumbs/pistol_gambit.b7912cda548f169c61b0102350caa3ad.128x128.png"
+    }
+  }
+}

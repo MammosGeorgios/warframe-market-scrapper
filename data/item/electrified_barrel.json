@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e5156db",
+  "slug": "electrified_barrel",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponElectricityDamageMod",
+  "tags": [
+    "uncommon",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Electrified Barrel",
+      "description": "+120% Electricity",
+      "wikiLink": "https://warframe.fandom.com/wiki/Electrified_Barrel",
+      "icon": "items/images/en/electrified_barrel.4578f59f618c4033e9f3b00df2bbc921.png",
+      "thumb": "items/images/en/thumbs/electrified_barrel.4578f59f618c4033e9f3b00df2bbc921.128x128.png"
+    }
+  }
+}

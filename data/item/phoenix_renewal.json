@@ -1,0 +1,25 @@
+{
+  "id": "5754a312e701ef5844257da9",
+  "slug": "phoenix_renewal",
+  "gameRef": "/Lotus/Powersuits/Paladin/RegenerationAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "oberon",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Phoenix Renewal",
+      "description": "Renewal Augment: Taking fatal damage while under the effects of Renewal will instead Heal you or allies to 50% Health. This effect triggers only once for each ally every 90s.",
+      "wikiLink": "https://wiki.warframe.com/w/Phoenix_Renewal",
+      "icon": "items/images/en/phoenix_renewal.92f0ed82f9b6df3be53be221db2e15e6.png",
+      "thumb": "items/images/en/thumbs/phoenix_renewal.92f0ed82f9b6df3be53be221db2e15e6.128x128.png"
+    }
+  }
+}

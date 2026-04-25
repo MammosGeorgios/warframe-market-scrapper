@@ -1,0 +1,23 @@
+{
+  "id": "55c153bfe779895d7c52cd96",
+  "slug": "lightning_dash",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/ElectricalParkourTwoMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lightning Dash",
+      "description": "+24.2% to Parkour Velocity\n+24.2% Aim Glide/Wall Latch Duration\n+275% Electricity on Bullet Jump",
+      "wikiLink": "https://wiki.warframe.com/w/Lightning_Dash",
+      "icon": "items/images/en/lightning_dash.12ae8ab9206050f20aec9ffcd8f83aeb.png",
+      "thumb": "items/images/en/thumbs/lightning_dash.12ae8ab9206050f20aec9ffcd8f83aeb.128x128.png"
+    }
+  }
+}

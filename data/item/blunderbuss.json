@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515686",
+  "slug": "blunderbuss",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponCritChanceMod",
+  "tags": [
+    "common",
+    "shotgun",
+    "mod",
+    "primary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Blunderbuss",
+      "description": "+90% Critical Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Blunderbuss",
+      "icon": "items/images/en/blunderbuss.f8df9459d8032ae3006453260a938a77.png",
+      "thumb": "items/images/en/thumbs/blunderbuss.f8df9459d8032ae3006453260a938a77.128x128.png"
+    }
+  }
+}

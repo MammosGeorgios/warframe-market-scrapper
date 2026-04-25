@@ -1,0 +1,24 @@
+{
+  "id": "6604a653dbdd5c1673781db7",
+  "slug": "divine_retribution",
+  "gameRef": "/Lotus/Powersuits/Nezha/NezhaSpearAugmentTwoCard",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe",
+    "nezha"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Divine Retribution",
+      "description": "Divine Spears Augment: Status Effects spread to all speared enemies. Spear explosions scale by 1.5x of remaining Slash, Toxin and Heat Status Effects. Base Radius is 14m.",
+      "wikiLink": "https://wiki.warframe.com/w/Divine_Retribution",
+      "icon": "items/images/en/divine_retribution.5c789c19213b7cd12fb3e2678105461e.png",
+      "thumb": "items/images/en/thumbs/divine_retribution.5c789c19213b7cd12fb3e2678105461e.128x128.png"
+    }
+  }
+}

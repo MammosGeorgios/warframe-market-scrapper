@@ -1,0 +1,23 @@
+{
+  "id": "5bc1ab92b919f200c18c10ed",
+  "slug": "vigorous_swap",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarHolsterDamageMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vigorous Swap",
+      "description": "On Equip:\n+165% Damage for 3s",
+      "wikiLink": "https://wiki.warframe.com/w/Vigorous_Swap",
+      "icon": "items/images/en/vigorous_swap.acdc8dc20f09463f5e36bb98a4e043e3.png",
+      "thumb": "items/images/en/thumbs/vigorous_swap.acdc8dc20f09463f5e36bb98a4e043e3.128x128.png"
+    }
+  }
+}

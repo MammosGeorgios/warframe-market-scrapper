@@ -1,0 +1,31 @@
+{
+  "id": "57bc9a40e506eb45ea251451",
+  "slug": "nekros_prime_set",
+  "gameRef": "/Lotus/Powersuits/Necro/NekrosPrime",
+  "tags": [
+    "set",
+    "warframe",
+    "prime"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "57bcb14ce506eb45ea25145e",
+    "57bc9a40e506eb45ea251452",
+    "57bc9a40e506eb45ea251453",
+    "57bc9a40e506eb45ea251451",
+    "57bc9a40e506eb45ea251454"
+  ],
+  "ducats": 225,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nekros Prime Set",
+      "description": "Death's new master. Featuring altered mod polarities allow for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Nekros_Prime",
+      "icon": "items/images/en/nekros_prime_set.523943a15c82985ebe7cf14eac98966d.png",
+      "thumb": "items/images/en/thumbs/nekros_prime_set.523943a15c82985ebe7cf14eac98966d.128x128.png"
+    }
+  }
+}

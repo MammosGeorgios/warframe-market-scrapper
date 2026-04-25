@@ -1,0 +1,25 @@
+{
+  "id": "56dac5805cc639de0a45c51f",
+  "slug": "prism_guard",
+  "gameRef": "/Lotus/Powersuits/Harlequin/PrismPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "mirage",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prism Guard",
+      "description": "Prism Augment: Prism follows above Mirage. Duration changed to 4s.",
+      "wikiLink": "https://wiki.warframe.com/w/Prism",
+      "icon": "items/images/en/prism_guard.739b3605765381236dc43f5697692fc1.png",
+      "thumb": "items/images/en/thumbs/prism_guard.739b3605765381236dc43f5697692fc1.128x128.png"
+    }
+  }
+}

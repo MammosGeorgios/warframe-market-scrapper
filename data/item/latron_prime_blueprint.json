@@ -1,0 +1,34 @@
+{
+  "id": "54a73e65e779893a797fff4a",
+  "slug": "latron_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/LatronPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "primary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff49",
+    "54a73e65e779893a797fff4a",
+    "54a73e65e779893a797fff4b",
+    "56783f24cbfa8f0432dd89a1",
+    "54a73e65e779893a797fff4c"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Latron Prime Blueprint",
+      "description": "The ornamental Latron Prime exploits ancient Orokin technology to get a slight damage increase over the standard Latron.",
+      "wikiLink": "https://wiki.warframe.com/w/Latron_Prime",
+      "icon": "items/images/en/latron_prime_blueprint.5c8b8009acbdb97fd49177ba155ecfbe.png",
+      "thumb": "items/images/en/thumbs/latron_prime_blueprint.5c8b8009acbdb97fd49177ba155ecfbe.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

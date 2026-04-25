@@ -1,0 +1,22 @@
+{
+  "id": "5fe0ea836db57b0225115013",
+  "slug": "prisma_dual_decurions",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols",
+  "tags": [
+    "archwing",
+    "weapon",
+    "primary"
+  ],
+  "reqMasteryRank": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Dual Decurions",
+      "description": "Colder than space and less forgiving, Prisma crystals bring elite efficiency to the already sleek Dual Decurion. Requiring the lightest of touches to reload, these twin archguns prove that heavy weaponry can still possess elegance.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Prisma_Dual_Decurion",
+      "icon": "items/images/en/prisma_dual_decurion.4ee7041a38ef9ad13e0b56829098d536.png",
+      "thumb": "items/images/en/thumbs/prisma_dual_decurion.4ee7041a38ef9ad13e0b56829098d536.128x128.png"
+    }
+  }
+}

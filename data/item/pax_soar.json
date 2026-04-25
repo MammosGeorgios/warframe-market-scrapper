@@ -1,0 +1,23 @@
+{
+  "id": "5bf54b483ffcc7066e7eb856",
+  "slug": "pax_soar",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/EyeInTheSky",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pax Soar",
+      "description": "+50% Accuracy while Airborne\n-50% Weapon Recoil while Airborne\n+5s Aim Glide/Wall Latch Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Pax_Soar",
+      "icon": "items/images/en/pax_soar.b1cec46096b57bd8c82c974fbd376baa.png",
+      "thumb": "items/images/en/thumbs/pax_soar.b1cec46096b57bd8c82c974fbd376baa.128x128.png"
+    }
+  }
+}

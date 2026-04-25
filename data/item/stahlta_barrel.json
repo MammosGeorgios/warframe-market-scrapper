@@ -1,0 +1,30 @@
+{
+  "id": "5ee76f4b04d55c0a81972434",
+  "slug": "stahlta_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/CrpRubanRifleBarrel",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5ee76f4b04d55c0a81972435",
+    "5ee76f4b04d55c0a81972434",
+    "5ee76f4c04d55c0a81972438",
+    "5ee76f4d04d55c0a8197243c"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stahlta Barrel",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Stahlta",
+      "icon": "items/images/en/stahlta_barrel.30d7537c3158976f86998e5b9fa05f96.png",
+      "thumb": "items/images/en/thumbs/stahlta_barrel.30d7537c3158976f86998e5b9fa05f96.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_barrel_128x128.png"
+    }
+  }
+}

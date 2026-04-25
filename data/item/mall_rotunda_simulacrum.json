@@ -1,0 +1,18 @@
+{
+  "id": "675c610e7b18977f6e6453f8",
+  "slug": "mall_rotunda_simulacrum",
+  "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999MallRotunda",
+  "tags": [
+    "simulacrum"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mall Rotunda Simulacrum",
+      "description": "Simulate a battle in a Techrot-choked Mall beneath Höllvania. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+      "icon": "items/images/en/mall_rotunda_simulacrum.13f34cfe2dffff3549cf5736f75c06cf.webp",
+      "thumb": "items/images/en/thumbs/mall_rotunda_simulacrum.13f34cfe2dffff3549cf5736f75c06cf.128x128.webp"
+    }
+  }
+}

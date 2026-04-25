@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4f1",
+  "slug": "serrated_edges",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Melee/DamageBiasPunctureMeleeMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pvp",
+    "melee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Serrated Edges",
+      "description": "20% of Damage converted into Puncture",
+      "wikiLink": "https://wiki.warframe.com/w/Serrated_Edges",
+      "icon": "items/images/en/serrated_edges.7734d4b5eca3d49886694329157f1d74.png",
+      "thumb": "items/images/en/thumbs/serrated_edges.7734d4b5eca3d49886694329157f1d74.128x128.png"
+    }
+  }
+}

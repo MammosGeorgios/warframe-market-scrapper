@@ -1,0 +1,23 @@
+{
+  "id": "58446ffa2c2ada0071154b52",
+  "slug": "relentless_combination",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeComboChanceFromDot",
+  "tags": [
+    "mod",
+    "melee",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Relentless Combination",
+      "description": "+100% chance to increase Melee Combo Counter when Slash Status deals damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Relentless_Combination",
+      "icon": "items/images/en/relentless_combination.1c8cacce7f4d841b2471013085cde633.png",
+      "thumb": "items/images/en/thumbs/relentless_combination.1c8cacce7f4d841b2471013085cde633.128x128.png"
+    }
+  }
+}

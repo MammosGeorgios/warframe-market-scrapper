@@ -1,0 +1,23 @@
+{
+  "id": "5f4ed3f8d5c36d0086f55b08",
+  "slug": "necramech_blitz",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideDamageMod",
+  "tags": [
+    "mod",
+    "common",
+    "necramech"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Blitz",
+      "description": "+80% Slide Attack Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Blitz",
+      "icon": "items/images/en/necramech_blitz.9bb602da20c4207a0d2cf79009279756.png",
+      "thumb": "items/images/en/thumbs/necramech_blitz.9bb602da20c4207a0d2cf79009279756.128x128.png"
+    }
+  }
+}

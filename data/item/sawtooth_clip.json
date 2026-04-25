@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51566a",
+  "slug": "sawtooth_clip",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponSlashDamageMod",
+  "tags": [
+    "common",
+    "mod",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sawtooth Clip",
+      "description": "+90% Slash",
+      "wikiLink": "https://wiki.warframe.com/w/Sawtooth_Clip",
+      "icon": "items/images/en/sawtooth_clip.830e46abe286063df243932fa45de311.png",
+      "thumb": "items/images/en/thumbs/sawtooth_clip.830e46abe286063df243932fa45de311.128x128.png"
+    }
+  }
+}

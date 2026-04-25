@@ -1,0 +1,24 @@
+{
+  "id": "6055de865221e30083f6f10a",
+  "slug": "votive_onslaught",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/WarfanCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "warfans"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Votive Onslaught",
+      "description": "Precise, focused arcs and cuts not hampered by pity.",
+      "wikiLink": "https://wiki.warframe.com/w/Votive_Onslaught",
+      "icon": "items/images/en/votive_onslaught.ffc5c641a7d5d23e510fc27faaf7dc44.png",
+      "thumb": "items/images/en/thumbs/votive_onslaught.ffc5c641a7d5d23e510fc27faaf7dc44.128x128.png"
+    }
+  }
+}

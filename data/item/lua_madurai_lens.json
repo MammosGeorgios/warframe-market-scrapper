@@ -1,0 +1,20 @@
+{
+  "id": "5d6ea67d7ea27b05d929cc00",
+  "slug": "lua_madurai_lens",
+  "gameRef": "/Lotus/Upgrades/Focus/AttackLensLua",
+  "tags": [
+    "focus",
+    "lens"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lua Madurai Lens",
+      "description": "Converts 5.5% of excess Affinity into Focus for the Madurai Way.",
+      "wikiLink": "https://wiki.warframe.com/w/Lua_Madurai_Lens",
+      "icon": "items/images/en/lua_madurai_lens.e3b2ed7d024b138843320d13d204e020.png",
+      "thumb": "items/images/en/thumbs/lua_madurai_lens.e3b2ed7d024b138843320d13d204e020.128x128.png"
+    }
+  }
+}

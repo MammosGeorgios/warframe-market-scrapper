@@ -1,0 +1,33 @@
+{
+  "id": "60ad4a1bf1904300d012c6ff",
+  "slug": "gara_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GaraPrimeBlueprint",
+  "tags": [
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60ad4a1bf1904300d012c6ff",
+    "60ad4a1df1904300d012c70e",
+    "60ad4a1cf1904300d012c702",
+    "60ad4a1bf1904300d012c701",
+    "60ad4a1cf1904300d012c703"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gara Prime Blueprint",
+      "description": "Continue the legend of the glass-armored warrior Gara. Dominate the battlefield with the power and purity of crystal.",
+      "wikiLink": "https://wiki.warframe.com/w/Gara_Prime",
+      "icon": "items/images/en/gara_prime_blueprint.e0359bcb2d3e747c46edd23083f39de8.png",
+      "thumb": "items/images/en/thumbs/gara_prime_blueprint.e0359bcb2d3e747c46edd23083f39de8.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

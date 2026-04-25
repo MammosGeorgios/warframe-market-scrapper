@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155f5",
+  "slug": "scattered_justice",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/HekMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "rare",
+    "primary",
+    "hek"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Scattered Justice",
+      "description": "+200% Multishot\n+1 'Justice'",
+      "wikiLink": "https://wiki.warframe.com/w/Scattered_Justice",
+      "icon": "items/images/en/scattered_justice.b46113ecdbc04d327240cedec0e3b1f1.png",
+      "thumb": "items/images/en/thumbs/scattered_justice.b46113ecdbc04d327240cedec0e3b1f1.128x128.png"
+    }
+  }
+}

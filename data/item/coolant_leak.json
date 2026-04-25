@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156ca",
+  "slug": "coolant_leak",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/CoolantLeak",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "robotic"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Coolant Leak",
+      "description": "Unleashes a 10m radial blast of Cold when multiple enemies are nearby. Add 3 stacks. 10s cooldown.",
+      "wikiLink": "https://wiki.warframe.com/w/Coolant_Leak",
+      "icon": "items/images/en/coolant_leak.e7c57e504908c5c2664900cc046d76c1.png",
+      "thumb": "items/images/en/thumbs/coolant_leak.e7c57e504908c5c2664900cc046d76c1.128x128.png"
+    }
+  }
+}

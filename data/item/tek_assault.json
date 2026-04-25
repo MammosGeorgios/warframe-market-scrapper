@@ -1,0 +1,23 @@
+{
+  "id": "5be4b0a53ffcc703294e76b1",
+  "slug": "tek_assault",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Tek/KavatTekAssaultMod",
+  "tags": [
+    "mod",
+    "kavat",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tek Assault",
+      "description": "Kavat has 60% chance to ignore Lethal Damage and be immune for 4s.",
+      "wikiLink": "https://wiki.warframe.com/w/Tek_Assault",
+      "icon": "items/images/en/tek_assault.7ab0fb3bd35101cefe65e1365eb1d224.png",
+      "thumb": "items/images/en/thumbs/tek_assault.7ab0fb3bd35101cefe65e1365eb1d224.128x128.png"
+    }
+  }
+}

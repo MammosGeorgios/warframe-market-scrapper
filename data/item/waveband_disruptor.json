@@ -1,0 +1,22 @@
+{
+  "id": "6056348590a69e004e862881",
+  "slug": "waveband_disruptor",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanCritBypassShieldTurret",
+  "tags": [
+    "mod",
+    "uncommon",
+    "railjack"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Waveband Disruptor",
+      "description": "+76.5% chance for Turret Critical Hits to ignore enemy Shields",
+      "icon": "items/images/en/waveband_disruptor.a5b6017f6387b3a4eb1bc2cd9ebfaeb7.png",
+      "thumb": "items/images/en/thumbs/waveband_disruptor.a5b6017f6387b3a4eb1bc2cd9ebfaeb7.128x128.png"
+    }
+  }
+}

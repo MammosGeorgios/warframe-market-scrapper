@@ -1,0 +1,30 @@
+{
+  "id": "56783f24cbfa8f0432dd89b3",
+  "slug": "wyrm_prime_set",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeWyrmPowerSuit",
+  "tags": [
+    "sentinel",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54ca431ce779891a1adb4901",
+    "54ca4330e779891a286a5428",
+    "54ca4329e779891a21d036bd",
+    "56783f24cbfa8f0432dd89b3",
+    "54ca4337e779891a2e3fbc83"
+  ],
+  "ducats": 90,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Wyrm Prime Set",
+      "description": "Both bodyguard and status symbol, the Wyrm Prime Sentinel was the last line of defense for high ranking Tenno in the Orokin Era.",
+      "wikiLink": "https://wiki.warframe.com/w/Wyrm_Prime",
+      "icon": "items/images/en/wyrm_prime_set.4da3da5cc8eeef554dc3208bbb5a8f26.png",
+      "thumb": "items/images/en/thumbs/wyrm_prime_set.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png"
+    }
+  }
+}

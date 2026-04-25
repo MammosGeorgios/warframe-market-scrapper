@@ -1,0 +1,23 @@
+{
+  "id": "567af35fcbfa8f05d076a502",
+  "slug": "venomous_rise",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/PoisonParkourPvPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Venomous Rise",
+      "description": "Toxin FX on Bullet Jump",
+      "wikiLink": "https://wiki.warframe.com/w/Venomous_Rise",
+      "icon": "items/images/en/venomous_rise.d3013361047ec06da09edb2f83cdb0d7.png",
+      "thumb": "items/images/en/thumbs/venomous_rise.d3013361047ec06da09edb2f83cdb0d7.128x128.png"
+    }
+  }
+}

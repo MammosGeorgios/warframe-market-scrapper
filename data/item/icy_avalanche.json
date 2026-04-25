@@ -1,0 +1,25 @@
+{
+  "id": "58446fc72c2ada0064aca003",
+  "slug": "icy_avalanche",
+  "gameRef": "/Lotus/Powersuits/Frost/AvalancheAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "frost"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Icy Avalanche",
+      "description": "Avalanche Augment: Allies within Affinity Range are coated in ice that grants 60 Overguard per enemy hit. Overguard increases by 20% of your Armor once per enemy.",
+      "wikiLink": "https://wiki.warframe.com/w/Icy_Avalanche",
+      "icon": "items/images/en/icy_avalanche.ee531a2d69a5c482eca8f264fbeaf103.png",
+      "thumb": "items/images/en/thumbs/icy_avalanche.ee531a2d69a5c482eca8f264fbeaf103.128x128.png"
+    }
+  }
+}

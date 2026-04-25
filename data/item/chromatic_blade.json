@@ -1,0 +1,25 @@
+{
+  "id": "59385f6716efa3a742b15f60",
+  "slug": "chromatic_blade",
+  "gameRef": "/Lotus/Powersuits/Excalibur/SwordOfDoomAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "excalibur",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Chromatic Blade",
+      "description": "Exalted Blade Augment: Exalted Blade's Damage Type changes depending on Excalibur's Emissive Color, and Status Chance is increased by 300%.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Chromatic_Blade",
+      "icon": "items/images/en/chromatic_blade.2d72fee7f3deddd7450241dca62bfd47.png",
+      "thumb": "items/images/en/thumbs/chromatic_blade.2d72fee7f3deddd7450241dca62bfd47.128x128.png"
+    }
+  }
+}

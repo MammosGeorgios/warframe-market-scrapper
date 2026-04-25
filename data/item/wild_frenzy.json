@@ -1,0 +1,24 @@
+{
+  "id": "5c79229f2cc6ce0985fd3bb7",
+  "slug": "wild_frenzy",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnAssaultRifleArbitrationMod",
+  "tags": [
+    "mod",
+    "grakata",
+    "primary",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Wild Frenzy",
+      "description": "Secondary Fire will shoot with +400% Fire Rate until the magazine is empty. Killing 2 or more enemies will refund 100% of the ammo.",
+      "wikiLink": "https://wiki.warframe.com/w/Wild_Frenzy",
+      "icon": "items/images/en/wild_frenzy.fd671126fd4051e8e3addc13ae56d1f0.png",
+      "thumb": "items/images/en/thumbs/wild_frenzy.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+    }
+  }
+}

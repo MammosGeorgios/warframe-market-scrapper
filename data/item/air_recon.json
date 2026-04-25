@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4c8",
+  "slug": "air_recon",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HigherAirAimFoVPistolMod",
+  "tags": [
+    "secondary",
+    "pvp",
+    "uncommon",
+    "mod",
+    "pistol"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Air Recon",
+      "description": "-60% Zoom while Aim Gliding",
+      "wikiLink": "https://wiki.warframe.com/w/Air_Recon",
+      "icon": "items/images/en/air_recon.73a5b4319a32387372dc2c693b18ebcc.png",
+      "thumb": "items/images/en/thumbs/air_recon.73a5b4319a32387372dc2c693b18ebcc.128x128.png"
+    }
+  }
+}

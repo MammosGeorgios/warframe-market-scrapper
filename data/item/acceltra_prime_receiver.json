@@ -1,0 +1,33 @@
+{
+  "id": "65a7fcc4ed5b0d2e3eb462d1",
+  "slug": "acceltra_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AcceltraPrimeReceiver",
+  "tags": [
+    "prime",
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "65a7fcc4ed5b0d2e3eb462d0",
+    "65a7fcc4ed5b0d2e3eb462cf",
+    "65a7fcc4ed5b0d2e3eb462d1",
+    "65a7fcc4ed5b0d2e3eb462ce",
+    "65a7fcc4ed5b0d2e3eb462d2"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Acceltra Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Acceltra_Prime",
+      "icon": "items/images/en/acceltra_prime_receiver.b826cc938ba700ff8d8f07d2b38051f7.png",
+      "thumb": "items/images/en/thumbs/acceltra_prime_receiver.b826cc938ba700ff8d8f07d2b38051f7.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

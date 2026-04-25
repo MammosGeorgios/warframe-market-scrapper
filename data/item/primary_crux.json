@@ -1,0 +1,22 @@
+{
+  "id": "675c59347b18977f6e6453ec",
+  "slug": "primary_crux",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primary Crux",
+      "description": "On Weak Point Hit: Gain +30% Status Chance and +6% Ammo Efficiency for 10s. Stacks up to 10x.",
+      "wikiLink": "https://wiki.warframe.com/w/Primary_Crux",
+      "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+      "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp"
+    }
+  }
+}

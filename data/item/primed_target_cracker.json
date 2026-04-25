@@ -1,0 +1,24 @@
+{
+  "id": "563893fcb66f83093e823472",
+  "slug": "primed_target_cracker",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/PrimedWeaponCritDamageMod",
+  "tags": [
+    "mod",
+    "legendary",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Target Cracker",
+      "description": "+110% Critical Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Target_Cracker",
+      "icon": "items/images/en/primed_target_cracker.dbdd7561e20eb9243d62a193a1d786aa.png",
+      "thumb": "items/images/en/thumbs/primed_target_cracker.dbdd7561e20eb9243d62a193a1d786aa.128x128.png"
+    }
+  }
+}

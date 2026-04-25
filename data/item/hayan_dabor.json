@@ -1,0 +1,22 @@
+{
+  "id": "693e6bb103903ae8993ffb10",
+  "slug": "hayan_dabor",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/Multishot",
+  "tags": [
+    "mod",
+    "common",
+    "any"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hayan-Dabor",
+      "description": "+60% Amp Multishot",
+      "icon": "items/images/en/hayan_dabor.5ce755e0c9ecd126fd9151727dd34410.webp",
+      "thumb": "items/images/en/thumbs/hayan_dabor.5ce755e0c9ecd126fd9151727dd34410.128x128.webp"
+    }
+  }
+}

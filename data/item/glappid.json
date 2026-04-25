@@ -1,0 +1,25 @@
+{
+  "id": "6054de7e5221e30057501085",
+  "slug": "glappid",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Glappid",
+      "description": "The Glappid is a scavenger that feasts on the remains of dead fish. It has formed a symbiotic bond with the Seram Beetle which extracts and feeds upon any toxins ingested by the Glappid.",
+      "wikiLink": "https://wiki.warframe.com/w/Glappid",
+      "icon": "items/images/en/glappid.c08d5af5e630b52b36f8ebce6dd1df3f.png",
+      "thumb": "items/images/en/thumbs/glappid.c08d5af5e630b52b36f8ebce6dd1df3f.128x128.png"
+    }
+  }
+}

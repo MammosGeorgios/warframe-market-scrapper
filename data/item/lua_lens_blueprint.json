@@ -1,0 +1,20 @@
+{
+  "id": "5d6ea67d7ea27b05d929cbff",
+  "slug": "lua_lens_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Lens/GenericLensLuaBlueprint",
+  "tags": [
+    "misc",
+    "blueprint"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lua Lens Blueprint",
+      "description": "An Eidolon Lens enhanced with resonance from Somatic Fibers.",
+      "wikiLink": "https://wiki.warframe.com/w/Lua_Lens",
+      "icon": "items/images/en/lua_lens_blueprint.e3b2ed7d024b138843320d13d204e020.png",
+      "thumb": "items/images/en/thumbs/lua_lens_blueprint.e3b2ed7d024b138843320d13d204e020.128x128.png"
+    }
+  }
+}

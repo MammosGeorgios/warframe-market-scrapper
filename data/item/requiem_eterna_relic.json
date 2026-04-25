@@ -1,0 +1,26 @@
+{
+  "id": "69c52958bb986142bb6e02bb",
+  "slug": "requiem_eterna_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalOmniA",
+  "tags": [
+    "requiem",
+    "relic"
+  ],
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": false,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Requiem Eterna Relic",
+      "description": "Holds Requiem Mods and other mysteries.",
+      "icon": "items/unknown.png",
+      "thumb": "items/unknown.thumb.png"
+    }
+  }
+}

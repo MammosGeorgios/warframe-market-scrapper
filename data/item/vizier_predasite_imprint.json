@@ -1,0 +1,21 @@
+{
+  "id": "62d3078680f54c00b5ddf5cf",
+  "slug": "vizier_predasite_imprint",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/VizierPredatorKubrowPetPowerSuit",
+  "tags": [
+    "kubrow",
+    "pet",
+    "imprint"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vizier Predasite Imprint",
+      "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Vizier_Predasite",
+      "icon": "items/images/en/vizier_predasite_imprint.c1b460f3819b94a8bd5f18ff72361361.png",
+      "thumb": "items/images/en/thumbs/vizier_predasite_imprint.c1b460f3819b94a8bd5f18ff72361361.128x128.png"
+    }
+  }
+}

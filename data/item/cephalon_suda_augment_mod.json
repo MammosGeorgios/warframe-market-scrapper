@@ -1,0 +1,22 @@
+{
+  "id": "5800c6c9c021d9dc0a9f8915",
+  "slug": "cephalon_suda_augment_mod",
+  "gameRef": "",
+  "tags": [
+    "syndicate",
+    "mod",
+    "rare"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cephalon Suda Augment Mod",
+      "description": "Tenno who ally themselves with this Syndicate will receive unique Augment Mods for Cephalon Suda's favored weapons after obtaining the title of Wise. The weapons include Bolto, Kestrel, and Supra.",
+      "wikiLink": "http://warframe.wikia.com/wiki/Cephalon_Suda",
+      "icon": "items/images/en/cephalon_suda_augment_mod.bf6cb888dd01ef5c15e00dde4253bff7.webp",
+      "thumb": "items/images/en/thumbs/cephalon_suda_augment_mod.bf6cb888dd01ef5c15e00dde4253bff7.128x128.webp"
+    }
+  }
+}

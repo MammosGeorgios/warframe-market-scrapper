@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51566b",
+  "slug": "link_fiber",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowLinkArmourMaxMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 10,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Link Fiber",
+      "description": "Increase Max Armor by +125% of Warframe's Armor",
+      "wikiLink": "https://warframe.fandom.com/wiki/Link_Armor",
+      "icon": "items/images/en/link_armor.53ac5d1a903c08dfdf9fb776919eb218.png",
+      "thumb": "items/images/en/thumbs/link_armor.53ac5d1a903c08dfdf9fb776919eb218.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5e4145907b0275011bc5b7cd",
+  "slug": "blood_forge",
+  "gameRef": "/Lotus/Powersuits/Garuda/GarudaBloodAugmentCard",
+  "tags": [
+    "mod",
+    "garuda",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Blood Forge",
+      "description": "Bloodletting Augment: Garuda's equipped weapon is reloaded up to 100%.",
+      "wikiLink": "https://wiki.warframe.com/w/Blood_Forge",
+      "icon": "items/images/en/blood_forge.46b1109abc8ae56837786ff19ba99501.png",
+      "thumb": "items/images/en/thumbs/blood_forge.46b1109abc8ae56837786ff19ba99501.128x128.png"
+    }
+  }
+}

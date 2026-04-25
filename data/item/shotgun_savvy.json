@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155de",
+  "slug": "shotgun_savvy",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponStunChanceMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shotgun Savvy",
+      "description": "+90% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Shotgun_Savvy",
+      "icon": "items/images/en/shotgun_savvy.ab720d50e1f812fdd35cd695701e31b6.png",
+      "thumb": "items/images/en/thumbs/shotgun_savvy.ab720d50e1f812fdd35cd695701e31b6.128x128.png"
+    }
+  }
+}

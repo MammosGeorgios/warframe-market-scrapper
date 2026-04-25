@@ -1,0 +1,24 @@
+{
+  "id": "5788fad84fff472f131a1361",
+  "slug": "cats_eye",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowCatsEyePrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kavat",
+    "adarza_kavat"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cat's Eye",
+      "description": "Adarza Kavat grants 60% increased critical chance for 10s to allies within 25m every 20s.",
+      "wikiLink": "https://wiki.warframe.com/w/Cat%27s_Eye",
+      "icon": "items/images/en/cats_eye.ec8680ee8d86067156c3d818b72cb1e5.png",
+      "thumb": "items/images/en/thumbs/cats_eye.ec8680ee8d86067156c3d818b72cb1e5.128x128.png"
+    }
+  }
+}

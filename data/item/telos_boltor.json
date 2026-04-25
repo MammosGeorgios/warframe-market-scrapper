@@ -1,0 +1,22 @@
+{
+  "id": "55e797d2e7798924849dd9f0",
+  "slug": "telos_boltor",
+  "gameRef": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/LongGuns/AHBoltor",
+  "tags": [
+    "syndicate",
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Telos Boltor",
+      "description": "Bring down judgement, with this boltor crafted by the Arbiters of Hexis.",
+      "wikiLink": "https://wiki.warframe.com/w/Telos_Boltor",
+      "icon": "items/images/en/telos_boltor.9a109e6b666017c81b2402e7031243b5.png",
+      "thumb": "items/images/en/thumbs/telos_boltor.9a109e6b666017c81b2402e7031243b5.128x128.png"
+    }
+  }
+}

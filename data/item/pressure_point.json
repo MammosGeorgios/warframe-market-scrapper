@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156a7",
+  "slug": "pressure_point",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeDamageMod",
+  "tags": [
+    "mod",
+    "melee",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pressure Point",
+      "description": "+120% Melee Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Pressure_Point",
+      "icon": "items/images/en/pressure_point.e7b321fef59261144164c7dd6065c657.png",
+      "thumb": "items/images/en/thumbs/pressure_point.e7b321fef59261144164c7dd6065c657.128x128.png"
+    }
+  }
+}

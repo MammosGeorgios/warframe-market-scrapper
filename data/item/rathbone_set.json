@@ -1,0 +1,29 @@
+{
+  "id": "582b0f8a0af25410b099f800",
+  "slug": "rathbone_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer",
+  "tags": [
+    "weapon",
+    "set",
+    "melee",
+    "archwing"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "578d33bf34003bbbb9e20924",
+    "578d33bf34003bbbb9e20925",
+    "582b0f8a0af25410b099f800"
+  ],
+  "reqMasteryRank": 6,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rathbone Set",
+      "description": "Using Archwing's jets for thrust, this massive hammer crushes anything in its path.",
+      "wikiLink": "https://wiki.warframe.com/w/Rathbone",
+      "icon": "items/images/en/rathbone_set.7e6a0db9a09fae95a9f6a4e96b1f0979.png",
+      "thumb": "items/images/en/thumbs/rathbone_set.7e6a0db9a09fae95a9f6a4e96b1f0979.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "67db60559cec3e52e62523ea",
+  "slug": "instant_secure",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusLargeOnSingleUseMod",
+  "tags": [
+    "mod",
+    "common",
+    "parazon"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Instant Secure",
+      "description": "Gain 15% Disinfection and gain 10,000 Höllars",
+      "icon": "items/images/en/instant_secure.cc913bbb9ae6df448f63a6fef7a73b04.webp",
+      "thumb": "items/images/en/thumbs/instant_secure.cc913bbb9ae6df448f63a6fef7a73b04.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "6939d5dcd6a357b81964f862",
+  "slug": "primary_bulwark",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/DamageForBonusArmour",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primary Bulwark",
+      "description": "Gain +1% damage for each unit of armor past 1,000, up to a max of +500%.",
+      "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+      "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+    }
+  }
+}

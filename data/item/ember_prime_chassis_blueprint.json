@@ -1,0 +1,34 @@
+{
+  "id": "54a73e65e779893a797fff7e",
+  "slug": "ember_prime_chassis_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/EmberPrimeChassisBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff81",
+    "54a73e65e779893a797fff7e",
+    "54a73e65e779893a797fff6d",
+    "56783f24cbfa8f0432dd899a",
+    "54a73e65e779893a797fff7a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ember Prime Chassis Blueprint",
+      "description": "Chassis component of the Ember Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Ember_Prime",
+      "icon": "items/images/en/ember_prime_chassis.971255acc3f1ad8a374d236c6af1c816.png",
+      "thumb": "items/images/en/thumbs/ember_prime_chassis.971255acc3f1ad8a374d236c6af1c816.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_chassis_128x128.png"
+    }
+  }
+}

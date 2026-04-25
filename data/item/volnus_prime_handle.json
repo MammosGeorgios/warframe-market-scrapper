@@ -1,0 +1,32 @@
+{
+  "id": "60ad4a1bf1904300d012c6f9",
+  "slug": "volnus_prime_handle",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/VolnusPrimeHandle",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60ad4a1cf1904300d012c70c",
+    "60ad4a1bf1904300d012c6f9",
+    "60ad4a1bf1904300d012c6fa",
+    "60ad4a1bf1904300d012c700"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Volnus Prime Handle",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Volnus_Prime",
+      "icon": "items/images/en/volnus_prime_handle.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+      "thumb": "items/images/en/thumbs/volnus_prime_handle.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_handle_128x128.png"
+    }
+  }
+}

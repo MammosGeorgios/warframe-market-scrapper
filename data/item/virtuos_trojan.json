@@ -1,0 +1,24 @@
+{
+  "id": "5c1bd9fd14a8e4006b1dad51",
+  "slug": "virtuos_trojan",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToViralDamage",
+  "tags": [
+    "operator",
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Virtuos Trojan",
+      "description": "On Hit:\nConverts 98% Void Damage to Viral Damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Virtuos_Trojan",
+      "icon": "items/images/en/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.png",
+      "thumb": "items/images/en/thumbs/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.128x128.png"
+    }
+  }
+}

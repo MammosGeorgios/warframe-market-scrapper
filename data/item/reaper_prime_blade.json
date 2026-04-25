@@ -1,0 +1,32 @@
+{
+  "id": "54a73e65e779893a797fff58",
+  "slug": "reaper_prime_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeScytheBlade",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff58",
+    "54a73e65e779893a797fff59",
+    "54a73e65e779893a797fff5a",
+    "56783f24cbfa8f0432dd89aa"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reaper Prime Blade",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Reaper_Prime",
+      "icon": "items/images/en/reaper_prime_blade.4e1d36812203a97fd0191930485b1095.png",
+      "thumb": "items/images/en/thumbs/reaper_prime_blade.4e1d36812203a97fd0191930485b1095.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_blade_128x128.png"
+    }
+  }
+}

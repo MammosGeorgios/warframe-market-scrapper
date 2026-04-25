@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515641",
+  "slug": "protect",
+  "gameRef": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowShieldPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "raksa_kubrow"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Protect",
+      "description": "The kubrow comes to the defense of its master, replenishing both of their shields by 30% of its maximum shields and adding its shield regeneration rate to its master's for 3s.",
+      "wikiLink": "https://wiki.warframe.com/w/Protect",
+      "icon": "items/images/en/protect.67bdcd77355685ab67526f9c6b14c8c3.png",
+      "thumb": "items/images/en/thumbs/protect.67bdcd77355685ab67526f9c6b14c8c3.128x128.png"
+    }
+  }
+}

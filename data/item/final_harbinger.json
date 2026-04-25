@@ -1,0 +1,24 @@
+{
+  "id": "55c15374e779895d4f633bca",
+  "slug": "final_harbinger",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/RegorSwordShieldMeleeTree",
+  "tags": [
+    "mod",
+    "uncommon",
+    "stance",
+    "sword_and_shield"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Final Harbinger",
+      "description": "Powerful slashes and shield attacks.",
+      "wikiLink": "https://wiki.warframe.com/w/Final_Harbinger",
+      "icon": "items/images/en/final_harbinger.eca5ce98036f65d3581d0b860755db27.png",
+      "thumb": "items/images/en/thumbs/final_harbinger.eca5ce98036f65d3581d0b860755db27.128x128.png"
+    }
+  }
+}

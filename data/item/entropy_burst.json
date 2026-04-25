@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e5156a3",
+  "slug": "entropy_burst",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/SupraMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "supra",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Entropy Burst",
+      "description": "+20 Final Status Chance\n+1 'Entropy'",
+      "wikiLink": "https://wiki.warframe.com/w/Entropy",
+      "icon": "items/images/en/entropy_burst.66a8a280f2d56a5bdd29607869a147c3.png",
+      "thumb": "items/images/en/thumbs/entropy_burst.66a8a280f2d56a5bdd29607869a147c3.128x128.png"
+    }
+  }
+}

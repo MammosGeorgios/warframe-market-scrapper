@@ -1,0 +1,23 @@
+{
+  "id": "62af145c5d2dab005422903a",
+  "slug": "fractalized_reset",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/PrimaryOnAbilityReloadSpeed",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fractalized Reset",
+      "description": "On Ability Cast:\n+240% Reload Speed for 5s",
+      "wikiLink": "https://wiki.warframe.com/w/Fractalized_Reset",
+      "icon": "items/images/en/fractalized_reset.234df692ab2ebf6bd1e73f1f115547fa.png",
+      "thumb": "items/images/en/thumbs/fractalized_reset.234df692ab2ebf6bd1e73f1f115547fa.128x128.png"
+    }
+  }
+}

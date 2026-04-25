@@ -1,0 +1,19 @@
+{
+  "id": "5e4145927b0275011bc5b7d3",
+  "slug": "sentient_altar_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/PhotoboothTileSentientIntReverence",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sentient Altar Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/sentient_altar_scene.1dd612a9e9b30f2b02ff00793a5c619a.png",
+      "thumb": "items/images/en/thumbs/sentient_altar_scene.1dd612a9e9b30f2b02ff00793a5c619a.128x128.png"
+    }
+  }
+}

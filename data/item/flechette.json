@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156b3",
+  "slug": "flechette",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponArmorPiercingDamageMod",
+  "tags": [
+    "common",
+    "shotgun",
+    "mod",
+    "primary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Flechette",
+      "description": "+90% Puncture",
+      "wikiLink": "https://wiki.warframe.com/w/Flechette",
+      "icon": "items/images/en/flechette.d861855060f3cffa9baa7a9157d9169a.png",
+      "thumb": "items/images/en/thumbs/flechette.d861855060f3cffa9baa7a9157d9169a.128x128.png"
+    }
+  }
+}

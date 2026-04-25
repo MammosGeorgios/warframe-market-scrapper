@@ -1,0 +1,31 @@
+{
+  "id": "6139101930dd5b004b7f909b",
+  "slug": "magnus_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeMagnus/PrimeMagnusWeapon",
+  "tags": [
+    "secondary",
+    "weapon",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "6139101b30dd5b004b7f90af",
+    "6139101a30dd5b004b7f90a2",
+    "6139101b30dd5b004b7f90ae",
+    "6139101930dd5b004b7f909b"
+  ],
+  "ducats": 160,
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magnus Prime Set",
+      "description": "Orokin elegance meets formidable stopping power in this exquisite revolver. Hits have a chance to maximize Ammo Efficiency for a few seconds.",
+      "wikiLink": "https://wiki.warframe.com/w/Magnus_Prime",
+      "icon": "items/images/en/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.png",
+      "thumb": "items/images/en/thumbs/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.128x128.png"
+    }
+  }
+}

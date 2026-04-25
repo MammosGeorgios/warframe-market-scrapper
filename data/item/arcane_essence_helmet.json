@@ -1,0 +1,20 @@
+{
+  "id": "54aaf140e779891f6ee18f9c",
+  "slug": "arcane_essence_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAlt",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Essence Helmet",
+      "description": "This helmet is worn by Loki, increases Ability Efficiency, but reduces Armor.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Helmet",
+      "icon": "items/images/en/arcane_essence_loki_helmet.8225ea44057eed0b4d74d6859a369976.png",
+      "thumb": "items/images/en/thumbs/arcane_essence_loki_helmet.8225ea44057eed0b4d74d6859a369976.128x128.png"
+    }
+  }
+}

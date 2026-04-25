@@ -1,0 +1,32 @@
+{
+  "id": "58b57068eb26db5c31192111",
+  "slug": "euphona_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/Prime1HShotgunReceiver",
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "58b57068eb26db5c3119210f",
+    "58b57068eb26db5c31192112",
+    "58b57068eb26db5c31192111",
+    "58b57068eb26db5c31192113"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Euphona Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Euphona_Prime",
+      "icon": "items/images/en/euphona_prime_receiver.6a18cc50c57ac13c3203e872baf85a8d.png",
+      "thumb": "items/images/en/thumbs/euphona_prime_receiver.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

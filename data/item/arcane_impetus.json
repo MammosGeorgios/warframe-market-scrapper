@@ -1,0 +1,22 @@
+{
+  "id": "675c59297b18977f6e6453ea",
+  "slug": "arcane_impetus",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Impetus",
+      "description": "Unique Status Effects from Abilities grant +6% Ability Strength and +3% Ability Efficiency for 20s.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Impetus",
+      "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+      "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp"
+    }
+  }
+}

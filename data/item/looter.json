@@ -1,0 +1,24 @@
+{
+  "id": "5740c1879d238d4a03d28518",
+  "slug": "looter",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/Looter",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "carrier"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Looter",
+      "description": "Emits a pulse wave to break open Loot Crates within 22m.",
+      "wikiLink": "https://wiki.warframe.com/w/Looter",
+      "icon": "items/images/en/looter.eb87275b07df115d778c0b4540e62bca.png",
+      "thumb": "items/images/en/thumbs/looter.eb87275b07df115d778c0b4540e62bca.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "63886517e7c988007b5bd513",
+  "slug": "sarofang_handle",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/WolfFrameAxeWeaponHandle",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "63886517e7c988007b5bd50f",
+    "63886517e7c988007b5bd513",
+    "63886517e7c988007b5bd514"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sarofang Handle",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Sarofang",
+      "icon": "items/images/en/sarofang_handle.132b80ed3bbefa26846dbafa1bfe5f56.png",
+      "thumb": "items/images/en/thumbs/sarofang_handle.132b80ed3bbefa26846dbafa1bfe5f56.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_handle_128x128.png"
+    }
+  }
+}

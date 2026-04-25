@@ -1,0 +1,21 @@
+{
+  "id": "55e76cf1e779890d4a67ee18",
+  "slug": "prisma_skana",
+  "gameRef": "/Lotus/Weapons/VoidTrader/PrismaSkana",
+  "tags": [
+    "weapon",
+    "melee"
+  ],
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Skana",
+      "description": "Forged from raw prisma crystals and infused with Void energy, this blade's pristine edge is honed razor-sharp to eviscerate even the most deadly of foes.",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma_Skana",
+      "icon": "items/images/en/prisma_skana.84da73ea0e4ee4e1d75c9e2f4763d8bf.png",
+      "thumb": "items/images/en/thumbs/prisma_skana.84da73ea0e4ee4e1d75c9e2f4763d8bf.128x128.png"
+    }
+  }
+}

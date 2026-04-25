@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e51559d",
+  "slug": "rage",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageToEnergyMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rage",
+      "description": "Convert +40% of Damage on Health to Energy. Without Shields, ally Overguard imitates Health.",
+      "wikiLink": "https://wiki.warframe.com/w/Rage",
+      "icon": "items/images/en/rage.e63c2a75f7d14084b7a976c736cfcac8.png",
+      "thumb": "items/images/en/thumbs/rage.e63c2a75f7d14084b7a976c736cfcac8.128x128.png"
+    }
+  }
+}

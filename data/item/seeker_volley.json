@@ -1,0 +1,23 @@
+{
+  "id": "5dff7487145697033dc61a04",
+  "slug": "seeker_volley",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipAttackAbilityCard",
+  "tags": [
+    "railjack",
+    "uncommon",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 10,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Seeker Volley",
+      "description": "Fires a volley of homing missiles.",
+      "wikiLink": "https://wiki.warframe.com/w/Seeker_Volley",
+      "icon": "items/images/en/seeker_volley.b87fe16b36c53020b354a0b2e1642f9d.png",
+      "thumb": "items/images/en/thumbs/seeker_volley.b87fe16b36c53020b354a0b2e1642f9d.128x128.png"
+    }
+  }
+}

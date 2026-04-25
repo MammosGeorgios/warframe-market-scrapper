@@ -1,0 +1,19 @@
+{
+  "id": "60896628ea93740269271780",
+  "slug": "deimos_depths_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosCalamity",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deimos Depths Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/deimos_depths_scene.4acffcc10d90cb2198ee6b2e86a0eff2.png",
+      "thumb": "items/images/en/thumbs/deimos_depths_scene.4acffcc10d90cb2198ee6b2e86a0eff2.128x128.png"
+    }
+  }
+}

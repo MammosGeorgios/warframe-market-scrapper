@@ -1,0 +1,25 @@
+{
+  "id": "6054de6c5221e3005750107a",
+  "slug": "chondricord",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/OrokinUncommonAFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Chondricord",
+      "description": "A triumph of Orokin bio-engineering, these hardy fish have adapted to the Deimos environment and seem oddly resistant to Infestation. They thrive in cave environments.",
+      "wikiLink": "https://wiki.warframe.com/w/Chondricord",
+      "icon": "items/images/en/chondricord.840ef965f6d424431214c65439c347c8.png",
+      "thumb": "items/images/en/thumbs/chondricord.840ef965f6d424431214c65439c347c8.128x128.png"
+    }
+  }
+}

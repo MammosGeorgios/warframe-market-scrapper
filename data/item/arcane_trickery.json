@@ -1,0 +1,23 @@
+{
+  "id": "551085ece7798972cb579c3e",
+  "slug": "arcane_trickery",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/InvisibilityOnFinisher",
+  "tags": [
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Trickery",
+      "description": "On Finisher Kill:\n15% chance to become invisible for 30s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Trickery",
+      "icon": "items/images/en/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.png",
+      "thumb": "items/images/en/thumbs/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.128x128.png"
+    }
+  }
+}

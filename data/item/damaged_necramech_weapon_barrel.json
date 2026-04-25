@@ -1,0 +1,27 @@
+{
+  "id": "5f498a219426ed00443bd0a7",
+  "slug": "damaged_necramech_weapon_barrel",
+  "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponBarrelItem",
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5f498a219426ed00443bd0a7",
+    "5f498a219426ed00443bd0a9",
+    "5f498a219426ed00443bd0a8",
+    "5f498a249426ed00443bd0be"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Damaged Necramech Weapon Barrel",
+      "description": "The damaged barrel of a heavy-duty Necramech weapon.\nLocation: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+      "wikiLink": "https://warframe.fandom.com/wiki/Necramech",
+      "icon": "items/images/en/damaged_necramech_weapon_barrel.bc4d1be97ed16f93c03d525288680192.png",
+      "thumb": "items/images/en/thumbs/damaged_necramech_weapon_barrel.bc4d1be97ed16f93c03d525288680192.128x128.png"
+    }
+  }
+}

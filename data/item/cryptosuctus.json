@@ -1,0 +1,25 @@
+{
+  "id": "6054de665221e30057501071",
+  "slug": "cryptosuctus",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonAFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cryptosuctus",
+      "description": "Formerly Orokin scavengers, these fish succumbed to the Infestation long ago and now greedily feast on floating spores. They are found all over the surface of Deimos.",
+      "wikiLink": "https://wiki.warframe.com/w/Cryptosuctus",
+      "icon": "items/images/en/cryptosuctus.4022e55bcff5b4fcfe01d3408b4b01f9.png",
+      "thumb": "items/images/en/thumbs/cryptosuctus.4022e55bcff5b4fcfe01d3408b4b01f9.128x128.png"
+    }
+  }
+}

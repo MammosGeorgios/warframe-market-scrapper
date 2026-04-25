@@ -1,0 +1,23 @@
+{
+  "id": "59dfeb63115f1d887cfd7abe",
+  "slug": "vigilante_vigor",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Vigilante/WarframeVigilanteVigorMod",
+  "tags": [
+    "mod",
+    "common",
+    "warframe"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vigilante Vigor",
+      "description": "+60% Shield Recharge\n-30% Shield Recharge Delay",
+      "wikiLink": "https://wiki.warframe.com/w/Vigilante_Vigor",
+      "icon": "items/images/en/vigilante_vigor.f74b61489f4f32ad34416ffb9297f1ed.png",
+      "thumb": "items/images/en/thumbs/vigilante_vigor.f74b61489f4f32ad34416ffb9297f1ed.128x128.png"
+    }
+  }
+}

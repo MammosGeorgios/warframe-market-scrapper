@@ -1,0 +1,34 @@
+{
+  "id": "67acd944125398d92c8bb4ed",
+  "slug": "lavos_prime_chassis_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeChassisBlueprint",
+  "tags": [
+    "component",
+    "warframe",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67acd941125398d92c8bb4eb",
+    "67acd944125398d92c8bb4ed",
+    "67acd943125398d92c8bb4ec",
+    "67acd93f125398d92c8bb4ea",
+    "67acd945125398d92c8bb4ee"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lavos Prime Chassis Blueprint",
+      "description": "Chassis component of the Lavos Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Lavos_Prime",
+      "icon": "items/images/en/lavos_prime_chassis_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+      "thumb": "items/images/en/thumbs/lavos_prime_chassis_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp",
+      "subIcon": "sub_icons/warframe/prime_chassis_128x128.png"
+    }
+  }
+}

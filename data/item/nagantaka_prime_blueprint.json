@@ -1,0 +1,34 @@
+{
+  "id": "6242037666a58f0108c3d482",
+  "slug": "nagantaka_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/NagantakaPrimeBlueprint",
+  "tags": [
+    "primary",
+    "weapon",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6242037766a58f0108c3d48f",
+    "6242037666a58f0108c3d482",
+    "6242037666a58f0108c3d481",
+    "6242037666a58f0108c3d47c",
+    "6242037666a58f0108c3d485"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nagantaka Prime Blueprint",
+      "description": "A golden version of Garuda’s versatile crossbow, as fashioned by the Orokin’s finest weaponsmiths. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause Slash Status, and Headshot kills have a chance to increase Reload Speed. When wielded by Garuda the Nagantaka gains a slight Punch Through.",
+      "wikiLink": "https://wiki.warframe.com/w/Nagantaka_Prime",
+      "icon": "items/images/en/nagantaka_prime_blueprint.f1af5a1cf53058c86df2c4969f37ea27.png",
+      "thumb": "items/images/en/thumbs/nagantaka_prime_blueprint.f1af5a1cf53058c86df2c4969f37ea27.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5526aec0e779896af9418258",
+  "slug": "explosive_legerdemain",
+  "gameRef": "/Lotus/Powersuits/Harlequin/ObjectChangeAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "mirage",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Explosive Legerdemain",
+      "description": "Sleight of Hand Augment: Ammo and Orbs pickups are turned into proximity mines that deal 1000 Damage with a 100% Status Chance.",
+      "wikiLink": "https://wiki.warframe.com/w/Explosive_Legerdemain",
+      "icon": "items/images/en/explosive_legerdemain.ff8697d62393baa23a4d78afbce373e3.png",
+      "thumb": "items/images/en/thumbs/explosive_legerdemain.ff8697d62393baa23a4d78afbce373e3.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5758adff42ba8659dde2f570",
+  "slug": "metal_fiber",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/SentinelArmourMod",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "common",
+  "maxRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Metal Fiber",
+      "description": "+250% Armor",
+      "wikiLink": "https://wiki.warframe.com/w/Metal_Fiber",
+      "icon": "items/images/en/metal_fiber.5463bc0943078b78366f0c696701549e.png",
+      "thumb": "items/images/en/thumbs/metal_fiber.5463bc0943078b78366f0c696701549e.128x128.png"
+    }
+  }
+}

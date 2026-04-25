@@ -1,0 +1,32 @@
+{
+  "id": "65a7fca4ed5b0d2e3eb462c9",
+  "slug": "akarius_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeAkarius/PrimeAkariusWeapon",
+  "tags": [
+    "prime",
+    "secondary",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "65a7fca4ed5b0d2e3eb462cb",
+    "65a7fca4ed5b0d2e3eb462ca",
+    "65a7fca4ed5b0d2e3eb462cd",
+    "65a7fca4ed5b0d2e3eb462cc",
+    "65a7fca4ed5b0d2e3eb462c9"
+  ],
+  "ducats": 305,
+  "reqMasteryRank": 14,
+  "tradingTax": 12000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akarius Prime Set",
+      "description": "Wield a golden pair of rocket launchers. Sprint to reload them faster. They reload fastest when wielded by Gauss.",
+      "wikiLink": "https://wiki.warframe.com/w/Akarius_Prime",
+      "icon": "items/images/en/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.png",
+      "thumb": "items/images/en/thumbs/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.128x128.png"
+    }
+  }
+}

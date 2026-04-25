@@ -1,0 +1,25 @@
+{
+  "id": "5c1bda0114a8e4006b1dad56",
+  "slug": "charged_bullets",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventElectricStatusRifleMod",
+  "tags": [
+    "rare",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Charged Bullets",
+      "description": "+60% Electricity\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Charged_Bullets",
+      "icon": "items/images/en/charged_bullets.dd3cc7b19745157ec71fab293822b75d.png",
+      "thumb": "items/images/en/thumbs/charged_bullets.dd3cc7b19745157ec71fab293822b75d.128x128.png"
+    }
+  }
+}

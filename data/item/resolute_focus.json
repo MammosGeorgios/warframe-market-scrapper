@@ -1,0 +1,25 @@
+{
+  "id": "5c1bd9f914a8e4006b1dad49",
+  "slug": "resolute_focus",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingCCImmunityIfAimingMod",
+  "tags": [
+    "uncommon",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Resolute Focus",
+      "description": "+100% Chance to Resist Staggers/Knockdowns when Aiming\n+50% Accuracy when Aiming",
+      "wikiLink": "https://wiki.warframe.com/w/Resolute_Focus",
+      "icon": "items/images/en/resolute_focus.a25bb4ed2565504baa073dd60019ecec.png",
+      "thumb": "items/images/en/thumbs/resolute_focus.a25bb4ed2565504baa073dd60019ecec.128x128.png"
+    }
+  }
+}

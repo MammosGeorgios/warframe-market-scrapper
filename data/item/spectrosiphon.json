@@ -1,0 +1,25 @@
+{
+  "id": "5c3892672cc6ce00f238139d",
+  "slug": "spectrosiphon",
+  "gameRef": "/Lotus/Powersuits/Glass/GlassFragmentAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "gara",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Spectrosiphon",
+      "description": "Spectrorage Augment: Enemies that die within Spectrorage have a 50% chance to drop an Energy Orb.",
+      "wikiLink": "https://wiki.warframe.com/w/Spectrosiphon",
+      "icon": "items/images/en/spectrosiphon.ff5e2ba6ab608c0d7beb60b497fbeb6e.png",
+      "thumb": "items/images/en/thumbs/spectrosiphon.ff5e2ba6ab608c0d7beb60b497fbeb6e.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "63ee00fc10125411da49e6e8",
+  "slug": "shattered_storm",
+  "gameRef": "/Lotus/Powersuits/Glass/GlassShankAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "gara",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shattered Storm",
+      "description": "Shattered Lash Augment: When Gara breaks her Mass Vitrify ring with Shattered Lash, enemies struck by the glass suffer Splinter Storm at 100% Strength.",
+      "wikiLink": "https://wiki.warframe.com/w/Shattered_Storm",
+      "icon": "items/images/en/shattered_storm.996913e600eef6b1909672d004dea161.png",
+      "thumb": "items/images/en/thumbs/shattered_storm.996913e600eef6b1909672d004dea161.128x128.png"
+    }
+  }
+}

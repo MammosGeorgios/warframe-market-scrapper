@@ -1,0 +1,23 @@
+{
+  "id": "5e02154d14569703bf43e54a",
+  "slug": "battle_stations",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Tactical/CrewShipQuadDamageAbilityCard",
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Battle Stations",
+      "description": "Boost Turret Damage by 75% for 30s\nCooldown: 240s",
+      "wikiLink": "https://wiki.warframe.com/w/Battle_Stations",
+      "icon": "items/images/en/battle_stations.7140bba7146e58d1479718becd0271cf.png",
+      "thumb": "items/images/en/thumbs/battle_stations.7140bba7146e58d1479718becd0271cf.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "6939d5ded6a357b81964f864",
+  "slug": "secondary_irradiate",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/RadialDamageOnMaxRadiationStackHit",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secondary Irradiate",
+      "description": "On hitting enemies afflicted by 10 stacks of Radiation: Deal 180% of the hit damage to enemies within 7m.",
+      "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+      "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+    }
+  }
+}

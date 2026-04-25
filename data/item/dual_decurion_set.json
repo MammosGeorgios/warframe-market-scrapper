@@ -1,0 +1,29 @@
+{
+  "id": "582b0f860af25410b099f7fa",
+  "slug": "dual_decurion_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols",
+  "tags": [
+    "weapon",
+    "set",
+    "primary",
+    "archwing"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5783bf27d9b6753790c89e8e",
+    "5783bf2dd9b6753790c89e8f",
+    "582b0f860af25410b099f7fa"
+  ],
+  "reqMasteryRank": 1,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dual Decurion Set",
+      "description": "Delivering twin streams of highly accurate, rapid-fire ordnance, the Decurion are specifically designed for combat in the vacuum of space.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Dual_Decurion",
+      "icon": "items/images/en/dual_decurion_set.5682bc698e5481541faba69246a2c248.png",
+      "thumb": "items/images/en/thumbs/dual_decurion_set.5682bc698e5481541faba69246a2c248.128x128.png"
+    }
+  }
+}

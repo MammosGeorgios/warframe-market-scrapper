@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156cf",
+  "slug": "system_reroute",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityEfficiencyMod",
+  "tags": [
+    "mod",
+    "archwing",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "System Reroute",
+      "description": "+55% Ability Efficiency",
+      "wikiLink": "https://wiki.warframe.com/w/System_Reroute",
+      "icon": "items/images/en/system_reroute.6a07c1195da733426a0512cbf7d17264.png",
+      "thumb": "items/images/en/thumbs/system_reroute.6a07c1195da733426a0512cbf7d17264.128x128.png"
+    }
+  }
+}

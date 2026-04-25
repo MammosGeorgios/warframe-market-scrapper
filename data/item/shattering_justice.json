@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155a6",
+  "slug": "shattering_justice",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/SobekMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "rare",
+    "primary",
+    "sobek"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shattering Justice",
+      "description": "+90% Status Chance\n+1 'Justice'",
+      "wikiLink": "https://wiki.warframe.com/w/Shattering_Justice",
+      "icon": "items/images/en/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.png",
+      "thumb": "items/images/en/thumbs/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.128x128.png"
+    }
+  }
+}

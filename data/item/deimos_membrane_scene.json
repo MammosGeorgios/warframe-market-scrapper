@@ -1,0 +1,19 @@
+{
+  "id": "6089662cea93740269271788",
+  "slug": "deimos_membrane_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosSchism",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deimos Membrane Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/deimos_membrane_scene.aee61e07c711d652e1b1dba7b35ef72b.png",
+      "thumb": "items/images/en/thumbs/deimos_membrane_scene.aee61e07c711d652e1b1dba7b35ef72b.128x128.png"
+    }
+  }
+}

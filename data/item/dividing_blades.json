@@ -1,0 +1,25 @@
+{
+  "id": "5be5f5a23ffcc7038857f11c",
+  "slug": "dividing_blades",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPDualSwordStanceOne",
+  "tags": [
+    "pvp",
+    "uncommon",
+    "stance",
+    "mod",
+    "dual_swords"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dividing Blades",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Dividing_Blades",
+      "icon": "items/images/en/dividing_blades.7a0b836b0f4cdaa3132db5a08bbc01f9.png",
+      "thumb": "items/images/en/thumbs/dividing_blades.7a0b836b0f4cdaa3132db5a08bbc01f9.128x128.png"
+    }
+  }
+}

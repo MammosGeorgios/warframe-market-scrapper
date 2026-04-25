@@ -1,0 +1,24 @@
+{
+  "id": "5ce7fd86d23a3b00908c4207",
+  "slug": "odomedic",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/HealBot",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "robotic"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Odomedic",
+      "description": "Every 3m traversed by Wall Running regenerates +40 Health over 4s. This effect can stack up to 3x.",
+      "wikiLink": "https://wiki.warframe.com/w/Odomedic",
+      "icon": "items/images/en/odomedic.2b54938545c6d389274341c425a53cad.png",
+      "thumb": "items/images/en/thumbs/odomedic.2b54938545c6d389274341c425a53cad.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "67e8c996cedcd0be6d13595a",
+  "slug": "dual_viciss_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasGooSicklesPlayerWeaponBlade",
+  "tags": [
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67e8c996cedcd0be6d13595a",
+    "67e8c997cedcd0be6d13595b",
+    "67e8c995cedcd0be6d135959"
+  ],
+  "quantityInSet": 2,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dual Viciss Blade",
+      "description": "A weapon-crafting component.",
+      "icon": "items/images/en/dual_viciss_blade.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+      "thumb": "items/images/en/thumbs/dual_viciss_blade.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp",
+      "subIcon": "sub_icons/weapon/generic_blade_128x128.png"
+    }
+  }
+}

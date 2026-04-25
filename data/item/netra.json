@@ -1,0 +1,23 @@
+{
+  "id": "5dbe9b127ea27b0ffe3ca283",
+  "slug": "netra",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/ImmortalSevenMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Netra",
+      "description": "Carrion hordes trill their profane Accord with eldritch plans",
+      "wikiLink": "https://wiki.warframe.com/w/Netra",
+      "icon": "items/images/en/netra.2597454e920bfdca8b6a77be59d7d60c.png",
+      "thumb": "items/images/en/thumbs/netra.2597454e920bfdca8b6a77be59d7d60c.128x128.png"
+    }
+  }
+}

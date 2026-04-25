@@ -1,0 +1,25 @@
+{
+  "id": "6214e890e3c4660048a8b980",
+  "slug": "gourmand",
+  "gameRef": "/Lotus/Powersuits/Devourer/DevourerDevourAugmentCard",
+  "tags": [
+    "grendel",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gourmand",
+      "description": "Feast Augment: Instead of Energy, consumes 200 Health on cast. Glutton grants an additional 150 Armor per enemy.",
+      "wikiLink": "https://wiki.warframe.com/w/Gourmand",
+      "icon": "items/images/en/gourmand.299ab0e425a33165565271a30f38ccc3.png",
+      "thumb": "items/images/en/thumbs/gourmand.299ab0e425a33165565271a30f38ccc3.128x128.png"
+    }
+  }
+}

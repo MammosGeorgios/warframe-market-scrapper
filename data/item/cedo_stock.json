@@ -1,0 +1,31 @@
+{
+  "id": "5fe0ea836db57b0225115015",
+  "slug": "cedo_stock",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnAlchemistShotgunStock",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5fe0ea836db57b0225115014",
+    "5fe0ea836db57b0225115015",
+    "5fe0ea836db57b0225115016",
+    "5fe0ea836db57b0225115017",
+    "5fe0ea836db57b0225115018"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cedo Stock",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Cedo",
+      "icon": "items/images/en/cedo_stock.beb0319f93c38fe11119204a3ed47614.png",
+      "thumb": "items/images/en/thumbs/cedo_stock.beb0319f93c38fe11119204a3ed47614.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_stock_128x128.png"
+    }
+  }
+}

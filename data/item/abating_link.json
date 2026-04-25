@@ -1,0 +1,25 @@
+{
+  "id": "54e644ffe779897594fa68d2",
+  "slug": "abating_link",
+  "gameRef": "/Lotus/Powersuits/Trinity/LinkAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "trinity",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Abating Link",
+      "description": "Link Augment: Reduces Armor Rating by 60% on enemies targeted by Link.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Abating_Link",
+      "icon": "items/images/en/abating_link.c547fa09315093a5ba6c609a9b195580.png",
+      "thumb": "items/images/en/thumbs/abating_link.c547fa09315093a5ba6c609a9b195580.128x128.png"
+    }
+  }
+}

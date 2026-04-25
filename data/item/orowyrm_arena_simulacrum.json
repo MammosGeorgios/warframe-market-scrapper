@@ -1,0 +1,18 @@
+{
+  "id": "6672376b8ba7c81b70d02c9c",
+  "slug": "orowyrm_arena_simulacrum",
+  "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileDuviriDragonArena",
+  "tags": [
+    "simulacrum"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Orowyrm Arena Simulacrum",
+      "description": "Simulate a battle straight out of Tales of Duviri. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+      "icon": "items/images/en/orowyrm_arena_simulacrum.e2d4d93ea272050431fe792538d49028.webp",
+      "thumb": "items/images/en/thumbs/orowyrm_arena_simulacrum.e2d4d93ea272050431fe792538d49028.128x128.webp"
+    }
+  }
+}

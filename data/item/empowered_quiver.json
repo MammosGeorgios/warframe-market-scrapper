@@ -1,0 +1,25 @@
+{
+  "id": "5b50a3aa3a84fd02a7823246",
+  "slug": "empowered_quiver",
+  "gameRef": "/Lotus/Powersuits/Ranger/RangerQuiverAugmentCard",
+  "tags": [
+    "ivara",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Empowered Quiver",
+      "description": "Quiver Augment: Dashwire grants allies 100% Critical Damage. Cloak arrow has a 100% chance to prevent Status Effects.",
+      "wikiLink": "https://wiki.warframe.com/w/Empowered_Quiver",
+      "icon": "items/images/en/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.png",
+      "thumb": "items/images/en/thumbs/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.128x128.png"
+    }
+  }
+}

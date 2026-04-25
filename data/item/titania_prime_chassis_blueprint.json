@@ -1,0 +1,34 @@
+{
+  "id": "5e839493267539077b0dd698",
+  "slug": "titania_prime_chassis_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/TitaniaPrimeChassisBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5e839495267539077b0dd6cc",
+    "5e839493267539077b0dd698",
+    "5e839494267539077b0dd6b8",
+    "5e839496267539077b0dd6d3",
+    "5e839494267539077b0dd6b0"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 2,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Titania Prime Chassis Blueprint",
+      "description": "Chassis component of the Titania Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Titania_Prime",
+      "icon": "items/images/en/titania_prime_chassis.d783da2b4926bc3760d50bba21eff7db.png",
+      "thumb": "items/images/en/thumbs/titania_prime_chassis.d783da2b4926bc3760d50bba21eff7db.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_chassis_128x128.png"
+    }
+  }
+}

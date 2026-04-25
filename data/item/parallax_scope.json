@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155f8",
+  "slug": "parallax_scope",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceMod",
+  "tags": [
+    "common",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Parallax Scope",
+      "description": "+100% Critical Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Parallax_Scope",
+      "icon": "items/images/en/parallax_scope.733e5e6c2f4ae0dd23263865e11fafa5.png",
+      "thumb": "items/images/en/thumbs/parallax_scope.733e5e6c2f4ae0dd23263865e11fafa5.128x128.png"
+    }
+  }
+}

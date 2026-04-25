@@ -1,0 +1,23 @@
+{
+  "id": "5f498a209426ed00443bd0a5",
+  "slug": "bomb_the_landin",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindSlamMod",
+  "tags": [
+    "mod",
+    "rare",
+    "k_drive"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Bomb The Landin'",
+      "description": "Tap and hold Grind in the air to execute a 20m radius Slam Shockwave that deals 300 damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Bomb_The_Landin%27",
+      "icon": "items/images/en/bomb_the_landin.76b97b09964cf235756634c86322d66d.png",
+      "thumb": "items/images/en/thumbs/bomb_the_landin.76b97b09964cf235756634c86322d66d.128x128.png"
+    }
+  }
+}

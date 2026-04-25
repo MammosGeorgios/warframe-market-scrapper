@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515666",
+  "slug": "deadly_sequence",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/GrinlokMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "grinlok",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deadly Sequence",
+      "description": "+200% Critical Chance\n+1 'Sequence'",
+      "wikiLink": "https://wiki.warframe.com/w/Deadly_Sequence",
+      "icon": "items/images/en/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.png",
+      "thumb": "items/images/en/thumbs/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.128x128.png"
+    }
+  }
+}

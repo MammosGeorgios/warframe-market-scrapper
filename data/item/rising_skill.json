@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4ef",
+  "slug": "rising_skill",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreBulletJumpLessShieldMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rising Skill",
+      "description": "+10% Mobility\n-30 Shield Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Rising_Skill",
+      "icon": "items/images/en/rising_skill.949f1c9112ed0168fc73027fae5449c7.png",
+      "thumb": "items/images/en/thumbs/rising_skill.949f1c9112ed0168fc73027fae5449c7.128x128.png"
+    }
+  }
+}

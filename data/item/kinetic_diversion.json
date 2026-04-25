@@ -1,0 +1,23 @@
+{
+  "id": "59f38f568c202c007335ba67",
+  "slug": "kinetic_diversion",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingDamageToEnergyMod",
+  "tags": [
+    "mod",
+    "rare",
+    "archwing"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kinetic Diversion",
+      "description": "Convert +40% of Damage on Health to Energy. Without Shields, ally Overguard imitates Health.",
+      "wikiLink": "https://wiki.warframe.com/w/Kinetic_Diversion",
+      "icon": "items/images/en/kinetic_diversion.ceeab7b8bfb93395c6ded1223e730aba.png",
+      "thumb": "items/images/en/thumbs/kinetic_diversion.ceeab7b8bfb93395c6ded1223e730aba.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "67acd93f125398d92c8bb4ea",
+  "slug": "lavos_prime_set",
+  "gameRef": "/Lotus/Powersuits/Alchemist/LavosPrime",
+  "tags": [
+    "warframe",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "67acd941125398d92c8bb4eb",
+    "67acd944125398d92c8bb4ed",
+    "67acd943125398d92c8bb4ec",
+    "67acd93f125398d92c8bb4ea",
+    "67acd945125398d92c8bb4ee"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lavos Prime Set",
+      "description": "Some Warframes were Prime from the start. Others ascended. Lavos, the master of transmutation, bowed to no one as he forged his own path to valor.",
+      "wikiLink": "https://wiki.warframe.com/w/Lavos_Prime",
+      "icon": "items/images/en/lavos_prime_set.b50879ee28eb0c9effda56dadca76c86.webp",
+      "thumb": "items/images/en/thumbs/lavos_prime_set.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "6493d52b7ec1902281122e74",
+  "slug": "rauta_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PaxDuviricusShotgunReceiver",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6493d52a7ec1902281122e72",
+    "6493d52b7ec1902281122e74",
+    "6493d52b7ec1902281122e73",
+    "6493d52b7ec1902281122e75"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rauta Receiver",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Rauta",
+      "icon": "items/images/en/rauta_receiver.cbe84e8e7131f82a5af0e4964dbbde79.png",
+      "thumb": "items/images/en/thumbs/rauta_receiver.cbe84e8e7131f82a5af0e4964dbbde79.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

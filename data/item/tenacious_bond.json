@@ -1,0 +1,24 @@
+{
+  "id": "6531692bf31453d36319c56e",
+  "slug": "tenacious_bond",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/VoidBond/TenaciousPartner",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tenacious Bond",
+      "description": "Headshot kills reduce Companion Recovery timer by 3s. If the Companion’s Critical Chance is over 50% then you gain +1.2x Final Critical Damage Multiplier.",
+      "wikiLink": "https://wiki.warframe.com/w/Tenacious_Bond",
+      "icon": "items/images/en/tenacious_bond.2e3e484bbee202f7481636fc27151997.png",
+      "thumb": "items/images/en/thumbs/tenacious_bond.2e3e484bbee202f7481636fc27151997.128x128.png"
+    }
+  }
+}

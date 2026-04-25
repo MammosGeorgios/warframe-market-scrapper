@@ -1,0 +1,31 @@
+{
+  "id": "5e839495267539077b0dd6c9",
+  "slug": "pangolin_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/PrimePangolinSword/PrimePangolinSword",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5e839494267539077b0dd6ba",
+    "5e839494267539077b0dd6a9",
+    "5e839493267539077b0dd6a4",
+    "5e839495267539077b0dd6c9"
+  ],
+  "ducats": 160,
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pangolin Prime Set",
+      "description": "A classic Tenno blade, beautifully reimagined.",
+      "wikiLink": "https://wiki.warframe.com/w/Pangolin_Prime",
+      "icon": "items/images/en/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.png",
+      "thumb": "items/images/en/thumbs/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.128x128.png"
+    }
+  }
+}

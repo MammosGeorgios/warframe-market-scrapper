@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e1014569703166749d9",
+  "slug": "fire_suppression",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Tactical/FireExtinguish",
+  "tags": [
+    "railjack",
+    "common",
+    "mod"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fire Suppression",
+      "description": "Extinguish 1 fire\nCooldown: 200s",
+      "wikiLink": "https://wiki.warframe.com/w/Fire_Suppression",
+      "icon": "items/images/en/fire_suppression.5ef836f9d18a067403875aa44b7f6394.png",
+      "thumb": "items/images/en/thumbs/fire_suppression.5ef836f9d18a067403875aa44b7f6394.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "62d3494175156700ce450dfb",
+  "slug": "vile_discharge",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveEmbolistAugmentMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "embolist"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vile Discharge",
+      "description": "Damage is accumulated up to 30,000. Use Alt-fire to launch an explosive vile sac dealing and resetting the accumulated damage.",
+      "icon": "items/images/en/vile_discharge.f79e889a984d749579a3282409b02a1d.png",
+      "thumb": "items/images/en/thumbs/vile_discharge.f79e889a984d749579a3282409b02a1d.128x128.png"
+    }
+  }
+}

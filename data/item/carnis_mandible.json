@@ -1,0 +1,23 @@
+{
+  "id": "5f498a259426ed00443bd0ca",
+  "slug": "carnis_mandible",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Ashen/AshenMandibleMod",
+  "tags": [
+    "mod",
+    "common",
+    "melee"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Carnis Mandible",
+      "description": "+90% Slash\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Carnis_Mandible",
+      "icon": "items/images/en/carnis_mandible.411da10adc3141838623bb81ca1d7a1d.png",
+      "thumb": "items/images/en/thumbs/carnis_mandible.411da10adc3141838623bb81ca1d7a1d.128x128.png"
+    }
+  }
+}

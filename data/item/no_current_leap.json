@@ -1,0 +1,24 @@
+{
+  "id": "5be5f59f3ffcc7038857f100",
+  "slug": "no_current_leap",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreBulletJumpLessEnergy",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "No Current Leap",
+      "description": "+10% Mobility\n0 Energy Rate",
+      "wikiLink": "https://wiki.warframe.com/w/No_Current_Leap",
+      "icon": "items/images/en/no_current_leap.976d54d945fc0eede87574d91695ea92.png",
+      "thumb": "items/images/en/thumbs/no_current_leap.976d54d945fc0eede87574d91695ea92.128x128.png"
+    }
+  }
+}

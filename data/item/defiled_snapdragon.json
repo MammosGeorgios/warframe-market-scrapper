@@ -1,0 +1,24 @@
+{
+  "id": "5655c48eb66f832e0427152e",
+  "slug": "defiled_snapdragon",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordWhipCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "blade_and_whip"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Defiled Snapdragon",
+      "description": "Sudden lashes, lethal slashes.",
+      "wikiLink": "https://wiki.warframe.com/w/Defiled_Snapdragon",
+      "icon": "items/images/en/defiled_snapdragon.9fd00844944ef39ab71bf98118a56a55.png",
+      "thumb": "items/images/en/thumbs/defiled_snapdragon.9fd00844944ef39ab71bf98118a56a55.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "56dac5945cc639de0a45c523",
+  "slug": "power_of_three",
+  "gameRef": "/Lotus/Powersuits/Ranger/RangerQuiverPvPAugmentCard",
+  "tags": [
+    "ivara",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Power Of Three",
+      "description": "Quiver Augment: Quiver fires three arrows and consumes 20 more Energy.",
+      "wikiLink": "https://wiki.warframe.com/w/Power_of_Three",
+      "icon": "items/images/en/power_of_three.f147d10eef80bc05208279a4d0d44a06.png",
+      "thumb": "items/images/en/thumbs/power_of_three.f147d10eef80bc05208279a4d0d44a06.128x128.png"
+    }
+  }
+}

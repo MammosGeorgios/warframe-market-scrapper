@@ -1,0 +1,22 @@
+{
+  "id": "58f0efdfaa4b70452a173076",
+  "slug": "orvius_disc",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/TeshinGlaiveDisc",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "reqMasteryRank": 6,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Orvius Disc",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Orvius",
+      "icon": "items/images/en/orvius_disc.65c03b5b689ec5f70399b9a02f539994.png",
+      "thumb": "items/images/en/thumbs/orvius_disc.65c03b5b689ec5f70399b9a02f539994.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_disc_128x128.png"
+    }
+  }
+}

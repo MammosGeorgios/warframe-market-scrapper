@@ -1,0 +1,23 @@
+{
+  "id": "5dbe9b127ea27b0ffe3ca285",
+  "slug": "xata",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/ImmortalTwoMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Xata",
+      "description": "Its heralds are the stars it fells The sky and Earth aflame",
+      "wikiLink": "https://wiki.warframe.com/w/Xata",
+      "icon": "items/images/en/xata.a44dcbc89f78e433f4da7ee36943904f.png",
+      "thumb": "items/images/en/thumbs/xata.a44dcbc89f78e433f4da7ee36943904f.128x128.png"
+    }
+  }
+}

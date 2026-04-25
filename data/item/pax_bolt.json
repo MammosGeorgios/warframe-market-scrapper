@@ -1,0 +1,23 @@
+{
+  "id": "5bf54b483ffcc7066e7eb854",
+  "slug": "pax_bolt",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/EnergyEfficiencyOnHeadshot",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pax Bolt",
+      "description": "On Headshot Kill:\n+30% Ability Efficiency and +30% Ability Strength on the next Ability used within 4s.",
+      "wikiLink": "https://wiki.warframe.com/w/Pax_Bolt",
+      "icon": "items/images/en/pax_bolt.c2a3984cf53e69467a87424c1ca2acd4.png",
+      "thumb": "items/images/en/thumbs/pax_bolt.c2a3984cf53e69467a87424c1ca2acd4.128x128.png"
+    }
+  }
+}

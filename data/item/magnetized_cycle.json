@@ -1,0 +1,25 @@
+{
+  "id": "675c627f7b18977f6e645426",
+  "slug": "magnetized_cycle",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventMagneticFireRateRifleMod",
+  "tags": [
+    "rare",
+    "archwing",
+    "primary",
+    "mod",
+    "archgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magnetized Cycle",
+      "description": "+60% Magnetic\n+30% Fire Rate",
+      "wikiLink": "https://wiki.warframe.com/w/Magnetized_Cycle",
+      "icon": "items/images/en/magnetized_cycle.36910a18f47f67ddf444a45b0159c2da.webp",
+      "thumb": "items/images/en/thumbs/magnetized_cycle.36910a18f47f67ddf444a45b0159c2da.128x128.webp"
+    }
+  }
+}

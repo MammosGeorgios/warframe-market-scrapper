@@ -1,0 +1,22 @@
+{
+  "id": "67db600d9cec3e52e62523e1",
+  "slug": "soft_safe",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/AntivirusSixMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Soft Safe",
+      "description": "Keeping software safe by ALWAYS WATCHING",
+      "icon": "items/images/en/soft_safe.30113885f90a3783b0d551e14728dfe3.webp",
+      "thumb": "items/images/en/thumbs/soft_safe.30113885f90a3783b0d551e14728dfe3.128x128.webp"
+    }
+  }
+}

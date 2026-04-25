@@ -1,0 +1,25 @@
+{
+  "id": "5e4145917b0275011bc5b7d1",
+  "slug": "endless_lullaby",
+  "gameRef": "/Lotus/Powersuits/Pacifist/PacifistWaveAugmentCard",
+  "tags": [
+    "baruuk",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Endless Lullaby",
+      "description": "Lull Augment: Performing a finisher on or killing a sleeping enemy will retrigger Lull for 100% of the remaining duration.\nPassive: +50% Lull Duration.",
+      "wikiLink": "https://wiki.warframe.com/w/Endless_Lullaby",
+      "icon": "items/images/en/endless_lullaby.11fb2e84d6b43a9f0f9bb7ec6a821d92.png",
+      "thumb": "items/images/en/thumbs/endless_lullaby.11fb2e84d6b43a9f0f9bb7ec6a821d92.128x128.png"
+    }
+  }
+}

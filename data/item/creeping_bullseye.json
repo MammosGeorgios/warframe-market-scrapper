@@ -1,0 +1,24 @@
+{
+  "id": "54ca39abe7798915c1c11e10",
+  "slug": "creeping_bullseye",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedCritChanceFireRatePistol",
+  "tags": [
+    "mod",
+    "rare",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Creeping Bullseye",
+      "description": "+200% Critical Chance\n-20% Fire Rate",
+      "wikiLink": "https://wiki.warframe.com/w/Creeping_Bullseye",
+      "icon": "items/images/en/creeping_bullseye.dfcb8d21b36d9e2a2632f37c75b3532f.png",
+      "thumb": "items/images/en/thumbs/creeping_bullseye.dfcb8d21b36d9e2a2632f37c75b3532f.128x128.png"
+    }
+  }
+}

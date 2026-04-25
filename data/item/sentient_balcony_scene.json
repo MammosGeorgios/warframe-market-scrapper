@@ -1,0 +1,19 @@
+{
+  "id": "5e4145907b0275011bc5b7d0",
+  "slug": "sentient_balcony_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/PhotoboothTileSentientConTallJunctionOne",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sentient Balcony Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/sentient_balcony_scene.c4ef34e82aa7b62ad8888d1c6b38be16.png",
+      "thumb": "items/images/en/thumbs/sentient_balcony_scene.c4ef34e82aa7b62ad8888d1c6b38be16.128x128.png"
+    }
+  }
+}

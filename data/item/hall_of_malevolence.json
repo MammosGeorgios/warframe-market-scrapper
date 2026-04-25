@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155e4",
+  "slug": "hall_of_malevolence",
+  "gameRef": "/Lotus/Powersuits/Harlequin/IllusionAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "mirage",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hall Of Malevolence",
+      "description": "Hall of Mirrors Augment: The damage of your doppelgangers is increased by 5% every time you kill an enemy.",
+      "wikiLink": "https://wiki.warframe.com/w/Hall_of_Malevolence",
+      "icon": "items/images/en/hall_of_malevolence.00f7a45b319be600ecc0f40ad7b90a6c.png",
+      "thumb": "items/images/en/thumbs/hall_of_malevolence.00f7a45b319be600ecc0f40ad7b90a6c.128x128.png"
+    }
+  }
+}

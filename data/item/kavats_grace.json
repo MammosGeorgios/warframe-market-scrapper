@@ -1,0 +1,23 @@
+{
+  "id": "5ce7fd87d23a3b00908c420d",
+  "slug": "kavats_grace",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/WarframeCatMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kavat's Grace",
+      "description": "Falling is 100% less likely to result in a hard landing.",
+      "wikiLink": "https://wiki.warframe.com/w/Kavat%27s_Grace",
+      "icon": "items/images/en/kavats_grace.dbadaff449bcd76524e6350fd4fc7a6a.png",
+      "thumb": "items/images/en/thumbs/kavats_grace.dbadaff449bcd76524e6350fd4fc7a6a.128x128.png"
+    }
+  }
+}

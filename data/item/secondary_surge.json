@@ -1,0 +1,22 @@
+{
+  "id": "667236dd8ba7c81b70d02c92",
+  "slug": "secondary_surge",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/BonusDamageNextShotForCurEnergy",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secondary Surge",
+      "description": "On Ability Cast: Next shot gains a Damage Multiplier for every 200 current Energy, up to x8.",
+      "wikiLink": "https://wiki.warframe.com/w/Secondary_Surge",
+      "icon": "items/images/en/secondary_surge.911b99fe452eaf250ae01c041639a2be.webp",
+      "thumb": "items/images/en/thumbs/secondary_surge.911b99fe452eaf250ae01c041639a2be.128x128.webp"
+    }
+  }
+}

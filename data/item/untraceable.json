@@ -1,0 +1,22 @@
+{
+  "id": "5dbe9b0e7ea27b0ffe3ca276",
+  "slug": "untraceable",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackInvisMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Untraceable",
+      "description": "Invisible for 15s after Hacking",
+      "wikiLink": "https://wiki.warframe.com/w/Untraceable",
+      "icon": "items/images/en/untraceable.e564932132d9511093ba2bad454e693d.png",
+      "thumb": "items/images/en/thumbs/untraceable.e564932132d9511093ba2bad454e693d.128x128.png"
+    }
+  }
+}

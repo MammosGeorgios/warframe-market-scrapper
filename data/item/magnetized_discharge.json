@@ -1,0 +1,25 @@
+{
+  "id": "59385f6716efa3a742b15f5f",
+  "slug": "magnetized_discharge",
+  "gameRef": "/Lotus/Powersuits/Mag/BulletAttractorAugmentCard",
+  "tags": [
+    "mag",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magnetized Discharge",
+      "description": "Magnetize Augment: Recast on the target to detonate. Enemies hit have a 50% chance to be disarmed.\rPassive: +45% Magnetize Range.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Magnetized_Discharge",
+      "icon": "items/images/en/magnetized_discharge.2865866b4b2c0b29287f721d2386beec.png",
+      "thumb": "items/images/en/thumbs/magnetized_discharge.2865866b4b2c0b29287f721d2386beec.128x128.png"
+    }
+  }
+}

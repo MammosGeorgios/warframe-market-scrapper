@@ -1,0 +1,33 @@
+{
+  "id": "66325caae85cac3856c86cbe",
+  "slug": "protea_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/ProteaPrimeBlueprint",
+  "tags": [
+    "warframe",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "66325ca7e85cac3856c86cbc",
+    "66325caae85cac3856c86cbe",
+    "66325cb1e85cac3856c86cc0",
+    "66325cb5e85cac3856c86cc2",
+    "66325cb9e85cac3856c86cc4"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Protea Prime Blueprint",
+      "description": "Behold the child of two fathers. Protea Prime once fulfilled Parvos Granum's vision of a time-wielding guardian. Now she upholds the Tenno ideal of defending the defenseless.",
+      "wikiLink": "https://wiki.warframe.com/w/Protea_Prime",
+      "icon": "items/images/en/protea_prime_blueprint.c4d0269d10f68228b05510982f06e58b.png",
+      "thumb": "items/images/en/thumbs/protea_prime_blueprint.c4d0269d10f68228b05510982f06e58b.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

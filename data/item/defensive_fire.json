@@ -1,0 +1,23 @@
+{
+  "id": "6056348290a69e004e86287a",
+  "slug": "defensive_fire",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Engineering/LavanMaxShieldOnKill",
+  "tags": [
+    "mod",
+    "rare",
+    "railjack"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Defensive Fire",
+      "description": "+13.5% Maximum Shields per enemy killed for 10s (Maximum 10 stacks)",
+      "wikiLink": "https://wiki.warframe.com/w/Defensive_Fire",
+      "icon": "items/images/en/defensive_fire.647277a72e91904d4d8a54aec86927a1.png",
+      "thumb": "items/images/en/thumbs/defensive_fire.647277a72e91904d4d8a54aec86927a1.128x128.png"
+    }
+  }
+}

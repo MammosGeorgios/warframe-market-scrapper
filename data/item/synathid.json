@@ -1,0 +1,25 @@
+{
+  "id": "6054de9a5221e3005750108e",
+  "slug": "synathid",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/OrokinBothLegendaryFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Synathid",
+      "description": "Monitors environmental fluctuations. It can be found in the cave pools on Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Synathid",
+      "icon": "items/images/en/synathid.fd490dd2666dac32bcbe393c3533d04c.png",
+      "thumb": "items/images/en/thumbs/synathid.fd490dd2666dac32bcbe393c3533d04c.128x128.png"
+    }
+  }
+}

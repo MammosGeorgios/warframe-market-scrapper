@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156a2",
+  "slug": "equilibrium",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarPickupBonusMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 10,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Equilibrium",
+      "description": "Health pickups give +110% Energy. Energy pickups give +110% Health.",
+      "wikiLink": "https://wiki.warframe.com/w/Equilibrium",
+      "icon": "items/images/en/equilibrium.2bbbfd93da9ed5a3676a8eee1c5af479.png",
+      "thumb": "items/images/en/thumbs/equilibrium.2bbbfd93da9ed5a3676a8eee1c5af479.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "554d3f0ce779894445a848f4",
+  "slug": "recharge_barrier",
+  "gameRef": "/Lotus/Powersuits/Volt/ShieldPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "volt"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Recharge Barrier",
+      "description": "Electric Shield Augment: Allies that pass through have 35% Shields restored.",
+      "wikiLink": "https://wiki.warframe.com/w/Recharge_Barrier",
+      "icon": "items/images/en/recharge_barrier.80e4da5d8308bf138ef9f78e5c19cd70.png",
+      "thumb": "items/images/en/thumbs/recharge_barrier.80e4da5d8308bf138ef9f78e5c19cd70.128x128.png"
+    }
+  }
+}

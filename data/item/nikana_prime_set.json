@@ -1,0 +1,31 @@
+{
+  "id": "56c3bbfc5d2f0202da32e943",
+  "slug": "nikana_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeKatana/PrimeNikana",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "56c3bbf45d2f0202da32e941",
+    "56c3bbee5d2f0202da32e940",
+    "56c3bbf85d2f0202da32e942",
+    "56c3bbfc5d2f0202da32e943"
+  ],
+  "ducats": 190,
+  "reqMasteryRank": 12,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nikana Prime Set",
+      "description": "An ancient blade predating the fall of the Orokin Empire. Forged using techniques lost over the centuries, the edge remains sharper than that of any modern Nikana.",
+      "wikiLink": "https://wiki.warframe.com/w/Nikana_Prime",
+      "icon": "items/images/en/nikana_prime_set.2daac0807a52385bfcf62f71075f2221.png",
+      "thumb": "items/images/en/thumbs/nikana_prime_set.2daac0807a52385bfcf62f71075f2221.128x128.png"
+    }
+  }
+}

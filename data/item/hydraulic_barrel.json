@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a513",
+  "slug": "hydraulic_barrel",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/LessRecoilSmallerMagPistolMod",
+  "tags": [
+    "secondary",
+    "pvp",
+    "rare",
+    "mod",
+    "pistol"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hydraulic Barrel",
+      "description": "-40% Weapon Recoil\n-20% Magazine Capacity",
+      "wikiLink": "https://warframe.fandom.com/wiki/Hydraulic_Barrel",
+      "icon": "items/images/en/hydraulic_barrel.da450e1b969a5753524bc821cf3709e8.png",
+      "thumb": "items/images/en/thumbs/hydraulic_barrel.da450e1b969a5753524bc821cf3709e8.128x128.png"
+    }
+  }
+}

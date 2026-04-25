@@ -1,0 +1,25 @@
+{
+  "id": "58f0ee99aa4b70452a173070",
+  "slug": "pyroclastic_flow",
+  "gameRef": "/Lotus/Powersuits/Nezha/NezhaTrailAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "nezha",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pyroclastic Flow",
+      "description": "Fire Walker Augment: Accumulate 150% of the damage Fire Walker deals, unleashing it in a trail of fire that lasts 10s.",
+      "wikiLink": "https://wiki.warframe.com/w/Pyroclastic_Flow",
+      "icon": "items/images/en/pyroclastic_flow.ac94de8b2515a96114dec14cc78ce907.png",
+      "thumb": "items/images/en/thumbs/pyroclastic_flow.ac94de8b2515a96114dec14cc78ce907.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "573b804a0ec44a47787a6916",
+  "slug": "akstiletto_prime_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkstilettoPrimeBarrel",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "573b804a0ec44a47787a6916",
+    "573b80450ec44a47787a6915",
+    "573b80590ec44a47787a6918",
+    "573b804f0ec44a47787a6917",
+    "573b805f0ec44a47787a6919"
+  ],
+  "quantityInSet": 2,
+  "ducats": 25,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akstiletto Prime Barrel",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Akstiletto_Prime",
+      "icon": "items/images/en/akstiletto_prime_barrel.a88c0a1e43ba462af7cc44efd01a7044.png",
+      "thumb": "items/images/en/thumbs/akstiletto_prime_barrel.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515611",
+  "slug": "morphic_transformer",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityStrengthMod",
+  "tags": [
+    "mod",
+    "archwing",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Morphic Transformer",
+      "description": "+20% Ability Strength",
+      "wikiLink": "https://wiki.warframe.com/w/Morphic_Transformer",
+      "icon": "items/images/en/morphic_transformer.5c74af04d0d892f78d2822cd84cf215e.png",
+      "thumb": "items/images/en/thumbs/morphic_transformer.5c74af04d0d892f78d2822cd84cf215e.128x128.png"
+    }
+  }
+}

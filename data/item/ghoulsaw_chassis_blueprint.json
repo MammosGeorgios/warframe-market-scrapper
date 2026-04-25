@@ -1,0 +1,36 @@
+{
+  "id": "61460dcde330e600455dcea4",
+  "slug": "ghoulsaw_chassis_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrnGhoulSawChassis",
+  "tags": [
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "61460dcce330e600455dcea0",
+    "61460dcde330e600455dcea5",
+    "61460dcde330e600455dcea4",
+    "61460dcce330e600455dcea2",
+    "61460dcce330e600455dcea1",
+    "61460dcde330e600455dcea3"
+  ],
+  "quantityInSet": 1,
+  "subtypes": [
+    "blueprint",
+    "crafted"
+  ],
+  "reqMasteryRank": 7,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ghoulsaw Chassis",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Ghoulsaw",
+      "icon": "items/images/en/ghoulsaw_chassis.f9a355d3f35098841d346d536abd801c.png",
+      "thumb": "items/images/en/thumbs/ghoulsaw_chassis.f9a355d3f35098841d346d536abd801c.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_chassis_128x128.png"
+    }
+  }
+}

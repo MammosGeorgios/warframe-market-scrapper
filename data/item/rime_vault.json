@@ -1,0 +1,23 @@
+{
+  "id": "567af35fcbfa8f05d076a4ed",
+  "slug": "rime_vault",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FreezeParkourPvPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rime Vault",
+      "description": "Ice FX on Bullet Jump",
+      "wikiLink": "https://wiki.warframe.com/w/Rime_Vault",
+      "icon": "items/images/en/rime_vault.14e572dd10c6b89cf4202d242e01bfe9.png",
+      "thumb": "items/images/en/thumbs/rime_vault.14e572dd10c6b89cf4202d242e01bfe9.128x128.png"
+    }
+  }
+}

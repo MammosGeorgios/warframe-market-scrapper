@@ -1,0 +1,21 @@
+{
+  "id": "6939d5d9d6a357b81964f860",
+  "slug": "arcane_expertise",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ShieldMaxForAbilityStrength",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Expertise",
+      "description": "100% of Ability Strength modifiers are also applied to Max Shields.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "icon": "items/images/en/arcane_expertise.2af40ec68fa1c088e680d32727c186fc.webp",
+      "thumb": "items/images/en/thumbs/arcane_expertise.2af40ec68fa1c088e680d32727c186fc.128x128.webp"
+    }
+  }
+}

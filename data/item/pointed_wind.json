@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51566e",
+  "slug": "pointed_wind",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "daggers"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pointed Wind",
+      "description": "Spiral strikes, lifting combos.",
+      "wikiLink": "https://wiki.warframe.com/w/Pointed_Wind",
+      "icon": "items/images/en/pointed_wind.32a87c4d2733e14f641db59e0c53e8c6.png",
+      "thumb": "items/images/en/thumbs/pointed_wind.32a87c4d2733e14f641db59e0c53e8c6.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156ed",
+  "slug": "sinking_talon",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "uncommon",
+    "stance",
+    "dual_daggers"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sinking Talon",
+      "description": "Strong, focused attacks with multi-hit spins.",
+      "wikiLink": "https://wiki.warframe.com/w/Sinking_Talon",
+      "icon": "items/images/en/sinking_talon.825973df87633e7b3f5cfbc94fbfeb5e.png",
+      "thumb": "items/images/en/thumbs/sinking_talon.825973df87633e7b3f5cfbc94fbfeb5e.128x128.png"
+    }
+  }
+}

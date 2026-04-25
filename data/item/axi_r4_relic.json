@@ -1,0 +1,26 @@
+{
+  "id": "667ec84759acb6bf03ebc33c",
+  "slug": "axi_r4_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionEmberRhinoVaultA",
+  "tags": [
+    "axi",
+    "relic"
+  ],
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Axi R4 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/axi_r4_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "thumb": "items/images/en/thumbs/axi_r4_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  }
+}

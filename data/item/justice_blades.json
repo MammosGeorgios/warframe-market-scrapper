@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e5156b9",
+  "slug": "justice_blades",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/DualCleaversMod",
+  "tags": [
+    "syndicate",
+    "dual_cleavers",
+    "mod",
+    "melee",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Justice Blades",
+      "description": "+100% Melee Damage\n+1 'Justice'",
+      "wikiLink": "https://warframe.fandom.com/wiki/Justice",
+      "icon": "items/images/en/justice_blades.465e02b8fa93e85a73dd5aa83e0808fb.png",
+      "thumb": "items/images/en/thumbs/justice_blades.465e02b8fa93e85a73dd5aa83e0808fb.128x128.png"
+    }
+  }
+}

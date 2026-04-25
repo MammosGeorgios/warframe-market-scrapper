@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e51569f",
+  "slug": "expel_corpus",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorpus",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Expel Corpus",
+      "description": "x1.3 Damage to Corpus",
+      "wikiLink": "https://wiki.warframe.com/w/Expel_Corpus",
+      "icon": "items/images/en/expel_corpus.a5014be781ec3ac619fd3d7260e8fa36.png",
+      "thumb": "items/images/en/thumbs/expel_corpus.a5014be781ec3ac619fd3d7260e8fa36.128x128.png"
+    }
+  }
+}

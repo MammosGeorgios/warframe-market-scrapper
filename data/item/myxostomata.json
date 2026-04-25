@@ -1,0 +1,25 @@
+{
+  "id": "6054de6b5221e30057501078",
+  "slug": "myxostomata",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/OrokinLegendaryAFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Myxostomata",
+      "description": "This exceptionally rare breed of fish is almost extinct, as its gilded Orokin flesh has a special savor for predators. It warily conceals itself in caves. ",
+      "wikiLink": "https://wiki.warframe.com/w/Myxostomata",
+      "icon": "items/images/en/myxostomata.8e6d7580c8aa36b60c5116ee56b94483.png",
+      "thumb": "items/images/en/thumbs/myxostomata.8e6d7580c8aa36b60c5116ee56b94483.128x128.png"
+    }
+  }
+}

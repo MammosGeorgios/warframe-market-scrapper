@@ -1,0 +1,24 @@
+{
+  "id": "675c61ff7b18977f6e645418",
+  "slug": "spectral_serration",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponDamageAmountInvisibleMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Spectral Serration",
+      "description": "+330% Damage while Invisible",
+      "wikiLink": "https://wiki.warframe.com/w/Spectral_Serration",
+      "icon": "items/images/en/spectral_serration.20f00c76110efeadf7256f853a3d0864.webp",
+      "thumb": "items/images/en/thumbs/spectral_serration.20f00c76110efeadf7256f853a3d0864.128x128.webp"
+    }
+  }
+}

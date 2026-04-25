@@ -1,0 +1,27 @@
+{
+  "id": "60e70f7d479445008f27258f",
+  "slug": "red_veil_arm_insignia",
+  "gameRef": "/Lotus/Upgrades/Skins/Armor/RedVeilArmor/RedVeilAArmor",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60e70f7d479445008f27258f",
+    "60e70f80479445008f2725a5",
+    "60e70f79479445008f27256d",
+    "60e70f79479445008f272571"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Red Veil Arm Insignia",
+      "description": "Lightweight and unobtrusive. The armor of Red Veil assassins.",
+      "wikiLink": "https://wiki.warframe.com/w/Red_Veil",
+      "icon": "items/images/en/red_veil_arm_insignia.42c61941b3a7e8aba62db752a3ede4ff.png",
+      "thumb": "items/images/en/thumbs/red_veil_arm_insignia.42c61941b3a7e8aba62db752a3ede4ff.128x128.png"
+    }
+  }
+}

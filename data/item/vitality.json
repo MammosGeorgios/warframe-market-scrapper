@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155fe",
+  "slug": "vitality",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarHealthMaxMod",
+  "tags": [
+    "mod",
+    "common",
+    "warframe"
+  ],
+  "rarity": "common",
+  "maxRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vitality",
+      "description": "+100% Health",
+      "wikiLink": "https://wiki.warframe.com/w/Vitality",
+      "icon": "items/images/en/vitality.dc0a453e7346e5dfe6e297413ee30740.png",
+      "thumb": "items/images/en/thumbs/vitality.dc0a453e7346e5dfe6e297413ee30740.128x128.png"
+    }
+  }
+}

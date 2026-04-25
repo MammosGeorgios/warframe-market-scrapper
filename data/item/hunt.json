@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155e2",
+  "slug": "hunt",
+  "gameRef": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowChargePrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "huras_kubrow"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hunt",
+      "description": "The kubrow charges at a target, dragging them and dealing 120% damage to all in its path.",
+      "wikiLink": "https://wiki.warframe.com/w/Hunt",
+      "icon": "items/images/en/hunt.b962f48385bc2733012d480f8cb8f1e6.png",
+      "thumb": "items/images/en/thumbs/hunt.b962f48385bc2733012d480f8cb8f1e6.128x128.png"
+    }
+  }
+}

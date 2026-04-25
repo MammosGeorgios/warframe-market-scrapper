@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e111456970316674a1d",
+  "slug": "form_up",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Tactical/CrewShipMassRecallAbilityCard",
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Form Up",
+      "description": "Recall all Crew Members to the Railjack and Heal them for 100%\nCooldown: 240s",
+      "wikiLink": "https://wiki.warframe.com/w/Form_Up",
+      "icon": "items/images/en/form_up.5f635da9cb84419da82582f69d0cfc8f.png",
+      "thumb": "items/images/en/thumbs/form_up.5f635da9cb84419da82582f69d0cfc8f.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "59eba86952f90ed715e14157",
+  "slug": "marquise_veridos",
+  "gameRef": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
+  "tags": [
+    "gem"
+  ],
+  "bulkTradable": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Marquise Veridos",
+      "description": "Polished and cut to perfection. Blueprint sold by Old Man Suumbaat in Cetus on Earth.",
+      "wikiLink": "https://wiki.warframe.com/w/Marquise_Veridos",
+      "icon": "items/images/en/marquise_veridos.0ff6080823e396fc6d3d5946dc192d9b.png",
+      "thumb": "items/images/en/thumbs/marquise_veridos.0ff6080823e396fc6d3d5946dc192d9b.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5dbe9b107ea27b0ffe3ca27c",
+  "slug": "jahu",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/ImmortalThreeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Jahu",
+      "description": "Corporeal laws are unwrit As suns and love retreat",
+      "wikiLink": "https://wiki.warframe.com/w/Jahu",
+      "icon": "items/images/en/jahu.22359517539115f5518faef882482163.png",
+      "thumb": "items/images/en/thumbs/jahu.22359517539115f5518faef882482163.128x128.png"
+    }
+  }
+}

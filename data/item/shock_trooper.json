@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515658",
+  "slug": "shock_trooper",
+  "gameRef": "/Lotus/Powersuits/Volt/ShockAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "volt"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shock Trooper",
+      "description": "Shock Augment: Hold to cast will grant all allies within 15m an additional 100% Electricity Damage to their attacks for 40s.",
+      "wikiLink": "https://wiki.warframe.com/w/Shock_Trooper",
+      "icon": "items/images/en/shock_trooper.c7ff5b51ab859ff72643c66b6349af52.png",
+      "thumb": "items/images/en/thumbs/shock_trooper.c7ff5b51ab859ff72643c66b6349af52.128x128.png"
+    }
+  }
+}

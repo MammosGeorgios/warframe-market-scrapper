@@ -1,0 +1,30 @@
+{
+  "id": "582b0f870af25410b099f7fb",
+  "slug": "phaedra_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
+  "tags": [
+    "weapon",
+    "set",
+    "primary",
+    "archwing"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "582b0f870af25410b099f7fb",
+    "5783bf32d9b6753790c89e90",
+    "5783bf37d9b6753790c89e91",
+    "5783bf3cd9b6753790c89e92"
+  ],
+  "reqMasteryRank": 3,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Phaedra Set",
+      "description": "Devastate free-space enemies with Phaedra, the Soma's big-sister.",
+      "wikiLink": "https://wiki.warframe.com/w/Phaedra",
+      "icon": "items/images/en/phaedra_set.93a06c74d5ecc242c76ea0ff91e3d9ca.png",
+      "thumb": "items/images/en/thumbs/phaedra_set.93a06c74d5ecc242c76ea0ff91e3d9ca.128x128.png"
+    }
+  }
+}

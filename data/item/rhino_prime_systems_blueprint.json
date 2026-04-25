@@ -1,0 +1,34 @@
+{
+  "id": "54a73e65e779893a797fff7f",
+  "slug": "rhino_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/RhinoPrimeSystemsBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff77",
+    "54a73e65e779893a797fff78",
+    "54a73e65e779893a797fff6f",
+    "56783f24cbfa8f0432dd89ab",
+    "54a73e65e779893a797fff7f"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rhino Prime Systems Blueprint",
+      "description": "Systems component of the Rhino Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Rhino_Prime",
+      "icon": "items/images/en/rhino_prime_systems.22301207f9463fe9ab215e40eb23a326.png",
+      "thumb": "items/images/en/thumbs/rhino_prime_systems.22301207f9463fe9ab215e40eb23a326.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

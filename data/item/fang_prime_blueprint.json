@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff41",
+  "slug": "fang_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/FangPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "melee",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff40",
+    "54a73e65e779893a797fff41",
+    "54a73e65e779893a797fff42",
+    "56783f24cbfa8f0432dd899b"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fang Prime Blueprint",
+      "description": "A set of ceremonial daggers from the Orokin era, the Fang Prime's blades resonate violently as they strike. This allows them to pierce hardened materials like armor with ease.",
+      "wikiLink": "https://wiki.warframe.com/w/Fang_Prime",
+      "icon": "items/images/en/fang_prime_blueprint.13b0c690a76382d0fbdebe84e4c509db.png",
+      "thumb": "items/images/en/thumbs/fang_prime_blueprint.13b0c690a76382d0fbdebe84e4c509db.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155ce",
+  "slug": "maglev",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarSlideBoostMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Maglev",
+      "description": "+30% Slide\n-30% Friction",
+      "wikiLink": "https://wiki.warframe.com/w/Maglev",
+      "icon": "items/images/en/maglev.23424e017ab170692b7c3aa7c274b839.png",
+      "thumb": "items/images/en/thumbs/maglev.23424e017ab170692b7c3aa7c274b839.128x128.png"
+    }
+  }
+}

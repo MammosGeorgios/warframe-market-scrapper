@@ -1,0 +1,26 @@
+{
+  "id": "57222f1692cc365777a61c0e",
+  "slug": "xiphos_set",
+  "gameRef": "/Lotus/Types/Items/Ships/GyroscopeShip",
+  "tags": [
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "571955834445c3e28b80fc7b",
+    "5719557e4445c3e28b80fc7a",
+    "571955784445c3e28b80fc79",
+    "57222f1692cc365777a61c0e"
+  ],
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Xiphos Set",
+      "description": "Featuring Sentry Gun air-support, this stylish landing craft is an asset in any battle.",
+      "wikiLink": "https://wiki.warframe.com/w/Xiphos",
+      "icon": "items/images/en/xiphos_set.452dba7ad34799a24d7d72d8f5e206eb.png",
+      "thumb": "items/images/en/thumbs/xiphos_set.452dba7ad34799a24d7d72d8f5e206eb.128x128.png"
+    }
+  }
+}

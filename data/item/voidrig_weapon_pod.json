@@ -1,0 +1,30 @@
+{
+  "id": "5fde10c56db57b0185b39082",
+  "slug": "voidrig_weapon_pod",
+  "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem",
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5fde10c46db57b0185b3907c",
+    "5fde10c36db57b0185b39077",
+    "5fde10c46db57b0185b3907d",
+    "5fde10c66db57b0185b39086",
+    "5fde10c56db57b0185b39082"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Voidrig Weapon Pod",
+      "description": "Weapon Pod component for the Voidrig Necramech.",
+      "wikiLink": "https://wiki.warframe.com/w/Voidrig",
+      "icon": "items/images/en/voidrig_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.png",
+      "thumb": "items/images/en/thumbs/voidrig_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5f498a229426ed00443bd0af",
+  "slug": "panzer_devolution",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/ArmoredInfestedCatbrowRespawn",
+  "tags": [
+    "mod",
+    "rare",
+    "kavat",
+    "panzer_vulpaphyla"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Panzer Devolution",
+      "description": "Devolves into its larval form when downed and attacks enemies with quills, dealing 60 Viral Damage each. Regains true form after 30s.",
+      "wikiLink": "https://wiki.warframe.com/w/Panzer_Devolution",
+      "icon": "items/images/en/panzer_devolution.385beb2af22639cca19541091841393a.png",
+      "thumb": "items/images/en/thumbs/panzer_devolution.385beb2af22639cca19541091841393a.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "667238fc8ba7c81b70d02cc0",
+  "slug": "wrecking_wall",
+  "gameRef": "/Lotus/Powersuits/ConcreteFrame/ConcreteWallAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "qorvex",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Wrecking Wall",
+      "description": "Containment Wall Augment: Strip 50% of armor and shields from struck enemies. Hitting 5 or more enemies will restart the duration of any Chyrinka Pillars and empower them.",
+      "wikiLink": "https://wiki.warframe.com/w/Wrecking_Wall",
+      "icon": "items/images/en/wrecking_wall.1bbe5cbc3dbf3abf08c66cb3b99cb528.webp",
+      "thumb": "items/images/en/thumbs/wrecking_wall.1bbe5cbc3dbf3abf08c66cb3b99cb528.128x128.webp"
+    }
+  }
+}

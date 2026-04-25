@@ -1,0 +1,25 @@
+{
+  "id": "5526aec1e779896af9418265",
+  "slug": "chilling_globe",
+  "gameRef": "/Lotus/Powersuits/Frost/IceShieldAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "frost"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Chilling Globe",
+      "description": "Snow Globe Augment: Enemies that enter have a 50% chance to become frozen solid for 10s.",
+      "wikiLink": "https://wiki.warframe.com/w/Chilling_Globe",
+      "icon": "items/images/en/chilling_globe.92223b7061c05a98afc460eb267fd053.png",
+      "thumb": "items/images/en/thumbs/chilling_globe.92223b7061c05a98afc460eb267fd053.128x128.png"
+    }
+  }
+}

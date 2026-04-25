@@ -1,0 +1,24 @@
+{
+  "id": "5ecd08d804d55c0806f8534f",
+  "slug": "enraged",
+  "gameRef": "/Lotus/Powersuits/Berserker/LastStandAugmentTwoCard",
+  "tags": [
+    "mod",
+    "valkyr",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Enraged",
+      "description": "Hysteria Augment: Damage increased by 350%, Critical Chance increased by 350%. Hysteria lasts for 15s, and receives a matching cooldown.",
+      "wikiLink": "https://wiki.warframe.com/w/Enraged",
+      "icon": "items/images/en/enraged.8614727ce128359c57518c32c32ee170.png",
+      "thumb": "items/images/en/thumbs/enraged.8614727ce128359c57518c32c32ee170.128x128.png"
+    }
+  }
+}

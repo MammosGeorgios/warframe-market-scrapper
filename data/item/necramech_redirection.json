@@ -1,0 +1,23 @@
+{
+  "id": "5f498a209426ed00443bd0a6",
+  "slug": "necramech_redirection",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechShieldMaxMod",
+  "tags": [
+    "mod",
+    "common",
+    "necramech"
+  ],
+  "rarity": "common",
+  "maxRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Redirection",
+      "description": "+100% Shield Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Redirection",
+      "icon": "items/images/en/necramech_redirection.2b8d7d243fd2af120ab54fa8f123691e.png",
+      "thumb": "items/images/en/thumbs/necramech_redirection.2b8d7d243fd2af120ab54fa8f123691e.128x128.png"
+    }
+  }
+}

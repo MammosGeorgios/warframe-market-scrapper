@@ -1,0 +1,23 @@
+{
+  "id": "5f498a249426ed00443bd0bf",
+  "slug": "necramech_reach",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechMeleeRangeMod",
+  "tags": [
+    "mod",
+    "common",
+    "necramech"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Reach",
+      "description": "+1 Melee Range",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Reach",
+      "icon": "items/images/en/necramech_reach.e2fc011d7aa0f6537ba1c3e8b8c856f1.png",
+      "thumb": "items/images/en/thumbs/necramech_reach.e2fc011d7aa0f6537ba1c3e8b8c856f1.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5fb84767c34da3004797d53a",
+  "slug": "critical_surge",
+  "gameRef": "/Lotus/Powersuits/Wisp/WispHarnessAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "wisp",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Critical Surge",
+      "description": "Breach Surge Augment: Teleporting to a Reservoir costs 50% Energy and grants 10% Critical Chance to Primary Weapons per meter traveled for 9s. Maximum 250% Critical Chance.",
+      "wikiLink": "https://wiki.warframe.com/w/Critical_Surge",
+      "icon": "items/images/en/critical_surge.fd671126fd4051e8e3addc13ae56d1f0.png",
+      "thumb": "items/images/en/thumbs/critical_surge.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+    }
+  }
+}

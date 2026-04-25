@@ -1,0 +1,22 @@
+{
+  "id": "67db60559cec3e52e62523e8",
+  "slug": "quick_correct",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusSmallOnSingleUseMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Quick Correct",
+      "description": "Gain 10% Disinfection and 10% chance to drop a Live Heartcell",
+      "icon": "items/images/en/quick_correct.f59d1c087df311818004ce44cd834b8e.webp",
+      "thumb": "items/images/en/thumbs/quick_correct.f59d1c087df311818004ce44cd834b8e.128x128.webp"
+    }
+  }
+}

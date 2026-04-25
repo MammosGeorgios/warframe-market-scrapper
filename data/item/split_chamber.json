@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156be",
+  "slug": "split_chamber",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponFireIterationsMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Split Chamber",
+      "description": "+90% Multishot",
+      "wikiLink": "https://wiki.warframe.com/w/Split_Chamber",
+      "icon": "items/images/en/split_chamber.2cb0a97bd2c5e9d75a505a153e8230cc.png",
+      "thumb": "items/images/en/thumbs/split_chamber.2cb0a97bd2c5e9d75a505a153e8230cc.128x128.png"
+    }
+  }
+}

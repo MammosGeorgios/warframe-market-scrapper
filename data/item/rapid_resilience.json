@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e51564f",
+  "slug": "rapid_resilience",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarProcTimeMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rapid Resilience",
+      "description": "-75% Status Duration on Self",
+      "wikiLink": "https://wiki.warframe.com/w/Rapid_Resilience",
+      "icon": "items/images/en/rapid_resilience.b14f79218a26403aa00409a93f5dcfa0.png",
+      "thumb": "items/images/en/thumbs/rapid_resilience.b14f79218a26403aa00409a93f5dcfa0.128x128.png"
+    }
+  }
+}

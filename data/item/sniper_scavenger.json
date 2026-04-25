@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515609",
+  "slug": "sniper_scavenger",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/PlayerSniperAmmoAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sniper Scavenger",
+      "description": "Squad receives +150% Sniper Rifle Ammo Recovery",
+      "wikiLink": "https://wiki.warframe.com/w/Sniper_Scavenger",
+      "icon": "items/images/en/sniper_scavenger.fc4f17404bac3a608b6d5abb2990b66d.png",
+      "thumb": "items/images/en/thumbs/sniper_scavenger.fc4f17404bac3a608b6d5abb2990b66d.128x128.png"
+    }
+  }
+}

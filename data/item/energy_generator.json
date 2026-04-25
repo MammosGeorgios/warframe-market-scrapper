@@ -1,0 +1,24 @@
+{
+  "id": "5bc24accb919f2010f7d579b",
+  "slug": "energy_generator",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/ItemDropOnAssist",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "dethcube"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Energy Generator",
+      "description": "Dethcube drops an Energy Orb after assisting in 10 kills.",
+      "wikiLink": "https://wiki.warframe.com/w/Energy_Generator",
+      "icon": "items/images/en/energy_generator.8957d37464221bed882c611f37c46e68.png",
+      "thumb": "items/images/en/thumbs/energy_generator.8957d37464221bed882c611f37c46e68.128x128.png"
+    }
+  }
+}

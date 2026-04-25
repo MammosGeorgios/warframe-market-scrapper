@@ -1,0 +1,25 @@
+{
+  "id": "5be5f5a23ffcc7038857f122",
+  "slug": "piercing_fury",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPDaggerStanceOne",
+  "tags": [
+    "pvp",
+    "uncommon",
+    "stance",
+    "daggers",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Piercing Fury",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Piercing_Fury",
+      "icon": "items/images/en/piercing_fury.bbc8072ae9a3ee426c3d59ccb44c9213.png",
+      "thumb": "items/images/en/thumbs/piercing_fury.bbc8072ae9a3ee426c3d59ccb44c9213.128x128.png"
+    }
+  }
+}

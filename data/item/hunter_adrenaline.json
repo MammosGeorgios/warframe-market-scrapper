@@ -1,0 +1,23 @@
+{
+  "id": "5a0ef3fb10bc40007cce1c89",
+  "slug": "hunter_adrenaline",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Hunter/WarframeHunterAdrenalineMod",
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hunter Adrenaline",
+      "description": "Convert +45% of Damage on Health to Energy. Without Shields, ally Overguard imitates Health.",
+      "wikiLink": "https://wiki.warframe.com/w/Hunter_Adrenaline",
+      "icon": "items/images/en/hunter_adrenaline.4aa86a8459126574f6f7191a08cbeb84.png",
+      "thumb": "items/images/en/thumbs/hunter_adrenaline.4aa86a8459126574f6f7191a08cbeb84.128x128.png"
+    }
+  }
+}

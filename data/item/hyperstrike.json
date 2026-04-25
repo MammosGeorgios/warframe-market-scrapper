@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e111456970316674a12",
+  "slug": "hyperstrike",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarGunnerWeaponDamage",
+  "tags": [
+    "railjack",
+    "common",
+    "mod"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hyperstrike",
+      "description": "+112.5% Turret Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Hyperstrike",
+      "icon": "items/images/en/hyperstrike.8e979c19582e3918a672ae72cf61f5ac.png",
+      "thumb": "items/images/en/thumbs/hyperstrike.8e979c19582e3918a672ae72cf61f5ac.128x128.png"
+    }
+  }
+}

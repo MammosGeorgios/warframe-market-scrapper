@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e0f14569703166749cc",
+  "slug": "forward_artillery",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/ZektiSuperWeaponDamage",
+  "tags": [
+    "rare",
+    "railjack",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Forward Artillery",
+      "description": "+127.3% Forward Artillery Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Forward_Artillery",
+      "icon": "items/images/en/forward_artillery.860b4dd8bfc5659c16ace0a152a1e54c.png",
+      "thumb": "items/images/en/thumbs/forward_artillery.860b4dd8bfc5659c16ace0a152a1e54c.128x128.png"
+    }
+  }
+}

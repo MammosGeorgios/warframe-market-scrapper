@@ -1,0 +1,25 @@
+{
+  "id": "5c4050e32cc6ce023b79c0f1",
+  "slug": "infectious_injection",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventToxinStatusMeleeMod",
+  "tags": [
+    "rare",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Infectious Injection",
+      "description": "+60% Toxin\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Infectious_Injection",
+      "icon": "items/images/en/infectious_injection.5074db2c7f631857ed2f38ce7b3fc85c.png",
+      "thumb": "items/images/en/thumbs/infectious_injection.5074db2c7f631857ed2f38ce7b3fc85c.128x128.png"
+    }
+  }
+}

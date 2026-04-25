@@ -1,0 +1,18 @@
+{
+  "id": "690148ecf88bae2d5b1f5399",
+  "slug": "five_fates_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/2025FallUpdate/PhotoboothFiveFates",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Five Fates Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/five_fates_scene.fd0f148026cd7ae5098cf720e151fb84.webp",
+      "thumb": "items/images/en/thumbs/five_fates_scene.fd0f148026cd7ae5098cf720e151fb84.128x128.webp"
+    }
+  }
+}

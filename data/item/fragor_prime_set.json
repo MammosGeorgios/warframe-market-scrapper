@@ -1,0 +1,31 @@
+{
+  "id": "573b802f0ec44a47787a6914",
+  "slug": "fragor_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/PrimeFragor/PrimeFragor",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "573b801c0ec44a47787a6911",
+    "573b80230ec44a47787a6912",
+    "573b80280ec44a47787a6913",
+    "573b802f0ec44a47787a6914"
+  ],
+  "ducats": 145,
+  "reqMasteryRank": 12,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fragor Prime Set",
+      "description": "A beautifully forged instrument of devastation.",
+      "wikiLink": "https://wiki.warframe.com/w/Fragor_Prime",
+      "icon": "items/images/en/fragor_prime_set.2b917b8a12f0981ff0a9a48c6c24edb1.png",
+      "thumb": "items/images/en/thumbs/fragor_prime_set.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png"
+    }
+  }
+}

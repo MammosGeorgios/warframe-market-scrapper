@@ -1,0 +1,26 @@
+{
+  "id": "54a74454e779892d5e515664",
+  "slug": "gilded_truth",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/BurstonPrimeMod",
+  "tags": [
+    "syndicate",
+    "burston_prime",
+    "mod",
+    "rare",
+    "primary",
+    "prime"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gilded Truth",
+      "description": "+80% Fire Rate\n+1 'Truth'",
+      "wikiLink": "https://wiki.warframe.com/w/Gilded_Truth",
+      "icon": "items/images/en/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.png",
+      "thumb": "items/images/en/thumbs/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.128x128.png"
+    }
+  }
+}

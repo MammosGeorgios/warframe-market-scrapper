@@ -1,0 +1,31 @@
+{
+  "id": "5783bf32d9b6753790c89e90",
+  "slug": "phaedra_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchLongRifleBarrel",
+  "tags": [
+    "component",
+    "weapon",
+    "archwing"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "582b0f870af25410b099f7fb",
+    "5783bf32d9b6753790c89e90",
+    "5783bf37d9b6753790c89e91",
+    "5783bf3cd9b6753790c89e92"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Phaedra Barrel",
+      "description": "An Archwing weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Phaedra",
+      "icon": "items/images/en/phaedra_barrel.93a06c74d5ecc242c76ea0ff91e3d9ca.png",
+      "thumb": "items/images/en/thumbs/phaedra_barrel.93a06c74d5ecc242c76ea0ff91e3d9ca.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_barrel_128x128.png"
+    }
+  }
+}

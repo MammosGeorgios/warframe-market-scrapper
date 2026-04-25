@@ -1,0 +1,23 @@
+{
+  "id": "5e839495267539077b0dd6d1",
+  "slug": "sentient_scalpel",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarSentientKiller",
+  "tags": [
+    "rare",
+    "railjack",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sentient Scalpel",
+      "description": "x1.41 Turret Damage vs Sentients",
+      "wikiLink": "https://wiki.warframe.com/w/Sentient_Scalpel",
+      "icon": "items/images/en/sentient_scalpel.2a05327a670da6dbe3452a9d371ac016.png",
+      "thumb": "items/images/en/thumbs/sentient_scalpel.2a05327a670da6dbe3452a9d371ac016.128x128.png"
+    }
+  }
+}

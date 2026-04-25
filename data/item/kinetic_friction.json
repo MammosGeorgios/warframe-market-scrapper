@@ -1,0 +1,23 @@
+{
+  "id": "5be701103ffcc703e462c702",
+  "slug": "kinetic_friction",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindStaticMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "k_drive"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kinetic Friction",
+      "description": "Grinding builds up a charge that is released when landing the trick, dealing 400 Electricity Damage to enemies within 4m.",
+      "wikiLink": "https://wiki.warframe.com/w/Kinetic_Friction",
+      "icon": "items/images/en/kinetic_friction.b3942e23d26fcc15c1946c89fcf23b96.png",
+      "thumb": "items/images/en/thumbs/kinetic_friction.b3942e23d26fcc15c1946c89fcf23b96.128x128.png"
+    }
+  }
+}

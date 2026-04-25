@@ -1,0 +1,23 @@
+{
+  "id": "63ee00fe10125411da49e6f4",
+  "slug": "arcane_double_back",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/DamageResistanceStacksOverTime",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Double Back",
+      "description": "Gain +25% damage resistance for 4s per Dodge, Double Jump and Bullet Jump. Stacks up to 3x.\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Double_Back",
+      "icon": "items/images/en/arcane_double_back.1ed9a591a41ea6c610f532f30b31ae22.png",
+      "thumb": "items/images/en/thumbs/arcane_double_back.1ed9a591a41ea6c610f532f30b31ae22.128x128.png"
+    }
+  }
+}

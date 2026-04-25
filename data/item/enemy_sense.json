@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515624",
+  "slug": "enemy_sense",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarEnemyRadarMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Enemy Sense",
+      "description": "+30m Enemy Radar",
+      "wikiLink": "https://wiki.warframe.com/w/Enemy_Sense",
+      "icon": "items/images/en/enemy_sense.601975f5f1d8963777585aacd6f9ba82.png",
+      "thumb": "items/images/en/thumbs/enemy_sense.601975f5f1d8963777585aacd6f9ba82.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6242037766a58f0108c3d492",
+  "slug": "garuda_prime_neuroptics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GarudaPrimeHelmetBlueprint",
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6242037866a58f0108c3d497",
+    "6242037666a58f0108c3d479",
+    "6242037766a58f0108c3d492",
+    "6242037766a58f0108c3d490",
+    "6242037666a58f0108c3d486"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Garuda Prime Neuroptics Blueprint",
+      "description": "Neuroptics component of the Garuda Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Garuda_Prime",
+      "icon": "items/images/en/garuda_prime_neuroptics.283072e865cfc5da28d322b15a2065fa.png",
+      "thumb": "items/images/en/thumbs/garuda_prime_neuroptics.283072e865cfc5da28d322b15a2065fa.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_helmet_128x128.png"
+    }
+  }
+}

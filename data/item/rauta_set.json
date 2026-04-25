@@ -1,0 +1,29 @@
+{
+  "id": "6493d52b7ec1902281122e73",
+  "slug": "rauta_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PaxDuviricusShotgun/PaxDuviricusShotgun",
+  "tags": [
+    "weapon",
+    "primary",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "6493d52a7ec1902281122e72",
+    "6493d52b7ec1902281122e74",
+    "6493d52b7ec1902281122e73",
+    "6493d52b7ec1902281122e75"
+  ],
+  "reqMasteryRank": 8,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rauta Set",
+      "description": "Kullervo's signature weapon boasts melee synergy. Every shot that lands increases the wielder's Melee Combo count. When Kullervo wields Rauta, it also increases his Melee Combo duration.",
+      "wikiLink": "https://wiki.warframe.com/w/Rauta",
+      "icon": "items/images/en/rauta_set.cbe84e8e7131f82a5af0e4964dbbde79.png",
+      "thumb": "items/images/en/thumbs/rauta_set.cbe84e8e7131f82a5af0e4964dbbde79.128x128.png"
+    }
+  }
+}

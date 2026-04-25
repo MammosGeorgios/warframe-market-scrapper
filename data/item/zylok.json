@@ -1,0 +1,21 @@
+{
+  "id": "5e4e4a3526753901984c2f24",
+  "slug": "zylok",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistols/ConclaveLeverPistol/ConclaveLeverPistol",
+  "tags": [
+    "weapon",
+    "secondary"
+  ],
+  "reqMasteryRank": 6,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zylok",
+      "description": "Hammer the enemy with this light-bodied heavy hitter. Featuring a double-action trigger that fires hard and fast. ",
+      "wikiLink": "https://wiki.warframe.com/w/Zylok",
+      "icon": "items/images/en/zylok.3cb47888884190e96ec8c08c281b508c.png",
+      "thumb": "items/images/en/thumbs/zylok.3cb47888884190e96ec8c08c281b508c.128x128.png"
+    }
+  }
+}

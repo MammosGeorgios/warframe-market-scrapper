@@ -1,0 +1,20 @@
+{
+  "id": "54aaf2f8e779892b01b42391",
+  "slug": "arcane_mag_gauss_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltB",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Mag Gauss Helmet",
+      "description": "This helmet is worn by Mag, and adds Max Energy, with a reduction to Speed.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Mag_Gauss_Helmet",
+      "icon": "items/images/en/arcane_gauss_mag_helmet.d3fc3ff3ef176167b43cfd7c47a3b323.png",
+      "thumb": "items/images/en/thumbs/arcane_gauss_mag_helmet.d3fc3ff3ef176167b43cfd7c47a3b323.128x128.png"
+    }
+  }
+}

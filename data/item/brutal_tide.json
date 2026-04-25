@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155fd",
+  "slug": "brutal_tide",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PunchKickCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "sparring"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Brutal Tide",
+      "description": "Round-house attacks and leaping fists.",
+      "wikiLink": "https://wiki.warframe.com/w/Brutal_Tide",
+      "icon": "items/images/en/brutal_tide.5af3086dd2d058f73ac47b98a73cd6aa.png",
+      "thumb": "items/images/en/thumbs/brutal_tide.5af3086dd2d058f73ac47b98a73cd6aa.128x128.png"
+    }
+  }
+}

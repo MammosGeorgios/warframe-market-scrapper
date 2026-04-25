@@ -1,0 +1,25 @@
+{
+  "id": "6054de7c5221e30057501083",
+  "slug": "tralok",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tralok",
+      "description": "Strong, predatory fish with eyes that can pierce the darkest shadows.",
+      "wikiLink": "https://wiki.warframe.com/w/Tralok",
+      "icon": "items/images/en/tralok.22c468b53ea71bc7a6687c60b851f85e.png",
+      "thumb": "items/images/en/thumbs/tralok.22c468b53ea71bc7a6687c60b851f85e.128x128.png"
+    }
+  }
+}

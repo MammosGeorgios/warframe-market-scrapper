@@ -1,0 +1,26 @@
+{
+  "id": "60e70f7e479445008f272595",
+  "slug": "perrin_arm_guards",
+  "gameRef": "/Lotus/Upgrades/Skins/Armor/PerrinSequenceArmor/PerrinSequenceArmorA",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60e70f7e479445008f272595",
+    "60e70f7b479445008f272581",
+    "60e70f7c479445008f272588",
+    "60e70f7c479445008f272584"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Perrin Arm Guards",
+      "description": "The armor of the Perrin Sequence is clean and economically designed.",
+      "icon": "items/images/en/perrin_arm_guards.f737ca539ee7cd3a68720debdea92336.png",
+      "thumb": "items/images/en/thumbs/perrin_arm_guards.f737ca539ee7cd3a68720debdea92336.128x128.png"
+    }
+  }
+}

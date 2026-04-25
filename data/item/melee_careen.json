@@ -1,0 +1,21 @@
+{
+  "id": "6939d5e3d6a357b81964f867",
+  "slug": "melee_careen",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/FreezeEnemiesOnRoll",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Melee Careen",
+      "description": "x2.50 Melee Damage against Frozen enemies. On Roll: Freeze enemies in a 5.5m radius with a 2s Cooldown.",
+      "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+      "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+    }
+  }
+}

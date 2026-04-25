@@ -1,0 +1,24 @@
+{
+  "id": "5f498a279426ed00443bd0e1",
+  "slug": "iatric_mycelium",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorHealingSporesPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "vizier_predasite"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Iatric Mycelium",
+      "description": "Release a trail of spores every 8s that heal the companion and its allies for 300 health over 5s.",
+      "wikiLink": "https://wiki.warframe.com/w/Iatric_Mycelium",
+      "icon": "items/images/en/iatric_mycelium.154575404e841baeacd33f04fe918d5b.png",
+      "thumb": "items/images/en/thumbs/iatric_mycelium.154575404e841baeacd33f04fe918d5b.128x128.png"
+    }
+  }
+}

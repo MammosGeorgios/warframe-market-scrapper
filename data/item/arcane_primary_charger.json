@@ -1,0 +1,23 @@
+{
+  "id": "5d8765de7ea27b08950c13bf",
+  "slug": "arcane_primary_charger",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDmgOnMeleeKill",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Primary Charger",
+      "description": "On Melee Kill:\n30% chance for +300% Primary Weapon Damage for 12s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Primary_Charger",
+      "icon": "items/images/en/arcane_primary_charger.bedeb0f2ceb9e91f99f682b990c09648.png",
+      "thumb": "items/images/en/thumbs/arcane_primary_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+    }
+  }
+}

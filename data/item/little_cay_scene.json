@@ -1,0 +1,19 @@
+{
+  "id": "64c3a3a26645670594f57a5e",
+  "slug": "little_cay_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapD",
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Little Cay Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/little_cay_scene.5be4bd563aae1193b7b718a466a99df3.png",
+      "thumb": "items/images/en/thumbs/little_cay_scene.5be4bd563aae1193b7b718a466a99df3.128x128.png"
+    }
+  }
+}

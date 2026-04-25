@@ -1,0 +1,24 @@
+{
+  "id": "657af5ab21646e595134f5bc",
+  "slug": "volatile_variant",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveSporothrixAugmentMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "sporothrix"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Volatile Variant",
+      "description": "Shots have +3 Punch Through and barbs explode instantly. Barbs that strike enemies directly have +4m radius and +50% Status Chance.",
+      "wikiLink": "https://wiki.warframe.com/w/Volatile_Variant",
+      "icon": "items/images/en/volatile_variant.01acbb670c98848711986f18f1c6fb4a.png",
+      "thumb": "items/images/en/thumbs/volatile_variant.01acbb670c98848711986f18f1c6fb4a.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "57c20990022d3f62c0d81aa8",
+  "slug": "safeguard",
+  "gameRef": "/Lotus/Powersuits/Nezha/NezhaSashAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "nezha",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Safeguard",
+      "description": "Warding Halo Augment: Can now be cast on allies with 50% effectiveness.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Safeguard",
+      "icon": "items/images/en/safeguard.636dc23f7f989e63a549c926a64efee6.png",
+      "thumb": "items/images/en/thumbs/safeguard.636dc23f7f989e63a549c926a64efee6.128x128.png"
+    }
+  }
+}

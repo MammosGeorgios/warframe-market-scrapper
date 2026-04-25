@@ -1,0 +1,25 @@
+{
+  "id": "54e644ffe779897594fa68d1",
+  "slug": "jet_stream",
+  "gameRef": "/Lotus/Powersuits/Tengu/TurbulenceAugmentCard",
+  "tags": [
+    "mod",
+    "zephyr",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Jet Stream",
+      "description": "Turbulence Augment: Turbulence increases Movement Speed by 40% and Projectile Speed by 100% for Zephyr and her allies.",
+      "wikiLink": "https://wiki.warframe.com/w/Jet_Stream",
+      "icon": "items/images/en/jet_stream.1c4a9461dc1fddf7d9123314cb0d2d9c.png",
+      "thumb": "items/images/en/thumbs/jet_stream.1c4a9461dc1fddf7d9123314cb0d2d9c.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5eb5e49c04d55c04e80d6a82",
+  "slug": "primed_cleanse_corpus",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageCorpusExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Cleanse Corpus",
+      "description": "x1.55 Damage to Corpus",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Cleanse_Corpus",
+      "icon": "items/images/en/primed_cleanse_corpus.664f038307f6f3c9b8fedf14bc76896b.png",
+      "thumb": "items/images/en/thumbs/primed_cleanse_corpus.664f038307f6f3c9b8fedf14bc76896b.128x128.png"
+    }
+  }
+}

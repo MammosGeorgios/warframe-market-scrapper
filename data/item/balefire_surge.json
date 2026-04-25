@@ -1,0 +1,25 @@
+{
+  "id": "5e4145907b0275011bc5b7ce",
+  "slug": "balefire_surge",
+  "gameRef": "/Lotus/Powersuits/IronFrame/IronFrameBlastAugmentCard",
+  "tags": [
+    "hildryn",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Balefire Surge",
+      "description": "Balefire Augment: Fully charged direct hits restore 250 Shield to Hildryn. Impact with Nullifier Shields will destroy them and restore 750 Shield.",
+      "wikiLink": "https://wiki.warframe.com/w/Balefire_Surge",
+      "icon": "items/images/en/balefire_surge.494748c2c7a6859593d8438f3522e8b5.png",
+      "thumb": "items/images/en/thumbs/balefire_surge.494748c2c7a6859593d8438f3522e8b5.128x128.png"
+    }
+  }
+}

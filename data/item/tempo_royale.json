@@ -1,0 +1,24 @@
+{
+  "id": "5526aec0e779896af941825d",
+  "slug": "tempo_royale",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/AxeCmbThreeMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "heavy_blade"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tempo Royale",
+      "description": "Sweeping strikes and twisting slashes.",
+      "wikiLink": "https://wiki.warframe.com/w/Tempo_Royale",
+      "icon": "items/images/en/tempo_royale.95f226f35e283f4db130fb8eaf232f5c.png",
+      "thumb": "items/images/en/thumbs/tempo_royale.95f226f35e283f4db130fb8eaf232f5c.128x128.png"
+    }
+  }
+}

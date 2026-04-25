@@ -1,0 +1,26 @@
+{
+  "id": "58701655937cde2c9d378ac2",
+  "slug": "shotgun_riven_mod_(veiled)",
+  "gameRef": "/Lotus/Upgrades/Mods/Randomized/LotusShotgunRandomModRare",
+  "tags": [
+    "mod",
+    "riven_mod",
+    "common",
+    "veiled_riven"
+  ],
+  "rarity": "common",
+  "subtypes": [
+    "unrevealed",
+    "revealed"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shotgun Riven Mod (Veiled)",
+      "wikiLink": "https://warframe.fandom.com/wiki/Shotgun_Riven_Mod",
+      "icon": "items/images/en/shotgun_riven_mod_(veiled).efa7515ed4b28b90fcde3b230701034b.png",
+      "thumb": "items/images/en/thumbs/shotgun_riven_mod_(veiled).efa7515ed4b28b90fcde3b230701034b.128x128.png"
+    }
+  }
+}

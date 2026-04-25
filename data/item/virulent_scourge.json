@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515672",
+  "slug": "virulent_scourge",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/DualStat/PoisonEventMeleeMod",
+  "tags": [
+    "mod",
+    "melee",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Virulent Scourge",
+      "description": "+60% Toxin\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Virulent_Scourge",
+      "icon": "items/images/en/virulent_scourge.8f1ae337bfdc14e2ff7ceade522842a5.png",
+      "thumb": "items/images/en/thumbs/virulent_scourge.8f1ae337bfdc14e2ff7ceade522842a5.128x128.png"
+    }
+  }
+}

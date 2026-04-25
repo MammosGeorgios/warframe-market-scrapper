@@ -1,0 +1,24 @@
+{
+  "id": "55c15459e779895dd6f10f59",
+  "slug": "covert_lethality",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeStealthLethalMod",
+  "tags": [
+    "mod",
+    "daggers",
+    "rare",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Covert Lethality",
+      "description": "+16 Initial Combo\n+100% Finisher Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Covert_Lethality",
+      "icon": "items/images/en/covert_lethality.bdddef2fb5c4e8f763467ee054206363.png",
+      "thumb": "items/images/en/thumbs/covert_lethality.bdddef2fb5c4e8f763467ee054206363.128x128.png"
+    }
+  }
+}

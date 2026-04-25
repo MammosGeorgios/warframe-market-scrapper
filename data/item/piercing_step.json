@@ -1,0 +1,23 @@
+{
+  "id": "55c153e0e779895d97f9cca1",
+  "slug": "piercing_step",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/PunctureParkourTwoMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Piercing Step",
+      "description": "+18% to Parkour Velocity\n+18% Aim Glide/Wall Latch Duration\n+60% Puncture on Bullet Jump",
+      "wikiLink": "https://wiki.warframe.com/w/Piercing_Step",
+      "icon": "items/images/en/piercing_step.8db8fa869c05b3c7e14beadeb14719b5.png",
+      "thumb": "items/images/en/thumbs/piercing_step.8db8fa869c05b3c7e14beadeb14719b5.128x128.png"
+    }
+  }
+}

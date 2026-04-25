@@ -1,0 +1,19 @@
+{
+  "id": "598b06b4ab6b61be6fec0fb6",
+  "slug": "vay_hek_frequency_triangulator",
+  "gameRef": "",
+  "tags": [
+    "triangulator",
+    "collectible"
+  ],
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vay Hek Frequency Triangulator",
+      "description": "Vay Hek Frequency Triangulator was a key item crafted with Beacons found from Prosecutors on Ceres Grineer Shipyard tileset. The blueprint could have been purchased on the market.This key used to be the only way players can attain access to Councilor Vay Hek's assassination node until Update 15.13, with the access requirement replaced by simply having a Mastery Rank of 5. This item currently serves no purpose, along with the Beacons that make it.",
+      "wikiLink": "https://wiki.warframe.com/w/Vay_Hek_Frequency_Triangulator",
+      "icon": "items/images/en/vay_hek_frequency_triangulator.525164bf6dc3fccdfcfaa2ffff40da58.webp",
+      "thumb": "items/images/en/thumbs/vay_hek_frequency_triangulator.525164bf6dc3fccdfcfaa2ffff40da58.128x128.webp"
+    }
+  }
+}

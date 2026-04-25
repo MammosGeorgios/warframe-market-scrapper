@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155a5",
+  "slug": "reflex_guard",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarAutoParryMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reflex Guard",
+      "description": "+100% Combo Count Chance while Blocking",
+      "wikiLink": "https://warframe.fandom.com/wiki/Reflex_Guard",
+      "icon": "items/images/en/reflex_guard.7a91e475cacab58e90f69c62776b6251.png",
+      "thumb": "items/images/en/thumbs/reflex_guard.7a91e475cacab58e90f69c62776b6251.128x128.png"
+    }
+  }
+}

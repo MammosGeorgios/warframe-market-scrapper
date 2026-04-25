@@ -1,0 +1,19 @@
+{
+  "id": "56463b04b66f83585da94c6a",
+  "slug": "corpus_void_key",
+  "gameRef": "",
+  "tags": [
+    "void key",
+    "key"
+  ],
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Corpus Void Key",
+      "description": "Corpus Void Key is a special key only available during the Arid Fear Event. When used it will start a special Orokin Void mission taking place on a Corpus Ship. It serves no purpose beyond that event.",
+      "wikiLink": "https://wiki.warframe.com/w/Corpus_Void_Key",
+      "icon": "items/images/en/corpus_void_key.ab1bad7c5670206fa7e612257aef57c6.webp",
+      "thumb": "items/images/en/thumbs/corpus_void_key.ab1bad7c5670206fa7e612257aef57c6.128x128.webp"
+    }
+  }
+}

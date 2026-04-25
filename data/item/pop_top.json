@@ -1,0 +1,23 @@
+{
+  "id": "5c1bda1214a8e4006b1dad7b",
+  "slug": "pop_top",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBJumpChargeTimeMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "k_drive"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pop Top",
+      "description": "-60% Jump Charge Time",
+      "wikiLink": "https://wiki.warframe.com/w/Pop_Top",
+      "icon": "items/images/en/pop_top.748ef9b56b1a435fb85cee865927f543.png",
+      "thumb": "items/images/en/thumbs/pop_top.748ef9b56b1a435fb85cee865927f543.128x128.png"
+    }
+  }
+}

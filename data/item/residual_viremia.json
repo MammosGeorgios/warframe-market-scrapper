@@ -1,0 +1,23 @@
+{
+  "id": "5fb84768c34da3004797d54e",
+  "slug": "residual_viremia",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ToxicBloodOnKill",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Residual Viremia",
+      "description": "On Kitgun Kill:\n20% chance to create pool of toxic blood for 12s, dealing 40 Toxin Damage/s. Standing in the area applies the Toxin Damage to Theorem Arcanes.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Residual_Viremia",
+      "icon": "items/images/en/residual_viremia.e6aabdd66ee9c050d79913a2b0eee1d2.png",
+      "thumb": "items/images/en/thumbs/residual_viremia.e6aabdd66ee9c050d79913a2b0eee1d2.128x128.png"
+    }
+  }
+}

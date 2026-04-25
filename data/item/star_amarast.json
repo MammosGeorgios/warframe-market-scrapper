@@ -1,0 +1,20 @@
+{
+  "id": "5be5f5a43ffcc7038857f12b",
+  "slug": "star_amarast",
+  "gameRef": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
+  "tags": [
+    "gem"
+  ],
+  "bulkTradable": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Star Amarast",
+      "description": "Polished and cut to perfection. Blueprint sold by Smokefinger in Fortuna on Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Star_Amarast",
+      "icon": "items/images/en/star_amarast.ca85eb3d49ec07b1209b869e21aabe8f.png",
+      "thumb": "items/images/en/thumbs/star_amarast.ca85eb3d49ec07b1209b869e21aabe8f.128x128.png"
+    }
+  }
+}

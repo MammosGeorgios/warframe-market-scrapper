@@ -1,0 +1,25 @@
+{
+  "id": "6054de7a5221e30057501081",
+  "slug": "khut_khut",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Khut-Khut",
+      "description": "A poisonous fish protected by a hardened carapace around its skull.",
+      "wikiLink": "https://wiki.warframe.com/w/Khut-khut",
+      "icon": "items/images/en/khut_khut.9a217476a6d8b76b5ef03a4d281ce504.png",
+      "thumb": "items/images/en/thumbs/khut_khut.9a217476a6d8b76b5ef03a4d281ce504.128x128.png"
+    }
+  }
+}

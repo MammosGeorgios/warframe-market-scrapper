@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e51569e",
+  "slug": "retribution",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarRevengeDamageMelee",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Retribution",
+      "description": "+60% Chance to deal Electrical Damage when shield struck by melee enemies.\n+80 Electricity",
+      "wikiLink": "https://wiki.warframe.com/w/Retribution",
+      "icon": "items/images/en/retribution.2830651404639a9119f19d51d8454de2.png",
+      "thumb": "items/images/en/thumbs/retribution.2830651404639a9119f19d51d8454de2.128x128.png"
+    }
+  }
+}

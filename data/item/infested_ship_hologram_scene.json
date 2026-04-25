@@ -1,0 +1,19 @@
+{
+  "id": "6089662bea93740269271785",
+  "slug": "infested_ship_hologram_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileInfestedPurify02Objective",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Infested Ship Hologram Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/infested_ship_hologram_scene.6e1e70f34ce8a45ce62184743519bfc8.png",
+      "thumb": "items/images/en/thumbs/infested_ship_hologram_scene.6e1e70f34ce8a45ce62184743519bfc8.128x128.png"
+    }
+  }
+}

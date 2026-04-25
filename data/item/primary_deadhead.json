@@ -1,0 +1,23 @@
+{
+  "id": "60e70f80479445008f2725a4",
+  "slug": "primary_deadhead",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnNoMelee",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primary Deadhead",
+      "description": "On Headshot Kill:\n+120% Damage for 24s. Stacks up to 3x.\n+30% to Headshot Multiplier\n-50% Weapon Recoil\n+30% to Headshot Multiplier\n-50% Weapon Recoil",
+      "wikiLink": "https://warframe.fandom.com/wiki/Primary_Deadhead",
+      "icon": "items/images/en/primary_deadhead.75738d3c111067da8e673bf8000a6710.png",
+      "thumb": "items/images/en/thumbs/primary_deadhead.75738d3c111067da8e673bf8000a6710.128x128.png"
+    }
+  }
+}

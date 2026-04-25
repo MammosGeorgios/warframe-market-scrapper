@@ -1,0 +1,25 @@
+{
+  "id": "65d6509d453a14fbc68e273a",
+  "slug": "critical_meltdown",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventRadiationCritChanceMeleeMod",
+  "tags": [
+    "archwing",
+    "rare",
+    "mod",
+    "melee",
+    "archmelee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Critical Meltdown",
+      "description": "+60% Radiation\n+60% Critical Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Critical_Meltdown",
+      "icon": "items/images/en/critical_meltdown.72a28e4a4d2a225cf6e1915e469172b0.png",
+      "thumb": "items/images/en/thumbs/critical_meltdown.72a28e4a4d2a225cf6e1915e469172b0.128x128.png"
+    }
+  }
+}

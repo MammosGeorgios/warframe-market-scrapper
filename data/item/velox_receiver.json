@@ -1,0 +1,29 @@
+{
+  "id": "5ee76f4c04d55c0a81972436",
+  "slug": "velox_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ProteaSMGReceiver",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5ee76f4b04d55c0a81972433",
+    "5ee76f4c04d55c0a81972436",
+    "5ee76f4d04d55c0a8197243d"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Velox Receiver",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Velox",
+      "icon": "items/images/en/velox_receiver.8d807d2b4f5eddf0d1b17e52adc717ac.png",
+      "thumb": "items/images/en/thumbs/velox_receiver.8d807d2b4f5eddf0d1b17e52adc717ac.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

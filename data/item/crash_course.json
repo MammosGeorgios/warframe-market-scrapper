@@ -1,0 +1,24 @@
+{
+  "id": "554d3c0ce7798942793d7e89",
+  "slug": "crash_course",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponEventRifleImpactDamageMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Crash Course",
+      "description": "+120% Impact",
+      "wikiLink": "https://wiki.warframe.com/w/Crash_Course",
+      "icon": "items/images/en/crash_course.6b28b12cf6104d819bb76cc562c8d7c5.png",
+      "thumb": "items/images/en/thumbs/crash_course.6b28b12cf6104d819bb76cc562c8d7c5.128x128.png"
+    }
+  }
+}

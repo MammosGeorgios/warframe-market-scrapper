@@ -1,0 +1,23 @@
+{
+  "id": "63229386dd457f0096113c45",
+  "slug": "archon_stretch",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/Kahl/KahlAvatarAbilityRangeMod",
+  "tags": [
+    "mod",
+    "archon",
+    "warframe"
+  ],
+  "rarity": "archon",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Archon Stretch",
+      "description": "+45% Ability Range\nAbilities that deal Electricity Damage restore +2 Energy/s over 5s.",
+      "wikiLink": "https://wiki.warframe.com/w/Archon_Stretch",
+      "icon": "items/images/en/archon_stretch.48c4b9cd7bc02dbe17433b176db0e5b2.png",
+      "thumb": "items/images/en/thumbs/archon_stretch.48c4b9cd7bc02dbe17433b176db0e5b2.128x128.png"
+    }
+  }
+}

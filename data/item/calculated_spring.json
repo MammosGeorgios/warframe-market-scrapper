@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4cd",
+  "slug": "calculated_spring",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreHealthLessBulletJumpMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Calculated Spring",
+      "description": "-10% Mobility\n+25% Health",
+      "wikiLink": "https://wiki.warframe.com/w/Calculated_Spring",
+      "icon": "items/images/en/calculated_spring.1b3e0f95557bd75066cd2801840dbe64.png",
+      "thumb": "items/images/en/thumbs/calculated_spring.1b3e0f95557bd75066cd2801840dbe64.128x128.png"
+    }
+  }
+}

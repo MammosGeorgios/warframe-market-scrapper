@@ -1,0 +1,23 @@
+{
+  "id": "5ce7fd86d23a3b00908c4208",
+  "slug": "aero_periphery",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Hawk/HawkModC",
+  "tags": [
+    "common",
+    "mod",
+    "primary"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Aero Periphery",
+      "description": "-50% Zoom while Aim Gliding",
+      "wikiLink": "https://wiki.warframe.com/w/Aero_Periphery",
+      "icon": "items/images/en/aero_periphery.280ffce82d790195fc27db52948715c4.png",
+      "thumb": "items/images/en/thumbs/aero_periphery.280ffce82d790195fc27db52948715c4.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "667237748ba7c81b70d02ca2",
+  "slug": "grineer_asteroid_simulacrum",
+  "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileGrineerBossRoom",
+  "tags": [
+    "simulacrum"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Grineer Asteroid Simulacrum",
+      "description": "Step into your opponent's territory to devise a strategy for their defeat. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+      "icon": "items/images/en/grineer_asteroid_simulacrum.046fd5cfa19b660727fda451b76c2063.webp",
+      "thumb": "items/images/en/thumbs/grineer_asteroid_simulacrum.046fd5cfa19b660727fda451b76c2063.128x128.webp"
+    }
+  }
+}

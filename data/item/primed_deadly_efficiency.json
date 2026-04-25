@@ -1,0 +1,25 @@
+{
+  "id": "66912e8259acb6bf03ebc342",
+  "slug": "primed_deadly_efficiency",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/PrimedArchwingDamageOnReloadMod",
+  "tags": [
+    "primary",
+    "mod",
+    "legendary",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Deadly Efficiency",
+      "description": "On Reload From Empty:\n+220% Damage for 17s",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Deadly_Efficiency",
+      "icon": "items/images/en/primed_deadly_efficiency.6c4ef2232a90ec25f8c82a40602a21eb.webp",
+      "thumb": "items/images/en/thumbs/primed_deadly_efficiency.6c4ef2232a90ec25f8c82a40602a21eb.128x128.webp"
+    }
+  }
+}

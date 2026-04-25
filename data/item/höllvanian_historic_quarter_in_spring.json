@@ -1,0 +1,18 @@
+{
+  "id": "675c61737b18977f6e645406",
+  "slug": "höllvanian_historic_quarter_in_spring",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetOgres",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Höllvanian Historic Quarter In Spring Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/höllvanian_historic_quarter_in_spring.7c3d1b41bbf2b0ec06f0cd48f2f83206.webp",
+      "thumb": "items/images/en/thumbs/höllvanian_historic_quarter_in_spring.7c3d1b41bbf2b0ec06f0cd48f2f83206.128x128.webp"
+    }
+  }
+}

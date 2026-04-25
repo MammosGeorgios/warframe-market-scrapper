@@ -1,0 +1,23 @@
+{
+  "id": "6056347f90a69e004e862873",
+  "slug": "fortifying_fire",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Engineering/LavanShieldOnCrit",
+  "tags": [
+    "mod",
+    "rare",
+    "railjack"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fortifying Fire",
+      "description": "ON CRITICAL HIT:\nReplenish 4.5% of Shields",
+      "wikiLink": "https://wiki.warframe.com/w/Fortifying_Fire",
+      "icon": "items/images/en/fortifying_fire.7646e3be1f427b918676c9ecac9fa23a.png",
+      "thumb": "items/images/en/thumbs/fortifying_fire.7646e3be1f427b918676c9ecac9fa23a.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "577010aec79e68a7a8038fba",
+  "slug": "silent_battery",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/WeaponNoiseReductionMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Silent Battery",
+      "description": "Reduces the chance an enemy will hear gunfire by 100%.",
+      "wikiLink": "https://wiki.warframe.com/w/Silent_Battery",
+      "icon": "items/images/en/silent_battery.ada38cfce270e47d0cb77789c016bf97.png",
+      "thumb": "items/images/en/thumbs/silent_battery.ada38cfce270e47d0cb77789c016bf97.128x128.png"
+    }
+  }
+}

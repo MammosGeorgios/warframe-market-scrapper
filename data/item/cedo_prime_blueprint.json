@@ -1,0 +1,34 @@
+{
+  "id": "67acd8fb125398d92c8bb4e0",
+  "slug": "cedo_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/CedoPrimeBlueprint",
+  "tags": [
+    "primary",
+    "weapon",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67acd8fd125398d92c8bb4e2",
+    "67acd8fb125398d92c8bb4e0",
+    "67acd8fc125398d92c8bb4e1",
+    "67acd8fa125398d92c8bb4df",
+    "67acd8fd125398d92c8bb4e3"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 15,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cedo Prime Blueprint",
+      "description": "A golden shotgun, forged for those who deliver judgment.",
+      "wikiLink": "https://wiki.warframe.com/w/Cedo_Prime",
+      "icon": "items/images/en/cedo_prime_blueprint.0c958533f82b78967afb8394ec7c9af9.webp",
+      "thumb": "items/images/en/thumbs/cedo_prime_blueprint.0c958533f82b78967afb8394ec7c9af9.128x128.webp",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

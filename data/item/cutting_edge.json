@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155d9",
+  "slug": "cutting_edge",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeDamageMod",
+  "tags": [
+    "uncommon",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 10,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cutting Edge",
+      "description": "+110% Melee Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Cutting_Edge",
+      "icon": "items/images/en/cutting_edge.757405ee47cf3e77d647d18202d1bc99.png",
+      "thumb": "items/images/en/thumbs/cutting_edge.757405ee47cf3e77d647d18202d1bc99.128x128.png"
+    }
+  }
+}

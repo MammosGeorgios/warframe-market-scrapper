@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e101456970316674a01",
+  "slug": "flow_burn",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Tactical/CrewShipAfterBurnersAbilityCard",
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 10,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Flow Burn",
+      "description": "+38% Speed and Boost Speed for 13s\nCooldown: 240s",
+      "wikiLink": "https://wiki.warframe.com/w/Flow_Burn",
+      "icon": "items/images/en/flow_burn.8fb937bc22af398d6629f02b6c486d85.png",
+      "thumb": "items/images/en/thumbs/flow_burn.8fb937bc22af398d6629f02b6c486d85.128x128.png"
+    }
+  }
+}

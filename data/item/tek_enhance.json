@@ -1,0 +1,23 @@
+{
+  "id": "5be4b0a53ffcc703294e76b4",
+  "slug": "tek_enhance",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Tek/KavatTekEnhanceMod",
+  "tags": [
+    "mod",
+    "kavat",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tek Enhance",
+      "description": "+30% Kavat Ability Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Tek_Enhance",
+      "icon": "items/images/en/tek_enhance.f817cce36b12300067e82981dc56eeb1.png",
+      "thumb": "items/images/en/thumbs/tek_enhance.f817cce36b12300067e82981dc56eeb1.128x128.png"
+    }
+  }
+}

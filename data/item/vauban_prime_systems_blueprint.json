@@ -1,0 +1,34 @@
+{
+  "id": "573d0efa336297b2dfca2909",
+  "slug": "vauban_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/VaubanPrimeSystemsBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "573b7fbd0ec44a47787a690d",
+    "573b7fc20ec44a47787a690e",
+    "573b7fc80ec44a47787a690f",
+    "573b7fcc0ec44a47787a6910",
+    "573d0efa336297b2dfca2909"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vauban Prime Systems Blueprint",
+      "description": "Systems component of the Vauban Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Vauban_Prime",
+      "icon": "items/images/en/vauban_prime_systems.9c15bb47d3ed4ed8e960c2502fac82f2.png",
+      "thumb": "items/images/en/thumbs/vauban_prime_systems.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

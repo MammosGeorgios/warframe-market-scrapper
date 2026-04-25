@@ -1,0 +1,23 @@
+{
+  "id": "55c153cce779895d862007bf",
+  "slug": "toxic_flight",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/ToxinParkourTwoMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Toxic Flight",
+      "description": "+24.2% to Parkour Velocity\n+24.2% Aim Glide/Wall Latch Duration\n+275% Toxin on Bullet Jump",
+      "wikiLink": "https://wiki.warframe.com/w/Toxic_Flight",
+      "icon": "items/images/en/toxic_flight.9b2fd1198b495d9f43becea4d2ed0310.png",
+      "thumb": "items/images/en/thumbs/toxic_flight.9b2fd1198b495d9f43becea4d2ed0310.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6939b7055d9ebda239125d3f",
+  "slug": "meso_y1_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeD",
+  "tags": [
+    "meso",
+    "relic"
+  ],
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Meso Y1 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/meso_y1_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "thumb": "items/images/en/thumbs/meso_y1_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "582b0f850af25410b099f7f8",
+  "slug": "velocitus_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun",
+  "tags": [
+    "weapon",
+    "set",
+    "primary",
+    "archwing"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "582b0f850af25410b099f7f8",
+    "5783beebd9b6753790c89e88",
+    "5783bf0ad9b6753790c89e89",
+    "5783bf10d9b6753790c89e8a"
+  ],
+  "reqMasteryRank": 0,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Velocitus Set",
+      "description": "When fully charged, the magnetized barrel of the Velocitus accelerates a metal slug to tremendous speeds, piercing hulls and obliterating armor.",
+      "wikiLink": "https://wiki.warframe.com/w/Velocitus",
+      "icon": "items/images/en/velocitus_set.0e2289bd3cc8bba9a0393d1fad061ab6.png",
+      "thumb": "items/images/en/thumbs/velocitus_set.0e2289bd3cc8bba9a0393d1fad061ab6.128x128.png"
+    }
+  }
+}

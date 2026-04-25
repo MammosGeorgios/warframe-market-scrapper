@@ -1,0 +1,32 @@
+{
+  "id": "56783f24cbfa8f0432dd8991",
+  "slug": "boar_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Shotgun/PrimeBoar",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "primary"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff2a",
+    "54a73e65e779893a797fff2b",
+    "54a73e65e779893a797fff2c",
+    "56783f24cbfa8f0432dd8991",
+    "54a73e65e779893a797fff2d"
+  ],
+  "ducats": 175,
+  "reqMasteryRank": 11,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Boar Prime Set",
+      "description": "One of the finest examples of Tenno craftsmanship, the Boar Prime offers a higher Fire Rate, Magazine Capacity and a much higher per-shot damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Boar_Prime",
+      "icon": "items/images/en/boar_prime_set.5e8a5ba1520169c7a99c738624328d26.png",
+      "thumb": "items/images/en/thumbs/boar_prime_set.5e8a5ba1520169c7a99c738624328d26.128x128.png"
+    }
+  }
+}

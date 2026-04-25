@@ -1,0 +1,23 @@
+{
+  "id": "566759c8db7c7a568a8d45c4",
+  "slug": "agility_drift",
+  "gameRef": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModAgility",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Agility Drift",
+      "description": "Reduced damage by 12% while airborne\n-6% Enemy Accuracy when targeting Warframe",
+      "wikiLink": "https://wiki.warframe.com/w/Agility_Drift",
+      "icon": "items/images/en/agility_drift.b2bb6cdbb38b3b7531de8b626a7805c6.png",
+      "thumb": "items/images/en/thumbs/agility_drift.b2bb6cdbb38b3b7531de8b626a7805c6.128x128.png"
+    }
+  }
+}

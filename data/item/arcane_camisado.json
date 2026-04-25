@@ -1,0 +1,22 @@
+{
+  "id": "675c5ed17b18977f6e6453f2",
+  "slug": "arcane_camisado",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthOnSummonAttack",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Camisado",
+      "description": "Attacks from summoned minions increase Ability Strength by 6% up to 60% on the next Ability Cast. Summons gain 20% Movement Speed.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Camisado",
+      "icon": "items/images/en/arcane_camisado.49bb15acacdfe7a2782b56151d0a8a3f.webp",
+      "thumb": "items/images/en/thumbs/arcane_camisado.49bb15acacdfe7a2782b56151d0a8a3f.128x128.webp"
+    }
+  }
+}

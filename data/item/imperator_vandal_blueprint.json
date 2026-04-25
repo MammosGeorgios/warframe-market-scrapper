@@ -1,0 +1,32 @@
+{
+  "id": "5740c1679d238d4a03d28514",
+  "slug": "imperator_vandal_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/ImperatorVandalBlueprint",
+  "tags": [
+    "weapon",
+    "primary",
+    "archwing",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5740c16d9d238d4a03d28515",
+    "5740c1679d238d4a03d28514",
+    "5740c1769d238d4a03d28516",
+    "5740c17f9d238d4a03d28517"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Imperator Vandal Blueprint",
+      "description": "The Imperator Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the barrel.",
+      "wikiLink": "https://wiki.warframe.com/w/Imperator_Vandal",
+      "icon": "items/images/en/imperator_vandal_blueprint.a7802d291f16f9dcd97afb2e69c879b6.png",
+      "thumb": "items/images/en/thumbs/imperator_vandal_blueprint.a7802d291f16f9dcd97afb2e69c879b6.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

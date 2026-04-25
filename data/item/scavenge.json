@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155b0",
+  "slug": "scavenge",
+  "gameRef": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowThiefPrecept",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "beast"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Scavenge",
+      "description": "+90% chance for the pet to pry open a locked locker.",
+      "wikiLink": "https://wiki.warframe.com/w/Scavenge",
+      "icon": "items/images/en/scavenge.e597b9b2f1fbef58407446ed6b39c68a.png",
+      "thumb": "items/images/en/thumbs/scavenge.e597b9b2f1fbef58407446ed6b39c68a.128x128.png"
+    }
+  }
+}

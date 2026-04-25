@@ -1,0 +1,26 @@
+{
+  "id": "67db5f459cec3e52e62523d8",
+  "slug": "lith_s17_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionNidusSarynVaultA",
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lith S17 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/lith_s17_relic.78903ffe750d335f05034144948ad67d.webp",
+      "thumb": "items/images/en/thumbs/lith_s17_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  }
+}

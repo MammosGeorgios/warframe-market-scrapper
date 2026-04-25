@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e1014569703166749f8",
+  "slug": "squad_renew",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Tactical/CrewShipRenewAbilityCard",
+  "tags": [
+    "mod",
+    "rare",
+    "railjack"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Squad Renew",
+      "description": "Heal all Railjack squad members by 100%.\nCooldown: 300s",
+      "wikiLink": "https://wiki.warframe.com/w/Squad_Renew",
+      "icon": "items/images/en/squad_renew.0996bfb3496a13e52b387ad5f062de07.png",
+      "thumb": "items/images/en/thumbs/squad_renew.0996bfb3496a13e52b387ad5f062de07.128x128.png"
+    }
+  }
+}

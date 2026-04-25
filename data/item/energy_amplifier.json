@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155b6",
+  "slug": "energy_amplifier",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityRangeMod",
+  "tags": [
+    "mod",
+    "archwing",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Energy Amplifier",
+      "description": "+60% Ability Range",
+      "wikiLink": "https://wiki.warframe.com/w/Energy_Amplifier",
+      "icon": "items/images/en/energy_amplifier.0c629d8c3ce1edff377a8760c90741f1.png",
+      "thumb": "items/images/en/thumbs/energy_amplifier.0c629d8c3ce1edff377a8760c90741f1.128x128.png"
+    }
+  }
+}

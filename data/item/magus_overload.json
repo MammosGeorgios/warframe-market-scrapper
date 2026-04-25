@@ -1,0 +1,23 @@
+{
+  "id": "5c1bda0814a8e4006b1dad63",
+  "slug": "magus_overload",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/RobotStunOnBlast",
+  "tags": [
+    "common",
+    "arcane_enhancement"
+  ],
+  "rarity": "common",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magus Overload",
+      "description": "On Void Sling:\nStun robotic enemies for 3s, which then discharge Electricity Damage dealing 80% of their Max Health to anyone within 25m.",
+      "wikiLink": "https://wiki.warframe.com/w/Magus_Overload",
+      "icon": "items/images/en/magus_overload.c575b29c15d999083923ee609dcda264.png",
+      "thumb": "items/images/en/thumbs/magus_overload.c575b29c15d999083923ee609dcda264.128x128.png"
+    }
+  }
+}

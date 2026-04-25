@@ -1,0 +1,32 @@
+{
+  "id": "5e839493267539077b0dd6a4",
+  "slug": "pangolin_prime_handle",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PangolinPrimeHandle",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5e839494267539077b0dd6ba",
+    "5e839494267539077b0dd6a9",
+    "5e839493267539077b0dd6a4",
+    "5e839495267539077b0dd6c9"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pangolin Prime Handle",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Pangolin_Prime",
+      "icon": "items/images/en/pangolin_prime_handle.0b93ac58408417e3f8646ccf1fb5a77e.png",
+      "thumb": "items/images/en/thumbs/pangolin_prime_handle.0b93ac58408417e3f8646ccf1fb5a77e.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_handle_128x128.png"
+    }
+  }
+}

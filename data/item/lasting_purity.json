@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155b8",
+  "slug": "lasting_purity",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/VulkarMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "rare",
+    "primary",
+    "vulkar"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lasting Purity",
+      "description": "+60% Damage when Aiming\n+1 'Purity'",
+      "wikiLink": "https://wiki.warframe.com/w/Lasting_Purity",
+      "icon": "items/images/en/lasting_purity.702ff6d12dcff064a4b9d24ba344260c.png",
+      "thumb": "items/images/en/thumbs/lasting_purity.702ff6d12dcff064a4b9d24ba344260c.128x128.png"
+    }
+  }
+}

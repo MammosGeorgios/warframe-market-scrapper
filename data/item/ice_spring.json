@@ -1,0 +1,23 @@
+{
+  "id": "55c153c5e779895d82cf1c4f",
+  "slug": "ice_spring",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/IceParkourTwoMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ice Spring",
+      "description": "+24.2% to Parkour Velocity\n+24.2% Aim Glide/Wall Latch Duration\n+275% Cold on Bullet Jump",
+      "wikiLink": "https://wiki.warframe.com/w/Ice_Spring",
+      "icon": "items/images/en/ice_spring.3c7ea2ed708eb1f062c9e571c6183575.png",
+      "thumb": "items/images/en/thumbs/ice_spring.3c7ea2ed708eb1f062c9e571c6183575.128x128.png"
+    }
+  }
+}

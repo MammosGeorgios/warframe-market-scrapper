@@ -1,0 +1,29 @@
+{
+  "id": "67e8c974cedcd0be6d135957",
+  "slug": "efv_8_mars_stock",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasGooPistolPlayerWeaponStock",
+  "tags": [
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67e8c972cedcd0be6d135955",
+    "67e8c973cedcd0be6d135956",
+    "67e8c971cedcd0be6d135954",
+    "67e8c974cedcd0be6d135957"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "EFV-8 Mars Stock",
+      "description": "A weapon-crafting component.",
+      "icon": "items/images/en/efv_8_mars_stock.7ea6d23799085277f1942e054de9f6fd.webp",
+      "thumb": "items/images/en/thumbs/efv_8_mars_stock.7ea6d23799085277f1942e054de9f6fd.128x128.webp",
+      "subIcon": "sub_icons/weapon/generic_stock_128x128.png"
+    }
+  }
+}

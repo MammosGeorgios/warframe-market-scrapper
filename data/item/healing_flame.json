@@ -1,0 +1,25 @@
+{
+  "id": "54e0c9eee7798903744178ae",
+  "slug": "healing_flame",
+  "gameRef": "/Lotus/Powersuits/Ember/FireBlastAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "ember",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Healing Flame",
+      "description": "Fire Blast Augment: Each enemy hit heals by 25 to 50 depending on current Immolation level. With Ember, over healing grants you Overguard.",
+      "wikiLink": "https://wiki.warframe.com/w/Healing_Flame",
+      "icon": "items/images/en/healing_flame.0672e5552e12d348dbc0521e3841c9a1.png",
+      "thumb": "items/images/en/thumbs/healing_flame.0672e5552e12d348dbc0521e3841c9a1.128x128.png"
+    }
+  }
+}

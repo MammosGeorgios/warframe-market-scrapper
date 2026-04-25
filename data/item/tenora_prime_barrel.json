@@ -1,0 +1,32 @@
+{
+  "id": "603621500a372600fd5614d6",
+  "slug": "tenora_prime_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/TenoraPrimeBarrel",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "603621500a372600fd5614d6",
+    "6036214f0a372600fd5614d0",
+    "6036214f0a372600fd5614d1",
+    "6036214f0a372600fd5614d4",
+    "6036214f0a372600fd5614d3"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tenora Prime Barrel",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Tenora_Prime",
+      "icon": "items/images/en/tenora_prime_barrel.cdda299ba3526be64a78df20883fd173.png",
+      "thumb": "items/images/en/thumbs/tenora_prime_barrel.cdda299ba3526be64a78df20883fd173.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
+    }
+  }
+}

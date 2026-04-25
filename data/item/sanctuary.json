@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155d7",
+  "slug": "sanctuary",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/Sanctuary",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "robotic"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sanctuary",
+      "description": "Creates a shield with 1800 Health around the player when they are reviving fallen allies.",
+      "wikiLink": "https://wiki.warframe.com/w/Sanctuary",
+      "icon": "items/images/en/sanctuary.69a5b2425b10b1ee21c9ea5a9a641898.png",
+      "thumb": "items/images/en/thumbs/sanctuary.69a5b2425b10b1ee21c9ea5a9a641898.128x128.png"
+    }
+  }
+}

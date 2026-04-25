@@ -1,0 +1,21 @@
+{
+  "id": "54c686fee7798913eda0615b",
+  "slug": "prisma_gorgon",
+  "gameRef": "/Lotus/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon",
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Gorgon",
+      "description": "Adorned with void hardened prisma crystal, this Gorgon variant is prized for its beauty and enhanced mechanics.",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma_Gorgon",
+      "icon": "items/images/en/prisma_gorgon.3d4fdb4c17592d735ccdad21868d3019.png",
+      "thumb": "items/images/en/thumbs/prisma_gorgon.3d4fdb4c17592d735ccdad21868d3019.128x128.png"
+    }
+  }
+}

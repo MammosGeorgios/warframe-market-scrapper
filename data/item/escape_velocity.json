@@ -1,0 +1,25 @@
+{
+  "id": "5526aec0e779896af941825a",
+  "slug": "escape_velocity",
+  "gameRef": "/Lotus/Powersuits/AntiMatter/WormHoleAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nova",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Escape Velocity",
+      "description": "Worm Hole Augment: Allies that travel through wormhole gain a 50% Speed bonus for 7s.",
+      "wikiLink": "https://wiki.warframe.com/w/Escape_Velocity",
+      "icon": "items/images/en/escape_velocity.dc54d3abdd73262e04e7c0752bbc0980.png",
+      "thumb": "items/images/en/thumbs/escape_velocity.dc54d3abdd73262e04e7c0752bbc0980.128x128.png"
+    }
+  }
+}

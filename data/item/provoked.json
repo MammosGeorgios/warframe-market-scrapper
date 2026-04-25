@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156b4",
+  "slug": "provoked",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarGroundFireDmgMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 10,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Provoked",
+      "description": "+110% Damage during Bleedout",
+      "wikiLink": "https://wiki.warframe.com/w/Provoked",
+      "icon": "items/images/en/provoked.d03668dd7faa355653d8c8b691520299.png",
+      "thumb": "items/images/en/thumbs/provoked.d03668dd7faa355653d8c8b691520299.128x128.png"
+    }
+  }
+}

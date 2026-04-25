@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155eb",
+  "slug": "venom_dose",
+  "gameRef": "/Lotus/Powersuits/Saryn/PoisonAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "saryn",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Venom Dose",
+      "description": "Spores Augment: Hold to cast will grant all allies within 15m an additional 100% Corrosive Damage to their attacks for 40s.",
+      "wikiLink": "https://wiki.warframe.com/w/Venom_Dose",
+      "icon": "items/images/en/venom_dose.9ce559a7511a8c9e070ae118ccdf4d09.png",
+      "thumb": "items/images/en/thumbs/venom_dose.9ce559a7511a8c9e070ae118ccdf4d09.128x128.png"
+    }
+  }
+}

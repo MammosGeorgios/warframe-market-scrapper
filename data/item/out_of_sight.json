@@ -1,0 +1,22 @@
+{
+  "id": "5dbe9b087ea27b0ffe3ca26a",
+  "slug": "out_of_sight",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionBlindMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Out Of Sight",
+      "description": "Blinds enemies within 18m on Mercy Kill",
+      "wikiLink": "https://wiki.warframe.com/w/Out_Of_Sight",
+      "icon": "items/images/en/out_of_sight.5464b7b84606865045dec7b82112fc58.png",
+      "thumb": "items/images/en/thumbs/out_of_sight.5464b7b84606865045dec7b82112fc58.128x128.png"
+    }
+  }
+}

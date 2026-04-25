@@ -1,0 +1,23 @@
+{
+  "id": "59dfeb63115f1d887cfd7abd",
+  "slug": "vigilante_supplies",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteSuppliesMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vigilante Supplies",
+      "description": "Converts Secondary ammo pickups to 30% of Ammo Pick Up.",
+      "wikiLink": "https://wiki.warframe.com/w/Vigilante_Supplies",
+      "icon": "items/images/en/vigilante_supplies.fd5606254df447e665fbda4046b0ebc6.png",
+      "thumb": "items/images/en/thumbs/vigilante_supplies.fd5606254df447e665fbda4046b0ebc6.128x128.png"
+    }
+  }
+}

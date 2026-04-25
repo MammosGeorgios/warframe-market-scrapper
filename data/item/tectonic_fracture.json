@@ -1,0 +1,25 @@
+{
+  "id": "56b656d1ef0390c7e4006381",
+  "slug": "tectonic_fracture",
+  "gameRef": "/Lotus/Powersuits/Brawler/BrawlerBarrierAugmentCard",
+  "tags": [
+    "atlas",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tectonic Fracture",
+      "description": "Tectonics Augment: Create up to 3 walls with 100% Health. Walls can no longer be turned into boulders.",
+      "wikiLink": "https://wiki.warframe.com/w/Tectonic_Fracture",
+      "icon": "items/images/en/tectonic_fracture.7c38025ee84d0e86175625030dd0a712.png",
+      "thumb": "items/images/en/thumbs/tectonic_fracture.7c38025ee84d0e86175625030dd0a712.128x128.png"
+    }
+  }
+}

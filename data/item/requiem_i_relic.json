@@ -1,0 +1,28 @@
+{
+  "id": "6054dd0c5221e30057500f18",
+  "slug": "requiem_i_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalA",
+  "tags": [
+    "relic",
+    "requiem"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Requiem I Relic",
+      "description": "Holds Requiem Mods and other mysteries.",
+      "wikiLink": "https://wiki.warframe.com/w/Requiem_Relic",
+      "icon": "items/images/en/requiem_i_relic.70479db2ff21c243673e2a3caf93d7b9.png",
+      "thumb": "items/images/en/thumbs/requiem_i_relic.70479db2ff21c243673e2a3caf93d7b9.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155ba",
+  "slug": "searing_steel",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventFireStatusMeleeMod",
+  "tags": [
+    "rare",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Searing Steel",
+      "description": "+60% Heat\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Searing_Steel",
+      "icon": "items/images/en/searing_steel.7aa193ba4e202d8f625e091aa243f50d.png",
+      "thumb": "items/images/en/thumbs/searing_steel.7aa193ba4e202d8f625e091aa243f50d.128x128.png"
+    }
+  }
+}

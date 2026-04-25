@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff80",
+  "slug": "frost_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/FrostPrimeBlueprint",
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff80",
+    "54a73e65e779893a797fff7d",
+    "54a73e65e779893a797fff6c",
+    "56783f24cbfa8f0432dd899c",
+    "54a73e65e779893a797fff79"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Frost Prime Blueprint",
+      "description": "Frost Prime has the same chilling abilities as Frost but provides unique mod polarities, allowing for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Frost_Prime",
+      "icon": "items/images/en/frost_prime_blueprint.4f8ff8605be1afaab9a0e5cc3c67cb21.png",
+      "thumb": "items/images/en/thumbs/frost_prime_blueprint.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "673516c6db3ac2cfade14a77",
+  "slug": "trumna_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/TrumnaPrimeBlueprint",
+  "tags": [
+    "primary",
+    "weapon",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "673516c5db3ac2cfade14a76",
+    "673516c7db3ac2cfade14a78",
+    "673516c6db3ac2cfade14a77",
+    "673516c8db3ac2cfade14a79",
+    "673516c9db3ac2cfade14a7a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 15,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Trumna Prime Blueprint",
+      "description": "Sleek lines and golden accents define this masterpiece of the illustrious Entrati family.",
+      "wikiLink": "https://wiki.warframe.com/w/Trumna_Prime",
+      "icon": "items/images/en/trumna_prime_blueprint.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+      "thumb": "items/images/en/thumbs/trumna_prime_blueprint.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4db",
+  "slug": "impenetrable_offense",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Melee/BlockMoreAttackSlowerMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Impenetrable Offense",
+      "description": "+30% Damage Block\n-10% Melee Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Impenetrable_Offense",
+      "icon": "items/images/en/impenetrable_offense.a43c0e997fb41dc6a6699a6e106ad66f.png",
+      "thumb": "items/images/en/thumbs/impenetrable_offense.a43c0e997fb41dc6a6699a6e106ad66f.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "60e70f7e479445008f272597",
+  "slug": "hexis_spurs",
+  "gameRef": "/Lotus/Upgrades/Skins/Armor/ArbiterOfHexisArmor/ArbiterOfHexisArmorL",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60e70f7d479445008f27258a",
+    "60e70f7f479445008f272599",
+    "60e70f7c479445008f272585",
+    "60e70f7e479445008f272597"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hexis Spurs",
+      "description": "An armor set traditionally worn by those entrusted with the duties of Arbitration according to the Precepts of Hexis.",
+      "icon": "items/images/en/hexis_spurs.052d37e05fd10c42e1f684aa4a082c42.png",
+      "thumb": "items/images/en/thumbs/hexis_spurs.052d37e05fd10c42e1f684aa4a082c42.128x128.png"
+    }
+  }
+}

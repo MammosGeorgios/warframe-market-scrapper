@@ -1,0 +1,24 @@
+{
+  "id": "66fd69603a826eccf651cd63",
+  "slug": "protector_posture",
+  "gameRef": "/Lotus/Types/Friendly/Pets/BeastWeapons/Stances/BeastProtectorStance",
+  "tags": [
+    "mod",
+    "common",
+    "stance",
+    "claws"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Protector Posture",
+      "description": "The companion will prioritize attacking enemies within 15m of the Warframe. Attacks inflict +4 Puncture Status Effects",
+      "wikiLink": "https://wiki.warframe.com/w/Protector_Posture",
+      "icon": "items/images/en/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/protector_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

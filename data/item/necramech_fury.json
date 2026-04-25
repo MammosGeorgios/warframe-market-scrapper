@@ -1,0 +1,23 @@
+{
+  "id": "5f4ed3f9d5c36d0086f55b0a",
+  "slug": "necramech_fury",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechMeleeSpeedMod",
+  "tags": [
+    "mod",
+    "common",
+    "necramech"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Fury",
+      "description": "+40% Melee Attack Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Fury",
+      "icon": "items/images/en/necramech_fury.c252bdfdb99cb71ce2dd019c196b95b1.png",
+      "thumb": "items/images/en/thumbs/necramech_fury.c252bdfdb99cb71ce2dd019c196b95b1.128x128.png"
+    }
+  }
+}

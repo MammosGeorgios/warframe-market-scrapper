@@ -1,0 +1,30 @@
+{
+  "id": "67e40054cedcd0be6d13592c",
+  "slug": "riot_848_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/1999EntHybridPistolReceiverBlueprint",
+  "tags": [
+    "weapon",
+    "component",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67e40050cedcd0be6d135929",
+    "67e40053cedcd0be6d13592b",
+    "67e40054cedcd0be6d13592c",
+    "67e40055cedcd0be6d13592d"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Riot-848 Receiver Blueprint",
+      "description": "A weapon-crafting component.",
+      "icon": "items/images/en/riot_848_receiver.c54d97ede8604c85769c4bed9af79a50.webp",
+      "thumb": "items/images/en/thumbs/riot_848_receiver.c54d97ede8604c85769c4bed9af79a50.128x128.webp",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

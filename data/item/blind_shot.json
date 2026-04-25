@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a505",
+  "slug": "blind_shot",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HigherVelocityLessAccuratePistolMod",
+  "tags": [
+    "secondary",
+    "pvp",
+    "rare",
+    "mod",
+    "pistol"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Blind Shot",
+      "description": "+40% Projectile Speed\n-4% Accuracy",
+      "wikiLink": "https://wiki.warframe.com/w/Blind_Shot",
+      "icon": "items/images/en/blind_shot.5d5b866f41a1395ae506007edefbd5d8.png",
+      "thumb": "items/images/en/thumbs/blind_shot.5d5b866f41a1395ae506007edefbd5d8.128x128.png"
+    }
+  }
+}

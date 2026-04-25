@@ -1,0 +1,22 @@
+{
+  "id": "693e69a403903ae8993ffafe",
+  "slug": "metem_hakh",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/HealthAndShieldSchools",
+  "tags": [
+    "mod",
+    "rare",
+    "any"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Metem-Hakh",
+      "description": "+30% Operator Health & Shields\n+15% bonus for each Mod from a unique School",
+      "icon": "items/images/en/metem_hakh.7a92c22e778c4f7e98b7ad6f3f090fd3.webp",
+      "thumb": "items/images/en/thumbs/metem_hakh.7a92c22e778c4f7e98b7ad6f3f090fd3.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156bb",
+  "slug": "self_destruct",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/SentinelExplosionMod",
+  "tags": [
+    "mod",
+    "sentinel",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Self Destruct",
+      "description": "Explodes when incapacitated, dealing 600 Blast Damage in a 18m radius and knocking down nearby enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Self_Destruct",
+      "icon": "items/images/en/self_destruct.bf15bae15156d3194870d9d09d6d211d.png",
+      "thumb": "items/images/en/thumbs/self_destruct.bf15bae15156d3194870d9d09d6d211d.128x128.png"
+    }
+  }
+}

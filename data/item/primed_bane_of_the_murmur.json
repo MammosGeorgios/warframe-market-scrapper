@@ -1,0 +1,23 @@
+{
+  "id": "68cd5ef5e800bed01fa3482e",
+  "slug": "primed_bane_of_the_murmur",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageMurmurs",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Bane Of The Murmur",
+      "description": "x1.55 Damage to Murmur",
+      "icon": "items/images/en/primed_bane_of_the_murmur.5c422ed6c90990253654c35908810795.webp",
+      "thumb": "items/images/en/thumbs/primed_bane_of_the_murmur.5c422ed6c90990253654c35908810795.128x128.webp"
+    }
+  }
+}

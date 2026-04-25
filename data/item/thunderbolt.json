@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51563f",
+  "slug": "thunderbolt",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/BowExplosionChanceMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "bow"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Thunderbolt",
+      "description": "+30% Chance to Explode (Use with Caution)",
+      "wikiLink": "https://wiki.warframe.com/w/Thunderbolt",
+      "icon": "items/images/en/thunderbolt.0603c4ed87ce8ab6ce79a27205d081a4.png",
+      "thumb": "items/images/en/thumbs/thunderbolt.0603c4ed87ce8ab6ce79a27205d081a4.128x128.png"
+    }
+  }
+}

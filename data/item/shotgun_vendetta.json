@@ -1,0 +1,23 @@
+{
+  "id": "644b00227ec1900044b97729",
+  "slug": "shotgun_vendetta",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ShotgunMultishotAndReloadSpeedOnCloseKill",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shotgun Vendetta",
+      "description": "On shotgun kill within 5m of target:\n+180% Multishot and +75% Reload Speed for 15s.",
+      "wikiLink": "https://wiki.warframe.com/w/Shotgun_Vendetta",
+      "icon": "items/images/en/shotgun_vendetta.219b0d47d26345b989decc3a56326c54.png",
+      "thumb": "items/images/en/thumbs/shotgun_vendetta.219b0d47d26345b989decc3a56326c54.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "55c1548fe779895df57fd05d",
+  "slug": "combustion_beam",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponBeamExplodeOnDeath",
+  "tags": [
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Combustion Beam",
+      "description": "Enemies killed explode, dealing 600 Damage shortly after death.",
+      "wikiLink": "https://wiki.warframe.com/w/Combustion_Beam",
+      "icon": "items/images/en/combustion_beam.6f4d35d6c09aa716e3e7b44c2f2d5e81.png",
+      "thumb": "items/images/en/thumbs/combustion_beam.6f4d35d6c09aa716e3e7b44c2f2d5e81.128x128.png"
+    }
+  }
+}

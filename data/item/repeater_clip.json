@@ -1,0 +1,24 @@
+{
+  "id": "56a7b2991133f656cb085d91",
+  "slug": "repeater_clip",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/FireRateWhileAimingShotgunMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Repeater Clip",
+      "description": "On Reload:\n+105% Fire Rate when Aiming for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Repeater_Clip",
+      "icon": "items/images/en/repeater_clip.83e327e168e4c91bc7d9c5ed0fbe1604.png",
+      "thumb": "items/images/en/thumbs/repeater_clip.83e327e168e4c91bc7d9c5ed0fbe1604.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "67acd8fd125398d92c8bb4e3",
+  "slug": "cedo_prime_stock",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/CedoPrimeStock",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67acd8fd125398d92c8bb4e2",
+    "67acd8fb125398d92c8bb4e0",
+    "67acd8fc125398d92c8bb4e1",
+    "67acd8fa125398d92c8bb4df",
+    "67acd8fd125398d92c8bb4e3"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 15,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cedo Prime Stock",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Cedo_Prime",
+      "icon": "items/images/en/cedo_prime_stock.0c958533f82b78967afb8394ec7c9af9.webp",
+      "thumb": "items/images/en/thumbs/cedo_prime_stock.0c958533f82b78967afb8394ec7c9af9.128x128.webp",
+      "subIcon": "sub_icons/weapon/prime_stock_128x128.png"
+    }
+  }
+}

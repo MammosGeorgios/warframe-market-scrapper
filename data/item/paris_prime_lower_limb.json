@@ -1,0 +1,34 @@
+{
+  "id": "54a73e65e779893a797fff54",
+  "slug": "paris_prime_lower_limb",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBowLowerLimb",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff55",
+    "54a73e65e779893a797fff53",
+    "54a73e65e779893a797fff54",
+    "56783f24cbfa8f0432dd89a9",
+    "54a73e65e779893a797fff56",
+    "54a73e65e779893a797fff57"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Paris Prime Lower Limb",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Paris_Prime",
+      "icon": "items/images/en/paris_prime_lower_limb.971f957f8304ce10617836343d47b238.png",
+      "thumb": "items/images/en/thumbs/paris_prime_lower_limb.971f957f8304ce10617836343d47b238.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_limb_128x128.png"
+    }
+  }
+}

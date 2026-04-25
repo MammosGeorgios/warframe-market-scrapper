@@ -1,0 +1,25 @@
+{
+  "id": "56dac5905cc639de0a45c522",
+  "slug": "ward_recovery",
+  "gameRef": "/Lotus/Powersuits/Nezha/NezhaSashPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "nezha",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ward Recovery",
+      "description": "Warding Halo Augment: 50% of the casting cost returned based on how much protection is left.",
+      "wikiLink": "https://wiki.warframe.com/w/Ward_Recovery",
+      "icon": "items/images/en/ward_recovery.a69c640cd181a2e08bd24ce05d4cfdc3.png",
+      "thumb": "items/images/en/thumbs/ward_recovery.a69c640cd181a2e08bd24ce05d4cfdc3.128x128.png"
+    }
+  }
+}

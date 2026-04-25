@@ -1,0 +1,25 @@
+{
+  "id": "5eadc6c604d55c027d23a6e2",
+  "slug": "ballista_measure",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleRangeMod",
+  "tags": [
+    "rare",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ballista Measure",
+      "description": "+20% Range",
+      "wikiLink": "https://wiki.warframe.com/w/Ballista_Measure",
+      "icon": "items/images/en/ballista_measure.87c7898b527e48bb7df8ed0ed3a9925e.png",
+      "thumb": "items/images/en/thumbs/ballista_measure.87c7898b527e48bb7df8ed0ed3a9925e.128x128.png"
+    }
+  }
+}

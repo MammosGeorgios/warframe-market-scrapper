@@ -1,0 +1,18 @@
+{
+  "id": "690148f0f88bae2d5b1f539d",
+  "slug": "the_teacher_ship_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/2025FallUpdate/PhotoboothTheTeacherShip",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "The Teacher Ship Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/the_teacher_ship_scene.a81f9bf19d5bb8bc93f89deae10e7475.webp",
+      "thumb": "items/images/en/thumbs/the_teacher_ship_scene.a81f9bf19d5bb8bc93f89deae10e7475.128x128.webp"
+    }
+  }
+}

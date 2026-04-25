@@ -1,0 +1,24 @@
+{
+  "id": "559dacd3e779897ba8819969",
+  "slug": "animal_instinct",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/SentinelLootRadarEnemyRadarMod",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Animal Instinct",
+      "description": "+30m Loot Radar\n+18m Enemy Radar",
+      "wikiLink": "https://wiki.warframe.com/w/Animal_Instinct",
+      "icon": "items/images/en/animal_instinct.934c4722d6e4f4013aa14bc75a2d84b0.png",
+      "thumb": "items/images/en/thumbs/animal_instinct.934c4722d6e4f4013aa14bc75a2d84b0.128x128.png"
+    }
+  }
+}

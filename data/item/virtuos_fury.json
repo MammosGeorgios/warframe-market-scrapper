@@ -1,0 +1,24 @@
+{
+  "id": "5a04750a6c4655012038ddc6",
+  "slug": "virtuos_fury",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedDamageOnStatusProc",
+  "tags": [
+    "operator",
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Virtuos Fury",
+      "description": "On Status Effect:\n20% chance for +30% Damage for 4s",
+      "wikiLink": "https://wiki.warframe.com/w/Virtuos_Fury",
+      "icon": "items/images/en/virtuos_fury.f71902bf678d290ad03b625dc35834ca.png",
+      "thumb": "items/images/en/thumbs/virtuos_fury.f71902bf678d290ad03b625dc35834ca.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a50e",
+  "slug": "gorgon_frenzy",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterRoFonKillGorgonMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "rare",
+    "mod",
+    "gorgon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gorgon Frenzy",
+      "description": "On Kill:\n+30% Fire Rate for 3s",
+      "wikiLink": "https://wiki.warframe.com/w/Gorgon_Frenzy",
+      "icon": "items/images/en/gorgon_frenzy.0993e71e3c052de71d6bfe993c4076f7.png",
+      "thumb": "items/images/en/thumbs/gorgon_frenzy.0993e71e3c052de71d6bfe993c4076f7.128x128.png"
+    }
+  }
+}

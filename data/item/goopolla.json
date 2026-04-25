@@ -1,0 +1,25 @@
+{
+  "id": "6054de6e5221e3005750107c",
+  "slug": "goopolla",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Goopolla",
+      "description": "A predatory fish that is attracted to the scent of blood.",
+      "wikiLink": "https://wiki.warframe.com/w/Goopolla",
+      "icon": "items/images/en/goopolla.bd04f241b0451d1551fa642a4f7ee5ba.png",
+      "thumb": "items/images/en/thumbs/goopolla.bd04f241b0451d1551fa642a4f7ee5ba.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "58e6407ada6e257f670cf06d",
+  "slug": "ergos_boardroom_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicatePerrin",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ergo's Boardroom Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/ergos_boardroom_scene.1414f03ad87608a82dd1569804e2c2b3.png",
+      "thumb": "items/images/en/thumbs/ergos_boardroom_scene.1414f03ad87608a82dd1569804e2c2b3.128x128.png"
+    }
+  }
+}

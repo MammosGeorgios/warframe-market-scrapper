@@ -1,0 +1,31 @@
+{
+  "id": "60ad4a1bf1904300d012c700",
+  "slug": "volnus_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/PrimeVolnus/VolnusPrimeWeapon",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "60ad4a1cf1904300d012c70c",
+    "60ad4a1bf1904300d012c6f9",
+    "60ad4a1bf1904300d012c6fa",
+    "60ad4a1bf1904300d012c700"
+  ],
+  "ducats": 160,
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Volnus Prime Set",
+      "description": "The glorious original Orokin casting of Gara’s signature glass hammer. Deceptively light and swift, while remaining lethally effective.",
+      "wikiLink": "https://wiki.warframe.com/w/Volnus_Prime",
+      "icon": "items/images/en/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+      "thumb": "items/images/en/thumbs/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png"
+    }
+  }
+}

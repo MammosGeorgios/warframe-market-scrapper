@@ -1,0 +1,22 @@
+{
+  "id": "54aae272e7798975bbba5f07",
+  "slug": "telos_akbolto",
+  "gameRef": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Pistols/AHAkbolto",
+  "tags": [
+    "syndicate",
+    "weapon",
+    "secondary"
+  ],
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Telos Akbolto",
+      "description": "For the Arbiters of Hexis these pistols are more than simple weapons, they are symbols of truth and discipline.",
+      "wikiLink": "https://wiki.warframe.com/w/Telos_Akbolto",
+      "icon": "items/images/en/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.png",
+      "thumb": "items/images/en/thumbs/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.128x128.png"
+    }
+  }
+}

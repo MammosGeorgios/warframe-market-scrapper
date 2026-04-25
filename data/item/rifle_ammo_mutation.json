@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155d1",
+  "slug": "rifle_ammo_mutation",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponRifleConvertAmmoMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "assault_rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rifle Ammo Mutation",
+      "description": "Converts Secondary ammo pickups to 50% of Ammo Pick Up.",
+      "wikiLink": "https://wiki.warframe.com/w/Rifle_Ammo_Mutation",
+      "icon": "items/images/en/rifle_ammo_mutation.ceb8ace4467da7e032915e6330d9cf65.png",
+      "thumb": "items/images/en/thumbs/rifle_ammo_mutation.ceb8ace4467da7e032915e6330d9cf65.128x128.png"
+    }
+  }
+}

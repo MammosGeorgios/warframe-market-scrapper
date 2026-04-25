@@ -1,0 +1,31 @@
+{
+  "id": "56783f24cbfa8f0432dd89ac",
+  "slug": "scindo_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeScindo/PrimeScindoWeapon",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff5b",
+    "54a73e65e779893a797fff5c",
+    "54a73e65e779893a797fff5d",
+    "56783f24cbfa8f0432dd89ac"
+  ],
+  "ducats": 170,
+  "reqMasteryRank": 8,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Scindo Prime Set",
+      "description": "An ancient executioners weapon, the honor of decapitation by the Scindo Prime was reserved for the Orokin's most respected enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Scindo_Prime",
+      "icon": "items/images/en/scindo_prime_set.ae70ac90b811a44f64263394b6410c28.png",
+      "thumb": "items/images/en/thumbs/scindo_prime_set.ae70ac90b811a44f64263394b6410c28.128x128.png"
+    }
+  }
+}

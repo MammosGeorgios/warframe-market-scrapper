@@ -1,0 +1,23 @@
+{
+  "id": "5bc1ab93b919f200c18c10f1",
+  "slug": "power_donation",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/AvatarAuraPowerMaxMod",
+  "tags": [
+    "mod",
+    "rare",
+    "aura"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Power Donation",
+      "description": "You lose 30% Ability Strength\nSquadmates gain 30% Ability Strength",
+      "wikiLink": "https://wiki.warframe.com/w/Power_Donation",
+      "icon": "items/images/en/power_donation.22caa7911fc0c4ffd7cc69ca9327ce72.png",
+      "thumb": "items/images/en/thumbs/power_donation.22caa7911fc0c4ffd7cc69ca9327ce72.128x128.png"
+    }
+  }
+}

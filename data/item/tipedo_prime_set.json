@@ -1,0 +1,31 @@
+{
+  "id": "5ca28670fc2db2035eae05a2",
+  "slug": "tipedo_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Staff/TipedoPrime/TipedoPrimeWeapon",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5ca28670fc2db2035eae059f",
+    "5ca2866ffc2db2035eae059a",
+    "5ca28670fc2db2035eae059d",
+    "5ca28670fc2db2035eae05a2"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tipedo Prime Set",
+      "description": "With their final breath they look to the moon, and are gone.",
+      "wikiLink": "https://wiki.warframe.com/w/Tipedo_Prime",
+      "icon": "items/images/en/tipedo_prime_set.fd4fdcee6ab035eddce9a802ff091cfd.png",
+      "thumb": "items/images/en/thumbs/tipedo_prime_set.fd4fdcee6ab035eddce9a802ff091cfd.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6936cb0aec38d5c25abab413",
+  "slug": "necrophagic_vigor",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveHemaAugmentMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "hema"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necrophagic Vigor",
+      "description": "Reloading drains up to half your Health based on ammo created, increasing Critical Chance and Critical Damage by +20% for every 20 Health drained. Capped at 360%.",
+      "icon": "items/images/en/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.webp",
+      "thumb": "items/images/en/thumbs/necrophagic_vigor.8b05988eb8283dc9addf16c23bdf1525.128x128.webp"
+    }
+  }
+}

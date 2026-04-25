@@ -1,0 +1,24 @@
+{
+  "id": "657af5aa21646e595134f5b9",
+  "slug": "atomic_fallout",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/RadiationClipShotgunMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Atomic Fallout",
+      "description": "+60% Radiation\n+40% Magazine Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Atomic_Fallout",
+      "icon": "items/images/en/atomic_fallout.e9f42032e522d187e44c5dd99f4f76bc.png",
+      "thumb": "items/images/en/thumbs/atomic_fallout.e9f42032e522d187e44c5dd99f4f76bc.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "667237598ba7c81b70d02c96",
+  "slug": "secondary_fortifier",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OverguardSteal",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secondary Fortifier",
+      "description": "Gain 1 Overguard for every 100 Damage dealt to an enemy's Overguard.\nDeals x8 Extra Damage to Overguard.\nDeals x8 Extra Damage to Overguard.",
+      "wikiLink": "https://wiki.warframe.com/w/Secondary_Fortifier",
+      "icon": "items/images/en/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.webp",
+      "thumb": "items/images/en/thumbs/secondary_fortifier.4fb942e2930716dcbf608764f313c8cf.128x128.webp"
+    }
+  }
+}

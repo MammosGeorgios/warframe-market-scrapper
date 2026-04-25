@@ -1,0 +1,21 @@
+{
+  "id": "6169ab3bc02a2f0045919275",
+  "slug": "vastilok",
+  "gameRef": "/Lotus/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade",
+  "tags": [
+    "melee",
+    "weapon"
+  ],
+  "reqMasteryRank": 9,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vastilok",
+      "description": "Slash and blast with this heavy Gunblade of brutal Grineer design. High slash damage paired with a heavy shotgun attack.",
+      "wikiLink": "https://wiki.warframe.com/w/Vastilok",
+      "icon": "items/images/en/vastilok.0d6a0cdb886e051eab8f6b4e26df3e99.png",
+      "thumb": "items/images/en/thumbs/vastilok.0d6a0cdb886e051eab8f6b4e26df3e99.128x128.png"
+    }
+  }
+}

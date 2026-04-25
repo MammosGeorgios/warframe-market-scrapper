@@ -1,0 +1,33 @@
+{
+  "id": "5baa8bbf4567de01ac283494",
+  "slug": "rubico_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/RubicoPrimeReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5baa8bbf4567de01ac283493",
+    "5baa8bbf4567de01ac283499",
+    "5baa8bbf4567de01ac283494",
+    "5baa8bbe4567de01ac283491",
+    "5baa8bbf4567de01ac283498"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rubico Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Rubico_Prime",
+      "icon": "items/images/en/rubico_prime_receiver.2071211bc2436d4e768dbb61f98f6efd.png",
+      "thumb": "items/images/en/thumbs/rubico_prime_receiver.2071211bc2436d4e768dbb61f98f6efd.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

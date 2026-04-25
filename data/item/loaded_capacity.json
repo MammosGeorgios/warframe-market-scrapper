@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a517",
+  "slug": "loaded_capacity",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/LargerMagLongerReloadShotgunMod",
+  "tags": [
+    "common",
+    "primary",
+    "pvp",
+    "shotgun",
+    "mod"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Loaded Capacity",
+      "description": "+30% Magazine Capacity\n-15% Reload Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Loaded_Capacity",
+      "icon": "items/images/en/loaded_capacity.9a437854153a40b04909bd36b19dc036.png",
+      "thumb": "items/images/en/thumbs/loaded_capacity.9a437854153a40b04909bd36b19dc036.128x128.png"
+    }
+  }
+}

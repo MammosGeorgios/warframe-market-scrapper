@@ -1,0 +1,19 @@
+{
+  "id": "644b00237ec1900044b97731",
+  "slug": "castle_town_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriMainlandTown",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Castle Town Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/castle_town_scene.231d87ca9386326ebf23ecc28ed8713e.png",
+      "thumb": "items/images/en/thumbs/castle_town_scene.231d87ca9386326ebf23ecc28ed8713e.128x128.png"
+    }
+  }
+}

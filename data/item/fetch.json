@@ -1,0 +1,24 @@
+{
+  "id": "5be4b0a53ffcc703294e76b0",
+  "slug": "fetch",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/BeastUniversalVacuum",
+  "tags": [
+    "mod",
+    "beast",
+    "sentinel",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fetch",
+      "description": "13.5m Companion Gather-Link. Detects and collects items, including mods.",
+      "wikiLink": "https://wiki.warframe.com/w/Fetch",
+      "icon": "items/images/en/fetch.3029b53e4b6e53493e836cd5cd980146.png",
+      "thumb": "items/images/en/thumbs/fetch.3029b53e4b6e53493e836cd5cd980146.128x128.png"
+    }
+  }
+}

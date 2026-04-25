@@ -1,0 +1,25 @@
+{
+  "id": "6054de935221e30057501088",
+  "slug": "mirewinder",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusBothUncommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mirewinder",
+      "description": "Surveys the water for impurities. It can be found in cave pools on Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Mirewinder",
+      "icon": "items/images/en/mirewinder.0c98cb981ea9d1170c1ae014557588fc.png",
+      "thumb": "items/images/en/thumbs/mirewinder.0c98cb981ea9d1170c1ae014557588fc.128x128.png"
+    }
+  }
+}

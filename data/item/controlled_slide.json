@@ -1,0 +1,24 @@
+{
+  "id": "5e7caa01267539063de48c3b",
+  "slug": "controlled_slide",
+  "gameRef": "/Lotus/Powersuits/Nezha/NezhaDisablePassiveMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe",
+    "nezha"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Controlled Slide",
+      "description": "Disable Nezha's passive ability. Increase Ability Strength by 15%.",
+      "wikiLink": "https://wiki.warframe.com/w/Controlled_Slide",
+      "icon": "items/images/en/controlled_slide.224fa96f8528ee7645579a88280c4680.png",
+      "thumb": "items/images/en/thumbs/controlled_slide.224fa96f8528ee7645579a88280c4680.128x128.png"
+    }
+  }
+}

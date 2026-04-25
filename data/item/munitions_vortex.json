@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e1014569703166749ef",
+  "slug": "munitions_vortex",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipAttractorAbilityCard",
+  "tags": [
+    "railjack",
+    "uncommon",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Munitions Vortex",
+      "description": "Vortex that absorbs incoming fire and detonates, releasing damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Munitions_Vortex",
+      "icon": "items/images/en/munitions_vortex.b52cf2d8091bf90d2b635aca706c2991.png",
+      "thumb": "items/images/en/thumbs/munitions_vortex.b52cf2d8091bf90d2b635aca706c2991.128x128.png"
+    }
+  }
+}

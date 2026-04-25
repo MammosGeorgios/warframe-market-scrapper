@@ -1,0 +1,32 @@
+{
+  "id": "6530694722c7fd977050854a",
+  "slug": "zylok_prime_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZylokPrimeBarrel",
+  "tags": [
+    "weapon",
+    "prime",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6530694722c7fd977050854a",
+    "6530694622c7fd9770508549",
+    "6530694722c7fd977050854b",
+    "6530694622c7fd9770508548"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zylok Prime Barrel",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Zylok_Prime",
+      "icon": "items/images/en/zylok_prime_barrel.3e33bc4a5c48f70000b4ad50fa283437.png",
+      "thumb": "items/images/en/thumbs/zylok_prime_barrel.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5d8765de7ea27b08950c13c4",
+  "slug": "arcane_blade_charger",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Blade Charger",
+      "description": "On Primary Weapon Kill:\n30% chance for +300% Melee Damage for 12s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Blade_Charger",
+      "icon": "items/images/en/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.png",
+      "thumb": "items/images/en/thumbs/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "58284d9f0af2540aa8de3495",
+  "slug": "cyngas_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun",
+  "tags": [
+    "weapon",
+    "set",
+    "primary",
+    "archwing"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "58284d9f0af2540aa8de3495",
+    "5783bf69d9b6753790c89e9b",
+    "5783bf6dd9b6753790c89e9c",
+    "5783bf71d9b6753790c89e9d"
+  ],
+  "reqMasteryRank": 4,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cyngas Set",
+      "description": "Unload deadly accurate bursts of mayhem.",
+      "wikiLink": "https://wiki.warframe.com/w/Cyngas",
+      "icon": "items/images/en/cyngas_set.5b9891a467264b6048cd58b409911767.png",
+      "thumb": "items/images/en/thumbs/cyngas_set.5b9891a467264b6048cd58b409911767.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156e5",
+  "slug": "tainted_mag",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedMaxClipReloadSpeedRifle",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "assault_rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tainted Mag",
+      "description": "+66% Magazine Capacity\n-33% Reload Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Tainted_Mag",
+      "icon": "items/images/en/tainted_mag.39fd33acdfae357e3d1a4de81f41b598.png",
+      "thumb": "items/images/en/thumbs/tainted_mag.39fd33acdfae357e3d1a4de81f41b598.128x128.png"
+    }
+  }
+}

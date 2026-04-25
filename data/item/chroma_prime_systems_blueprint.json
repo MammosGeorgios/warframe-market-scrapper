@@ -1,0 +1,34 @@
+{
+  "id": "5ba9f2014567de01415f6387",
+  "slug": "chroma_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeSystemsBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5ba9f2054567de01415f6390",
+    "5ba9f2024567de01415f6388",
+    "5ba9f2024567de01415f6389",
+    "5ba9f2034567de01415f638b",
+    "5ba9f2014567de01415f6387"
+  ],
+  "quantityInSet": 1,
+  "ducats": 65,
+  "reqMasteryRank": 6,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Chroma Prime Systems Blueprint",
+      "description": "Systems component of the Chroma Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Chroma_Prime",
+      "icon": "items/images/en/chroma_prime_systems.746ea1c1556aa60f94f0c2399946baaf.png",
+      "thumb": "items/images/en/thumbs/chroma_prime_systems.746ea1c1556aa60f94f0c2399946baaf.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

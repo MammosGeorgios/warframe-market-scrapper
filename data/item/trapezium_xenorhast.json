@@ -1,0 +1,20 @@
+{
+  "id": "5f498a1e9426ed00443bd08f",
+  "slug": "trapezium_xenorhast",
+  "gameRef": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem",
+  "tags": [
+    "gem"
+  ],
+  "bulkTradable": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Trapezium Xenorhast",
+      "description": "Facets gleam with the un-light of the Void. Blueprint sold by Otak in the Necralisk on Deimos.",
+      "wikiLink": "https://wiki.warframe.com/w/Trapezium_Xenorhast",
+      "icon": "items/images/en/trapezium_xenorhast.508e87eac283a323559a101479d634ad.png",
+      "thumb": "items/images/en/thumbs/trapezium_xenorhast.508e87eac283a323559a101479d634ad.128x128.png"
+    }
+  }
+}

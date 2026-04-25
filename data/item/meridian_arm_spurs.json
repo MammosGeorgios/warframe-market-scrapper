@@ -1,0 +1,26 @@
+{
+  "id": "60e70f7a479445008f272576",
+  "slug": "meridian_arm_spurs",
+  "gameRef": "/Lotus/Upgrades/Skins/Armor/GrnSteelMeridianArmor/GrnSteelMeridianAArmor",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60e70f7a479445008f272576",
+    "60e70f7a479445008f272575",
+    "60e70f79479445008f272574",
+    "60e70f80479445008f2725a0"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Meridian Arm Spurs",
+      "description": "Pieced together from salvage, this ad hoc armor set is signature to the Grineer renegades of Steel Meridian.",
+      "icon": "items/images/en/meridian_arm_spurs.539a328fd70059e66ee74c8decec6b36.png",
+      "thumb": "items/images/en/thumbs/meridian_arm_spurs.539a328fd70059e66ee74c8decec6b36.128x128.png"
+    }
+  }
+}

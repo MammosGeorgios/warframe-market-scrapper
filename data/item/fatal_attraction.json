@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156a4",
+  "slug": "fatal_attraction",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/Bait",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "djinn"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fatal Attraction",
+      "description": "Enemies within 20m are drawn to you. Once they are within 6m, they detonate for 250 Damage. Kill them before detonation to increase lure time and reduce cooldown.",
+      "wikiLink": "https://wiki.warframe.com/w/Fatal_Attraction",
+      "icon": "items/images/en/fatal_attraction.7de9c47ff8aed7bcc0f99943095c45e2.png",
+      "thumb": "items/images/en/thumbs/fatal_attraction.7de9c47ff8aed7bcc0f99943095c45e2.128x128.png"
+    }
+  }
+}

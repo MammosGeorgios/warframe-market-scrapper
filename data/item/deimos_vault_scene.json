@@ -1,0 +1,20 @@
+{
+  "id": "5f4ed3ecd5c36d0086f55af6",
+  "slug": "deimos_vault_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosBouncy",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deimos Vault Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/deimos_vault_scene.2d2d03e6675c32e6af85b0111a57b649.png",
+      "thumb": "items/images/en/thumbs/deimos_vault_scene.2d2d03e6675c32e6af85b0111a57b649.128x128.png"
+    }
+  }
+}

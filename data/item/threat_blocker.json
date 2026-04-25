@@ -1,0 +1,22 @@
+{
+  "id": "67db60569cec3e52e62523eb",
+  "slug": "threat_blocker",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusAndWeaponDamageOnUseMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "parazon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Threat Blocker",
+      "description": "Gain 10% Disinfection and 25% chance to drop a Potency mod",
+      "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+      "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp"
+    }
+  }
+}

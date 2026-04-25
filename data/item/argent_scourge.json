@@ -1,0 +1,25 @@
+{
+  "id": "5800c901c021d9dc0a9f891c",
+  "slug": "argent_scourge",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPPolearmStanceOne",
+  "tags": [
+    "pvp",
+    "uncommon",
+    "stance",
+    "polearms",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Argent Scourge",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Argent_Scourge",
+      "icon": "items/images/en/argent_scourge.8a20a60d9783334c31cfe5eb983f61cd.png",
+      "thumb": "items/images/en/thumbs/argent_scourge.8a20a60d9783334c31cfe5eb983f61cd.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54c68672e7798913ba044082",
+  "slug": "primed_flow",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarPowerMaxModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "warframe"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Flow",
+      "description": "+185% Energy Max",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Flow",
+      "icon": "items/images/en/primed_flow.f65c5889e6d464ceea67c6c0aae9faa0.png",
+      "thumb": "items/images/en/thumbs/primed_flow.f65c5889e6d464ceea67c6c0aae9faa0.128x128.png"
+    }
+  }
+}

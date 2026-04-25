@@ -1,0 +1,24 @@
+{
+  "id": "5655c4c7b66f832e1ad87d50",
+  "slug": "primed_rifle_ammo_mutation",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponRifleConvertAmmoModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "assault_rifle"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Rifle Ammo Mutation",
+      "description": "Converts Secondary ammo pickups to 92% of Ammo Pick Up.",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Rifle_Ammo_Mutation",
+      "icon": "items/images/en/primed_rifle_ammo_mutation.d7261c0bfbca0a7e8f26bf24257d172a.png",
+      "thumb": "items/images/en/thumbs/primed_rifle_ammo_mutation.d7261c0bfbca0a7e8f26bf24257d172a.128x128.png"
+    }
+  }
+}

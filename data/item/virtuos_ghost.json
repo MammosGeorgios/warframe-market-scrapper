@@ -1,0 +1,24 @@
+{
+  "id": "5a04750e6c4655012038ddd0",
+  "slug": "virtuos_ghost",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/StatusChanceOnHeadshot",
+  "tags": [
+    "operator",
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Virtuos Ghost",
+      "description": "On Headshot:\n40% chance for +60% Status Chance for 12s",
+      "wikiLink": "https://wiki.warframe.com/w/Virtuos_Ghost",
+      "icon": "items/images/en/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.png",
+      "thumb": "items/images/en/thumbs/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.128x128.png"
+    }
+  }
+}

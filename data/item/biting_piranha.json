@@ -1,0 +1,25 @@
+{
+  "id": "5be5f5a43ffcc7038857f12f",
+  "slug": "biting_piranha",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPDualDaggersStanceOne",
+  "tags": [
+    "pvp",
+    "uncommon",
+    "stance",
+    "dual_daggers",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Biting Piranha",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Biting_Piranha",
+      "icon": "items/images/en/biting_piranha.3ee2f8dd42bb3aa6c5351a8a85813984.png",
+      "thumb": "items/images/en/thumbs/biting_piranha.3ee2f8dd42bb3aa6c5351a8a85813984.128x128.png"
+    }
+  }
+}

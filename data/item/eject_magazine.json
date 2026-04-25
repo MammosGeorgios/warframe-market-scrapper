@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4d3",
+  "slug": "eject_magazine",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/PassiveReloadMod",
+  "tags": [
+    "secondary",
+    "pvp",
+    "rare",
+    "mod",
+    "pistol"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Eject Magazine",
+      "description": "+20% Magazine Reloaded/s when Holstered",
+      "wikiLink": "https://wiki.warframe.com/w/Eject_Magazine",
+      "icon": "items/images/en/eject_magazine.6044d09b0f7c71b1e6b676be8c288636.png",
+      "thumb": "items/images/en/thumbs/eject_magazine.6044d09b0f7c71b1e6b676be8c288636.128x128.png"
+    }
+  }
+}

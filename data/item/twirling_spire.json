@@ -1,0 +1,24 @@
+{
+  "id": "59eb9b0952f90ed715e14143",
+  "slug": "twirling_spire",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbThreeMeleeTree",
+  "tags": [
+    "mod",
+    "polearms",
+    "stance",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Twirling Spire",
+      "description": "A mix of sweeping attacks with precise strikes.",
+      "wikiLink": "https://wiki.warframe.com/w/Twirling_Spire",
+      "icon": "items/images/en/twirling_spire.67fe342c880bda80d815f6eae1eec325.png",
+      "thumb": "items/images/en/thumbs/twirling_spire.67fe342c880bda80d815f6eae1eec325.128x128.png"
+    }
+  }
+}

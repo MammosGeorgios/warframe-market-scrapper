@@ -1,0 +1,31 @@
+{
+  "id": "60575dd590a69e0070a89ed1",
+  "slug": "carmine_penta_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/CarminePentaReceiver",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60575dd590a69e0070a89ed3",
+    "60575dd690a69e0070a89ed4",
+    "60575dd590a69e0070a89ed1",
+    "60575dd690a69e0070a89ed5",
+    "60575dd590a69e0070a89ed2"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 6,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Carmine Penta Receiver",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Carmine_Penta",
+      "icon": "items/images/en/carmine_penta_receiver.c1aca6866f8ca8647358966756a8a81b.png",
+      "thumb": "items/images/en/thumbs/carmine_penta_receiver.c1aca6866f8ca8647358966756a8a81b.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

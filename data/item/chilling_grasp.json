@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155bf",
+  "slug": "chilling_grasp",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponFreezeDamageMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Chilling Grasp",
+      "description": "+90% Cold",
+      "wikiLink": "https://wiki.warframe.com/w/Chilling_Grasp",
+      "icon": "items/images/en/chilling_grasp.7dfb6e5744d0c7356011ad64c0e2d039.png",
+      "thumb": "items/images/en/thumbs/chilling_grasp.7dfb6e5744d0c7356011ad64c0e2d039.128x128.png"
+    }
+  }
+}

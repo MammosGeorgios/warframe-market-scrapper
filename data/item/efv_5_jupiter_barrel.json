@@ -1,0 +1,29 @@
+{
+  "id": "67e8c929cedcd0be6d135950",
+  "slug": "efv_5_jupiter_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasGooAKPlayerWeaponBarrel",
+  "tags": [
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67e8c929cedcd0be6d135950",
+    "67e8c92acedcd0be6d135951",
+    "67e8c929cedcd0be6d13594f",
+    "67e8c92bcedcd0be6d135952"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "EFV-5 Jupiter Barrel",
+      "description": "A weapon-crafting component.",
+      "icon": "items/images/en/efv_5_jupiter_barrel.c69153cce49d7d087e5b2268b3d37ac3.webp",
+      "thumb": "items/images/en/thumbs/efv_5_jupiter_barrel.c69153cce49d7d087e5b2268b3d37ac3.128x128.webp",
+      "subIcon": "sub_icons/weapon/generic_barrel_128x128.png"
+    }
+  }
+}

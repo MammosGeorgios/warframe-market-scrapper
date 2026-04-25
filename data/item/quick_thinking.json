@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e51568d",
+  "slug": "quick_thinking",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarPowerToHealthOnDeathMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Quick Thinking",
+      "description": "Drains Energy to stop Lethal Damage with 240% Efficiency.",
+      "wikiLink": "https://wiki.warframe.com/w/Quick_Thinking",
+      "icon": "items/images/en/quick_thinking.062fbe5be0dfb26fa2f268b338cae078.png",
+      "thumb": "items/images/en/thumbs/quick_thinking.062fbe5be0dfb26fa2f268b338cae078.128x128.png"
+    }
+  }
+}

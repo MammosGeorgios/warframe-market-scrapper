@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515617",
+  "slug": "fireball_frenzy",
+  "gameRef": "/Lotus/Powersuits/Ember/FireBallAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "ember",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fireball Frenzy",
+      "description": "Fireball Augment: Hold to cast will grant all allies within 15m an additional 100% Heat Damage to their attacks for 40s.",
+      "wikiLink": "https://wiki.warframe.com/w/Fireball_Frenzy",
+      "icon": "items/images/en/fireball_frenzy.8d225c9bcd337378c90f8d57849c1c60.png",
+      "thumb": "items/images/en/thumbs/fireball_frenzy.8d225c9bcd337378c90f8d57849c1c60.128x128.png"
+    }
+  }
+}

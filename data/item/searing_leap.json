@@ -1,0 +1,23 @@
+{
+  "id": "567af35fcbfa8f05d076a4f0",
+  "slug": "searing_leap",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FireParkourPvPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Searing Leap",
+      "description": "Fire FX on Bullet Jump",
+      "wikiLink": "https://wiki.warframe.com/w/Searing_Leap",
+      "icon": "items/images/en/searing_leap.7841e8bfddec3339f4fa9c10319683aa.png",
+      "thumb": "items/images/en/thumbs/searing_leap.7841e8bfddec3339f4fa9c10319683aa.128x128.png"
+    }
+  }
+}

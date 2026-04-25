@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515591",
+  "slug": "flame_repellent",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceFire",
+  "tags": [
+    "mod",
+    "warframe",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Flame Repellent",
+      "description": "+60% Heat Resistance",
+      "wikiLink": "https://wiki.warframe.com/w/Flame_Repellent",
+      "icon": "items/images/en/flame_repellent.ea1ecc4cf2065e160fa39486a43e1d7e.png",
+      "thumb": "items/images/en/thumbs/flame_repellent.ea1ecc4cf2065e160fa39486a43e1d7e.128x128.png"
+    }
+  }
+}

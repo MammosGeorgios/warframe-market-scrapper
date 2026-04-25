@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515590",
+  "slug": "hollowed_bullets",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritDamageMod",
+  "tags": [
+    "rare",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hollowed Bullets",
+      "description": "+80% Critical Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Hollowed_Bullets",
+      "icon": "items/images/en/hollowed_bullets.7071893ea940820a1513221c9daf6c41.png",
+      "thumb": "items/images/en/thumbs/hollowed_bullets.7071893ea940820a1513221c9daf6c41.128x128.png"
+    }
+  }
+}

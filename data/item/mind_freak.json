@@ -1,0 +1,25 @@
+{
+  "id": "54e644ffe779897594fa68ce",
+  "slug": "mind_freak",
+  "gameRef": "/Lotus/Powersuits/Jade/MindControlAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nyx",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mind Freak",
+      "description": "Mind Control Augment: Controlled target inflicts +1000% Damage and gains +25% Movement and Attack Speed.",
+      "wikiLink": "https://wiki.warframe.com/w/Mind_Freak",
+      "icon": "items/images/en/mind_freak.9fa9ad270ea0f0f491a1c49b20e621a6.png",
+      "thumb": "items/images/en/thumbs/mind_freak.9fa9ad270ea0f0f491a1c49b20e621a6.128x128.png"
+    }
+  }
+}

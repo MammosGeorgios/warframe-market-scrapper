@@ -1,0 +1,25 @@
+{
+  "id": "6054de985221e3005750108c",
+  "slug": "brickie",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishBItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Brickie",
+      "description": "Developed to perform remote construction and maintenance routines. It can be found in ponds around Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Brickie",
+      "icon": "items/images/en/brickie.5d0e1b2df1abb9b26752402e0f17ac15.png",
+      "thumb": "items/images/en/thumbs/brickie.5d0e1b2df1abb9b26752402e0f17ac15.128x128.png"
+    }
+  }
+}

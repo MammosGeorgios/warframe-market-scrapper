@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a51f",
+  "slug": "plan_b",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterPistolRoFOnHitBowMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "rare",
+    "bow",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Plan B",
+      "description": "On Hit:\n+20% Secondary Weapon Fire Rate for 3s",
+      "wikiLink": "https://wiki.warframe.com/w/Plan_B",
+      "icon": "items/images/en/plan_b.987847916d518013b6d23ea79367e65c.png",
+      "thumb": "items/images/en/thumbs/plan_b.987847916d518013b6d23ea79367e65c.128x128.png"
+    }
+  }
+}

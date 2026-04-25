@@ -1,0 +1,25 @@
+{
+  "id": "60e70f7e479445008f272594",
+  "slug": "ostron_armor_set",
+  "gameRef": "",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "60e70f80479445008f2725a1",
+    "60e70f7e479445008f272594",
+    "60e70f7b479445008f272582",
+    "60e70f7f479445008f27259f"
+  ],
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ostron Armor Set",
+      "description": "An Ostron armor set crafted from Orokin tower salvage.",
+      "icon": "items/images/en/ostron_armor_set.8cfce4ab2aadc626c059ff60110cb081.webp",
+      "thumb": "items/images/en/thumbs/ostron_armor_set.8cfce4ab2aadc626c059ff60110cb081.128x128.webp"
+    }
+  }
+}

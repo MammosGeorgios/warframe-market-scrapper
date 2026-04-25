@@ -1,0 +1,33 @@
+{
+  "id": "573b801c0ec44a47787a6911",
+  "slug": "fragor_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/FragorPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "melee",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "573b801c0ec44a47787a6911",
+    "573b80230ec44a47787a6912",
+    "573b80280ec44a47787a6913",
+    "573b802f0ec44a47787a6914"
+  ],
+  "quantityInSet": 1,
+  "ducats": 65,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fragor Prime Blueprint",
+      "description": "A beautifully forged instrument of devastation.",
+      "wikiLink": "https://wiki.warframe.com/w/Fragor_Prime",
+      "icon": "items/images/en/fragor_prime_blueprint.2b917b8a12f0981ff0a9a48c6c24edb1.png",
+      "thumb": "items/images/en/thumbs/fragor_prime_blueprint.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

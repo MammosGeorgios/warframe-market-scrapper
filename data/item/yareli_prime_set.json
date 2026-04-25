@@ -1,0 +1,30 @@
+{
+  "id": "682dfa9835715d4f3e9c64e6",
+  "slug": "yareli_prime_set",
+  "gameRef": "/Lotus/Powersuits/Yareli/YareliPrime",
+  "tags": [
+    "warframe",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "682dfa9835715d4f3e9c64e7",
+    "682dfa9835715d4f3e9c64e9",
+    "682dfa9835715d4f3e9c64e8",
+    "682dfa9835715d4f3e9c64e6",
+    "682dfa9835715d4f3e9c64ea"
+  ],
+  "ducats": 260,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Yareli Prime Set",
+      "description": "The Waverider arises, reborn from the ocean foam. In her original Orokin-era splendor she embodies the undying vigor of youth.",
+      "icon": "items/images/en/yareli_prime_set.80badf98bdde8e0c47cac61aa6149ea0.webp",
+      "thumb": "items/images/en/thumbs/yareli_prime_set.80badf98bdde8e0c47cac61aa6149ea0.128x128.webp"
+    }
+  }
+}

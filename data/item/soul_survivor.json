@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515604",
+  "slug": "soul_survivor",
+  "gameRef": "/Lotus/Powersuits/Necro/SoulPunchAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nekros",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Soul Survivor",
+      "description": "Soul Punch Augment: Use on a downed ally to revive them with 30% Health.",
+      "wikiLink": "https://wiki.warframe.com/w/Soul_Survivor",
+      "icon": "items/images/en/soul_survivor.624cc099e5f256c381bd6d024d6d1270.png",
+      "thumb": "items/images/en/thumbs/soul_survivor.624cc099e5f256c381bd6d024d6d1270.128x128.png"
+    }
+  }
+}

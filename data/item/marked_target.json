@@ -1,0 +1,25 @@
+{
+  "id": "5c1bda1414a8e4006b1dad84",
+  "slug": "marked_target",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleStatusChanceAimingMod",
+  "tags": [
+    "rare",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Marked Target",
+      "description": "+120% Status Chance when Aiming",
+      "wikiLink": "https://wiki.warframe.com/w/Marked_Target",
+      "icon": "items/images/en/marked_target.1ad2a7f2e824f40970eeb194184935d3.png",
+      "thumb": "items/images/en/thumbs/marked_target.1ad2a7f2e824f40970eeb194184935d3.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "63886517e7c988007b5bd50f",
+  "slug": "sarofang_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/WolfFrameAxeWeaponBlade",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "63886517e7c988007b5bd50f",
+    "63886517e7c988007b5bd513",
+    "63886517e7c988007b5bd514"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sarofang Blade",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Sarofang",
+      "icon": "items/images/en/sarofang_blade.b9dddab4cdb3312fa7a7bf8c78d82246.png",
+      "thumb": "items/images/en/thumbs/sarofang_blade.b9dddab4cdb3312fa7a7bf8c78d82246.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_blade_128x128.png"
+    }
+  }
+}

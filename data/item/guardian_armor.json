@@ -1,0 +1,23 @@
+{
+  "id": "6604a6d5dbdd5c1673781dc3",
+  "slug": "guardian_armor",
+  "gameRef": "/Lotus/Powersuits/Dragon/DragonScalesAugmentTwoCard",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe",
+    "chroma"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Guardian Armor",
+      "description": "Vex Armor Augment: Chroma reduces the damage his squadmates within <AFFINITY_SHARE>Affinity Range take by 75%. Squad kills restore 5% of his Health over 3s and increases Vex Armor duration by 1s.",
+      "icon": "items/images/en/guardian_armor.4f04a10bb9c7639a8ea7c4e249fce9be.png",
+      "thumb": "items/images/en/thumbs/guardian_armor.4f04a10bb9c7639a8ea7c4e249fce9be.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "554d3f0ce779894445a848f9",
+  "slug": "signal_flare",
+  "gameRef": "/Lotus/Powersuits/Excalibur/RadialBlindPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "excalibur",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Signal Flare",
+      "description": "Radial Blind Augment: Blinded enemies are marked on the Minimap for 12s.",
+      "wikiLink": "https://wiki.warframe.com/w/Signal_Flare",
+      "icon": "items/images/en/signal_flare.d5e10a681a4241613eb8cb390cb1b6fa.png",
+      "thumb": "items/images/en/thumbs/signal_flare.d5e10a681a4241613eb8cb390cb1b6fa.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "571955784445c3e28b80fc79",
+  "slug": "xiphos_fuselage_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/LandingCraftRecipes/Gyroscope/GyroscopeFuselageBlueprint",
+  "tags": [
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "571955834445c3e28b80fc7b",
+    "5719557e4445c3e28b80fc7a",
+    "571955784445c3e28b80fc79",
+    "57222f1692cc365777a61c0e"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Xiphos Fuselage Blueprint",
+      "description": "Fuselage component of the Xiphos landing craft.",
+      "wikiLink": "https://wiki.warframe.com/w/Xiphos",
+      "icon": "items/images/en/xiphos_fuselage.452dba7ad34799a24d7d72d8f5e206eb.png",
+      "thumb": "items/images/en/thumbs/xiphos_fuselage.452dba7ad34799a24d7d72d8f5e206eb.128x128.png",
+      "subIcon": "sub_icons/landingCraft/generic_fuselage_128x128.png"
+    }
+  }
+}

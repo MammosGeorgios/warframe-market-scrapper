@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515599",
+  "slug": "quick_return",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveReflectionDecreaseMod",
+  "tags": [
+    "mod",
+    "common",
+    "melee",
+    "thrown_melee"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Quick Return",
+      "description": "-4 Bounce",
+      "wikiLink": "https://wiki.warframe.com/w/Quick_Return",
+      "icon": "items/images/en/quick_return.e623729d7ed1421d74a8971e1e6090d2.png",
+      "thumb": "items/images/en/thumbs/quick_return.e623729d7ed1421d74a8971e1e6090d2.128x128.png"
+    }
+  }
+}

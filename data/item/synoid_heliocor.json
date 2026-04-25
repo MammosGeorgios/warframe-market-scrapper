@@ -1,0 +1,22 @@
+{
+  "id": "57dbdc525e334907aa8edb57",
+  "slug": "synoid_heliocor",
+  "gameRef": "/Lotus/Weapons/Syndicates/CephalonSuda/Melee/CSHeliocor",
+  "tags": [
+    "syndicate",
+    "weapon",
+    "melee"
+  ],
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Synoid Heliocor",
+      "description": "This intelligent hammer takes an enemy killed by a Heavy Attack and recomposes them as an ally. Any fatal strike with this weapon also performs a Codex scan.",
+      "wikiLink": "https://wiki.warframe.com/w/Synoid_Heliocor",
+      "icon": "items/images/en/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.png",
+      "thumb": "items/images/en/thumbs/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.128x128.png"
+    }
+  }
+}

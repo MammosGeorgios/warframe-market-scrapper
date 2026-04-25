@@ -1,0 +1,24 @@
+{
+  "id": "68efbaa589984fb97a33aa35",
+  "slug": "tharros_lethality",
+  "gameRef": "/Lotus/Powersuits/Hoplite/HopliteBashAugmentCard",
+  "tags": [
+    "warframe",
+    "styanax",
+    "rare",
+    "augment",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tharros Lethality",
+      "description": "Tharros Strike Augment: Increases Critical Damage by 100% on enemies you hit. Critical Damage bonus is doubled for Spearguns.",
+      "icon": "items/unknown.png",
+      "thumb": ""
+    }
+  }
+}

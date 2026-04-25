@@ -1,0 +1,33 @@
+{
+  "id": "639a941d74b02f008887784d",
+  "slug": "afuris_prime_link",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfurisPrimeLink",
+  "tags": [
+    "prime",
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "639a941c74b02f008887784b",
+    "639a941d74b02f008887784f",
+    "639a941d74b02f008887784d",
+    "639a941e74b02f0088877853",
+    "639a941c74b02f008887784c"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Afuris Prime Link",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Afuris_Prime",
+      "icon": "items/images/en/afuris_prime_link.bfdca7167652c5c2d474ac75ea3af595.png",
+      "thumb": "items/images/en/thumbs/afuris_prime_link.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_link_128x128.png"
+    }
+  }
+}

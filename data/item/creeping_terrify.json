@@ -1,0 +1,25 @@
+{
+  "id": "576459bc3ae92d545fd1e7b9",
+  "slug": "creeping_terrify",
+  "gameRef": "/Lotus/Powersuits/Necro/TerrorTotemAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nekros",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Creeping Terrify",
+      "description": "Terrify Augment: Affected enemies have 60% reduced Movement Speed.",
+      "wikiLink": "https://wiki.warframe.com/w/Creeping_Terrify",
+      "icon": "items/images/en/creeping_terrify.1e5e17ddfeb4274998f69cc73a1b398d.png",
+      "thumb": "items/images/en/thumbs/creeping_terrify.1e5e17ddfeb4274998f69cc73a1b398d.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "58446f502c2ada0042b6fc3d",
+  "slug": "viral_tempest",
+  "gameRef": "/Lotus/Powersuits/Pirate/CannonBarrageAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "hydroid",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Viral Tempest",
+      "description": "Tempest Barrage Augment: Each projectile has a 100% chance of inflicting a Viral Status Effect.",
+      "wikiLink": "https://wiki.warframe.com/w/Viral_Tempest",
+      "icon": "items/images/en/corroding_barrage.98840ac4923a0115b6d43b24f745e34e.png",
+      "thumb": "items/images/en/thumbs/corroding_barrage.98840ac4923a0115b6d43b24f745e34e.128x128.png"
+    }
+  }
+}

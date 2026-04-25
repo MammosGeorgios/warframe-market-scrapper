@@ -1,0 +1,21 @@
+{
+  "id": "60e5b8fe4794450053e99951",
+  "slug": "hard_reset",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionReviveCompanionMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hard Reset",
+      "description": "Mercy Kills reduce Companion Recovery by 15s",
+      "icon": "items/images/en/hard_reset.b0d53f38119f05a0b6f7e4cb3723bad8.png",
+      "thumb": "items/images/en/thumbs/hard_reset.b0d53f38119f05a0b6f7e4cb3723bad8.128x128.png"
+    }
+  }
+}

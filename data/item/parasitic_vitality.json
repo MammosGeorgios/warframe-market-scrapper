@@ -1,0 +1,25 @@
+{
+  "id": "6604a680dbdd5c1673781dbb",
+  "slug": "parasitic_vitality",
+  "gameRef": "/Lotus/Powersuits/Infestation/InfestLinkAugmentCard",
+  "tags": [
+    "nidus",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Parasitic Vitality",
+      "description": "Parasitic Link Augment: Nidus and any ally he's bound to gain 4% Max Health per Mutation during Parasitic Link.",
+      "wikiLink": "https://wiki.warframe.com/w/Parasitic_Vitality",
+      "icon": "items/images/en/parasitic_vitality.6aba69113d42dd27bcfee1981bd734e5.png",
+      "thumb": "items/images/en/thumbs/parasitic_vitality.6aba69113d42dd27bcfee1981bd734e5.128x128.png"
+    }
+  }
+}

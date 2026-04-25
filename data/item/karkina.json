@@ -1,0 +1,25 @@
+{
+  "id": "6054de785221e3005750107f",
+  "slug": "karkina",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Karkina",
+      "description": "A crustacean that hunts during the twilight hours.",
+      "wikiLink": "https://wiki.warframe.com/w/Karkina",
+      "icon": "items/images/en/karkina.8e31a023f6fea55fca0f5f20d8e296a8.png",
+      "thumb": "items/images/en/thumbs/karkina.8e31a023f6fea55fca0f5f20d8e296a8.128x128.png"
+    }
+  }
+}

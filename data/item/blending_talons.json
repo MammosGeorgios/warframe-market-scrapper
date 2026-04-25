@@ -1,0 +1,25 @@
+{
+  "id": "5fb84767c34da3004797d543",
+  "slug": "blending_talons",
+  "gameRef": "/Lotus/Powersuits/Garuda/GarudaUnstoppableAugmentCard",
+  "tags": [
+    "mod",
+    "garuda",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Blending Talons",
+      "description": "Seeking Talons Augment: Tap to perform a 9m AoE around Garuda. Garuda's Talons gain 100% additional Combo Count Chance when hitting targets affected by Slash Status.",
+      "wikiLink": "https://wiki.warframe.com/w/Blending_Talons",
+      "icon": "items/images/en/blending_talons.fd671126fd4051e8e3addc13ae56d1f0.png",
+      "thumb": "items/images/en/thumbs/blending_talons.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+    }
+  }
+}

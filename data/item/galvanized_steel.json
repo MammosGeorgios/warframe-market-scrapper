@@ -1,0 +1,23 @@
+{
+  "id": "66fd6c7b3a826eccf651cd82",
+  "slug": "galvanized_steel",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponCritChanceSPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galvanized Steel",
+      "description": "+110% Critical Chance (x2 for Heavy Attacks)\nOn Melee Kill:\n+30% Critical Damage for 20s. Stacks up to 4x.",
+      "wikiLink": "https://wiki.warframe.com/w/Galvanized_Steel",
+      "icon": "items/images/en/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/galvanized_steel.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

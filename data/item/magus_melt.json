@@ -1,0 +1,23 @@
+{
+  "id": "5c1bd9f814a8e4006b1dad48",
+  "slug": "magus_melt",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatDamageOnDash",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magus Melt",
+      "description": "On Void Sling:\nIncrease Heat Damage in Operator Mode by 30% for 15s, stacking up to 7x.",
+      "wikiLink": "https://wiki.warframe.com/w/Magus_Melt",
+      "icon": "items/images/en/magus_melt.4b9f09f76e8d5c38d170209ecfda3481.png",
+      "thumb": "items/images/en/thumbs/magus_melt.4b9f09f76e8d5c38d170209ecfda3481.128x128.png"
+    }
+  }
+}

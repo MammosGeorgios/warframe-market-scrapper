@@ -1,0 +1,33 @@
+{
+  "id": "54ca4337e779891a2e3fbc83",
+  "slug": "wyrm_prime_systems",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeWyrmSystems",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54ca431ce779891a1adb4901",
+    "54ca4330e779891a286a5428",
+    "54ca4329e779891a21d036bd",
+    "56783f24cbfa8f0432dd89b3",
+    "54ca4337e779891a2e3fbc83"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Wyrm Prime Systems",
+      "description": "A prime sentinel-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Wyrm_Prime",
+      "icon": "items/images/en/wyrm_prime_systems.4da3da5cc8eeef554dc3208bbb5a8f26.png",
+      "thumb": "items/images/en/thumbs/wyrm_prime_systems.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
+      "subIcon": "sub_icons/sentinel/prime_systems_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5c1bda0d14a8e4006b1dad6e",
+  "slug": "virtuos_spike",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToPunctureDamage",
+  "tags": [
+    "common",
+    "arcane_enhancement",
+    "operator"
+  ],
+  "rarity": "common",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Virtuos Spike",
+      "description": "On Hit:\nConverts 98% Void Damage to Puncture Damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Virtuos_Spike",
+      "icon": "items/images/en/virtuos_spike.8e4996323b5d41abf0354b39741c0dad.png",
+      "thumb": "items/images/en/thumbs/virtuos_spike.8e4996323b5d41abf0354b39741c0dad.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "6939aac75d9ebda239125d31",
+  "slug": "kestrel_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Glaives/PrimeKestrel/PrimeKestrel",
+  "tags": [
+    "prime",
+    "weapon",
+    "melee",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "6939aaca5d9ebda239125d34",
+    "6939aac85d9ebda239125d32",
+    "6939aac95d9ebda239125d33",
+    "6939aac75d9ebda239125d31"
+  ],
+  "ducats": 175,
+  "reqMasteryRank": 11,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kestrel Prime Set",
+      "description": "With heightened agility and power the Kestrel Prime’s heavy attacks easily knock down foes, ensuring none shall stand before it.",
+      "icon": "items/images/en/kestrel_prime_set.4d27b989c37deb1e2a0ec4499e69c874.webp",
+      "thumb": "items/images/en/thumbs/kestrel_prime_set.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+    }
+  }
+}

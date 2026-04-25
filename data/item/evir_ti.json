@@ -1,0 +1,22 @@
+{
+  "id": "693e693a03903ae8993ffafa",
+  "slug": "evir_ti",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/JumpHeight",
+  "tags": [
+    "mod",
+    "common",
+    "any"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Evir-Ti",
+      "description": "+60% Operator Jump Height",
+      "icon": "items/images/en/evir_ti.a8e1555eebd40f65569b68ecb924a1c0.webp",
+      "thumb": "items/images/en/thumbs/evir_ti.a8e1555eebd40f65569b68ecb924a1c0.128x128.webp"
+    }
+  }
+}

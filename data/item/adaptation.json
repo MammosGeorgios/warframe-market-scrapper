@@ -1,0 +1,23 @@
+{
+  "id": "5bc1ab93b919f200c18c10ef",
+  "slug": "adaptation",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarResistanceOnDamageMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Adaptation",
+      "description": "When Damaged:\n+10% Resistance to that Damage Type for 20s. Stacks up to 90%.",
+      "wikiLink": "https://wiki.warframe.com/w/Adaptation",
+      "icon": "items/images/en/adaptation.9dba90bb600779763d3c5e81f83b6dc9.png",
+      "thumb": "items/images/en/thumbs/adaptation.9dba90bb600779763d3c5e81f83b6dc9.128x128.png"
+    }
+  }
+}

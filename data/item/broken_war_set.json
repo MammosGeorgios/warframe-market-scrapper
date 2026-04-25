@@ -1,0 +1,28 @@
+{
+  "id": "582b0eb80af25410a4931616",
+  "slug": "broken_war_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/StalkerTwo/StalkerTwoSmallSword",
+  "tags": [
+    "melee",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "582b0eb80af25410a4931616",
+    "56fdbd6c2e26966de716e433",
+    "56fdbd5d2e26966de716e432"
+  ],
+  "reqMasteryRank": 10,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Broken War Set",
+      "description": "A fragment of Stalker's War sword, a symbol of his defeat.",
+      "wikiLink": "https://wiki.warframe.com/w/War",
+      "icon": "items/images/en/broken_war_set.a42d7af24d80abea602d631293f89b13.png",
+      "thumb": "items/images/en/thumbs/broken_war_set.a42d7af24d80abea602d631293f89b13.128x128.png"
+    }
+  }
+}

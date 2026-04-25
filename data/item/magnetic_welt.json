@@ -1,0 +1,24 @@
+{
+  "id": "675c61b47b18977f6e64540e",
+  "slug": "magnetic_welt",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponMagneticOnImpactShotgunMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magnetic Welt",
+      "description": "Impact Status Effects have 35% chance to apply a Magnetic Status Effect (x2 when Fire Rate is below 2.5)",
+      "wikiLink": "https://wiki.warframe.com/w/Magnetic_Welt",
+      "icon": "items/images/en/magnetic_welt.2b5f4005ed814b0e817c46a213586574.webp",
+      "thumb": "items/images/en/thumbs/magnetic_welt.2b5f4005ed814b0e817c46a213586574.128x128.webp"
+    }
+  }
+}

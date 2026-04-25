@@ -1,0 +1,23 @@
+{
+  "id": "55c153dae779895d91dff3bb",
+  "slug": "rending_turn",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/SlashParkourTwoMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rending Turn",
+      "description": "+18% to Parkour Velocity\n+18% Aim Glide/Wall Latch Duration\n+60% Slash on Bullet Jump",
+      "wikiLink": "https://wiki.warframe.com/w/Rending_Turn",
+      "icon": "items/images/en/rending_turn.1a63e9edd7387b62a3ebf1dac810dcc8.png",
+      "thumb": "items/images/en/thumbs/rending_turn.1a63e9edd7387b62a3ebf1dac810dcc8.128x128.png"
+    }
+  }
+}

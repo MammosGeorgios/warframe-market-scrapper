@@ -1,0 +1,21 @@
+{
+  "id": "5ba9f2034567de01415f638c",
+  "slug": "smeeta_kavat_imprint",
+  "gameRef": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
+  "tags": [
+    "kubrow",
+    "pet",
+    "imprint"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Smeeta Kavat Imprint",
+      "description": "This sly feline is playful yet devious.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Smeeta_Kavat",
+      "icon": "items/images/en/smeeta_kavat_imprint.0e793612eeed6e1d39d98a8f4835c3d2.png",
+      "thumb": "items/images/en/thumbs/smeeta_kavat_imprint.0e793612eeed6e1d39d98a8f4835c3d2.128x128.png"
+    }
+  }
+}

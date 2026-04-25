@@ -1,0 +1,25 @@
+{
+  "id": "6054de995221e3005750108d",
+  "slug": "kriller",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmUncommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kriller",
+      "description": "Identifies organic threats to Corpus operations in the Aqua Systems and eliminates them. It can be found in the lake on Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Kriller",
+      "icon": "items/images/en/kriller.314ce2b01ba74cd88b027d353eda1ade.png",
+      "thumb": "items/images/en/thumbs/kriller.314ce2b01ba74cd88b027d353eda1ade.128x128.png"
+    }
+  }
+}

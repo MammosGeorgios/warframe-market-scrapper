@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155ac",
+  "slug": "frostbite",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/DualStat/IceEventPistolMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Frostbite",
+      "description": "+60% Cold\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Frostbite",
+      "icon": "items/images/en/frostbite.e8c9b830402b0f3228c0c14efcae34fe.png",
+      "thumb": "items/images/en/thumbs/frostbite.e8c9b830402b0f3228c0c14efcae34fe.128x128.png"
+    }
+  }
+}

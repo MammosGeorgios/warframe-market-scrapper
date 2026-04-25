@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51565d",
+  "slug": "concussion_rounds",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponImpactDamageMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Concussion Rounds",
+      "description": "+90% Impact",
+      "wikiLink": "https://wiki.warframe.com/w/Concussion_Rounds",
+      "icon": "items/images/en/concussion_rounds.70734249af78588ef7b828fcaea629aa.png",
+      "thumb": "items/images/en/thumbs/concussion_rounds.70734249af78588ef7b828fcaea629aa.128x128.png"
+    }
+  }
+}

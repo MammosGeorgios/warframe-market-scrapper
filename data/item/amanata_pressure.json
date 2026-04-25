@@ -1,0 +1,24 @@
+{
+  "id": "66fd68073a826eccf651cd55",
+  "slug": "amanata_pressure",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Polearms/Naginata/ShrineMaidenNaginataAugment",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "amanata"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Amanata Pressure",
+      "description": "When Combo Multiplier reaches 8x, Heavy attacks apply a random Status Effect to enemies hit. +330% Melee Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Amanata_Pressure",
+      "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

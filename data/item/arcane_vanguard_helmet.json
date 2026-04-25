@@ -1,0 +1,20 @@
+{
+  "id": "54aaefabe779892ce54c8980",
+  "slug": "arcane_vanguard_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAltB",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Vanguard Helmet",
+      "description": "This helmet is worn by Rhino, and adds Speed, with a reduction to Ability Strength.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Rhino_Vanguard_Helmet",
+      "icon": "items/images/en/arcane_vanguard_rhino_helmet.fca8955cebd179b29aa59a74400340b9.png",
+      "thumb": "items/images/en/thumbs/arcane_vanguard_rhino_helmet.fca8955cebd179b29aa59a74400340b9.128x128.png"
+    }
+  }
+}

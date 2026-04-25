@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155ec",
+  "slug": "magma_chamber",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventFireStatusRifleMod",
+  "tags": [
+    "rare",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magma Chamber",
+      "description": "+60% Heat\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Magma_Chamber",
+      "icon": "items/images/en/magma_chamber.02ceda8031a23aa4a8ef0e1d24bc87db.png",
+      "thumb": "items/images/en/thumbs/magma_chamber.02ceda8031a23aa4a8ef0e1d24bc87db.128x128.png"
+    }
+  }
+}

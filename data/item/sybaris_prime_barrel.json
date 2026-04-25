@@ -1,0 +1,33 @@
+{
+  "id": "592dd262011e88f094afec85",
+  "slug": "sybaris_prime_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/SybarisPrimeBarrel",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "592dd262011e88f094afec85",
+    "592dd262011e88f094afec82",
+    "592dd262011e88f094afec84",
+    "592dd262011e88f094afec86",
+    "592dd262011e88f094afec83"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sybaris Prime Barrel",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Sybaris_Prime",
+      "icon": "items/images/en/sybaris_prime_barrel.39d7dc4a904f7db7e7c78901976aa5fa.png",
+      "thumb": "items/images/en/thumbs/sybaris_prime_barrel.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
+    }
+  }
+}

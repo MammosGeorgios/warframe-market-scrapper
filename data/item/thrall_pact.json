@@ -1,0 +1,25 @@
+{
+  "id": "5fb84767c34da3004797d539",
+  "slug": "thrall_pact",
+  "gameRef": "/Lotus/Powersuits/Revenant/RevenantMarkAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "revenant",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Thrall Pact",
+      "description": "Enthrall Augment: Gain +25% Primary Weapon Damage for each active Thrall.",
+      "wikiLink": "https://wiki.warframe.com/w/Thrall_Pact",
+      "icon": "items/images/en/thrall_pact.fd671126fd4051e8e3addc13ae56d1f0.png",
+      "thumb": "items/images/en/thumbs/thrall_pact.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+    }
+  }
+}

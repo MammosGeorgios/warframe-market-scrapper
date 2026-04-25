@@ -1,0 +1,24 @@
+{
+  "id": "60e5b8fd4794450053e99947",
+  "slug": "galvanized_scope",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/CritChanceWhileAimingRifleSPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galvanized Scope",
+      "description": "On Headshot:\n+120% Critical Chance when Aiming for 12s\nOn Headshot Kill:\n+40% Critical Chance when Aiming for 12s. Stacks up to 5x.",
+      "wikiLink": "https://wiki.warframe.com/w/Galvanized_Scope",
+      "icon": "items/images/en/galvanized_scope.40e96c1ddd7156854a1d5fc84ab986ce.png",
+      "thumb": "items/images/en/thumbs/galvanized_scope.40e96c1ddd7156854a1d5fc84ab986ce.128x128.png"
+    }
+  }
+}

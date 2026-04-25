@@ -1,0 +1,23 @@
+{
+  "id": "644b00227ec1900044b97727",
+  "slug": "longbow_sharpshot",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongbowDamageOnHeadshot",
+  "tags": [
+    "legendary",
+    "arcane_enhancement"
+  ],
+  "rarity": "legendary",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 2100000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Longbow Sharpshot",
+      "description": "On Headshot: Gain +300% damage on your next shot.",
+      "wikiLink": "https://wiki.warframe.com/w/Longbow_Sharpshot",
+      "icon": "items/images/en/longbow_sharpshot.1edd43d82c3b61da2555a2ccb9ba9332.png",
+      "thumb": "items/images/en/thumbs/longbow_sharpshot.1edd43d82c3b61da2555a2ccb9ba9332.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5f498a1f9426ed00443bd098",
+  "slug": "draining_bite",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowVampireBitePrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kavat",
+    "vasca_kavat"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Draining Bite",
+      "description": "Vasca Kavat inflicts 5 stacks of Slash at 150% of its melee damage and restores 10% Health to itself.",
+      "wikiLink": "https://wiki.warframe.com/w/Draining_Bite",
+      "icon": "items/images/en/draining_bite.4b56d382edcac59da94f7163bbf4efd4.png",
+      "thumb": "items/images/en/thumbs/draining_bite.4b56d382edcac59da94f7163bbf4efd4.128x128.png"
+    }
+  }
+}

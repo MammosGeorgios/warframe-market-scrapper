@@ -1,0 +1,30 @@
+{
+  "id": "66c60c9066bbb2aedca695a8",
+  "slug": "nautilus_prime_set",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/NautilusPrimeSentinelPowerSuit",
+  "tags": [
+    "prime",
+    "sentinel",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "66c60c9066bbb2aedca695a8",
+    "66c60c9066bbb2aedca695a9",
+    "66c60c9066bbb2aedca695ab",
+    "66c60c9066bbb2aedca695aa",
+    "66c60c9166bbb2aedca695ac"
+  ],
+  "ducats": 260,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nautilus Prime Set",
+      "description": "This brave deckhand defends his crew with Verglas Prime.",
+      "wikiLink": "https://wiki.warframe.com/w/Nautilus_Prime",
+      "icon": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+      "thumb": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+    }
+  }
+}

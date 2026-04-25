@@ -1,0 +1,23 @@
+{
+  "id": "55c153afe779895d6f802d7a",
+  "slug": "mobilize",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/ParkourTwoMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mobilize",
+      "description": "+20% to Parkour Velocity\n+20% Aim Glide/Wall Latch Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Mobilize",
+      "icon": "items/images/en/mobilize.05d2e152abd6ac55ee0939b7ab932e96.png",
+      "thumb": "items/images/en/thumbs/mobilize.05d2e152abd6ac55ee0939b7ab932e96.128x128.png"
+    }
+  }
+}

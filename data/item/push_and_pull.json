@@ -1,0 +1,25 @@
+{
+  "id": "56dac5765cc639de0a45c51d",
+  "slug": "push_and_pull",
+  "gameRef": "/Lotus/Powersuits/YinYang/YinYangSwitchPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "equinox"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Push & Pull",
+      "description": "Metamorphosis Augment: Switching to Day-form staggers enemies within 6m and knocks them down when switching to Night-form.",
+      "wikiLink": "https://wiki.warframe.com/w/Push_%26_Pull",
+      "icon": "items/images/en/push_and_pull.390046aef411e9647af281f85d990c2f.png",
+      "thumb": "items/images/en/thumbs/push_and_pull.390046aef411e9647af281f85d990c2f.128x128.png"
+    }
+  }
+}

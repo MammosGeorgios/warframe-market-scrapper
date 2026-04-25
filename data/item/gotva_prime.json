@@ -1,0 +1,21 @@
+{
+  "id": "654500acf9c750264c9cf87b",
+  "slug": "gotva_prime",
+  "gameRef": "/Lotus/Weapons/Grineer/LongGuns/GrnOrokinRifle/GrnOrokinRifleWeapon",
+  "tags": [
+    "weapon",
+    "primary"
+  ],
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gotva Prime",
+      "description": "Long before clone-rot set in, elite Grineer Commanders protected the surviving Orokin from rebelling Warframes with these formidable rifles. When Gotva Prime inflicts a Status Effect, its next shot has a chance to be a Super Critical hit.",
+      "wikiLink": "https://wiki.warframe.com/w/Gotva_Prime",
+      "icon": "items/images/en/gotva_prime.323e7113fa10a54ab363496770917b19.png",
+      "thumb": "items/images/en/thumbs/gotva_prime.323e7113fa10a54ab363496770917b19.128x128.png"
+    }
+  }
+}

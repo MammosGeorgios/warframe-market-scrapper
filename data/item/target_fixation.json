@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155cd",
+  "slug": "target_fixation",
+  "gameRef": "/Lotus/Powersuits/Tengu/DiveBombAugmentCard",
+  "tags": [
+    "mod",
+    "zephyr",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Target Fixation",
+      "description": "Tail Wind Augment: Casting Tail Wind resets Zephyr’s bullet jump. Each enemy hit increases Tail Wind Damage by 100%. Damage resets upon being on the ground for 2s.",
+      "wikiLink": "https://wiki.warframe.com/w/Target_Fixation",
+      "icon": "items/images/en/target_fixation.864aac356d2748f71e0eec733e78d6f4.png",
+      "thumb": "items/images/en/thumbs/target_fixation.864aac356d2748f71e0eec733e78d6f4.128x128.png"
+    }
+  }
+}

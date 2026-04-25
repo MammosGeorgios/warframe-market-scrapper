@@ -1,0 +1,24 @@
+{
+  "id": "67db60859cec3e52e62523f2",
+  "slug": "conductive_sphere",
+  "gameRef": "/Lotus/Powersuits/Gyre/GyrePulseAugmentCard",
+  "tags": [
+    "gyre",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Conductive Sphere",
+      "description": "Arcsphere Augment: Projectiles that pass through Arcsphere have guaranteed Electricity Status Effect and +75% Electricity Damage.",
+      "icon": "items/images/en/conductive_sphere.8c1849daaf94f9404d2160952ae70691.webp",
+      "thumb": "items/images/en/thumbs/conductive_sphere.8c1849daaf94f9404d2160952ae70691.128x128.webp"
+    }
+  }
+}

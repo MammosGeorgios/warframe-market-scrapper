@@ -1,0 +1,25 @@
+{
+  "id": "66fd67b33a826eccf651cd4b",
+  "slug": "prey_of_dynar",
+  "gameRef": "/Lotus/Powersuits/Werewolf/WerewolfShroudAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "voruna",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prey Of Dynar",
+      "description": "Shroud of Dynar Augment: Increase an enemy’s Damage Vulnerability by 50%. Using Fang of Raksh on that enemy increases its spread radius by 150%.",
+      "wikiLink": "https://wiki.warframe.com/w/Prey_of_Dynar",
+      "icon": "items/images/en/prey_of_dynar.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/prey_of_dynar.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

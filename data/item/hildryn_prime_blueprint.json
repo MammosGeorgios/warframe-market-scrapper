@@ -1,0 +1,33 @@
+{
+  "id": "641263df7d179f02100c6d40",
+  "slug": "hildryn_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HildrynPrimeBlueprint",
+  "tags": [
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "641263df7d179f02100c6d40",
+    "641263e07d179f02100c6d4b",
+    "641263e07d179f02100c6d46",
+    "641263e07d179f02100c6d43",
+    "641263e07d179f02100c6d41"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hildryn Prime Blueprint",
+      "description": "Hildryn Prime proves that power is discipline’s reward.",
+      "wikiLink": "https://wiki.warframe.com/w/Hildryn_Prime",
+      "icon": "items/images/en/hildryn_prime_blueprint.7e3f1cd4b94baa590dde37cd0ad0ba9e.png",
+      "thumb": "items/images/en/thumbs/hildryn_prime_blueprint.7e3f1cd4b94baa590dde37cd0ad0ba9e.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

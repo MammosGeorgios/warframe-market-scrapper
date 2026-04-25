@@ -1,0 +1,24 @@
+{
+  "id": "559dacd3e779897ba8819965",
+  "slug": "primed_pistol_gambit",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponCritChanceModBeginnerExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Pistol Gambit",
+      "description": "+187% Critical Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Pistol_Gambit",
+      "icon": "items/images/en/primed_pistol_gambit.a4590d10e9f17bc15d1cdaae9507d4ad.png",
+      "thumb": "items/images/en/thumbs/primed_pistol_gambit.a4590d10e9f17bc15d1cdaae9507d4ad.128x128.png"
+    }
+  }
+}

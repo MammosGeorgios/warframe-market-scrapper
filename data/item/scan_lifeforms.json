@@ -1,0 +1,21 @@
+{
+  "id": "5be701113ffcc703e462c703",
+  "slug": "scan_lifeforms",
+  "gameRef": "",
+  "tags": [
+    "mod"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Scan Aquatic Lifeforms",
+      "description": "Scan Lifeforms is a Mod that allows Oxylus to show Fishing Hotspots and apply Luminos Dye on nearby fish.",
+      "wikiLink": "https://wiki.warframe.com/w/Scan_Aquatic_Lifeforms",
+      "icon": "items/images/en/scan_lifeforms.092eac929df7c6f8d989e926cdab8733.webp",
+      "thumb": "items/images/en/thumbs/scan_lifeforms.092eac929df7c6f8d989e926cdab8733.128x128.webp"
+    }
+  }
+}

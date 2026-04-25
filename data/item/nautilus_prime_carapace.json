@@ -1,0 +1,32 @@
+{
+  "id": "66c60c9066bbb2aedca695ab",
+  "slug": "nautilus_prime_carapace",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "66c60c9066bbb2aedca695a8",
+    "66c60c9066bbb2aedca695a9",
+    "66c60c9066bbb2aedca695ab",
+    "66c60c9066bbb2aedca695aa",
+    "66c60c9166bbb2aedca695ac"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nautilus Prime Carapace",
+      "description": "A prime sentinel-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Nautilus_Prime",
+      "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+      "subIcon": "sub_icons/weapon/prime_carapace_128x128.png"
+    }
+  }
+}

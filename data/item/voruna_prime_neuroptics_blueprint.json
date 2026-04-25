@@ -1,0 +1,33 @@
+{
+  "id": "69d67671b3984cc97e24174e",
+  "slug": "voruna_prime_neuroptics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeHelmetBlueprint",
+  "tags": [
+    "component",
+    "warframe",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "69d6766fb3984cc97e24174d",
+    "69d67673b3984cc97e24174f",
+    "69d67671b3984cc97e24174e",
+    "69d6763bb3984cc97e24174b",
+    "69d67675b3984cc97e241750"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Voruna Prime Neuroptics Blueprint",
+      "description": "Neuroptics component of the Voruna Prime Warframe.",
+      "icon": "items/images/en/voruna_prime_neuroptics_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.webp",
+      "thumb": "items/images/en/thumbs/voruna_prime_neuroptics_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp",
+      "subIcon": "sub_icons/warframe/prime_helmet_128x128.png"
+    }
+  }
+}

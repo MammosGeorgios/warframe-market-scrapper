@@ -1,0 +1,23 @@
+{
+  "id": "60e70f7f479445008f27259d",
+  "slug": "secondary_deadhead",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnNoMelee",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secondary Deadhead",
+      "description": "On Precision Headshot Kill:\n+120% Damage for 24s. Stacks up to 3x.\n+30% to Headshot Multiplier\n-50% Weapon Recoil\n+30% to Headshot Multiplier\n-50% Weapon Recoil",
+      "wikiLink": "https://warframe.fandom.com/wiki/Secondary_Deadhead",
+      "icon": "items/images/en/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.png",
+      "thumb": "items/images/en/thumbs/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.128x128.png"
+    }
+  }
+}

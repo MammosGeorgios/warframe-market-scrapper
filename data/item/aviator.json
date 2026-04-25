@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155fa",
+  "slug": "aviator",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageReductionInAir",
+  "tags": [
+    "mod",
+    "warframe",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Aviator",
+      "description": "Reduced damage by 40% while airborne",
+      "wikiLink": "https://wiki.warframe.com/w/Aviator",
+      "icon": "items/images/en/aviator.4dd77aa8df43f385416456f03835c377.png",
+      "thumb": "items/images/en/thumbs/aviator.4dd77aa8df43f385416456f03835c377.128x128.png"
+    }
+  }
+}

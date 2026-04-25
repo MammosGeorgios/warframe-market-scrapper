@@ -1,0 +1,21 @@
+{
+  "id": "5b802081b6de7905dcd87475",
+  "slug": "prisma_twin_gremlins",
+  "gameRef": "/Lotus/Weapons/Grineer/Pistols/GrineerBulbousSMG/Prisma/PrismaTwinGremlinsWeapon",
+  "tags": [
+    "weapon",
+    "secondary"
+  ],
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Twin Gremlins",
+      "description": "Fused with prisma crystals, these pristine Grineer sidearms are sure to intimidate any foe.",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma_Twin_Gremlins",
+      "icon": "items/images/en/prisma_twin_gremlins.66da9249ef4b5546db8676d3c137b757.png",
+      "thumb": "items/images/en/thumbs/prisma_twin_gremlins.66da9249ef4b5546db8676d3c137b757.128x128.png"
+    }
+  }
+}

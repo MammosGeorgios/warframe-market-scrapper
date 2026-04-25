@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515637",
+  "slug": "revenge",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/Revenge",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "shade"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Revenge",
+      "description": "Sentinel will not attack an enemy unless that enemy has attacked the Sentinel's master within 10m.",
+      "wikiLink": "https://wiki.warframe.com/w/Revenge",
+      "icon": "items/images/en/revenge.977345a06289639bd2e192201008134b.png",
+      "thumb": "items/images/en/thumbs/revenge.977345a06289639bd2e192201008134b.128x128.png"
+    }
+  }
+}

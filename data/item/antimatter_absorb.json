@@ -1,0 +1,25 @@
+{
+  "id": "54e644ffe779897594fa68cf",
+  "slug": "antimatter_absorb",
+  "gameRef": "/Lotus/Powersuits/AntiMatter/AntiMatterDropAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nova",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Antimatter Absorb",
+      "description": "Antimatter Drop Augment: Absorbs enemy bullets within 5m, increasing the power of the explosion from Nova’s particle of antimatter.",
+      "wikiLink": "https://wiki.warframe.com/w/Antimatter_Absorb",
+      "icon": "items/images/en/antimatter_absorb.1402d671df9b6f5ae2504d6abec4d4fd.png",
+      "thumb": "items/images/en/thumbs/antimatter_absorb.1402d671df9b6f5ae2504d6abec4d4fd.128x128.png"
+    }
+  }
+}

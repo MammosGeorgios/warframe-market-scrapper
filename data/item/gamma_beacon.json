@@ -1,0 +1,19 @@
+{
+  "id": "598b06b4ab6b61be6fec0fb3",
+  "slug": "gamma_beacon",
+  "gameRef": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentB",
+  "tags": [
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gamma Beacon",
+      "description": "Locator beacon broadcasting on the gamma frequency",
+      "wikiLink": "https://wiki.warframe.com/w/Gamma_Beacon",
+      "icon": "items/images/en/gamma_beacon.a5eb62c1015b306fdb907b61ff8aab52.png",
+      "thumb": "items/images/en/thumbs/gamma_beacon.a5eb62c1015b306fdb907b61ff8aab52.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "682dfb8835715d4f3e9c64f6",
+  "slug": "kompressa_prime_reciever",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/KompressaPrimeReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "682dfb8835715d4f3e9c64f5",
+    "682dfb8835715d4f3e9c64f4",
+    "682dfb8835715d4f3e9c64f6",
+    "682dfb8835715d4f3e9c64f3"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kompressa Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "icon": "items/images/en/kompressa_prime_reciever.5a08eed489a41bc8482f21bdabea7637.webp",
+      "thumb": "items/images/en/thumbs/kompressa_prime_reciever.5a08eed489a41bc8482f21bdabea7637.128x128.webp",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

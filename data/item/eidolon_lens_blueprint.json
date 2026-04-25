@@ -1,0 +1,20 @@
+{
+  "id": "59e4532740c3ee1a65541c45",
+  "slug": "eidolon_lens_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Lens/GenericLensOstronBlueprint",
+  "tags": [
+    "misc",
+    "blueprint"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Eidolon Lens Blueprint",
+      "description": "An enhanced Greater Lens that has been infused with Breath of the Eidolon.",
+      "wikiLink": "https://wiki.warframe.com/w/Eidolon_Lens",
+      "icon": "items/images/en/eidolon_lens_blueprint.26bc0ab4820bbfb6d633e479007807e3.png",
+      "thumb": "items/images/en/thumbs/eidolon_lens_blueprint.26bc0ab4820bbfb6d633e479007807e3.128x128.png"
+    }
+  }
+}

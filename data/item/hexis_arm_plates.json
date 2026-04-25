@@ -1,0 +1,26 @@
+{
+  "id": "60e70f7d479445008f27258a",
+  "slug": "hexis_arm_plates",
+  "gameRef": "/Lotus/Upgrades/Skins/Armor/ArbiterOfHexisArmor/ArbiterOfHexisArmorA",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60e70f7d479445008f27258a",
+    "60e70f7f479445008f272599",
+    "60e70f7c479445008f272585",
+    "60e70f7e479445008f272597"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hexis Arm Plates",
+      "description": "An armor set traditionally worn by those entrusted with the duties of Arbitration according to the Precepts of Hexis.",
+      "icon": "items/images/en/hexis_arm_plates.aaf6be0c9918abf318d0c9f819333366.png",
+      "thumb": "items/images/en/thumbs/hexis_arm_plates.aaf6be0c9918abf318d0c9f819333366.128x128.png"
+    }
+  }
+}

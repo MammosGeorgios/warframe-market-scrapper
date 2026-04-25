@@ -1,0 +1,18 @@
+{
+  "id": "626a197bf40db600660a1d89",
+  "slug": "zariman_agri_zone_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarHydroponics",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zariman Agri-Zone Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/zariman_agri_zone_scene.18e0817eb3c054857511f49dbcf35fbe.png",
+      "thumb": "items/images/en/thumbs/zariman_agri_zone_scene.18e0817eb3c054857511f49dbcf35fbe.128x128.png"
+    }
+  }
+}

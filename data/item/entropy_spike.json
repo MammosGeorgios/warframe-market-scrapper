@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155be",
+  "slug": "entropy_spike",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/BoltoMod",
+  "tags": [
+    "syndicate",
+    "secondary",
+    "mod",
+    "rare",
+    "bolto"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Entropy Spike",
+      "description": "+20% Chance to Explode (Use with Caution)\n+1 'Entropy'",
+      "wikiLink": "https://wiki.warframe.com/w/Entropy_Spike",
+      "icon": "items/images/en/entropy_spike.def94f74a5e4438a695d47fb336d6066.png",
+      "thumb": "items/images/en/thumbs/entropy_spike.def94f74a5e4438a695d47fb336d6066.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "54e64500e779897594fa68d5",
+  "slug": "iron_shrapnel",
+  "gameRef": "/Lotus/Powersuits/Rhino/IronSkinAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rhino",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Iron Shrapnel",
+      "description": "Iron Skin Augment: Recasting Iron Skin will cause it to detonate, dealing 100% of its remaining Health as Puncture Damage, and knocking down enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Iron_Shrapnel",
+      "icon": "items/images/en/iron_shrapnel.cf00aa7e7a9d4d58c550467c24b54a3a.png",
+      "thumb": "items/images/en/thumbs/iron_shrapnel.cf00aa7e7a9d4d58c550467c24b54a3a.128x128.png"
+    }
+  }
+}

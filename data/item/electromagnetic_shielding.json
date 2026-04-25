@@ -1,0 +1,24 @@
+{
+  "id": "5729bd0dcb59ed5a9b484e8f",
+  "slug": "electromagnetic_shielding",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/AckBruntNightwatchMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "melee",
+    "ack_and_brunt"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Electromagnetic Shielding",
+      "description": "While blocking, redirect 50% of damage taken by allies within 12m to yourself.",
+      "wikiLink": "https://wiki.warframe.com/w/Electromagnetic_Shielding",
+      "icon": "items/images/en/electromagnetic_shielding.e28bfaee7d2685661a1ffd07e005c60d.png",
+      "thumb": "items/images/en/thumbs/electromagnetic_shielding.e28bfaee7d2685661a1ffd07e005c60d.128x128.png"
+    }
+  }
+}

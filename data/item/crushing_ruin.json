@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156ef",
+  "slug": "crushing_ruin",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/HammerCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "hammers"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Crushing Ruin",
+      "description": "Aerial attacks with Crowd Control combos.",
+      "wikiLink": "https://wiki.warframe.com/w/Crushing_Ruin",
+      "icon": "items/images/en/crushing_ruin.5c6f629a2ef6563aa8a1e8d0a8d4de14.png",
+      "thumb": "items/images/en/thumbs/crushing_ruin.5c6f629a2ef6563aa8a1e8d0a8d4de14.128x128.png"
+    }
+  }
+}

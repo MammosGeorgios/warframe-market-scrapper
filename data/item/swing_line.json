@@ -1,0 +1,25 @@
+{
+  "id": "54e644ffe779897594fa68d0",
+  "slug": "swing_line",
+  "gameRef": "/Lotus/Powersuits/Berserker/GrappleAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "valkyr",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Swing Line",
+      "description": "Rip Line Augment: Rip Lines has no Energy cost while Airborne.\n+20% Parkour Velocity",
+      "wikiLink": "https://wiki.warframe.com/w/Swing_Line",
+      "icon": "items/images/en/swing_line.cee452dde10f83d519cb358dcfc09276.png",
+      "thumb": "items/images/en/thumbs/swing_line.cee452dde10f83d519cb358dcfc09276.128x128.png"
+    }
+  }
+}

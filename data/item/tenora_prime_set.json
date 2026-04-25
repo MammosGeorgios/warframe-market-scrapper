@@ -1,0 +1,32 @@
+{
+  "id": "6036214f0a372600fd5614d4",
+  "slug": "tenora_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeTenora/TenoraPrimeWeapon",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "primary"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "603621500a372600fd5614d6",
+    "6036214f0a372600fd5614d0",
+    "6036214f0a372600fd5614d1",
+    "6036214f0a372600fd5614d4",
+    "6036214f0a372600fd5614d3"
+  ],
+  "ducats": 260,
+  "reqMasteryRank": 14,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tenora Prime Set",
+      "description": "Add lethal staccato percussion to Octavia's melodies with this masterpiece assault rifle.",
+      "wikiLink": "https://wiki.warframe.com/w/Tenora_Prime",
+      "icon": "items/images/en/tenora_prime_set.cdda299ba3526be64a78df20883fd173.png",
+      "thumb": "items/images/en/thumbs/tenora_prime_set.cdda299ba3526be64a78df20883fd173.128x128.png"
+    }
+  }
+}

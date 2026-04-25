@@ -1,0 +1,24 @@
+{
+  "id": "68efba9a89984fb97a33aa33",
+  "slug": "untime_rift",
+  "gameRef": "/Lotus/Powersuits/BrokenFrame/BrokenDestructAugmentCard",
+  "tags": [
+    "warframe",
+    "rare",
+    "augment",
+    "mod",
+    "xaku"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Untime Rift",
+      "description": "The Vast Untime Augment: Creates a Rift that connects to enemies suffering from Void Status Effect within 15m, doubling debuffs applied by The Vast Untime and maintaining Void Status.",
+      "icon": "items/unknown.png",
+      "thumb": ""
+    }
+  }
+}

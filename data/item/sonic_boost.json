@@ -1,0 +1,23 @@
+{
+  "id": "5be701133ffcc703e462c705",
+  "slug": "sonic_boost",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBSonicBoomMod",
+  "tags": [
+    "mod",
+    "rare",
+    "k_drive"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sonic Boost",
+      "description": "Every 10s, boosting will release a shockwave, stunning enemies in 4m.",
+      "wikiLink": "https://wiki.warframe.com/w/Sonic_Boost",
+      "icon": "items/images/en/sonic_boost.db31f38f15ee982efdcf3798dacf95c2.png",
+      "thumb": "items/images/en/thumbs/sonic_boost.db31f38f15ee982efdcf3798dacf95c2.128x128.png"
+    }
+  }
+}

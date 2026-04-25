@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515632",
+  "slug": "metal_auger",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponPunctureDepthMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Metal Auger",
+      "description": "+2.1 Punch Through",
+      "wikiLink": "https://wiki.warframe.com/w/Metal_Auger",
+      "icon": "items/images/en/metal_auger.7bf25eea245e421353f314be233d46c0.png",
+      "thumb": "items/images/en/thumbs/metal_auger.7bf25eea245e421353f314be233d46c0.128x128.png"
+    }
+  }
+}

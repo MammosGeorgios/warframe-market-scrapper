@@ -1,0 +1,31 @@
+{
+  "id": "5d9385b17ea27b0a28fd75b9",
+  "slug": "atlas_prime_set",
+  "gameRef": "/Lotus/Powersuits/Brawler/AtlasPrime",
+  "tags": [
+    "set",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5d9385b27ea27b0a28fd75bc",
+    "5d9385b17ea27b0a28fd75b8",
+    "5d9385b27ea27b0a28fd75bb",
+    "5d9385b17ea27b0a28fd75b9",
+    "5d9385b17ea27b0a28fd75ba"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Atlas Prime Set",
+      "description": "In bygone ages, mountains were said to house warriors. In this age, the mountain has become the warrior.",
+      "wikiLink": "https://wiki.warframe.com/w/Atlas_Prime",
+      "icon": "items/images/en/atlas_prime_set.91fb26397de19c27bfece550a8315a14.png",
+      "thumb": "items/images/en/thumbs/atlas_prime_set.91fb26397de19c27bfece550a8315a14.128x128.png"
+    }
+  }
+}

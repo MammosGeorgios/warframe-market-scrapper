@@ -1,0 +1,24 @@
+{
+  "id": "685d4ff2f41598dddb4cc2fa",
+  "slug": "jades_judgment",
+  "gameRef": "/Lotus/Powersuits/Choir/ChoirPoolAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "jade",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Jade's Judgment",
+      "description": "Light's Judgment Augment: Enemies damaged by the well have a 5% chance per hit to spawn a Jade Light above them, damaging them for 3s.",
+      "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+      "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp"
+    }
+  }
+}

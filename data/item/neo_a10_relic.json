@@ -1,0 +1,27 @@
+{
+  "id": "644b00237ec1900044b9772b",
+  "slug": "neo_a10_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionInarosAshVaultA",
+  "tags": [
+    "neo",
+    "relic"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Neo A10 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/neo_a10_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "thumb": "items/images/en/thumbs/neo_a10_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png"
+    }
+  }
+}

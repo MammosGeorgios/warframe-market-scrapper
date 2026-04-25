@@ -1,0 +1,24 @@
+{
+  "id": "5e7caa02267539063de48c41",
+  "slug": "anchored_glide",
+  "gameRef": "/Lotus/Powersuits/Tengu/TenguDisablePassiveMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe",
+    "zephyr"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Anchored Glide",
+      "description": "Disable Zephyr's reduced airborne gravity. Increase Ability Strength by 15%.",
+      "wikiLink": "https://wiki.warframe.com/w/Anchored_Glide",
+      "icon": "items/images/en/anchored_glide.f5f043a3836edf65ef625618548cf6f8.png",
+      "thumb": "items/images/en/thumbs/anchored_glide.f5f043a3836edf65ef625618548cf6f8.128x128.png"
+    }
+  }
+}

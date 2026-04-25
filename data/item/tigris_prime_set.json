@@ -1,0 +1,32 @@
+{
+  "id": "57bc9c84e506eb45ea251455",
+  "slug": "tigris_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeTigris/PrimeTigris",
+  "tags": [
+    "primary",
+    "prime",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "57bc9c84e506eb45ea251457",
+    "57bc9c84e506eb45ea251459",
+    "57bc9c84e506eb45ea251458",
+    "57bc9c84e506eb45ea251455",
+    "57bc9c84e506eb45ea251456"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 13,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tigris Prime Set",
+      "description": "An artifact of exquisite beauty. A weapon of deadly purpose.",
+      "wikiLink": "https://wiki.warframe.com/w/Tigris_Prime",
+      "icon": "items/images/en/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.png",
+      "thumb": "items/images/en/thumbs/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.128x128.png"
+    }
+  }
+}

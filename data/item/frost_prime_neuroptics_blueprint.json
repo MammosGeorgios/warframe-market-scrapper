@@ -1,0 +1,34 @@
+{
+  "id": "54a73e65e779893a797fff6c",
+  "slug": "frost_prime_neuroptics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/FrostPrimeHelmetBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff80",
+    "54a73e65e779893a797fff7d",
+    "54a73e65e779893a797fff6c",
+    "56783f24cbfa8f0432dd899c",
+    "54a73e65e779893a797fff79"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Frost Prime Neuroptics Blueprint",
+      "description": "Neuroptics component of the Frost Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Frost_Prime",
+      "icon": "items/images/en/frost_prime_neuroptics.4f8ff8605be1afaab9a0e5cc3c67cb21.png",
+      "thumb": "items/images/en/thumbs/frost_prime_neuroptics.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_helmet_128x128.png"
+    }
+  }
+}

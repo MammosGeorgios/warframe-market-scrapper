@@ -1,0 +1,23 @@
+{
+  "id": "57b4e5486f6b2fda8ea6caa0",
+  "slug": "territorial_aggression",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowMarkTerritoryPrecept",
+  "tags": [
+    "mod",
+    "kavat",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Territorial Aggression",
+      "description": "The Kavat stakes their territory in a radius of 6m for 15s. Each second, enemies within this area have a 30% chance of being attacked by a shadow Kavat.",
+      "wikiLink": "https://wiki.warframe.com/w/Territorial_Aggression",
+      "icon": "items/images/en/territorial_aggression.fe5b1085fb610c35d7318fb07524b81c.png",
+      "thumb": "items/images/en/thumbs/territorial_aggression.fe5b1085fb610c35d7318fb07524b81c.128x128.png"
+    }
+  }
+}

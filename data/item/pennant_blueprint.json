@@ -1,0 +1,22 @@
+{
+  "id": "5dff6e111456970316674a1c",
+  "slug": "pennant_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/TnRailjackGreatKatanaBlueprint",
+  "tags": [
+    "weapon",
+    "melee",
+    "blueprint"
+  ],
+  "reqMasteryRank": 7,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pennant Blueprint",
+      "description": "The steel flag of Old War Railjack crews, the Pennant was invaluable in repelling boarders. With each heavy attack kill the Pennant's speed of attack increases.",
+      "wikiLink": "https://wiki.warframe.com/w/Pennant",
+      "icon": "items/images/en/pennant_blueprint.c466162ce14d3ae4acbf5ccae316026c.png",
+      "thumb": "items/images/en/thumbs/pennant_blueprint.c466162ce14d3ae4acbf5ccae316026c.128x128.png"
+    }
+  }
+}

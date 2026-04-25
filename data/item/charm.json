@@ -1,0 +1,24 @@
+{
+  "id": "5788fad04fff472f131a135f",
+  "slug": "charm",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowLuckPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kavat",
+    "smeeta_kavat"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Charm",
+      "description": "Smeeta Kavat has a 40% chance every 27s to bestow its owner with good fortune.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Charm",
+      "icon": "items/images/en/charm.6112d33fa330329649e3f40e41c2b30f.png",
+      "thumb": "items/images/en/thumbs/charm.6112d33fa330329649e3f40e41c2b30f.128x128.png"
+    }
+  }
+}

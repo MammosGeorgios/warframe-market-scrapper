@@ -1,0 +1,23 @@
+{
+  "id": "5e02154e14569703bf43e54e",
+  "slug": "countermeasures",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipFlaresAbilityCard",
+  "tags": [
+    "railjack",
+    "common",
+    "mod"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Countermeasures",
+      "description": "Flares that distract enemy guided projectiles.",
+      "wikiLink": "https://wiki.warframe.com/w/Countermeasures",
+      "icon": "items/images/en/countermeasures.42ebc16d772da18cc7fdf72d811b320a.png",
+      "thumb": "items/images/en/thumbs/countermeasures.42ebc16d772da18cc7fdf72d811b320a.128x128.png"
+    }
+  }
+}

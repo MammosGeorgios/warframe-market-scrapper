@@ -1,0 +1,32 @@
+{
+  "id": "592dd262011e88f094afec86",
+  "slug": "sybaris_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeSybaris/PrimeSybarisRifle",
+  "tags": [
+    "primary",
+    "prime",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "592dd262011e88f094afec85",
+    "592dd262011e88f094afec82",
+    "592dd262011e88f094afec84",
+    "592dd262011e88f094afec86",
+    "592dd262011e88f094afec83"
+  ],
+  "ducats": 175,
+  "reqMasteryRank": 12,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sybaris Prime Set",
+      "description": "Sleek and slender, a golden symbol of Tenno perfection.",
+      "wikiLink": "https://wiki.warframe.com/w/Sybaris_Prime",
+      "icon": "items/images/en/sybaris_prime_set.39d7dc4a904f7db7e7c78901976aa5fa.png",
+      "thumb": "items/images/en/thumbs/sybaris_prime_set.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "5fb84767c34da3004797d544",
+  "slug": "arum_spinosa_guard",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfWarFanGuard",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5fb84767c34da3004797d541",
+    "5fb84767c34da3004797d544",
+    "5fb84768c34da3004797d549",
+    "5fb84768c34da3004797d545"
+  ],
+  "quantityInSet": 2,
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arum Spinosa Guard",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Arum_Spinosa",
+      "icon": "items/images/en/arum_spinosa_guard.a676e9febc397c744ba0f3d4f13b891f.png",
+      "thumb": "items/images/en/thumbs/arum_spinosa_guard.a676e9febc397c744ba0f3d4f13b891f.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_guard_128x128.png"
+    }
+  }
+}

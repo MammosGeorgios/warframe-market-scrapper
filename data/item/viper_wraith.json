@@ -1,0 +1,21 @@
+{
+  "id": "5a5a121bdd7913052b3a0967",
+  "slug": "viper_wraith",
+  "gameRef": "/Lotus/Weapons/Grineer/Pistols/WraithSingleViper/WraithSingleViper",
+  "tags": [
+    "weapon",
+    "secondary"
+  ],
+  "reqMasteryRank": 4,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Viper Wraith",
+      "description": "The uniquely styled Viper Wraith is a powerful variation on the standard machine-pistol.",
+      "wikiLink": "https://wiki.warframe.com/w/Viper_Wraith",
+      "icon": "items/images/en/viper_wraith.47ad03fdead19969888235b7e959e426.png",
+      "thumb": "items/images/en/thumbs/viper_wraith.47ad03fdead19969888235b7e959e426.128x128.png"
+    }
+  }
+}

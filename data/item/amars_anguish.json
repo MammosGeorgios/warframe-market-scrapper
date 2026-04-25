@@ -1,0 +1,23 @@
+{
+  "id": "61bb64fc3132ff00482b5fbe",
+  "slug": "amars_anguish",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Amar/AmarExilusMod",
+  "tags": [
+    "mod",
+    "common",
+    "warframe"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Amar's Anguish",
+      "description": "+15% to Parkour Velocity\n+15% Sprint Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Amar%27s_Anguish",
+      "icon": "items/images/en/amars_anguish.7ce47cf13b6ff894df2eaf142af0caf2.png",
+      "thumb": "items/images/en/thumbs/amars_anguish.7ce47cf13b6ff894df2eaf142af0caf2.128x128.png"
+    }
+  }
+}

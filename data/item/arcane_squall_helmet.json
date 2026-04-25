@@ -1,0 +1,20 @@
+{
+  "id": "54aaf196e77989526dcfba2d",
+  "slug": "arcane_squall_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAltB",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Squall Helmet",
+      "description": "This helmet is worn by Frost, and adds Ability Strength, with a reduction to Shields.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Helmet",
+      "icon": "items/images/en/arcane_squall_frost_helmet.c74f74a1c9f245336a25cf9786dbf44e.png",
+      "thumb": "items/images/en/thumbs/arcane_squall_frost_helmet.c74f74a1c9f245336a25cf9786dbf44e.128x128.png"
+    }
+  }
+}

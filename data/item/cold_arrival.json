@@ -1,0 +1,23 @@
+{
+  "id": "5c1bda0d14a8e4006b1dad6c",
+  "slug": "cold_arrival",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBColdLeakMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "k_drive"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cold Arrival",
+      "description": "Dismounting deals 400 Cold Damage to enemies within 4m.",
+      "wikiLink": "https://wiki.warframe.com/w/Cold_Arrival",
+      "icon": "items/images/en/cold_arrival.98123eebb595312973765817368b10f8.png",
+      "thumb": "items/images/en/thumbs/cold_arrival.98123eebb595312973765817368b10f8.128x128.png"
+    }
+  }
+}

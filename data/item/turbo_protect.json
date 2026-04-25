@@ -1,0 +1,22 @@
+{
+  "id": "67db60569cec3e52e62523ec",
+  "slug": "turbo_protect",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusAndSpeedOnUseMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Turbo Protect",
+      "description": "Gain 10% Disinfection and 25% chance to drop an Antivirus mod",
+      "icon": "items/images/en/turbo_protect.c7202e88435e332751d9e1eba81498d8.webp",
+      "thumb": "items/images/en/thumbs/turbo_protect.c7202e88435e332751d9e1eba81498d8.128x128.webp"
+    }
+  }
+}

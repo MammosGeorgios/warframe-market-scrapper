@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51563e",
+  "slug": "piercing_hit",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponArmorPiercingDamageMod",
+  "tags": [
+    "common",
+    "mod",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Piercing Hit",
+      "description": "+90% Puncture",
+      "wikiLink": "https://wiki.warframe.com/w/Piercing_Hit",
+      "icon": "items/images/en/piercing_hit.f2c3f27b03f5a40d3e8a6b6f7d8cfafe.png",
+      "thumb": "items/images/en/thumbs/piercing_hit.f2c3f27b03f5a40d3e8a6b6f7d8cfafe.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a51a",
+  "slug": "loose_magazine",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/FasterReloadMoreRecoilPistolMod",
+  "tags": [
+    "common",
+    "secondary",
+    "pvp",
+    "mod",
+    "pistol"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Loose Magazine",
+      "description": "+50% Reload Speed\n+50% Weapon Recoil",
+      "wikiLink": "https://wiki.warframe.com/w/Loose_Magazine",
+      "icon": "items/images/en/loose_magazine.0428fe78b8c7fa59ecd2861e1c3711b7.png",
+      "thumb": "items/images/en/thumbs/loose_magazine.0428fe78b8c7fa59ecd2861e1c3711b7.128x128.png"
+    }
+  }
+}

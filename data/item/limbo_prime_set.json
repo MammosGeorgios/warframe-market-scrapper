@@ -1,0 +1,31 @@
+{
+  "id": "5b2987abeb069f0536234278",
+  "slug": "limbo_prime_set",
+  "gameRef": "/Lotus/Powersuits/Magician/LimboPrime",
+  "tags": [
+    "set",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5b2987aaeb069f0536234276",
+    "5b2987abeb069f053623427a",
+    "5b2987abeb069f0536234277",
+    "5b2987abeb069f0536234278",
+    "5b2987abeb069f0536234279"
+  ],
+  "ducats": 260,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Limbo Prime Set",
+      "description": "Dance between realms with this golden rift walker. Featuring altered mod polarities for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Limbo_Prime",
+      "icon": "items/images/en/limbo_prime_set.7bfbc70bd8438594d45a47fba260b174.png",
+      "thumb": "items/images/en/thumbs/limbo_prime_set.7bfbc70bd8438594d45a47fba260b174.128x128.png"
+    }
+  }
+}

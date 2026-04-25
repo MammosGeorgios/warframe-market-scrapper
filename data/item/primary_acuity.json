@@ -1,0 +1,24 @@
+{
+  "id": "675c61e47b18977f6e645416",
+  "slug": "primary_acuity",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponWeakpointCriticalChanceMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primary Acuity",
+      "description": "+350% Weak Point Damage\n+350% Weak Point Critical Chance. Multishot cannot be modified.",
+      "wikiLink": "https://wiki.warframe.com/w/Primary_Acuity",
+      "icon": "items/images/en/primary_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+      "thumb": "items/images/en/thumbs/primary_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp"
+    }
+  }
+}

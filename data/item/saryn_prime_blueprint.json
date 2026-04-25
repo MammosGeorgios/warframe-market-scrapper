@@ -1,0 +1,33 @@
+{
+  "id": "56c3bbd55d2f0202da32e93b",
+  "slug": "saryn_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/SarynPrimeBlueprint",
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "56c3bbd55d2f0202da32e93b",
+    "56c3bbe45d2f0202da32e93e",
+    "56c3bbdb5d2f0202da32e93c",
+    "56c3bbea5d2f0202da32e93f",
+    "56c3bbe05d2f0202da32e93d"
+  ],
+  "quantityInSet": 1,
+  "ducats": 65,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Saryn Prime Blueprint",
+      "description": "A golden blossom conceals deadly nectar. Featuring altered mod polarities for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Saryn_Prime",
+      "icon": "items/images/en/saryn_prime_blueprint.394094bef0383f954bd38d622bb075e5.png",
+      "thumb": "items/images/en/thumbs/saryn_prime_blueprint.394094bef0383f954bd38d622bb075e5.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

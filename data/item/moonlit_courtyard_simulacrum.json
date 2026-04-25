@@ -1,0 +1,18 @@
+{
+  "id": "667237878ba7c81b70d02caa",
+  "slug": "moonlit_courtyard_simulacrum",
+  "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileUmbraShrine",
+  "tags": [
+    "simulacrum"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Moonlit Courtyard Simulacrum",
+      "description": "Simulate a battle under the light of Lua. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+      "icon": "items/images/en/moonlit_courtyard_simulacrum.413fde4939923f3a2102ed8bb31c94d4.webp",
+      "thumb": "items/images/en/thumbs/moonlit_courtyard_simulacrum.413fde4939923f3a2102ed8bb31c94d4.128x128.webp"
+    }
+  }
+}

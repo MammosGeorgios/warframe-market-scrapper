@@ -1,0 +1,24 @@
+{
+  "id": "592c30c5011e88f094afec7c",
+  "slug": "cyclone_kraken",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "machetes"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cyclone Kraken",
+      "description": "Brutal strikes with deft movement.",
+      "wikiLink": "https://wiki.warframe.com/w/Cyclone_Kraken",
+      "icon": "items/images/en/cyclone_kraken.34333055b36eb2ac252e9df5ef76cdb7.png",
+      "thumb": "items/images/en/thumbs/cyclone_kraken.34333055b36eb2ac252e9df5ef76cdb7.128x128.png"
+    }
+  }
+}

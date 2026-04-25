@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156b7",
+  "slug": "shimmering_blight",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "uncommon",
+    "stance",
+    "polearms"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shimmering Blight",
+      "description": "Fast spinning attacks and staggering strikes.",
+      "wikiLink": "https://wiki.warframe.com/w/Shimmering_Blight",
+      "icon": "items/images/en/shimmering_blight.4a5333fbc806d24aaba48ed9c62360e0.png",
+      "thumb": "items/images/en/thumbs/shimmering_blight.4a5333fbc806d24aaba48ed9c62360e0.128x128.png"
+    }
+  }
+}

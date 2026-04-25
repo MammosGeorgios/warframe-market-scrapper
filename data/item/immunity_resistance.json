@@ -1,0 +1,24 @@
+{
+  "id": "66fd6a1c3a826eccf651cd73",
+  "slug": "immunity_resistance",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/BeastWeakenedImmunityMod",
+  "tags": [
+    "mod",
+    "common",
+    "melee",
+    "claws"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Immunity Resistance",
+      "description": "+50% Status Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Immunity_Resistance",
+      "icon": "items/images/en/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/immunity_resistance.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

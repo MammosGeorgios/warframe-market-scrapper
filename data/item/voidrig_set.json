@@ -1,0 +1,29 @@
+{
+  "id": "5fde10c66db57b0185b39086",
+  "slug": "voidrig_set",
+  "gameRef": "/Lotus/Powersuits/EntratiMech/NechroTech",
+  "tags": [
+    "necramech",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5fde10c46db57b0185b3907c",
+    "5fde10c36db57b0185b39077",
+    "5fde10c46db57b0185b3907d",
+    "5fde10c66db57b0185b39086",
+    "5fde10c56db57b0185b39082"
+  ],
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Voidrig Set",
+      "description": "Nothing fancy but gets the job done and then some. With its electrified armor, this rough and ready mech can make the battlefield treacherous for the enemy with an arsenal of explosives.",
+      "wikiLink": "https://wiki.warframe.com/w/Voidrig",
+      "icon": "items/images/en/voidrig_set.7174a72013c8dc2d0464cb6454f9c161.png",
+      "thumb": "items/images/en/thumbs/voidrig_set.7174a72013c8dc2d0464cb6454f9c161.128x128.png"
+    }
+  }
+}

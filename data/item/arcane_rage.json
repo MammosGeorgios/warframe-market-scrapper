@@ -1,0 +1,23 @@
+{
+  "id": "551085dde7798972c228aed9",
+  "slug": "arcane_rage",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunDamageOnHeadshot",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Rage",
+      "description": "On Headshot:\n15% chance for +180% Damage to Primary Weapons for 24s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Rage",
+      "icon": "items/images/en/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.png",
+      "thumb": "items/images/en/thumbs/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.128x128.png"
+    }
+  }
+}

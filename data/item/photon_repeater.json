@@ -1,0 +1,25 @@
+{
+  "id": "55397302e77989047f88411c",
+  "slug": "photon_repeater",
+  "gameRef": "/Lotus/Powersuits/Trapper/MagHoleAugmentCard",
+  "tags": [
+    "vauban",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Photon Repeater",
+      "description": "Photon Strike Augment: If Photon Strike hits at least 5 enemies, the next cast will cost no Energy and fire two additional strikes.",
+      "wikiLink": "https://wiki.warframe.com/w/Photon_Repeater",
+      "icon": "items/images/en/photon_repeater.6a629b63941e30384976211533c6d0d6.png",
+      "thumb": "items/images/en/thumbs/photon_repeater.6a629b63941e30384976211533c6d0d6.128x128.png"
+    }
+  }
+}

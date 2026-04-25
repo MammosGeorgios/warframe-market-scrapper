@@ -1,0 +1,30 @@
+{
+  "id": "63ee00ff10125411da49e6f6",
+  "slug": "steflos_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnoLotusPodShotgunReceiver",
+  "tags": [
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "63ee00fd10125411da49e6ed",
+    "63ee00ff10125411da49e6f6",
+    "63ee00fe10125411da49e6f0",
+    "63ee00fd10125411da49e6ee"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Steflos Receiver",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Steflos",
+      "icon": "items/images/en/steflos_receiver.85c571f91d8c288ad8d544757a02d8ba.png",
+      "thumb": "items/images/en/thumbs/steflos_receiver.85c571f91d8c288ad8d544757a02d8ba.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

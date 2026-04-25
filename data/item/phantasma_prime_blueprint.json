@@ -1,0 +1,34 @@
+{
+  "id": "633e2e6bf570d10793afb820",
+  "slug": "phantasma_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/PhantasmaPrimeBlueprint",
+  "tags": [
+    "primary",
+    "weapon",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "633e2e6bf570d10793afb81b",
+    "633e2e6bf570d10793afb820",
+    "633e2e6cf570d10793afb824",
+    "633e2e6bf570d10793afb821",
+    "633e2e6cf570d10793afb82a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Phantasma Prime Blueprint",
+      "description": "Phantasma Prime is burnished with deadly force. In Revenant’s hands, it has increased magazine capacity. The might of its irradiated plasma is reminiscent of the fearsome Eidolon.",
+      "wikiLink": "https://wiki.warframe.com/w/Phantasma_Prime",
+      "icon": "items/images/en/phantasma_prime_blueprint.a296718b56d5a40b6df80bbedeeb4b75.png",
+      "thumb": "items/images/en/thumbs/phantasma_prime_blueprint.a296718b56d5a40b6df80bbedeeb4b75.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

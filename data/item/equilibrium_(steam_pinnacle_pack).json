@@ -1,0 +1,23 @@
+{
+  "id": "60537c312201ea0053ec2e57",
+  "slug": "equilibrium_(steam_pinnacle_pack)",
+  "gameRef": "",
+  "tags": [
+    "mod",
+    "warframe",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Equilibrium (Steam Pinnacle Pack)",
+      "description": "Health pickups give +60% Energy. Energy pickups give +60% Health.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Equilibrium",
+      "icon": "items/images/en/equilibrium_(steam_pinnacle_pack).1df38be97d928d3edafb1b4cf214cf8a.webp",
+      "thumb": "items/images/en/thumbs/equilibrium_(steam_pinnacle_pack).1df38be97d928d3edafb1b4cf214cf8a.128x128.webp"
+    }
+  }
+}

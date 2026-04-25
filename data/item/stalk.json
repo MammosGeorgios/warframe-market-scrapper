@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51561a",
+  "slug": "stalk",
+  "gameRef": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowCloakPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "huras_kubrow"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stalk",
+      "description": "The kubrow cloaks itself and its master to stalk down its prey when they are within 24m.",
+      "wikiLink": "https://wiki.warframe.com/w/Stalk",
+      "icon": "items/images/en/stalk.8b4fd08cc1127272a4cab4545c170187.png",
+      "thumb": "items/images/en/thumbs/stalk.8b4fd08cc1127272a4cab4545c170187.128x128.png"
+    }
+  }
+}

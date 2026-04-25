@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a518",
+  "slug": "loose_chamber",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/FasterReloadMoreRecoilShotgunMod",
+  "tags": [
+    "common",
+    "primary",
+    "pvp",
+    "shotgun",
+    "mod"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Loose Chamber",
+      "description": "+30% Reload Speed\n+50% Weapon Recoil",
+      "wikiLink": "https://wiki.warframe.com/w/Loose_Chamber",
+      "icon": "items/images/en/loose_chamber.f9ed43a1b642506e5a9851aff8c04614.png",
+      "thumb": "items/images/en/thumbs/loose_chamber.f9ed43a1b642506e5a9851aff8c04614.128x128.png"
+    }
+  }
+}

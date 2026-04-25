@@ -1,0 +1,32 @@
+{
+  "id": "54a73e65e779893a797fff3d",
+  "slug": "dakra_prime_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCronusLongSwordBlade",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff3d",
+    "54a73e65e779893a797fff3e",
+    "54a73e65e779893a797fff3f",
+    "56783f24cbfa8f0432dd8997"
+  ],
+  "quantityInSet": 1,
+  "ducats": 65,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dakra Prime Blade",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Dakra_Prime",
+      "icon": "items/images/en/dakra_prime_blade.785a613039ec892abc579c176f0b33da.png",
+      "thumb": "items/images/en/thumbs/dakra_prime_blade.785a613039ec892abc579c176f0b33da.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_blade_128x128.png"
+    }
+  }
+}

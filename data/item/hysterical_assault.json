@@ -1,0 +1,25 @@
+{
+  "id": "57c73be094b4b0f159ab5e13",
+  "slug": "hysterical_assault",
+  "gameRef": "/Lotus/Powersuits/Berserker/LastStandAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "valkyr",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hysterical Assault",
+      "description": "Hysteria Augment: Attack with Valkyr’s Talons to leap onto targeted enemies up to 50m away. Gain +50% Parkour Velocity and +50% Sprint Speed for 5s.",
+      "wikiLink": "https://wiki.warframe.com/w/Hysterical_Assault",
+      "icon": "items/images/en/hysterical_assault.d0eaaceb3982bdd8bb585766ed9e6204.png",
+      "thumb": "items/images/en/thumbs/hysterical_assault.d0eaaceb3982bdd8bb585766ed9e6204.128x128.png"
+    }
+  }
+}

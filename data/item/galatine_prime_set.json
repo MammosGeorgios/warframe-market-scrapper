@@ -1,0 +1,31 @@
+{
+  "id": "57bc9c99e506eb45ea25145a",
+  "slug": "galatine_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGalatine/PrimeGalatine",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "57bc9c99e506eb45ea25145c",
+    "57bc9c99e506eb45ea25145d",
+    "57bc9c99e506eb45ea25145b",
+    "57bc9c99e506eb45ea25145a"
+  ],
+  "ducats": 160,
+  "reqMasteryRank": 13,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galatine Prime Set",
+      "description": "Only Tenno were strong enough to wield this noble beast of a weapon.",
+      "wikiLink": "https://wiki.warframe.com/w/Galatine_Prime",
+      "icon": "items/images/en/galatine_prime_set.066b855eb73def09ca5f21f677010098.png",
+      "thumb": "items/images/en/thumbs/galatine_prime_set.066b855eb73def09ca5f21f677010098.128x128.png"
+    }
+  }
+}

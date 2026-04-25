@@ -1,0 +1,24 @@
+{
+  "id": "60e5b9004794450053e9995b",
+  "slug": "galvanized_savvy",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponStatusChanceSPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galvanized Savvy",
+      "description": "+80% Status Chance\nOn Kill:\n+40% Direct Damage per Status Type affecting the target for 20s. Stacks up to 2x.",
+      "wikiLink": "https://wiki.warframe.com/w/Galvanized_Savvy",
+      "icon": "items/images/en/galvanized_savvy.9ed8a3cd9bcddc9b48ca6a28c5e56682.png",
+      "thumb": "items/images/en/thumbs/galvanized_savvy.9ed8a3cd9bcddc9b48ca6a28c5e56682.128x128.png"
+    }
+  }
+}

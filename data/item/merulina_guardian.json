@@ -1,0 +1,24 @@
+{
+  "id": "63ee00ff10125411da49e6f7",
+  "slug": "merulina_guardian",
+  "gameRef": "/Lotus/Powersuits/Yareli/YareliBoardAugmentCard",
+  "tags": [
+    "yareli",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Merulina Guardian",
+      "description": "Merulina Augment: Enemies eliminated during Sea Snares heal 20% of Merulina's health. Upon healing, gain +200% Reload Speed and Fire Rate on Secondary weapons for 20s.",
+      "icon": "items/images/en/merulina_guardian.6d904a0724dbba4554bd3acdcd70c36a.png",
+      "thumb": "items/images/en/thumbs/merulina_guardian.6d904a0724dbba4554bd3acdcd70c36a.128x128.png"
+    }
+  }
+}

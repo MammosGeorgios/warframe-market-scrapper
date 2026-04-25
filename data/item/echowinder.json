@@ -1,0 +1,25 @@
+{
+  "id": "6054de965221e3005750108b",
+  "slug": "echowinder",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Echowinder",
+      "description": "Used to record visual data in the aqua systems and transmits the telemetrics to the Research Station. It can be found in the lake on Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Echowinder",
+      "icon": "items/images/en/echowinder.9fc57880582fbf57f7d35a0a4bc46e4c.png",
+      "thumb": "items/images/en/thumbs/echowinder.9fc57880582fbf57f7d35a0a4bc46e4c.128x128.png"
+    }
+  }
+}

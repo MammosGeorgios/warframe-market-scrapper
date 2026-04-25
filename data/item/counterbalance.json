@@ -1,0 +1,24 @@
+{
+  "id": "60e5b8fd4794450053e9994a",
+  "slug": "counterbalance",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponRecoilReductionMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Counterbalance",
+      "description": "-60% Weapon Recoil",
+      "wikiLink": "https://wiki.warframe.com/w/Counterbalance",
+      "icon": "items/images/en/counterbalance.d6eea5cf44dc7f219e1ae1af20563510.png",
+      "thumb": "items/images/en/thumbs/counterbalance.d6eea5cf44dc7f219e1ae1af20563510.128x128.png"
+    }
+  }
+}

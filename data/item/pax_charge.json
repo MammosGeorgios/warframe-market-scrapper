@@ -1,0 +1,23 @@
+{
+  "id": "5bf54b473ffcc7066e7eb853",
+  "slug": "pax_charge",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BulletToBattery",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pax Charge",
+      "description": "Battery Recharge Delay is reduced by +50%",
+      "wikiLink": "https://wiki.warframe.com/w/Pax_Charge",
+      "icon": "items/images/en/pax_charge.99b9e313690e8366285d0585c5da5926.png",
+      "thumb": "items/images/en/thumbs/pax_charge.99b9e313690e8366285d0585c5da5926.128x128.png"
+    }
+  }
+}

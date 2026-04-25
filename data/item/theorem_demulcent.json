@@ -1,0 +1,23 @@
+{
+  "id": "5fb84767c34da3004797d53b",
+  "slug": "theorem_demulcent",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/WeaponDamageOnResidualContact",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Theorem Demulcent",
+      "description": "Standing in a zone created by a Residual Arcane increases weapon damage by 12%/s stacking up to 15x. Effect persists for 20s upon leaving the zone.\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Theorem_Demulcent",
+      "icon": "items/images/en/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.png",
+      "thumb": "items/images/en/thumbs/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.128x128.png"
+    }
+  }
+}

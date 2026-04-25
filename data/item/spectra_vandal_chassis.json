@@ -1,0 +1,31 @@
+{
+  "id": "5dfea13b1456970294aff35a",
+  "slug": "spectra_vandal_chassis",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpectraVandalChassis",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5dfea13f1456970294aff371",
+    "5dfea1421456970294aff381",
+    "5dfea13b1456970294aff35a",
+    "5dfea1421456970294aff380",
+    "5dfea13c1456970294aff35d"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Spectra Vandal Chassis",
+      "description": "The chassis component of the Spectra Vandal.",
+      "wikiLink": "https://wiki.warframe.com/w/Spectra_Vandal",
+      "icon": "items/images/en/spectra_vandal_chassis.fe39f6aee4576d50c445d4203ee91db2.png",
+      "thumb": "items/images/en/thumbs/spectra_vandal_chassis.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_chassis_128x128.png"
+    }
+  }
+}

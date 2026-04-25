@@ -1,0 +1,24 @@
+{
+  "id": "59eb9b0952f90ed715e14144",
+  "slug": "swooping_falcon",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "swords",
+    "stance",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Swooping Falcon",
+      "description": "Quick slashes with spinning lunges.",
+      "wikiLink": "https://wiki.warframe.com/w/Swooping_Falcon",
+      "icon": "items/images/en/swooping_falcon.f21a348782f3613ef0c5d9e4d4dc9191.png",
+      "thumb": "items/images/en/thumbs/swooping_falcon.f21a348782f3613ef0c5d9e4d4dc9191.128x128.png"
+    }
+  }
+}

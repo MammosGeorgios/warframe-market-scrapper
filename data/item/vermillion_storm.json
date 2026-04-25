@@ -1,0 +1,24 @@
+{
+  "id": "55c15393e779895d5e78e215",
+  "slug": "vermillion_storm",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ClawCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "claws"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vermillion Storm",
+      "description": "Kicks woven between spinning slashes.",
+      "wikiLink": "https://wiki.warframe.com/w/Vermillion_Storm",
+      "icon": "items/images/en/vermillion_storm.0a31bf81d380ac7e5ced4e490fdb46f3.png",
+      "thumb": "items/images/en/thumbs/vermillion_storm.0a31bf81d380ac7e5ced4e490fdb46f3.128x128.png"
+    }
+  }
+}

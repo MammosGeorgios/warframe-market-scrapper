@@ -1,0 +1,27 @@
+{
+  "id": "5f498a249426ed00443bd0be",
+  "slug": "damaged_necramech_weapon_stock",
+  "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponStockItem",
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5f498a219426ed00443bd0a7",
+    "5f498a219426ed00443bd0a9",
+    "5f498a219426ed00443bd0a8",
+    "5f498a249426ed00443bd0be"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Damaged Necramech Weapon Stock",
+      "description": "The fractured back portion of a large Necramech weapon.\nLocation: Isolation Vault and Arcana Isolation Vault Bounties on the Cambion Drift (Deimos), and purchased from Loid in the Necralisk (Deimos) after completing The War Within quest",
+      "wikiLink": "https://warframe.fandom.com/wiki/Necramech",
+      "icon": "items/images/en/damaged_necramech_weapon_stock.9ad561633d99ef217f13b8cb9af1d283.png",
+      "thumb": "items/images/en/thumbs/damaged_necramech_weapon_stock.9ad561633d99ef217f13b8cb9af1d283.128x128.png"
+    }
+  }
+}

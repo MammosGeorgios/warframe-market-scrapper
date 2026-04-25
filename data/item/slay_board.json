@@ -1,0 +1,23 @@
+{
+  "id": "5be701133ffcc703e462c709",
+  "slug": "slay_board",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBSlayBoardMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "k_drive"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Slay Board",
+      "description": "On Directional Dismount: Board is launched, dealing 400 Damage while slicing enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Slay_Board",
+      "icon": "items/images/en/slay_board.b25421790c1ba6d436cb13b92fd848ed.png",
+      "thumb": "items/images/en/thumbs/slay_board.b25421790c1ba6d436cb13b92fd848ed.128x128.png"
+    }
+  }
+}

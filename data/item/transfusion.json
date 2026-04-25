@@ -1,0 +1,24 @@
+{
+  "id": "5f498a279426ed00443bd0da",
+  "slug": "transfusion",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowTransfusionPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kavat",
+    "vasca_kavat"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Transfusion",
+      "description": "When its Master is bleeding out, the Vasca Kavat sacrifices 20% of its Health to raise them.",
+      "wikiLink": "https://wiki.warframe.com/w/Transfusion",
+      "icon": "items/images/en/transfusion.1490f96a7c46fbffdc312127e042adac.png",
+      "thumb": "items/images/en/thumbs/transfusion.1490f96a7c46fbffdc312127e042adac.128x128.png"
+    }
+  }
+}

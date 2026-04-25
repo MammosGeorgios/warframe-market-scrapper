@@ -1,0 +1,33 @@
+{
+  "id": "5baa8bbf4567de01ac283495",
+  "slug": "gram_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/GramPrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "melee",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5baa8bbf4567de01ac283496",
+    "5baa8bbf4567de01ac283495",
+    "5baa8bbf4567de01ac283492",
+    "5baa8bbf4567de01ac283497"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gram Prime Blueprint",
+      "description": "Born anew, the father of swords returns.",
+      "wikiLink": "https://wiki.warframe.com/w/Gram_Prime",
+      "icon": "items/images/en/gram_prime_blueprint.678c245a88b54368ae895b73b6987231.png",
+      "thumb": "items/images/en/thumbs/gram_prime_blueprint.678c245a88b54368ae895b73b6987231.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

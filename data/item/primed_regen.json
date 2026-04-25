@@ -1,0 +1,23 @@
+{
+  "id": "587a15c8c13d58ede882322b",
+  "slug": "primed_regen",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/PrimedRegen",
+  "tags": [
+    "sentinel",
+    "mod",
+    "legendary"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Regen",
+      "description": "Sentinel recovery time reduced by 35s. Revives with 10s of invulnerability.",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Regen",
+      "icon": "items/images/en/primed_regen.d43312351a7a10acef1b56641029f044.png",
+      "thumb": "items/images/en/thumbs/primed_regen.d43312351a7a10acef1b56641029f044.128x128.png"
+    }
+  }
+}

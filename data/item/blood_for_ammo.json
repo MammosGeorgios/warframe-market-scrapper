@@ -1,0 +1,22 @@
+{
+  "id": "5dbe9b0b7ea27b0ffe3ca26f",
+  "slug": "blood_for_ammo",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionAmmoMod",
+  "tags": [
+    "mod",
+    "common",
+    "parazon"
+  ],
+  "rarity": "common",
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Blood For Ammo",
+      "description": "Mercy Kill refills Primary and Secondary Magazine by 100%",
+      "wikiLink": "https://wiki.warframe.com/w/Blood_For_Ammo",
+      "icon": "items/images/en/blood_for_ammo.f06e780d82b900677e1d866ff661410f.png",
+      "thumb": "items/images/en/thumbs/blood_for_ammo.f06e780d82b900677e1d866ff661410f.128x128.png"
+    }
+  }
+}

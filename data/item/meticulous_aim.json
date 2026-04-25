@@ -1,0 +1,24 @@
+{
+  "id": "5d6ea67b7ea27b05d929cbfe",
+  "slug": "meticulous_aim",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnSniperRifleArbitrationMod",
+  "tags": [
+    "mod",
+    "rare",
+    "vulkar",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Meticulous Aim",
+      "description": "+105% Headshot Damage\n-45% Bodyshot Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Meticulous_Aim",
+      "icon": "items/images/en/meticulous_aim.8adaccc52560178d4630d760b2530f42.png",
+      "thumb": "items/images/en/thumbs/meticulous_aim.8adaccc52560178d4630d760b2530f42.128x128.png"
+    }
+  }
+}

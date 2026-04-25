@@ -1,0 +1,24 @@
+{
+  "id": "56153836b66f836fa7d42c8c",
+  "slug": "atlantis_vulcan",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/NunchakuCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "uncommon",
+    "stance",
+    "nunchaku"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Atlantis Vulcan",
+      "description": "Rapid strikes, deceptive movements.",
+      "wikiLink": "https://wiki.warframe.com/w/Atlantis_Vulcan",
+      "icon": "items/images/en/atlantis_vulcan.e996f3c43cc79c72236bd8b5b422fc65.png",
+      "thumb": "items/images/en/thumbs/atlantis_vulcan.e996f3c43cc79c72236bd8b5b422fc65.128x128.png"
+    }
+  }
+}

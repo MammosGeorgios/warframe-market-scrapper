@@ -1,0 +1,35 @@
+{
+  "id": "60f3feb1b64404003f0bf5fd",
+  "slug": "ambassador_stock",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/CrpArSniperStock",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60f3feb1b64404003f0bf5fa",
+    "60f3feb1b64404003f0bf5fe",
+    "60f3feb1b64404003f0bf5fc",
+    "60f3feb1b64404003f0bf5fb",
+    "60f3feb1b64404003f0bf5fd"
+  ],
+  "quantityInSet": 1,
+  "subtypes": [
+    "blueprint",
+    "crafted"
+  ],
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ambassador Stock",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Ambassador",
+      "icon": "items/images/en/ambassador_stock.7ccc0f5c1047f5a0cd9f02de8d40b06f.png",
+      "thumb": "items/images/en/thumbs/ambassador_stock.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_stock_128x128.png"
+    }
+  }
+}

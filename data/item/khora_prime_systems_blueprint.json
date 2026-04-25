@@ -1,0 +1,34 @@
+{
+  "id": "62d3494175156700ce450e04",
+  "slug": "khora_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeSystemsBlueprint",
+  "tags": [
+    "prime",
+    "component",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "62d3494075156700ce450df5",
+    "62d3493f75156700ce450ded",
+    "62d3494175156700ce450dff",
+    "62d3494075156700ce450df4",
+    "62d3494175156700ce450e04"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Khora Prime Systems Blueprint",
+      "description": "Systems component of the Khora Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Khora_Prime",
+      "icon": "items/images/en/khora_prime_systems_blueprint.12b9da415ed4f659296947b5c7157dc0.png",
+      "thumb": "items/images/en/thumbs/khora_prime_systems_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

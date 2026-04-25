@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515601",
+  "slug": "link_vitality",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowLinkHealthMaxMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 10,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Link Vitality",
+      "description": "Increase Health by +125% of Warframe's Max Health",
+      "wikiLink": "https://wiki.warframe.com/w/Vitality",
+      "icon": "items/images/en/link_health.a7011e17699c06f369132a947d66e5fe.png",
+      "thumb": "items/images/en/thumbs/link_health.a7011e17699c06f369132a947d66e5fe.128x128.png"
+    }
+  }
+}

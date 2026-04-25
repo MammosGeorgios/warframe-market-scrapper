@@ -1,0 +1,24 @@
+{
+  "id": "5a04750a6c4655012038ddc5",
+  "slug": "virtuos_shadow",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/CriticalChanceOnHeadshot",
+  "tags": [
+    "operator",
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Virtuos Shadow",
+      "description": "On Headshot:\n40% chance for +60% Critical Chance for 12s",
+      "wikiLink": "https://wiki.warframe.com/w/Virtuos_Shadow",
+      "icon": "items/images/en/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.png",
+      "thumb": "items/images/en/thumbs/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5814b1f2ca550948410af0ae",
+  "slug": "chilling_reload",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ColdDmgReloadSpeedMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Chilling Reload",
+      "description": "+60% Cold\n+40% Reload Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Chilling_Reload",
+      "icon": "items/images/en/chilling_reload.92fc3f47e6bbe5bd696d4cdb7abf9f40.png",
+      "thumb": "items/images/en/thumbs/chilling_reload.92fc3f47e6bbe5bd696d4cdb7abf9f40.128x128.png"
+    }
+  }
+}

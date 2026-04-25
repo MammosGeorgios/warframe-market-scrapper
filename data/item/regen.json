@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e51561f",
+  "slug": "regen",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/Regen",
+  "tags": [
+    "mod",
+    "sentinel",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Regen",
+      "description": "Sentinel recovery time reduced by 20s. Revives with 10s of invulnerability.",
+      "wikiLink": "https://wiki.warframe.com/w/Regen",
+      "icon": "items/images/en/regen.5c9ce2616c97c6f6acd55023ca7974f7.png",
+      "thumb": "items/images/en/thumbs/regen.5c9ce2616c97c6f6acd55023ca7974f7.128x128.png"
+    }
+  }
+}

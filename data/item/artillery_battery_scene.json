@@ -1,0 +1,20 @@
+{
+  "id": "5f4ed3f2d5c36d0086f55afd",
+  "slug": "artillery_battery_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileCorpusShipMedCargoRoom",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Artillery Battery Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/artillery_battery_scene.e4b564504e09670a09b0b295274f70eb.png",
+      "thumb": "items/images/en/thumbs/artillery_battery_scene.e4b564504e09670a09b0b295274f70eb.128x128.png"
+    }
+  }
+}

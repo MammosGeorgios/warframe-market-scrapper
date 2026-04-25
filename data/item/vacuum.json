@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156c8",
+  "slug": "vacuum",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/UniversalVacuum",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "robotic"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vacuum",
+      "description": "13.5m Companion Gather-Link. Detects and collects items, including mods.",
+      "wikiLink": "https://wiki.warframe.com/w/Vacuum",
+      "icon": "items/images/en/vacuum.451be5b17b63faa76cab6fafac26dadd.png",
+      "thumb": "items/images/en/thumbs/vacuum.451be5b17b63faa76cab6fafac26dadd.128x128.png"
+    }
+  }
+}

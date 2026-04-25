@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515651",
+  "slug": "frail_momentum",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedFireRateDamageShotgun",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Frail Momentum",
+      "description": "+90% Fire Rate\n-15% Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Frail_Momentum",
+      "icon": "items/images/en/frail_momentum.8495568df9bed9b94564b2b882a57317.png",
+      "thumb": "items/images/en/thumbs/frail_momentum.8495568df9bed9b94564b2b882a57317.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5c3892672cc6ce00f238139c",
+  "slug": "desiccations_curse",
+  "gameRef": "/Lotus/Powersuits/Sandman/SandmanBlastAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare",
+    "augment",
+    "inaros"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Desiccation's Curse",
+      "description": "Desiccation Augment: Killing a blinded enemy with a Finisher has a 100% chance to summon a Swarm Kavat that will spread Scarab Swarm. Maximum Swarm Kavats +2.",
+      "wikiLink": "https://wiki.warframe.com/w/Desiccation%27s_Curse",
+      "icon": "items/images/en/desiccations_curse.4693f255bb9fd28ee707615c72244eda.png",
+      "thumb": "items/images/en/thumbs/desiccations_curse.4693f255bb9fd28ee707615c72244eda.128x128.png"
+    }
+  }
+}

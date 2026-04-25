@@ -1,0 +1,18 @@
+{
+  "id": "693e639803903ae8993ffade",
+  "slug": "la_cathédrale_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceCathedral1799ProtoframeRoom",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "La Cathédrale Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/la_cathédrale_scene.bbbae686c3cf0214278a845af1636ceb.webp",
+      "thumb": "items/images/en/thumbs/la_cathédrale_scene.bbbae686c3cf0214278a845af1636ceb.128x128.webp"
+    }
+  }
+}

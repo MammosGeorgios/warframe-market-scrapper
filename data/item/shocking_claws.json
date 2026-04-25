@@ -1,0 +1,24 @@
+{
+  "id": "66fd69303a826eccf651cd5b",
+  "slug": "shocking_claws",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/KubrowElectricConversionMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "claws"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shocking Claws",
+      "description": "+330% Electricity\n+330% Status Chance\nConverts all elemental damage from these claws to Electricity damage",
+      "wikiLink": "https://wiki.warframe.com/w/Shocking_Claws",
+      "icon": "items/images/en/shocking_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/shocking_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

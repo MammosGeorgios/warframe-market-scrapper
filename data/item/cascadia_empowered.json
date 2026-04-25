@@ -1,0 +1,23 @@
+{
+  "id": "62af145c5d2dab0054229038",
+  "slug": "cascadia_empowered",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/SecondaryOnStatusProcBonusDamage",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cascadia Empowered",
+      "description": "On Status Effect:\nDeals +750 Damage matching the Damage Type of the Status Effect",
+      "wikiLink": "https://wiki.warframe.com/w/Cascadia_Empowered",
+      "icon": "items/images/en/cascadia_empowered.677ddc0966a5d8662883735fb42d2ec3.png",
+      "thumb": "items/images/en/thumbs/cascadia_empowered.677ddc0966a5d8662883735fb42d2ec3.128x128.png"
+    }
+  }
+}

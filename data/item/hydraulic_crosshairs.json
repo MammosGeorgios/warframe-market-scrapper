@@ -1,0 +1,24 @@
+{
+  "id": "56a7b2661133f656cb085d89",
+  "slug": "hydraulic_crosshairs",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/CritChanceWhileAimingPistolMod",
+  "tags": [
+    "common",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hydraulic Crosshairs",
+      "description": "On Headshot:\n+135% Critical Chance when Aiming for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Hydraulic_Crosshairs",
+      "icon": "items/images/en/hydraulic_crosshairs.818cf18013b567c4bbe4379f9608df56.png",
+      "thumb": "items/images/en/thumbs/hydraulic_crosshairs.818cf18013b567c4bbe4379f9608df56.128x128.png"
+    }
+  }
+}

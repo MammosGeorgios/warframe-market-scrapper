@@ -1,0 +1,33 @@
+{
+  "id": "5ca2866ffc2db2035eae059b",
+  "slug": "stradavar_prime_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/StradavarPrimeBarrel",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5ca2866ffc2db2035eae059b",
+    "5ca28670fc2db2035eae05a7",
+    "5ca28670fc2db2035eae05a3",
+    "5ca2866ffc2db2035eae059c",
+    "5ca28670fc2db2035eae05a4"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stradavar Prime Barrel",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Stradavar_Prime",
+      "icon": "items/images/en/stradavar_prime_barrel.57c042a30996514288dfd70f2ce267ca.png",
+      "thumb": "items/images/en/thumbs/stradavar_prime_barrel.57c042a30996514288dfd70f2ce267ca.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
+    }
+  }
+}

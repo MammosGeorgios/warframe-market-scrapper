@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155d3",
+  "slug": "magnum_force",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedDamageRecoilPistol",
+  "tags": [
+    "mod",
+    "rare",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magnum Force",
+      "description": "+165% Damage\n-55% Accuracy",
+      "wikiLink": "https://wiki.warframe.com/w/Magnum_Force",
+      "icon": "items/images/en/magnum_force.4bcd9499631f6c61d99b930dd35493aa.png",
+      "thumb": "items/images/en/thumbs/magnum_force.4bcd9499631f6c61d99b930dd35493aa.128x128.png"
+    }
+  }
+}

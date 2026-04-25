@@ -1,0 +1,30 @@
+{
+  "id": "57dbdc685e334907aa8edb5c",
+  "slug": "amesha_wings_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/SupportArchwing/SupportArchwingWingsComponent",
+  "tags": [
+    "archwing",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "57dbdc685e334907aa8edb5b",
+    "57dbdc685e334907aa8edb5c",
+    "57dbdc685e334907aa8edb5d",
+    "57dbdc685e334907aa8edb5e"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Amesha Wings",
+      "description": "Wings component of the Amesha Archwing.",
+      "wikiLink": "https://wiki.warframe.com/w/Amesha",
+      "icon": "items/images/en/amesha_wings_blueprint.ff297caf790ef259b5715a2510974338.png",
+      "thumb": "items/images/en/thumbs/amesha_wings_blueprint.ff297caf790ef259b5715a2510974338.128x128.png",
+      "subIcon": "sub_icons/archwing/generic_wings_128x128.png"
+    }
+  }
+}

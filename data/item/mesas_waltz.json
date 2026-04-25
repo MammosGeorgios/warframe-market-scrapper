@@ -1,0 +1,25 @@
+{
+  "id": "56dac56a5cc639de0a45c51b",
+  "slug": "mesas_waltz",
+  "gameRef": "/Lotus/Powersuits/Cowgirl/GunFuPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "mesa",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mesa's Waltz",
+      "description": "Peacemaker Augment: Mesa can move at 50% Speed while using Peacemaker.",
+      "wikiLink": "https://wiki.warframe.com/w/Mesa%27s_Waltz",
+      "icon": "items/images/en/mesas_waltz.d6c93034e5a61cb41cf18a64466e3eec.png",
+      "thumb": "items/images/en/thumbs/mesas_waltz.d6c93034e5a61cb41cf18a64466e3eec.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156b0",
+  "slug": "natural_talent",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarCastingSpeedMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Natural Talent",
+      "description": "Improves Casting Speed on Warframe abilities if applicable. +50% Casting Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Natural_Talent",
+      "icon": "items/images/en/natural_talent.d93810daccabd89634d5f429fb3120d1.png",
+      "thumb": "items/images/en/thumbs/natural_talent.d93810daccabd89634d5f429fb3120d1.128x128.png"
+    }
+  }
+}

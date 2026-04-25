@@ -1,0 +1,33 @@
+{
+  "id": "5e839493267539077b0dd69a",
+  "slug": "corinth_prime_stock",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorinthPrimeStock",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5e839494267539077b0dd6b4",
+    "5e839493267539077b0dd69e",
+    "5e839494267539077b0dd6b5",
+    "5e839493267539077b0dd6a5",
+    "5e839493267539077b0dd69a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Corinth Prime Stock",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Corinth_Prime",
+      "icon": "items/images/en/corinth_prime_stock.1f73bc83dd117b5e0295b90ed0cccc8d.png",
+      "thumb": "items/images/en/thumbs/corinth_prime_stock.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_stock_128x128.png"
+    }
+  }
+}

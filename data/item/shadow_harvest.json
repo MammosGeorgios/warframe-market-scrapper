@@ -1,0 +1,25 @@
+{
+  "id": "5800c901c021d9dc0a9f891a",
+  "slug": "shadow_harvest",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPScytheStanceOne",
+  "tags": [
+    "scythes",
+    "pvp",
+    "uncommon",
+    "stance",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shadow Harvest",
+      "description": "Fighting form devised for Conclave.",
+      "wikiLink": "https://wiki.warframe.com/w/Shadow_Harvest",
+      "icon": "items/images/en/shadow_harvest.168ec1d9aeb51d09579f074739802850.png",
+      "thumb": "items/images/en/thumbs/shadow_harvest.168ec1d9aeb51d09579f074739802850.128x128.png"
+    }
+  }
+}

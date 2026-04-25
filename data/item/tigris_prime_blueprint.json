@@ -1,0 +1,34 @@
+{
+  "id": "57bc9c84e506eb45ea251459",
+  "slug": "tigris_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/PrimeTigrisBlueprint",
+  "tags": [
+    "primary",
+    "prime",
+    "weapon",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "57bc9c84e506eb45ea251457",
+    "57bc9c84e506eb45ea251459",
+    "57bc9c84e506eb45ea251458",
+    "57bc9c84e506eb45ea251455",
+    "57bc9c84e506eb45ea251456"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tigris Prime Blueprint",
+      "description": "An artifact of exquisite beauty. A weapon of deadly purpose.",
+      "wikiLink": "https://wiki.warframe.com/w/Tigris_Prime",
+      "icon": "items/images/en/tigris_prime_blueprint.5f82721ea78697c95208b9bceb72c4a4.png",
+      "thumb": "items/images/en/thumbs/tigris_prime_blueprint.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

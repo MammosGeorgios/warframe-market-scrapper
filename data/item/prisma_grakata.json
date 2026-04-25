@@ -1,0 +1,21 @@
+{
+  "id": "55a46992e77989023be347fe",
+  "slug": "prisma_grakata",
+  "gameRef": "/Lotus/Weapons/VoidTrader/PrismaGrakata",
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Grakata",
+      "description": "Encased in plates refined from pure prisma crystals, this rare element gives this assault rifle a radiant luster.",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma_Grakata",
+      "icon": "items/images/en/prisma_grakata.9a7efdc99822c298dc4ad06517450482.png",
+      "thumb": "items/images/en/thumbs/prisma_grakata.9a7efdc99822c298dc4ad06517450482.128x128.png"
+    }
+  }
+}

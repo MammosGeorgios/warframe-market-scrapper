@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156c6",
+  "slug": "enemy_radar",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/PlayerEnemyRadarAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Enemy Radar",
+      "description": "Highlights enemies on the Minimap Squad receives +30 Enemy Radar",
+      "wikiLink": "https://wiki.warframe.com/w/Enemy_Radar",
+      "icon": "items/images/en/enemy_radar.cee8b527e0265bb39d41e9aa541ac781.png",
+      "thumb": "items/images/en/thumbs/enemy_radar.cee8b527e0265bb39d41e9aa541ac781.128x128.png"
+    }
+  }
+}

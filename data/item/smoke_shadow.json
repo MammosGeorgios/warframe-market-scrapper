@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515685",
+  "slug": "smoke_shadow",
+  "gameRef": "/Lotus/Powersuits/Ninja/SmokeScreenAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare",
+    "augment",
+    "ash"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Smoke Shadow",
+      "description": "Smoke Screen Augment: Conceals allies within 15m and grants 150% Critical Chance while invisible.",
+      "wikiLink": "https://wiki.warframe.com/w/Smoke_Shadow",
+      "icon": "items/images/en/smoke_shadow.95024517615b631ded466c997ff117a6.png",
+      "thumb": "items/images/en/thumbs/smoke_shadow.95024517615b631ded466c997ff117a6.128x128.png"
+    }
+  }
+}

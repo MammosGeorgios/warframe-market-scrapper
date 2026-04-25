@@ -1,0 +1,30 @@
+{
+  "id": "6530690f22c7fd9770508544",
+  "slug": "masseter_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeMasseter/PrimeMasseter",
+  "tags": [
+    "prime",
+    "melee",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "6530690f22c7fd9770508546",
+    "6530690f22c7fd9770508545",
+    "6530690f22c7fd9770508547",
+    "6530690f22c7fd9770508544"
+  ],
+  "ducats": 160,
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Masseter Prime Set",
+      "description": "A greatsword for those with an insatiable hunger for victory. Grendel is immune to crowd-control when he performs Heavy Attacks with this weapon.",
+      "icon": "items/images/en/masseter_prime_set.d507aa3bf568e9ca76f7bc9b6d2288c8.png",
+      "thumb": "items/images/en/thumbs/masseter_prime_set.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png"
+    }
+  }
+}

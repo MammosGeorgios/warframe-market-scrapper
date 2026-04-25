@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51560e",
+  "slug": "barrel_diffusion",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponFireIterationsMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Barrel Diffusion",
+      "description": "+120% Multishot",
+      "wikiLink": "https://warframe.fandom.com/wiki/Barrel_Diffusion",
+      "icon": "items/images/en/barrel_diffusion.3c2fbabc91cc911e56dc43b046b9ecdb.png",
+      "thumb": "items/images/en/thumbs/barrel_diffusion.3c2fbabc91cc911e56dc43b046b9ecdb.128x128.png"
+    }
+  }
+}

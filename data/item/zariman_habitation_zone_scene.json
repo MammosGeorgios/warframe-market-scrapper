@@ -1,0 +1,18 @@
+{
+  "id": "626a197ef40db600660a1d8e",
+  "slug": "zariman_habitation_zone_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarLivingQuarters",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zariman Habitation Zone Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/zariman_habitation_zone_scene.0dfee67c9c789791c84953bc79060979.png",
+      "thumb": "items/images/en/thumbs/zariman_habitation_zone_scene.0dfee67c9c789791c84953bc79060979.128x128.png"
+    }
+  }
+}

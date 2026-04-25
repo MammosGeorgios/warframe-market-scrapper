@@ -1,0 +1,23 @@
+{
+  "id": "675c62587b18977f6e645422",
+  "slug": "worthy_comradery",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/PlayerWeakpointCriticalChanceAuraMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "aura"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Worthy Comradery",
+      "description": "Squad receives +75% Weak Point Critical Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Worthy_Comradery",
+      "icon": "items/images/en/worthy_comradery.94d690c00d5d0aa096e766cea678b3fe.webp",
+      "thumb": "items/images/en/thumbs/worthy_comradery.94d690c00d5d0aa096e766cea678b3fe.128x128.webp"
+    }
+  }
+}

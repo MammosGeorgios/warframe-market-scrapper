@@ -1,0 +1,19 @@
+{
+  "id": "598b06b4ab6b61be6fec0fb4",
+  "slug": "kappa_beacon",
+  "gameRef": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentC",
+  "tags": [
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kappa Beacon",
+      "description": "Locator beacon broadcasting on the kappa frequency",
+      "wikiLink": "https://wiki.warframe.com/w/Kappa_Beacon",
+      "icon": "items/images/en/kappa_beacon.dc1feec4f846fdd1254943ddcdac9856.png",
+      "thumb": "items/images/en/thumbs/kappa_beacon.dc1feec4f846fdd1254943ddcdac9856.128x128.png"
+    }
+  }
+}

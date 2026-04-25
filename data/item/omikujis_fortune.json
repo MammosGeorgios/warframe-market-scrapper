@@ -1,0 +1,24 @@
+{
+  "id": "67db60849cec3e52e62523f1",
+  "slug": "omikujis_fortune",
+  "gameRef": "/Lotus/Powersuits/Koumei/KoumeiFortuneAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "koumei",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Omikuji's Fortune",
+      "description": "Omikuji Augment: Reduce Omikuji's Cooldown by 4s when you kill an enemy with the weapon affected by Koumei's Passive.",
+      "icon": "items/images/en/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.webp",
+      "thumb": "items/images/en/thumbs/omikujis_fortune.7108a45c6b6429ed4eaf8cc2812cbc6b.128x128.webp"
+    }
+  }
+}

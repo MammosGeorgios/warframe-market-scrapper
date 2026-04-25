@@ -1,0 +1,27 @@
+{
+  "id": "6054ddc25221e30057500fbc",
+  "slug": "neo_a2_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeC",
+  "tags": [
+    "relic",
+    "neo"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Neo A2 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/neo_a2_relic.404dc9ef087cc16ca255f5b5fd17fff0.png",
+      "thumb": "items/images/en/thumbs/neo_a2_relic.404dc9ef087cc16ca255f5b5fd17fff0.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5f498a279426ed00443bd0e0",
+  "slug": "survival_instinct",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedCatbrowEvasionBuffPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kavat",
+    "sly_vulpaphyla"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Survival Instinct",
+      "description": "On Bullet Jump:\nEnemies lose sight of you for 1.5s. 5s cooldown.",
+      "wikiLink": "https://wiki.warframe.com/w/Survival_Instinct",
+      "icon": "items/images/en/survival_instinct.2251742c1764b52671e1f5622b2b34ff.png",
+      "thumb": "items/images/en/thumbs/survival_instinct.2251742c1764b52671e1f5622b2b34ff.128x128.png"
+    }
+  }
+}

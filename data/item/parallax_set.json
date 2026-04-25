@@ -1,0 +1,26 @@
+{
+  "id": "62a2baebfbd62c00450b71da",
+  "slug": "parallax_set",
+  "gameRef": "/Lotus/Types/Items/Ships/ZarimanShip",
+  "tags": [
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "62a2baebfbd62c00450b71dd",
+    "62a2baecfbd62c00450b71de",
+    "62a2baecfbd62c00450b71df",
+    "62a2baebfbd62c00450b71da"
+  ],
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Parallax Set",
+      "description": "The Parallax was designed for Zariman interplanetary research. It can deploy the advanced Orokin Eye air support, which would have allowed colonizers to study areas rich in rare resources before landing.",
+      "wikiLink": "https://wiki.warframe.com/w/Parallax",
+      "icon": "items/images/en/parallax_set.75e7e972c395cb8f385c810b9c73b55c.png",
+      "thumb": "items/images/en/thumbs/parallax_set.75e7e972c395cb8f385c810b9c73b55c.128x128.png"
+    }
+  }
+}

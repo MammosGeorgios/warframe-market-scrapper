@@ -1,0 +1,25 @@
+{
+  "id": "6054de9d5221e3005750108f",
+  "slug": "charamote",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/OrokinBothRareFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Charamote",
+      "description": "Its primary function is to reconstruct the bio-material used to regenerate Orokin structures. It can be found in cave pools on Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Charamote",
+      "icon": "items/images/en/charamote.30062a02c0c3afeb972e8b17c220a1ec.png",
+      "thumb": "items/images/en/thumbs/charamote.30062a02c0c3afeb972e8b17c220a1ec.128x128.png"
+    }
+  }
+}

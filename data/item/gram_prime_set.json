@@ -1,0 +1,31 @@
+{
+  "id": "5baa8bbf4567de01ac283497",
+  "slug": "gram_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGram/PrimeGram",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5baa8bbf4567de01ac283496",
+    "5baa8bbf4567de01ac283495",
+    "5baa8bbf4567de01ac283492",
+    "5baa8bbf4567de01ac283497"
+  ],
+  "ducats": 160,
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gram Prime Set",
+      "description": "Born anew, the father of swords returns.",
+      "wikiLink": "https://wiki.warframe.com/w/Gram_Prime",
+      "icon": "items/images/en/gram_prime_set.678c245a88b54368ae895b73b6987231.png",
+      "thumb": "items/images/en/thumbs/gram_prime_set.678c245a88b54368ae895b73b6987231.128x128.png"
+    }
+  }
+}

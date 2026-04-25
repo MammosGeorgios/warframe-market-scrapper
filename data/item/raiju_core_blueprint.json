@@ -1,0 +1,20 @@
+{
+  "id": "60e5b8ff4794450053e99959",
+  "slug": "raiju_core_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyCBlueprint",
+  "tags": [
+    "blueprint",
+    "secondary",
+    "hound"
+  ],
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Raiju Core Blueprint",
+      "icon": "items/images/en/raiju_core_blueprint.cee762f4a8cca77942a542d6720bf8e1.png",
+      "thumb": "items/images/en/thumbs/raiju_core_blueprint.cee762f4a8cca77942a542d6720bf8e1.128x128.png"
+    }
+  }
+}

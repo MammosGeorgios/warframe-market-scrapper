@@ -1,0 +1,29 @@
+{
+  "id": "63886516e7c988007b5bd50c",
+  "slug": "perigale_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/TnQuadSniper/TnQuadSniper",
+  "tags": [
+    "primary",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "63886518e7c988007b5bd516",
+    "63886518e7c988007b5bd517",
+    "63886516e7c988007b5bd50c",
+    "63886517e7c988007b5bd50e"
+  ],
+  "reqMasteryRank": 8,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Perigale Set",
+      "description": "Like a breath of wind, shots fired by this multi-barrel sniper are felt but never seen by its targets. Headshots in quick succession increase the Perigale’s ammo efficiency. When the Perigale is wielded by Voruna, its ammo pool increases.",
+      "wikiLink": "https://wiki.warframe.com/w/Perigale",
+      "icon": "items/images/en/perigale_set.679b0e40d7651d8a117e07d1c7039886.png",
+      "thumb": "items/images/en/thumbs/perigale_set.679b0e40d7651d8a117e07d1c7039886.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e515692",
+  "slug": "blazing_steel",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFireDamageMod",
+  "tags": [
+    "uncommon",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Blazing Steel",
+      "description": "+120% Heat",
+      "wikiLink": "https://wiki.warframe.com/w/Blazing_Steel",
+      "icon": "items/images/en/blazing_steel.4462c08189e7218a64537da221faa4c6.png",
+      "thumb": "items/images/en/thumbs/blazing_steel.4462c08189e7218a64537da221faa4c6.128x128.png"
+    }
+  }
+}

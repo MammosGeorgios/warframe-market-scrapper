@@ -1,0 +1,23 @@
+{
+  "id": "63886516e7c988007b5bd50b",
+  "slug": "arcane_rise",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LongGunDamageOnReload",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Rise",
+      "description": "On Reload:\n60% chance for +150% Damage to Primary Weapons for 24s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Rise",
+      "icon": "items/images/en/arcane_rise.dd639f42f0235bd00abea150d1666f89.png",
+      "thumb": "items/images/en/thumbs/arcane_rise.dd639f42f0235bd00abea150d1666f89.128x128.png"
+    }
+  }
+}

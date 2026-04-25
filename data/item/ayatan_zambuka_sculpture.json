@@ -1,0 +1,24 @@
+{
+  "id": "5dbe9b087ea27b0ffe3ca269",
+  "slug": "ayatan_zambuka_sculpture",
+  "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexH",
+  "tags": [
+    "ayatan_sculpture"
+  ],
+  "bulkTradable": true,
+  "maxAmberStars": 1,
+  "maxCyanStars": 2,
+  "baseEndo": 450,
+  "endoMultiplier": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ayatan Zambuka Sculpture",
+      "description": "This kinetic Orokin sculpture springs to life when filled with Ayatan Stars. It may also be a source of Endo.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Ayatan_Sculpture",
+      "icon": "items/images/en/ayatan_zambuka_sculpture.cfee4edb2f9ecbfef1a427dcd791847b.png",
+      "thumb": "items/images/en/thumbs/ayatan_zambuka_sculpture.cfee4edb2f9ecbfef1a427dcd791847b.128x128.png"
+    }
+  }
+}

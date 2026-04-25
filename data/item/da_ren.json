@@ -1,0 +1,22 @@
+{
+  "id": "693e664703903ae8993ffaf4",
+  "slug": "da_ren",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/ShieldSchool",
+  "tags": [
+    "mod",
+    "uncommon",
+    "any"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Da-Ren",
+      "description": "+300 Operator Shields\n+30 bonus for each <UNAIRU_CLEAN>Unairu School Mod",
+      "icon": "items/images/en/da_ren.59544028c25f11c7b4026d27caad3446.webp",
+      "thumb": "items/images/en/thumbs/da_ren.59544028c25f11c7b4026d27caad3446.128x128.webp"
+    }
+  }
+}

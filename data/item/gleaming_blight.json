@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155d5",
+  "slug": "gleaming_blight",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/DarkDaggerMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "melee",
+    "rare",
+    "dark_dagger"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gleaming Blight",
+      "description": "+100% Status Chance\n+1 'Blight'",
+      "wikiLink": "https://wiki.warframe.com/w/Gleaming_Blight",
+      "icon": "items/images/en/gleaming_blight.864cbc195d8dbbdb4adfdadd56d7de13.png",
+      "thumb": "items/images/en/thumbs/gleaming_blight.864cbc195d8dbbdb4adfdadd56d7de13.128x128.png"
+    }
+  }
+}

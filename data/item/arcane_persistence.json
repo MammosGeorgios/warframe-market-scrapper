@@ -1,0 +1,21 @@
+{
+  "id": "6939d5d8d6a357b81964f85f",
+  "slug": "arcane_persistence",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MaxDPSTakenForArmour",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Persistence",
+      "description": "Remove all Shields. If Armor is above 700: Cannot be hit for more than 500 Damage/s. Magnetic Status and Ability Nullifying Effects disable this protection.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+      "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+    }
+  }
+}

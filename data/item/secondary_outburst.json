@@ -1,0 +1,22 @@
+{
+  "id": "649322b07ec190215a693093",
+  "slug": "secondary_outburst",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MultishotForCombo",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secondary Outburst",
+      "description": "On swapping to Secondary Weapon, consume all Combo Multipliers to increase Secondary Weapon Critical Chance and Critical Damage by 20% per Combo consumed for 30s.",
+      "icon": "items/images/en/secondary_outburst.01c8242b80d987650c8e240454b93249.png",
+      "thumb": "items/images/en/thumbs/secondary_outburst.01c8242b80d987650c8e240454b93249.128x128.png"
+    }
+  }
+}

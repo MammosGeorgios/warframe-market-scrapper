@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515634",
+  "slug": "master_thief",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarChanceToLoot",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Master Thief",
+      "description": "+40% chance to unlock locked lockers.",
+      "wikiLink": "https://wiki.warframe.com/w/Master_Thief",
+      "icon": "items/images/en/master_thief.5baf4d4ff0f669f514245a4b30f9b867.png",
+      "thumb": "items/images/en/thumbs/master_thief.5baf4d4ff0f669f514245a4b30f9b867.128x128.png"
+    }
+  }
+}

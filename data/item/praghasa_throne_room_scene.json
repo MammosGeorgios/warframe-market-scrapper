@@ -1,0 +1,19 @@
+{
+  "id": "6214e890e3c4660048a8b981",
+  "slug": "praghasa_throne_room_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileTNWBallasThroneRoomEnding",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Praghasa Throne Room Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/praghasa_throne_room_scene.f971332d748ac185c486fb0faba19e88.png",
+      "thumb": "items/images/en/thumbs/praghasa_throne_room_scene.f971332d748ac185c486fb0faba19e88.128x128.png"
+    }
+  }
+}

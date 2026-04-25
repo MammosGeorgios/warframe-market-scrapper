@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156f5",
+  "slug": "thermite_rounds",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/DualStat/FireEventRifleMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Thermite Rounds",
+      "description": "+60% Heat\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Thermite_Rounds",
+      "icon": "items/images/en/thermite_rounds.01409c333c8c063b51cac3283ebaaa30.png",
+      "thumb": "items/images/en/thumbs/thermite_rounds.01409c333c8c063b51cac3283ebaaa30.128x128.png"
+    }
+  }
+}

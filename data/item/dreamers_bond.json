@@ -1,0 +1,23 @@
+{
+  "id": "65d6509a453a14fbc68e2739",
+  "slug": "dreamers_bond",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/PlayerEnergyHealthRegenAuraMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "aura"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dreamer's Bond",
+      "description": "Squad receives +0.3 Energy Regen/s and +1.5 Health Regen/s",
+      "wikiLink": "https://wiki.warframe.com/w/Dreamer%27s_Bond",
+      "icon": "items/images/en/dreamers_bond.b08406e3487c624b0f94e813ef0ed326.png",
+      "thumb": "items/images/en/thumbs/dreamers_bond.b08406e3487c624b0f94e813ef0ed326.128x128.png"
+    }
+  }
+}

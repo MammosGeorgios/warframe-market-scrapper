@@ -1,0 +1,24 @@
+{
+  "id": "604b78670a372603583c1643",
+  "slug": "primed_chilling_grasp",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponFreezeDamageModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Chilling Grasp",
+      "description": "+165% Cold",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Chilling_Grasp",
+      "icon": "items/images/en/primed_chilling_grasp.2b25a580922abcba87c88a9b83e0678e.png",
+      "thumb": "items/images/en/thumbs/primed_chilling_grasp.2b25a580922abcba87c88a9b83e0678e.128x128.png"
+    }
+  }
+}

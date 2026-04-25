@@ -1,0 +1,24 @@
+{
+  "id": "5be5f5a23ffcc7038857f11d",
+  "slug": "shock_collar",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowElectEventMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "claws"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shock Collar",
+      "description": "+60% Electricity\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Shock_Collar",
+      "icon": "items/images/en/shock_collar.a434f653cdec1d961e045ac057b5ac16.png",
+      "thumb": "items/images/en/thumbs/shock_collar.a434f653cdec1d961e045ac057b5ac16.128x128.png"
+    }
+  }
+}

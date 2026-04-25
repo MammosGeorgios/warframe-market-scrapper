@@ -1,0 +1,23 @@
+{
+  "id": "644b00247ec1900044b97733",
+  "slug": "arcane_reaper",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthRegenAndArmorOnMeleeKill",
+  "tags": [
+    "legendary",
+    "arcane_enhancement"
+  ],
+  "rarity": "legendary",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 2100000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Reaper",
+      "description": "On Melee Kill:\n+24 Health Regen/s and +660 Armor for 10s.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Reaper",
+      "icon": "items/images/en/arcane_reaper.5eaac187d816d010ec44ee1a05979564.png",
+      "thumb": "items/images/en/thumbs/arcane_reaper.5eaac187d816d010ec44ee1a05979564.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156ec",
+  "slug": "parry",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarParryMeleeMod",
+  "tags": [
+    "mod",
+    "melee",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Parry",
+      "description": "+96% chance to open enemies to Finisher Attacks after Warframe blocks Melee",
+      "wikiLink": "https://wiki.warframe.com/w/Parry",
+      "icon": "items/images/en/parry.4b54740be3c6ad73ed79e1406345762e.png",
+      "thumb": "items/images/en/thumbs/parry.4b54740be3c6ad73ed79e1406345762e.128x128.png"
+    }
+  }
+}

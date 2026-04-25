@@ -1,0 +1,18 @@
+{
+  "id": "63ee010010125411da49e6fe",
+  "slug": "citrines_last_wish_factory_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/PhotoboothCitrinesLastWish",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Citrine's Last Wish Factory Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/citrines_last_wish_factory_scene.ada19c70709531d5111e8a78f7c48496.png",
+      "thumb": "items/images/en/thumbs/citrines_last_wish_factory_scene.ada19c70709531d5111e8a78f7c48496.128x128.png"
+    }
+  }
+}

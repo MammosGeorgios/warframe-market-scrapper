@@ -1,0 +1,23 @@
+{
+  "id": "5a0ef77010bc4000b8a7c12a",
+  "slug": "primed_fever_strike",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponToxinDamageModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "melee"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Fever Strike",
+      "description": "+165% Toxin",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Fever_Strike",
+      "icon": "items/images/en/primed_fever_strike.a0dc6eb9fbb4c6648aed7793ca40286b.png",
+      "thumb": "items/images/en/thumbs/primed_fever_strike.a0dc6eb9fbb4c6648aed7793ca40286b.128x128.png"
+    }
+  }
+}

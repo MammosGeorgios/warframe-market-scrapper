@@ -1,0 +1,23 @@
+{
+  "id": "59dfeb63115f1d887cfd7aba",
+  "slug": "vigilante_armaments",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteArmamentsMod",
+  "tags": [
+    "mod",
+    "common",
+    "primary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vigilante Armaments",
+      "description": "+60% Multishot",
+      "wikiLink": "https://wiki.warframe.com/w/Vigilante_Armaments",
+      "icon": "items/images/en/vigilante_armaments.4aa8eaec104ba573159a2cbf207b6314.png",
+      "thumb": "items/images/en/thumbs/vigilante_armaments.4aa8eaec104ba573159a2cbf207b6314.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "59eba86952f90ed715e14156",
+  "slug": "esher_devar",
+  "gameRef": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem",
+  "tags": [
+    "gem"
+  ],
+  "bulkTradable": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Esher Devar",
+      "description": "Polished and cut to perfection. Blueprint sold by Old Man Suumbaat in Cetus on Earth.",
+      "wikiLink": "https://wiki.warframe.com/w/Esher_Devar",
+      "icon": "items/images/en/esher_devar.c0c43cd7a20d441676da210e92a83600.png",
+      "thumb": "items/images/en/thumbs/esher_devar.c0c43cd7a20d441676da210e92a83600.128x128.png"
+    }
+  }
+}

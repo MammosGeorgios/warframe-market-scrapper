@@ -1,0 +1,34 @@
+{
+  "id": "57bc9a40e506eb45ea251454",
+  "slug": "nekros_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/NekrosPrimeSystemsBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "57bcb14ce506eb45ea25145e",
+    "57bc9a40e506eb45ea251452",
+    "57bc9a40e506eb45ea251453",
+    "57bc9a40e506eb45ea251451",
+    "57bc9a40e506eb45ea251454"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nekros Prime Systems Blueprint",
+      "description": "Systems component of the Nekros Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Nekros_Prime",
+      "icon": "items/images/en/nekros_prime_systems.523943a15c82985ebe7cf14eac98966d.png",
+      "thumb": "items/images/en/thumbs/nekros_prime_systems.523943a15c82985ebe7cf14eac98966d.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

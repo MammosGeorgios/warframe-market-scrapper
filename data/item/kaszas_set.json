@@ -1,0 +1,29 @@
+{
+  "id": "582b0f630af25410b099f7f7",
+  "slug": "kaszas_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchScythe/ArchScythe",
+  "tags": [
+    "weapon",
+    "set",
+    "melee",
+    "archwing"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5783bee2d9b6753790c89e87",
+    "5783bea1d9b6753790c89e86",
+    "582b0f630af25410b099f7f7"
+  ],
+  "reqMasteryRank": 4,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kaszas Set",
+      "description": "Become an angel of death, with this Archwing scythe.",
+      "wikiLink": "https://wiki.warframe.com/w/Kaszas",
+      "icon": "items/images/en/kaszas_set.11baea8229af2d3500c79b829f9dfcee.png",
+      "thumb": "items/images/en/thumbs/kaszas_set.11baea8229af2d3500c79b829f9dfcee.128x128.png"
+    }
+  }
+}

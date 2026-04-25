@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515598",
+  "slug": "fleeting_expertise",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/DualStat/CorruptedEfficiencyDurationWarframe",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fleeting Expertise",
+      "description": "+60% Ability Efficiency\n-60% Ability Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Fleeting_Expertise",
+      "icon": "items/images/en/fleeting_expertise.30c89f6ff728063e5579edd42dd7f811.png",
+      "thumb": "items/images/en/thumbs/fleeting_expertise.30c89f6ff728063e5579edd42dd7f811.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515612",
+  "slug": "steel_fiber",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarArmourMod",
+  "tags": [
+    "mod",
+    "common",
+    "warframe"
+  ],
+  "rarity": "common",
+  "maxRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Steel Fiber",
+      "description": "+100% Armor",
+      "wikiLink": "https://wiki.warframe.com/w/Steel_Fiber",
+      "icon": "items/images/en/steel_fiber.6826e2157afefd04342da1d857afa629.png",
+      "thumb": "items/images/en/thumbs/steel_fiber.6826e2157afefd04342da1d857afa629.128x128.png"
+    }
+  }
+}

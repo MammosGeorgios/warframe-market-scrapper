@@ -1,0 +1,27 @@
+{
+  "id": "65a7fc7eed5b0d2e3eb462b7",
+  "slug": "axi_a18_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussPrimeD",
+  "tags": [
+    "relic",
+    "axi"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Axi A18 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/axi_a18_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "thumb": "items/images/en/thumbs/axi_a18_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  }
+}

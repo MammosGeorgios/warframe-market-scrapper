@@ -1,0 +1,25 @@
+{
+  "id": "60e70f7a479445008f272575",
+  "slug": "meridian_armor_set",
+  "gameRef": "",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "60e70f7a479445008f272576",
+    "60e70f7a479445008f272575",
+    "60e70f79479445008f272574",
+    "60e70f80479445008f2725a0"
+  ],
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Meridian Armor Set",
+      "description": "Pieced together from salvage, this ad hoc armor set is signature to the Grineer renegades of Steel Meridian.",
+      "icon": "items/images/en/meridian_armor_set.cd1d665185d07b8996c4f4d6b6c1aa4e.webp",
+      "thumb": "items/images/en/thumbs/meridian_armor_set.cd1d665185d07b8996c4f4d6b6c1aa4e.128x128.webp"
+    }
+  }
+}

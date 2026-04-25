@@ -1,0 +1,26 @@
+{
+  "id": "585a93012c2ada004f1a297e",
+  "slug": "prisma_shade",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrismaShadePowerSuit",
+  "tags": [
+    "sentinel"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "62af145d5d2dab005422903f",
+    "585a93012c2ada004f1a297e",
+    "62af145c5d2dab0054229039"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Shade",
+      "description": "A rare jewel of the void. How could anything so beautiful be crafted for stealth?",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma_Shade",
+      "icon": "items/images/en/prisma_shade.cc1c7bc7c621300a6af014b735ec3430.png",
+      "thumb": "items/images/en/thumbs/prisma_shade.cc1c7bc7c621300a6af014b735ec3430.128x128.png"
+    }
+  }
+}

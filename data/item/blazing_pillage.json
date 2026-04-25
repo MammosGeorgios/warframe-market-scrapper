@@ -1,0 +1,25 @@
+{
+  "id": "5ea087d2c160d001303f9ed9",
+  "slug": "blazing_pillage",
+  "gameRef": "/Lotus/Powersuits/IronFrame/IronFrameStripAugmentCard",
+  "tags": [
+    "hildryn",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Blazing Pillage",
+      "description": "Pillage Augment: Enemies affected by Haven will be set ablaze for 200 Heat Damage and restore 50 additional Shields to Hildryn.",
+      "wikiLink": "https://wiki.warframe.com/w/Blazing_Pillage",
+      "icon": "items/images/en/blazing_pillage.4896fadb52f2709ef2a7a308e33736da.png",
+      "thumb": "items/images/en/thumbs/blazing_pillage.4896fadb52f2709ef2a7a308e33736da.128x128.png"
+    }
+  }
+}

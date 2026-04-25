@@ -1,0 +1,24 @@
+{
+  "id": "5788fadc4fff472f131a1362",
+  "slug": "reflect",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowReflectPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kavat",
+    "adarza_kavat"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reflect",
+      "description": "Adarza Kavat has a 40% chance to reflect damage back to an enemy, amplifying it by 60%.",
+      "wikiLink": "https://wiki.warframe.com/w/Reflect",
+      "icon": "items/images/en/reflect.425845045b282ef7487fc8f5566cc6d5.png",
+      "thumb": "items/images/en/thumbs/reflect.425845045b282ef7487fc8f5566cc6d5.128x128.png"
+    }
+  }
+}

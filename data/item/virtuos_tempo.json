@@ -1,0 +1,24 @@
+{
+  "id": "5a04750b6c4655012038ddc8",
+  "slug": "virtuos_tempo",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/AttackSpeedOnKill",
+  "tags": [
+    "common",
+    "arcane_enhancement",
+    "operator"
+  ],
+  "rarity": "common",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Virtuos Tempo",
+      "description": "On Kill:\n60% chance for +60% Fire Rate for 8s",
+      "wikiLink": "https://wiki.warframe.com/w/Virtuos_Tempo",
+      "icon": "items/images/en/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.png",
+      "thumb": "items/images/en/thumbs/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.128x128.png"
+    }
+  }
+}

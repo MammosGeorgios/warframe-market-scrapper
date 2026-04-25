@@ -1,0 +1,31 @@
+{
+  "id": "592dd262011e88f094afec81",
+  "slug": "oberon_prime_set",
+  "gameRef": "/Lotus/Powersuits/Paladin/PaladinPrime",
+  "tags": [
+    "warframe",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "592dd262011e88f094afec7d",
+    "592dd262011e88f094afec7f",
+    "592dd262011e88f094afec7e",
+    "592dd262011e88f094afec81",
+    "592dd262011e88f094afec80"
+  ],
+  "ducats": 225,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Oberon Prime Set",
+      "description": "Protect the balance with this regal forest guardian. Featuring altered mod polarities for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Oberon_Prime",
+      "icon": "items/images/en/oberon_prime_set.d7f1623552bce11f166b715679e27022.png",
+      "thumb": "items/images/en/thumbs/oberon_prime_set.d7f1623552bce11f166b715679e27022.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "54e644ffe779897594fa68d3",
+  "slug": "shocking_speed",
+  "gameRef": "/Lotus/Powersuits/Volt/SpeedAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "volt"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shocking Speed",
+      "description": "Speed Augment: While moving under the effects of Speed, enemies within 3m will take 300 Electricity Damage with guaranteed Status effect.",
+      "wikiLink": "https://wiki.warframe.com/w/Shocking_Speed",
+      "icon": "items/images/en/shocking_speed.601d970a543d0679fbc5197444f8500b.png",
+      "thumb": "items/images/en/thumbs/shocking_speed.601d970a543d0679fbc5197444f8500b.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "667236b88ba7c81b70d02c90",
+  "slug": "arcane_ice_storm",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityPowerOnFreeze",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Ice Storm",
+      "description": "On Enemy Frozen: Gain +2% Ability Strength and +2% Ability Duration for 15s. Stacks up to 20x.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Ice_Storm",
+      "icon": "items/images/en/arcane_ice_storm.1d3a88fec2c4d415bf8156e2ec9caeeb.webp",
+      "thumb": "items/images/en/thumbs/arcane_ice_storm.1d3a88fec2c4d415bf8156e2ec9caeeb.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5c1bda0f14a8e4006b1dad72",
+  "slug": "magus_lockdown",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/TetherMineOnDash",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magus Lockdown",
+      "description": "On Void Sling:\nDrop a mine that tethers up to 10 enemies in 15m for 4s.",
+      "wikiLink": "https://wiki.warframe.com/w/Magus_Lockdown",
+      "icon": "items/images/en/magus_lockdown.db5242eedb9db87b7e8638c3a2aa4cce.png",
+      "thumb": "items/images/en/thumbs/magus_lockdown.db5242eedb9db87b7e8638c3a2aa4cce.128x128.png"
+    }
+  }
+}

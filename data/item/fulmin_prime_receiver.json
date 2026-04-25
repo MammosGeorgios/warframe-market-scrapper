@@ -1,0 +1,33 @@
+{
+  "id": "64c2aa1666456704eba6ba46",
+  "slug": "fulmin_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/FulminPrimeReceiver",
+  "tags": [
+    "prime",
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "64c2aa1466456704eba6ba32",
+    "64c2aa1466456704eba6ba30",
+    "64c2aa1666456704eba6ba46",
+    "64c2aa1466456704eba6ba36",
+    "64c2aa1466456704eba6ba37"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fulmin Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Fulmin_Prime",
+      "icon": "items/images/en/fulmin_prime_receiver.a7295ff536f9f735088ebb3adc7c5958.png",
+      "thumb": "items/images/en/thumbs/fulmin_prime_receiver.a7295ff536f9f735088ebb3adc7c5958.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

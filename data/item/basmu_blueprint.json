@@ -1,0 +1,22 @@
+{
+  "id": "5fde10c56db57b0185b3907f",
+  "slug": "basmu_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/SentRifleNewWarGunBlueprint",
+  "tags": [
+    "primary",
+    "weapon",
+    "blueprint"
+  ],
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Basmu Blueprint",
+      "description": "This Sentient war instrument can either barrage targets with explosive bolts, or, draw on its regenerative battery to create twin plasma beams that chain through targets. When fully drained, Health is leached from nearby foes for a short period.",
+      "wikiLink": "https://wiki.warframe.com/w/Basmu",
+      "icon": "items/images/en/basmu_blueprint.ab36934ae211962ea583e628c1a5cfbb.png",
+      "thumb": "items/images/en/thumbs/basmu_blueprint.ab36934ae211962ea583e628c1a5cfbb.128x128.png"
+    }
+  }
+}

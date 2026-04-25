@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4f7",
+  "slug": "spring_loaded_broadhead",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DaikyuMoreDamageOverDistanceMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "rare",
+    "daikyu",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Spring-Loaded Broadhead",
+      "description": "Increase damage by +40%\nif the target is over 15m away.",
+      "wikiLink": "https://wiki.warframe.com/w/Spring-Loaded_Broadhead",
+      "icon": "items/images/en/spring_loaded_broadhead.8457bdc8b1bcad57c7c22fb94bd5bebd.png",
+      "thumb": "items/images/en/thumbs/spring_loaded_broadhead.8457bdc8b1bcad57c7c22fb94bd5bebd.128x128.png"
+    }
+  }
+}

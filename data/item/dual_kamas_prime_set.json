@@ -1,0 +1,31 @@
+{
+  "id": "56783f24cbfa8f0432dd8999",
+  "slug": "dual_kamas_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/PrimeDualKamas/PrimeDualKamas",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "561536deb66f836f8bbaca47",
+    "561536d5b66f836f889b79bb",
+    "561536e4b66f836f8e15eb18",
+    "56783f24cbfa8f0432dd8999"
+  ],
+  "ducats": 305,
+  "reqMasteryRank": 8,
+  "tradingTax": 10000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dual Kamas Prime Set",
+      "description": "The sensual lines of these golden Kamas have long been celebrated as a masterwork of Tenno weapon smithing.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Dual_Kamas_Prime",
+      "icon": "items/images/en/dual_kamas_prime_set.7d95cad6d71a59fa98902cc8bfe87da2.png",
+      "thumb": "items/images/en/thumbs/dual_kamas_prime_set.7d95cad6d71a59fa98902cc8bfe87da2.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "60e70f7c479445008f272587",
+  "slug": "suda_armor_set",
+  "gameRef": "",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "60e70f7c479445008f272586",
+    "60e70f7c479445008f272587",
+    "60e70f79479445008f27256f",
+    "60e70f7b479445008f27257f"
+  ],
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Suda Armor Set",
+      "description": "From knowledge: creation. An armor set forged to exacting Precepts.",
+      "icon": "items/images/en/suda_armor_set.9bf5ef65cf73d16a9ba34f5495e51d3b.webp",
+      "thumb": "items/images/en/thumbs/suda_armor_set.9bf5ef65cf73d16a9ba34f5495e51d3b.128x128.webp"
+    }
+  }
+}

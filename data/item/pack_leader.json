@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515602",
+  "slug": "pack_leader",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowPackLeaderMod",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pack Leader",
+      "description": "Heal your Companion with Melee hits. Excess healing grants Overguard. +100 Health per hit\n+1200 Overguard Max",
+      "wikiLink": "https://wiki.warframe.com/w/Pack_Leader",
+      "icon": "items/images/en/pack_leader.4e87848ac52dd4ab5673acb0ddcaadfb.png",
+      "thumb": "items/images/en/thumbs/pack_leader.4e87848ac52dd4ab5673acb0ddcaadfb.128x128.png"
+    }
+  }
+}

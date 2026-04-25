@@ -1,0 +1,25 @@
+{
+  "id": "6054de9f5221e30057501090",
+  "slug": "tromyzon",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/OrokinCoolRareFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tromyzon",
+      "description": "Programmed to break down chemical byproducts leaked into the aqua system. It can be found in ponds around Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Tromyzon",
+      "icon": "items/images/en/tromyzon.b596391db46a92ee471fb3b94f265881.png",
+      "thumb": "items/images/en/thumbs/tromyzon.b596391db46a92ee471fb3b94f265881.128x128.png"
+    }
+  }
+}

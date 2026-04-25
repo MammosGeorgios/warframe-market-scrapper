@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a501",
+  "slug": "vanquished_prey",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RestoreShieldsOnKillMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "rare",
+    "mod",
+    "assault_rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vanquished Prey",
+      "description": "On Kill:\n-100% Shield Recharge Delay for 10s\n-25% from Health Orbs",
+      "wikiLink": "https://wiki.warframe.com/w/Vanquished_Prey",
+      "icon": "items/images/en/vanquished_prey.14414e6361957d4741225cb9606adf8a.png",
+      "thumb": "items/images/en/thumbs/vanquished_prey.14414e6361957d4741225cb9606adf8a.128x128.png"
+    }
+  }
+}

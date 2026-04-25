@@ -1,0 +1,23 @@
+{
+  "id": "626a1979f40db600660a1d81",
+  "slug": "emergence_renewed",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/OperatorOnEnergyDepletedRegenEnergy",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Emergence Renewed",
+      "description": "On Energy Depleted:\nIncrease Energy Regeneration by 300% over 5s. Cooldown: 30s",
+      "wikiLink": "https://wiki.warframe.com/w/Emergence_Renewed",
+      "icon": "items/images/en/emergence_renewed.a5f55caadd8f27ff5acbe25bbd9b00a7.png",
+      "thumb": "items/images/en/thumbs/emergence_renewed.a5f55caadd8f27ff5acbe25bbd9b00a7.128x128.png"
+    }
+  }
+}

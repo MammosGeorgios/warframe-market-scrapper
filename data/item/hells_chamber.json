@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515644",
+  "slug": "hells_chamber",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireIterationsMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hell's Chamber",
+      "description": "+120% Multishot",
+      "wikiLink": "https://wiki.warframe.com/w/Hell%27s_Chamber",
+      "icon": "items/images/en/hells_chamber.eb3ff423fe41efafd3b7f7565a0c4d59.png",
+      "thumb": "items/images/en/thumbs/hells_chamber.eb3ff423fe41efafd3b7f7565a0c4d59.128x128.png"
+    }
+  }
+}

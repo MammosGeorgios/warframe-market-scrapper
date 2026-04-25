@@ -1,0 +1,33 @@
+{
+  "id": "5dfea1421456970294aff381",
+  "slug": "spectra_vandal_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/SpectraVandalBlueprint",
+  "tags": [
+    "weapon",
+    "modular",
+    "secondary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5dfea13f1456970294aff371",
+    "5dfea1421456970294aff381",
+    "5dfea13b1456970294aff35a",
+    "5dfea1421456970294aff380",
+    "5dfea13c1456970294aff35d"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Spectra Vandal Blueprint",
+      "description": "A special-order Corpus cutting tool for master crafters only. Features distinctive azurite plating and a focusing crystal of precision clarity and cut.",
+      "wikiLink": "https://wiki.warframe.com/w/Spectra_Vandal",
+      "icon": "items/images/en/spectra_vandal_blueprint.fe39f6aee4576d50c445d4203ee91db2.png",
+      "thumb": "items/images/en/thumbs/spectra_vandal_blueprint.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

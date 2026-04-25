@@ -1,0 +1,23 @@
+{
+  "id": "5c1bda1014a8e4006b1dad75",
+  "slug": "magus_firewall",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/DamageReductionOnVoidMode",
+  "tags": [
+    "common",
+    "arcane_enhancement"
+  ],
+  "rarity": "common",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magus Firewall",
+      "description": "On Void Mode:\rGenerate Void Particles every 1s up to 6 particles, each granting 12.5% Damage Reduction for 60s. Taking damage consumes a particle.",
+      "wikiLink": "https://wiki.warframe.com/w/Magus_Firewall",
+      "icon": "items/images/en/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.png",
+      "thumb": "items/images/en/thumbs/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.128x128.png"
+    }
+  }
+}

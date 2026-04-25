@@ -1,0 +1,23 @@
+{
+  "id": "566751815dcbc186f0536bd3",
+  "slug": "arcane_precision",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolDamageOnHeadshot",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Precision",
+      "description": "On Headshot:\n+300% Damage for 18s on Secondary Weapon\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Precision",
+      "icon": "items/images/en/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.png",
+      "thumb": "items/images/en/thumbs/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.128x128.png"
+    }
+  }
+}

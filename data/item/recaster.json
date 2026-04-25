@@ -1,0 +1,25 @@
+{
+  "id": "6054dea35221e30057501093",
+  "slug": "recaster",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolUncommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Recaster",
+      "description": "Facilitates long-distance communication between robotics deployed in the aqua systems. It can be found in the ponds around Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Recaster",
+      "icon": "items/images/en/recaster.d3e1f9906910aa1149bce2194b6e8607.png",
+      "thumb": "items/images/en/thumbs/recaster.d3e1f9906910aa1149bce2194b6e8607.128x128.png"
+    }
+  }
+}

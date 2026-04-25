@@ -1,0 +1,23 @@
+{
+  "id": "5c1bda0c14a8e4006b1dad6a",
+  "slug": "mad_stack",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBFallVelocityMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "k_drive"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mad Stack",
+      "description": "+120% Velocity when falling",
+      "wikiLink": "https://wiki.warframe.com/w/Mad_Stack",
+      "icon": "items/images/en/mad_stack.b5f5eda7bc2ea84c6ac061e8e75a9d33.png",
+      "thumb": "items/images/en/thumbs/mad_stack.b5f5eda7bc2ea84c6ac061e8e75a9d33.128x128.png"
+    }
+  }
+}

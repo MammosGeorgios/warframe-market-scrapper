@@ -1,0 +1,23 @@
+{
+  "id": "54c6855ee779891362942572",
+  "slug": "primed_continuity",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarAbilityDurationModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "warframe"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Continuity",
+      "description": "+55% Ability Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Continuity",
+      "icon": "items/images/en/primed_continuity.240ece0417bbfeff4410681ea2294f13.png",
+      "thumb": "items/images/en/thumbs/primed_continuity.240ece0417bbfeff4410681ea2294f13.128x128.png"
+    }
+  }
+}

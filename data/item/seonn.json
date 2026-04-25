@@ -1,0 +1,22 @@
+{
+  "id": "645ba2a67ec1900802a58a47",
+  "slug": "seonn",
+  "gameRef": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishEItem",
+  "tags": [
+    "fish"
+  ],
+  "subtypes": [
+    "small"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Seonn",
+      "description": "The Seonn’s ability to flare its neck and hood makes it impossible for most predators to swallow, but the Golden Maw can overcome its defense.",
+      "wikiLink": "https://wiki.warframe.com/w/Seonn",
+      "icon": "items/images/en/seonn.7390238e2129d768901d3b289407169b.png",
+      "thumb": "items/images/en/thumbs/seonn.7390238e2129d768901d3b289407169b.128x128.png"
+    }
+  }
+}

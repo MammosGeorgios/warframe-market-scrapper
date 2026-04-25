@@ -1,0 +1,31 @@
+{
+  "id": "68add0fa731e63abe79a5d1e",
+  "slug": "venato_prime_handle",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/VentoPrimeHandle",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "68add0fa731e63abe79a5d1d",
+    "68add0fa731e63abe79a5d1c",
+    "68add0fa731e63abe79a5d1e",
+    "68add0fa731e63abe79a5d1b"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Venato Prime Handle",
+      "description": "A prime weapon-crafting component.",
+      "icon": "items/unknown.png",
+      "thumb": "",
+      "subIcon": "sub_icons/weapon/prime_handle_128x128.png"
+    }
+  }
+}

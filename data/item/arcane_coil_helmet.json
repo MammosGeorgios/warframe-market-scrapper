@@ -1,0 +1,20 @@
+{
+  "id": "54aaf2dfe779891cc44486b8",
+  "slug": "arcane_coil_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Mag/MagHelmetAlt",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Coil Helmet",
+      "description": "This helmet is worn by Mag, gives increased Ability Range with a drain on Shields.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Helmet",
+      "icon": "items/images/en/arcane_coil_mag_helmet.3851f27fceaf9d1e083d67d05b8f846c.png",
+      "thumb": "items/images/en/thumbs/arcane_coil_mag_helmet.3851f27fceaf9d1e083d67d05b8f846c.128x128.png"
+    }
+  }
+}

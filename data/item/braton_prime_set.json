@@ -1,0 +1,32 @@
+{
+  "id": "56783f24cbfa8f0432dd8993",
+  "slug": "braton_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Rifle/BratonPrime",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "primary"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff32",
+    "54a73e65e779893a797fff33",
+    "54a73e65e779893a797fff34",
+    "56783f24cbfa8f0432dd8993",
+    "54a73e65e779893a797fff35"
+  ],
+  "ducats": 110,
+  "reqMasteryRank": 8,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Braton Prime Set",
+      "description": "A classic Orokin weapon, Braton Prime features modified damage levels and a larger magazine over the standard model.",
+      "wikiLink": "https://wiki.warframe.com/w/Braton_Prime",
+      "icon": "items/images/en/braton_prime_set.ae229642d6179ebfb1547ed7d976e749.png",
+      "thumb": "items/images/en/thumbs/braton_prime_set.ae229642d6179ebfb1547ed7d976e749.128x128.png"
+    }
+  }
+}

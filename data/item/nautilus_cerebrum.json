@@ -1,0 +1,30 @@
+{
+  "id": "6056348090a69e004e862874",
+  "slug": "nautilus_cerebrum",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/EmpyreanSentinelCerebrum",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6056348090a69e004e862874",
+    "6056348090a69e004e862875",
+    "6056348590a69e004e862882",
+    "6056348690a69e004e862885",
+    "6056348490a69e004e86287d"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nautilus Cerebrum",
+      "description": "A sentinel-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Nautilus",
+      "icon": "items/images/en/nautilus_cerebrum.4d2546740e4772a35db251115721c6b7.png",
+      "thumb": "items/images/en/thumbs/nautilus_cerebrum.4d2546740e4772a35db251115721c6b7.128x128.png",
+      "subIcon": "sub_icons/sentinel/generic_cerebrum_128x128.png"
+    }
+  }
+}

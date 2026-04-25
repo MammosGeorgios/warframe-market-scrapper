@@ -1,0 +1,23 @@
+{
+  "id": "5dbe9b0e7ea27b0ffe3ca277",
+  "slug": "vome",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/ImmortalFourMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vome",
+      "description": "To cosmic madness laws submit Though stalwart minds entreat",
+      "wikiLink": "https://wiki.warframe.com/w/Vome",
+      "icon": "items/images/en/vome.542f8f39dab25dbce955e8a7ddb35c3a.png",
+      "thumb": "items/images/en/thumbs/vome.542f8f39dab25dbce955e8a7ddb35c3a.128x128.png"
+    }
+  }
+}

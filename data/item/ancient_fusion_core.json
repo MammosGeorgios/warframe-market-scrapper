@@ -1,0 +1,21 @@
+{
+  "id": "54aaf526e779896a8c2ecfd8",
+  "slug": "ancient_fusion_core",
+  "gameRef": "",
+  "tags": [
+    "fusion core",
+    "legendary"
+  ],
+  "rarity": "legendary",
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ancient Fusion Core",
+      "description": "Ancient Core is an exclusive, special type of Fusion Core that was distributed during the transition from Mods 1.0 to Mods 2.0. ",
+      "wikiLink": "https://wiki.warframe.com/w/Ancient_Fusion_Core",
+      "icon": "items/images/en/ancient_fusion_core.98f3def86e72c56c2acc352e4da3d744.webp",
+      "thumb": "items/images/en/thumbs/ancient_fusion_core.98f3def86e72c56c2acc352e4da3d744.128x128.webp"
+    }
+  }
+}

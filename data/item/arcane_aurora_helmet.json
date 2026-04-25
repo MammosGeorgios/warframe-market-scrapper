@@ -1,0 +1,20 @@
+{
+  "id": "54aaf182e77989468dbe1add",
+  "slug": "arcane_aurora_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAlt",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Aurora Helmet",
+      "description": "This helmet is worn by Frost, increases Armor at the expense of Health.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Helmet",
+      "icon": "items/images/en/arcane_aurora_frost_helmet.9e1e1c4ce3bb5f13f9ca125a7d90c51f.png",
+      "thumb": "items/images/en/thumbs/arcane_aurora_frost_helmet.9e1e1c4ce3bb5f13f9ca125a7d90c51f.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51560b",
+  "slug": "fracturing_wind",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "uncommon",
+    "stance",
+    "fists"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fracturing Wind",
+      "description": "Fast, multi-hit strikes with powerful finishers.",
+      "wikiLink": "https://wiki.warframe.com/w/Fracturing_Wind",
+      "icon": "items/images/en/fracturing_wind.e7bf953398db71b7b83cb75652cf53a3.png",
+      "thumb": "items/images/en/thumbs/fracturing_wind.e7bf953398db71b7b83cb75652cf53a3.128x128.png"
+    }
+  }
+}

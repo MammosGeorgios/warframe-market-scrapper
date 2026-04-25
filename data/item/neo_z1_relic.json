@@ -1,0 +1,27 @@
+{
+  "id": "6054dd7a5221e30057500f74",
+  "slug": "neo_z1_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionZephyrPrimeC",
+  "tags": [
+    "relic",
+    "neo"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Neo Z1 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/neo_z1_relic.404dc9ef087cc16ca255f5b5fd17fff0.png",
+      "thumb": "items/images/en/thumbs/neo_z1_relic.404dc9ef087cc16ca255f5b5fd17fff0.128x128.png"
+    }
+  }
+}

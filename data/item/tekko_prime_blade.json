@@ -1,0 +1,32 @@
+{
+  "id": "5d93ca117ea27b0a87566f79",
+  "slug": "tekko_prime_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/TekkoPrimeBlade",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5d93ca117ea27b0a87566f79",
+    "5d93ca127ea27b0a87566f7c",
+    "5d93ca117ea27b0a87566f65",
+    "5d93ca127ea27b0a87566f7b"
+  ],
+  "quantityInSet": 2,
+  "ducats": 100,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tekko Prime Blade",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Tekko_Prime",
+      "icon": "items/images/en/tekko_prime_blade.ace5f3ef4976ceae04ed01d8fcc695c7.png",
+      "thumb": "items/images/en/thumbs/tekko_prime_blade.ace5f3ef4976ceae04ed01d8fcc695c7.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_blade_128x128.png"
+    }
+  }
+}

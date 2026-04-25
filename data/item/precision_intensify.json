@@ -1,0 +1,23 @@
+{
+  "id": "657af5aa21646e595134f5b7",
+  "slug": "precision_intensify",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarAbilityFourStrengthMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Precision Intensify",
+      "description": "+90% Ability Strength for your 4th Ability",
+      "wikiLink": "https://wiki.warframe.com/w/Precision_Intensify",
+      "icon": "items/images/en/precision_intensify.dbfea114c8f578a222c31637a0d87516.png",
+      "thumb": "items/images/en/thumbs/precision_intensify.dbfea114c8f578a222c31637a0d87516.128x128.png"
+    }
+  }
+}

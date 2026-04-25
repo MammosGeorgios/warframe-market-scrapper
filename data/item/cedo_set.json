@@ -1,0 +1,30 @@
+{
+  "id": "5fe0ea836db57b0225115018",
+  "slug": "cedo_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/TnAlchemistShotgun/TnAlchemistShotgun",
+  "tags": [
+    "primary",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5fe0ea836db57b0225115014",
+    "5fe0ea836db57b0225115015",
+    "5fe0ea836db57b0225115016",
+    "5fe0ea836db57b0225115017",
+    "5fe0ea836db57b0225115018"
+  ],
+  "reqMasteryRank": 8,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cedo Set",
+      "description": "Launch a glaive that ricochets off surfaces in bursts of elemental damage, then perforate enemies with primary fire’s precision buck-shot. Damage increases with each Status Effect afflicting a target. Lavos will transmute a small portion of any ammo pickup to Primary Ammo when wielding his signature Cedo.",
+      "wikiLink": "https://wiki.warframe.com/w/Cedo",
+      "icon": "items/images/en/cedo_set.beb0319f93c38fe11119204a3ed47614.png",
+      "thumb": "items/images/en/thumbs/cedo_set.beb0319f93c38fe11119204a3ed47614.128x128.png"
+    }
+  }
+}

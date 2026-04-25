@@ -1,0 +1,24 @@
+{
+  "id": "56900be253c8e91351672724",
+  "slug": "primed_bane_of_infested",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageInfested",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Bane Of Infested",
+      "description": "x1.55 Damage to Infested",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Bane_of_Infested",
+      "icon": "items/images/en/primed_bane_of_infested.dfb6994085d676b00ca85cf63a082a61.png",
+      "thumb": "items/images/en/thumbs/primed_bane_of_infested.dfb6994085d676b00ca85cf63a082a61.128x128.png"
+    }
+  }
+}

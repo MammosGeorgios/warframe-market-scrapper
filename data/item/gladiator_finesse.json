@@ -1,0 +1,23 @@
+{
+  "id": "59dfeb5c115f1d887cfd7ab4",
+  "slug": "gladiator_finesse",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Gladiator/WarframeGladiatorFinesseMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gladiator Finesse",
+      "description": "Drains Energy to stop Lethal Damage with 60% Efficiency.",
+      "wikiLink": "https://wiki.warframe.com/w/Gladiator_Finesse",
+      "icon": "items/images/en/gladiator_finesse.0047663196522e3da072cc72c0eef3d3.png",
+      "thumb": "items/images/en/thumbs/gladiator_finesse.0047663196522e3da072cc72c0eef3d3.128x128.png"
+    }
+  }
+}

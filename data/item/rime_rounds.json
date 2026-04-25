@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515661",
+  "slug": "rime_rounds",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/DualStat/IceEventRifleMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rime Rounds",
+      "description": "+60% Cold\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Rime_Rounds",
+      "icon": "items/images/en/rime_rounds.68c847363e800165a0a585da13f20ce7.png",
+      "thumb": "items/images/en/thumbs/rime_rounds.68c847363e800165a0a585da13f20ce7.128x128.png"
+    }
+  }
+}

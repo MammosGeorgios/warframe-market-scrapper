@@ -1,0 +1,31 @@
+{
+  "id": "6939aa885d9ebda239125d2b",
+  "slug": "alternox_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeAlternox/PrimeAlternoxWeapon",
+  "tags": [
+    "primary",
+    "prime",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "6939aa8b5d9ebda239125d2d",
+    "6939aa8a5d9ebda239125d2c",
+    "6939aa8c5d9ebda239125d2e",
+    "6939aa885d9ebda239125d2b",
+    "6939aa8d5d9ebda239125d2f"
+  ],
+  "ducats": 260,
+  "reqMasteryRank": 13,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Alternox Prime Set",
+      "description": "Orokin gold enhances the conductivity of Gyre Prime's signature rifle, enabling it to fire massive electrifying orbs.",
+      "icon": "items/images/en/alternox_prime_set.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+      "thumb": "items/images/en/thumbs/alternox_prime_set.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+    }
+  }
+}

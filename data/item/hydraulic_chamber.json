@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a514",
+  "slug": "hydraulic_chamber",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/LessRecoilSmallerMagShotgunMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "shotgun",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hydraulic Chamber",
+      "description": "-60% Weapon Recoil\n-10% Magazine Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Hydraulic_Chamber",
+      "icon": "items/images/en/hydraulic_chamber.7da4fc38106cfacf117579b3605e02a6.png",
+      "thumb": "items/images/en/thumbs/hydraulic_chamber.7da4fc38106cfacf117579b3605e02a6.128x128.png"
+    }
+  }
+}

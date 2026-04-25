@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156c1",
+  "slug": "reflection",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarParryReflectMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reflection",
+      "description": "+40% chance to Stagger on Block\n+10% chance to Stun on Block",
+      "wikiLink": "https://wiki.warframe.com/w/Reflection",
+      "icon": "items/images/en/reflection.92eb5cc1554f5c5b3157030f0fbb951e.png",
+      "thumb": "items/images/en/thumbs/reflection.92eb5cc1554f5c5b3157030f0fbb951e.128x128.png"
+    }
+  }
+}

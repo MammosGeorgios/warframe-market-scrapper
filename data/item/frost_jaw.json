@@ -1,0 +1,24 @@
+{
+  "id": "5be5f5a23ffcc7038857f117",
+  "slug": "frost_jaw",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowIceEventMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "claws"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Frost Jaw",
+      "description": "+60% Cold\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Frost_Jaw",
+      "icon": "items/images/en/frost_jaw.d59a7a5de076a6b9d8207259212dace6.png",
+      "thumb": "items/images/en/thumbs/frost_jaw.d59a7a5de076a6b9d8207259212dace6.128x128.png"
+    }
+  }
+}

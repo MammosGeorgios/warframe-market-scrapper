@@ -1,0 +1,24 @@
+{
+  "id": "5ce7fd87d23a3b00908c420c",
+  "slug": "aero_agility",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Hawk/HawkModB",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "sniper"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Aero Agility",
+      "description": "100% Reload Speed while Aim Gliding",
+      "wikiLink": "https://wiki.warframe.com/w/Aero_Agility",
+      "icon": "items/images/en/aero_agility.fd8f90a41451d16e47afab22ad0bc1fd.png",
+      "thumb": "items/images/en/thumbs/aero_agility.fd8f90a41451d16e47afab22ad0bc1fd.128x128.png"
+    }
+  }
+}

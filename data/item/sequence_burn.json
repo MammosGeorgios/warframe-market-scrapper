@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e515699",
+  "slug": "sequence_burn",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/SpectraMod",
+  "tags": [
+    "syndicate",
+    "secondary",
+    "mod",
+    "rare",
+    "spectra"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sequence Burn",
+      "description": "+20m Beam Range\n+1 'Sequence'",
+      "wikiLink": "https://wiki.warframe.com/w/Sequence_Burn",
+      "icon": "items/images/en/sequence_burn.e9651c33bc02879c407f18d391667aa9.png",
+      "thumb": "items/images/en/thumbs/sequence_burn.e9651c33bc02879c407f18d391667aa9.128x128.png"
+    }
+  }
+}

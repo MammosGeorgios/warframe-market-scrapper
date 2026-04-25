@@ -1,0 +1,25 @@
+{
+  "id": "6054de7d5221e30057501084",
+  "slug": "mortus_lungfish",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mortus Lungfish",
+      "description": "Displays blood-spattered pattern on its scales and has its ribs exposed through open cavities along both flanks. When predators approach it lies still at the bottom of the sand banks, disguised as a carcass in hopes of being ignored.",
+      "wikiLink": "https://wiki.warframe.com/w/Mortus_Lungfish",
+      "icon": "items/images/en/mortus_lungfish.d4a6763f7d3cb41442eef571c9b0a6e3.png",
+      "thumb": "items/images/en/thumbs/mortus_lungfish.d4a6763f7d3cb41442eef571c9b0a6e3.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "56a7b2741133f656cb085d8a",
+  "slug": "argon_scope",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/CritChanceWhileAimingRifleMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Argon Scope",
+      "description": "On Headshot:\n+135% Critical Chance when Aiming for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Argon_Scope",
+      "icon": "items/images/en/argon_scope.f59f66183ee3f605c51f28d68dfa6714.png",
+      "thumb": "items/images/en/thumbs/argon_scope.f59f66183ee3f605c51f28d68dfa6714.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "5fde10c66db57b0185b39084",
+  "slug": "cortege_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun",
+  "tags": [
+    "primary",
+    "archwing",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5fde10c26db57b0185b39073",
+    "5fde10c36db57b0185b39075",
+    "5fde10c66db57b0185b39084",
+    "5fde10c56db57b0185b3907e"
+  ],
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cortege Set",
+      "description": "An ancient weapon designed by the Entrati for use by their Necramechs. Primary fire siphons life essence from the target to fuel a devastating secondary fire. A heavy flamethrower with surprising range. Secondary fire launches three projectiles in a fan pattern that explode, leaving a damaging area of effect for a short duration.",
+      "wikiLink": "https://wiki.warframe.com/w/Cortege",
+      "icon": "items/images/en/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.png",
+      "thumb": "items/images/en/thumbs/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.128x128.png"
+    }
+  }
+}

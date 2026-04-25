@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51558e",
+  "slug": "malignant_force",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/DualStat/PoisonEventRifleMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Malignant Force",
+      "description": "+60% Toxin\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Malignant_Force",
+      "icon": "items/images/en/malignant_force.3631edb8f6b00600a1cb5e5e99b5fa42.png",
+      "thumb": "items/images/en/thumbs/malignant_force.3631edb8f6b00600a1cb5e5e99b5fa42.128x128.png"
+    }
+  }
+}

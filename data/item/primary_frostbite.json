@@ -1,0 +1,23 @@
+{
+  "id": "63886516e7c988007b5bd50a",
+  "slug": "primary_frostbite",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryCritDmgAndMultishotOnColdProc",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primary Frostbite",
+      "description": "On Cold Status Effect:\n+3% Critical Damage and +2.25% Multishot for 12s. Stacks up to 40x.",
+      "wikiLink": "https://wiki.warframe.com/w/Primary_Frostbite",
+      "icon": "items/images/en/primary_frostbite.3aba98f1779bfc69c3139e83dbda1463.png",
+      "thumb": "items/images/en/thumbs/primary_frostbite.3aba98f1779bfc69c3139e83dbda1463.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "67db60869cec3e52e62523f4",
+  "slug": "arcane_escapist",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InvulnerabilityOnDeathOnMercyKill",
+  "tags": [
+    "legendary",
+    "arcane_enhancement"
+  ],
+  "rarity": "legendary",
+  "maxRank": 5,
+  "tradingTax": 2100000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Escapist",
+      "description": "On Mercy Kill: Gain a stack of Escapist, up to 9x. On taking fatal damage, consume 3 stacks to avoid death and become invulnerable for 12s.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "icon": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+      "thumb": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+    }
+  }
+}

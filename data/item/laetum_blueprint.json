@@ -1,0 +1,22 @@
+{
+  "id": "626ca573f40db600829c9d09",
+  "slug": "laetum_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanHeavyPistolBlueprint",
+  "tags": [
+    "secondary",
+    "weapon",
+    "blueprint"
+  ],
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Laetum Blueprint",
+      "description": "During parades and victory marches, the Laetum fired pigmented airburst rounds that rained onto festive crowds. The Orokin sent Laetum with the Zariman so they could properly celebrate a successful maiden voyage to Tau. There would be no such celebration, but the Void imbued the Laetum with a much more explosive capacity.",
+      "wikiLink": "https://wiki.warframe.com/w/Laetum",
+      "icon": "items/images/en/laetum_blueprint.7d096a802a809499e0ce83f41f712f78.png",
+      "thumb": "items/images/en/thumbs/laetum_blueprint.7d096a802a809499e0ce83f41f712f78.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54c686c9e7798913d9e63fff",
+  "slug": "primed_heavy_trauma",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponImpactDamageModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "melee"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Heavy Trauma",
+      "description": "+165% Impact",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Heavy_Trauma",
+      "icon": "items/images/en/primed_heavy_trauma.bac389152dab880e42a72ef919212844.png",
+      "thumb": "items/images/en/thumbs/primed_heavy_trauma.bac389152dab880e42a72ef919212844.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a524",
+  "slug": "triple_tap",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreDamageonMultiHitRifleMod",
+  "tags": [
+    "primary",
+    "burston",
+    "pvp",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Triple Tap",
+      "description": "On 2 Hits within 0.02s:\n+40% Damage for 0.2s",
+      "wikiLink": "https://wiki.warframe.com/w/Triple_Tap",
+      "icon": "items/images/en/triple_tap.76f19f65c3581449abc56f3d8d743b6e.png",
+      "thumb": "items/images/en/thumbs/triple_tap.76f19f65c3581449abc56f3d8d743b6e.128x128.png"
+    }
+  }
+}

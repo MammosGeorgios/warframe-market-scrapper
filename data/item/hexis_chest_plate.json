@@ -1,0 +1,26 @@
+{
+  "id": "60e70f7c479445008f272585",
+  "slug": "hexis_chest_plate",
+  "gameRef": "/Lotus/Upgrades/Skins/Armor/ArbiterOfHexisArmor/ArbiterOfHexisArmorC",
+  "tags": [
+    "skin"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "60e70f7d479445008f27258a",
+    "60e70f7f479445008f272599",
+    "60e70f7c479445008f272585",
+    "60e70f7e479445008f272597"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hexis Chest Plate",
+      "description": "An armor set traditionally worn by those entrusted with the duties of Arbitration according to the Precepts of Hexis.",
+      "icon": "items/images/en/hexis_chest_plate.91ded728996ed7166d3578801fff614d.png",
+      "thumb": "items/images/en/thumbs/hexis_chest_plate.91ded728996ed7166d3578801fff614d.128x128.png"
+    }
+  }
+}

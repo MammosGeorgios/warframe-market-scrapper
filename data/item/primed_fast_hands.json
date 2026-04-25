@@ -1,0 +1,24 @@
+{
+  "id": "54c6869ae7798913ca68c3dd",
+  "slug": "primed_fast_hands",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponReloadSpeedModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Fast Hands",
+      "description": "+55% Reload Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Fast_Hands",
+      "icon": "items/images/en/primed_fast_hands.6bd825412c58f77828bfaaa9936a7e92.png",
+      "thumb": "items/images/en/thumbs/primed_fast_hands.6bd825412c58f77828bfaaa9936a7e92.128x128.png"
+    }
+  }
+}

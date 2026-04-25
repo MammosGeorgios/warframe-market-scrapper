@@ -1,0 +1,18 @@
+{
+  "id": "60537c322201ea0053ec2e5a",
+  "slug": "baro_void_signal_(key)",
+  "gameRef": "",
+  "tags": [
+    "key"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Baro Void-Signal (Key)",
+      "wikiLink": "https://warframe.fandom.com/wiki/Baro_Void-Signal",
+      "icon": "items/images/en/baro_void_signal_(key).d41c0135a2027f79ffcbf8d2889e9e96.webp",
+      "thumb": "items/images/en/thumbs/baro_void_signal_(key).d41c0135a2027f79ffcbf8d2889e9e96.128x128.webp"
+    }
+  }
+}

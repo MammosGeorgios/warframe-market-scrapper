@@ -1,0 +1,21 @@
+{
+  "id": "56153f21b66f83707a67c0b4",
+  "slug": "prisma_tetra",
+  "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/PrismaCorpusUMP",
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 4,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Tetra",
+      "description": "When bathed in Void energy and prisma crystal, the simple Tetra becomes a beacon of style and intimidation.",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma_Tetra",
+      "icon": "items/images/en/prisma_tetra.e1e516760ccd856f2a66a1992d7e98e1.png",
+      "thumb": "items/images/en/thumbs/prisma_tetra.e1e516760ccd856f2a66a1992d7e98e1.128x128.png"
+    }
+  }
+}

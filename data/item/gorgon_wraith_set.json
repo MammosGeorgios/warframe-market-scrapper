@@ -1,0 +1,30 @@
+{
+  "id": "591844575c170664fbd37eb2",
+  "slug": "gorgon_wraith_set",
+  "gameRef": "/Lotus/Weapons/Grineer/LongGuns/WraithGorgon/WraithGorgon",
+  "tags": [
+    "primary",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "591844575c170664fbd37eb4",
+    "591844575c170664fbd37eb3",
+    "591844575c170664fbd37eb5",
+    "591844575c170664fbd37eb2",
+    "591844575c170664fbd37eb6"
+  ],
+  "reqMasteryRank": 7,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gorgon Wraith Set",
+      "description": "The Gorgon Wraith is a powerful variant of its precursor that features unique styling.",
+      "wikiLink": "https://wiki.warframe.com/w/Gorgon_Wraith",
+      "icon": "items/images/en/gorgon_wraith_set.2fe2c6cae89adbecbba049aafcd664d7.png",
+      "thumb": "items/images/en/thumbs/gorgon_wraith_set.2fe2c6cae89adbecbba049aafcd664d7.128x128.png"
+    }
+  }
+}

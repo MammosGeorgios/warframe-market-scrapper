@@ -1,0 +1,24 @@
+{
+  "id": "644b00247ec1900044b97735",
+  "slug": "mountains_edge",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualKatanaCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "uncommon",
+    "stance",
+    "dual_nikanas"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mountain's Edge",
+      "description": "Sharp movements with wide reach.",
+      "wikiLink": "https://wiki.warframe.com/w/Mountain%27s_Edge",
+      "icon": "items/images/en/mountains_edge.04f58be6d468001292df3dd94559a96c.png",
+      "thumb": "items/images/en/thumbs/mountains_edge.04f58be6d468001292df3dd94559a96c.128x128.png"
+    }
+  }
+}

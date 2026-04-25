@@ -1,0 +1,25 @@
+{
+  "id": "554d3c0ce7798942793d7e8a",
+  "slug": "shield_overload",
+  "gameRef": "/Lotus/Powersuits/Mag/ShieldRegenPvPAugmentCard",
+  "tags": [
+    "mag",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shield Overload",
+      "description": "Polarize Augment: Increases the time for the target's Shields to regenerate by 9s.",
+      "wikiLink": "https://wiki.warframe.com/w/Shield_Overload",
+      "icon": "items/images/en/shield_overload.e2751dfa85b7b91e170d549cd1f6b574.png",
+      "thumb": "items/images/en/thumbs/shield_overload.e2751dfa85b7b91e170d549cd1f6b574.128x128.png"
+    }
+  }
+}

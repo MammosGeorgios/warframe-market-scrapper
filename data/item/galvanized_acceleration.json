@@ -1,0 +1,24 @@
+{
+  "id": "60e5b8fd4794450053e99948",
+  "slug": "galvanized_acceleration",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponProjectileSpeedSPMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galvanized Acceleration",
+      "description": "+30% Projectile Speed and +30% Beam Range\nOn Kill:\n+30% Projectile Speed and +30% Beam Range for 10s. Stacks up to 2x.",
+      "wikiLink": "https://wiki.warframe.com/w/Galvanized_Acceleration",
+      "icon": "items/images/en/galvanized_acceleration.940aef6227855f74835eaa62c0671fa1.png",
+      "thumb": "items/images/en/thumbs/galvanized_acceleration.940aef6227855f74835eaa62c0671fa1.128x128.png"
+    }
+  }
+}

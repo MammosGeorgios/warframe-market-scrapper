@@ -1,0 +1,25 @@
+{
+  "id": "6054de795221e30057501080",
+  "slug": "mawfish",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mawfish",
+      "description": "Its gaping maw allows it to scoop up smaller fish as it swims by them.",
+      "wikiLink": "https://wiki.warframe.com/w/Mawfish",
+      "icon": "items/images/en/mawfish.5f814c64b17f3209eb4cc2df2efdbca0.png",
+      "thumb": "items/images/en/thumbs/mawfish.5f814c64b17f3209eb4cc2df2efdbca0.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5fb84769c34da3004797d554",
+  "slug": "theorem_contagion",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OrbsOnResidualContact",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Theorem Contagion",
+      "description": "Standing in a zone created by a Residual Arcane creates a globe that orbits the player every 2s. The globes will strike the nearest enemy within 15m dealing 150 damage increasing their vulnerability to the globe's damage type by 200% for 6s. Globes will persist for 30s upon leaving the zone.\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Theorem_Contagion",
+      "icon": "items/images/en/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.png",
+      "thumb": "items/images/en/thumbs/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.128x128.png"
+    }
+  }
+}

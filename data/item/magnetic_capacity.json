@@ -1,0 +1,24 @@
+{
+  "id": "675c620f7b18977f6e64541a",
+  "slug": "magnetic_capacity",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/DualStat/MagneticClipRifleMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magnetic Capacity",
+      "description": "+60% Magnetic\n+40% Magazine Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Magnetic_Capacity",
+      "icon": "items/images/en/magnetic_capacity.b447e347781ace9cc133946801a9227f.webp",
+      "thumb": "items/images/en/thumbs/magnetic_capacity.b447e347781ace9cc133946801a9227f.128x128.webp"
+    }
+  }
+}

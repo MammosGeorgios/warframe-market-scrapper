@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156ee",
+  "slug": "burning_wasp",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/WhipCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "uncommon",
+    "stance",
+    "whips"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Burning Wasp",
+      "description": "Chaining combos.",
+      "wikiLink": "https://wiki.warframe.com/w/Burning_Wasp",
+      "icon": "items/images/en/burning_wasp.27724a9e8be0d882e6190dc13ea814ab.png",
+      "thumb": "items/images/en/thumbs/burning_wasp.27724a9e8be0d882e6190dc13ea814ab.128x128.png"
+    }
+  }
+}

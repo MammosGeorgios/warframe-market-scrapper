@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515593",
+  "slug": "bleeding_edge",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritDamageMod",
+  "tags": [
+    "common",
+    "melee",
+    "mod",
+    "archwing",
+    "archmelee"
+  ],
+  "rarity": "common",
+  "maxRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Bleeding Edge",
+      "description": "+110% Critical Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Bleeding_Edge",
+      "icon": "items/images/en/bleeding_edge.20bbcd5307f3d62b42c687470591ba49.png",
+      "thumb": "items/images/en/thumbs/bleeding_edge.20bbcd5307f3d62b42c687470591ba49.128x128.png"
+    }
+  }
+}

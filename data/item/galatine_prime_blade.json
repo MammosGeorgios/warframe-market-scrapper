@@ -1,0 +1,32 @@
+{
+  "id": "57bc9c99e506eb45ea25145c",
+  "slug": "galatine_prime_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeGalatineBlade",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "57bc9c99e506eb45ea25145c",
+    "57bc9c99e506eb45ea25145d",
+    "57bc9c99e506eb45ea25145b",
+    "57bc9c99e506eb45ea25145a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Galatine Prime Blade",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Galatine_Prime",
+      "icon": "items/images/en/galatine_prime_blade.066b855eb73def09ca5f21f677010098.png",
+      "thumb": "items/images/en/thumbs/galatine_prime_blade.066b855eb73def09ca5f21f677010098.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_blade_128x128.png"
+    }
+  }
+}

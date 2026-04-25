@@ -1,0 +1,31 @@
+{
+  "id": "67acd914125398d92c8bb4e7",
+  "slug": "dual_zoren_prime_handle",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/DualZorenPrimeHandle",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67acd915125398d92c8bb4e8",
+    "67acd913125398d92c8bb4e6",
+    "67acd914125398d92c8bb4e7",
+    "67acd912125398d92c8bb4e5"
+  ],
+  "quantityInSet": 2,
+  "ducats": 15,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dual Zoren Prime Handle",
+      "description": "A prime weapon-crafting component.",
+      "icon": "items/images/en/dual_zoren_prime_handle.d98ec2f1e8178524255002d3f248089f.webp",
+      "thumb": "items/images/en/thumbs/dual_zoren_prime_handle.d98ec2f1e8178524255002d3f248089f.128x128.webp",
+      "subIcon": "sub_icons/weapon/prime_handle_128x128.png"
+    }
+  }
+}

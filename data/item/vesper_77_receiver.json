@@ -1,0 +1,30 @@
+{
+  "id": "67661ffe47952ab3ea192907",
+  "slug": "vesper_77_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiver",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "67661ffd47952ab3ea192906",
+    "6766200047952ab3ea192908",
+    "67661ffe47952ab3ea192907",
+    "67661ffc47952ab3ea192905"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vesper 77 Receiver",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Vesper_77",
+      "icon": "items/images/en/vesper_77_receiver.8edf133ab02b6b5f87e365a67232cf28.webp",
+      "thumb": "items/images/en/thumbs/vesper_77_receiver.8edf133ab02b6b5f87e365a67232cf28.128x128.webp",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

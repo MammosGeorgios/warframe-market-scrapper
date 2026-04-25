@@ -1,0 +1,25 @@
+{
+  "id": "5615432bb66f8371035bfa22",
+  "slug": "contagion_cloud",
+  "gameRef": "/Lotus/Powersuits/Saryn/WeaponPoisonAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "saryn",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Contagion Cloud",
+      "description": "Toxic Lash Augment: Create 5m toxic clouds, dealing 300 Toxin Damage/s for 12s with every kill. Damage is twice as strong for Melee kills.",
+      "wikiLink": "https://wiki.warframe.com/w/Contagion_Cloud",
+      "icon": "items/images/en/contagion_cloud.c422f41645623ac71fcd74668430bfa6.png",
+      "thumb": "items/images/en/thumbs/contagion_cloud.c422f41645623ac71fcd74668430bfa6.128x128.png"
+    }
+  }
+}

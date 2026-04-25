@@ -1,0 +1,24 @@
+{
+  "id": "657af5ab21646e595134f5c4",
+  "slug": "vome_invocation",
+  "gameRef": "/Lotus/Upgrades/Grimoire/VomeStrikeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "tome"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vome Invocation",
+      "description": "Alternate Fire increases Ability Strength by 4% for 20s for each enemy hit. Stacks up to 15 times.",
+      "wikiLink": "https://wiki.warframe.com/w/Vome_Invocation",
+      "icon": "items/images/en/vome_invocation.38806f4236d06717c64a79a2c66e7c15.png",
+      "thumb": "items/images/en/thumbs/vome_invocation.38806f4236d06717c64a79a2c66e7c15.128x128.png"
+    }
+  }
+}

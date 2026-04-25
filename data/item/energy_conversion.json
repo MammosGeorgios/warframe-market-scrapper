@@ -1,0 +1,23 @@
+{
+  "id": "56dac8cc5cc639de0a45c52c",
+  "slug": "energy_conversion",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/EnergyPickupGivesStrengthMod",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Energy Conversion",
+      "description": "Energy Orbs grant 50% more Ability Strength to your next cast.",
+      "wikiLink": "https://wiki.warframe.com/w/Energy_Conversion",
+      "icon": "items/images/en/energy_conversion.429f4ab72e9e8fe4b774e9b8dbcc202c.png",
+      "thumb": "items/images/en/thumbs/energy_conversion.429f4ab72e9e8fe4b774e9b8dbcc202c.128x128.png"
+    }
+  }
+}

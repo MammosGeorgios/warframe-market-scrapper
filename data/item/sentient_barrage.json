@@ -1,0 +1,24 @@
+{
+  "id": "64743c767ec190141a5475b2",
+  "slug": "sentient_barrage",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveBattacorAugmentMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "battacor"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sentient Barrage",
+      "description": "Discharge from Alt-Fire now has infinite Body Punch Through but no longer explodes on contact. Each enemy hit will refill one charge, and reaching a full charge will increase the Critical Chance and Critical Damage of the next discharge by 300%.",
+      "wikiLink": "https://wiki.warframe.com/w/Sentient_Barrage",
+      "icon": "items/images/en/sentient_barrage.56ea620051ec823fec68b76423b08288.png",
+      "thumb": "items/images/en/thumbs/sentient_barrage.56ea620051ec823fec68b76423b08288.128x128.png"
+    }
+  }
+}

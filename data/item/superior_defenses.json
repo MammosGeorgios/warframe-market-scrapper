@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155d8",
+  "slug": "superior_defenses",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitShieldRechargeRateMod",
+  "tags": [
+    "mod",
+    "archwing",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Superior Defenses",
+      "description": "+100% Shield Recharge\n-50% Shield Recharge Delay",
+      "wikiLink": "https://wiki.warframe.com/w/Superior_Defenses",
+      "icon": "items/images/en/superior_defenses.055772f100d75f2395844ad6685c78e2.png",
+      "thumb": "items/images/en/thumbs/superior_defenses.055772f100d75f2395844ad6685c78e2.128x128.png"
+    }
+  }
+}

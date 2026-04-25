@@ -1,0 +1,22 @@
+{
+  "id": "693e6b2403903ae8993ffb0a",
+  "slug": "omn_evi",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/CritChanceSchool",
+  "tags": [
+    "mod",
+    "uncommon",
+    "any"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Omn-Evi",
+      "description": "+60% Amp Critical Chance\n+10% Amp Critical Damage for each <ZENURIK_CLEAN>Zenurik School Mod",
+      "icon": "items/images/en/omn_evi.e94fa423079abe78cc22f4683875c058.webp",
+      "thumb": "items/images/en/thumbs/omn_evi.e94fa423079abe78cc22f4683875c058.128x128.webp"
+    }
+  }
+}

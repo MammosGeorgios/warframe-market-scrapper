@@ -1,0 +1,24 @@
+{
+  "id": "66fd69d03a826eccf651cd6d",
+  "slug": "loyal_retriever",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/BeastLoyalRetriever",
+  "tags": [
+    "mod",
+    "uncommon",
+    "sentinel",
+    "beast"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Loyal Retriever",
+      "description": "13% chance to double Credit and Resource pickups",
+      "wikiLink": "https://wiki.warframe.com/w/Loyal_Retriever",
+      "icon": "items/images/en/loyal_retriever.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/loyal_retriever.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

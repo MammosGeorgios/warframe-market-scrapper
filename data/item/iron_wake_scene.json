@@ -1,0 +1,19 @@
+{
+  "id": "69d67851b3984cc97e241769",
+  "slug": "iron_wake_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileIronwakeHub",
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Iron Wake Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/iron_wake_scene.3b5d8b097dd521f75eccd19d5e4f4548.webp",
+      "thumb": "items/images/en/thumbs/iron_wake_scene.3b5d8b097dd521f75eccd19d5e4f4548.128x128.webp"
+    }
+  }
+}

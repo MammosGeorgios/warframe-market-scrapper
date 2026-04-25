@@ -1,0 +1,24 @@
+{
+  "id": "66fd67d13a826eccf651cd4d",
+  "slug": "aegis_gale",
+  "gameRef": "/Lotus/Powersuits/IronFrame/IronFrameEruptionAugmentCard",
+  "tags": [
+    "hildryn",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Aegis Gale",
+      "description": "Aegis Storm Augment: Balefire has an Alternate Fire during Aegis Storm. The blast deals 15% of Hildryn's Max Shield as additional damage.",
+      "icon": "items/images/en/aegis_gale.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "thumb": "items/images/en/thumbs/aegis_gale.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+}

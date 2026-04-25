@@ -1,0 +1,32 @@
+{
+  "id": "5a311f84c2c9e90dfff475f1",
+  "slug": "akbolto_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeAkbolto/PrimeAkBoltoWeapon",
+  "tags": [
+    "weapon",
+    "prime",
+    "secondary",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5a311f85c2c9e90dfff475f7",
+    "5a311f83c2c9e90dfff475d5",
+    "5a311f84c2c9e90dfff475f3",
+    "5a311f83c2c9e90dfff475d4",
+    "5a311f84c2c9e90dfff475f1"
+  ],
+  "ducats": 350,
+  "reqMasteryRank": 13,
+  "tradingTax": 12000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akbolto Prime Set",
+      "description": "Gilded rails adorn these two vicious bolt launching pistols.",
+      "wikiLink": "https://wiki.warframe.com/w/Akbolto_Prime",
+      "icon": "items/images/en/akbolto_prime_set.fdb7b0be60ed776a1ba1d800d7cda22b.png",
+      "thumb": "items/images/en/thumbs/akbolto_prime_set.fdb7b0be60ed776a1ba1d800d7cda22b.128x128.png"
+    }
+  }
+}

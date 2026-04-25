@@ -1,0 +1,22 @@
+{
+  "id": "693e655003903ae8993ffaec",
+  "slug": "sey_taph",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/VoidSlingEfficiency",
+  "tags": [
+    "mod",
+    "common",
+    "any"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sey-Taph",
+      "description": "+30% Void Sling Efficiency",
+      "icon": "items/images/en/sey_taph.9db8bc6889aabc29f3704380a864e208.webp",
+      "thumb": "items/images/en/thumbs/sey_taph.9db8bc6889aabc29f3704380a864e208.128x128.webp"
+    }
+  }
+}

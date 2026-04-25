@@ -1,0 +1,23 @@
+{
+  "id": "626a197af40db600660a1d87",
+  "slug": "molt_efficiency",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/WarframeOnShieldUptimePowerDuration",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Molt Efficiency",
+      "description": "While Shields are Active: Gain 6% Ability Duration per second, up to a maximum of 36% +1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Molt_Efficiency",
+      "icon": "items/images/en/molt_efficiency.c76d07229a6c7e12bff54ac2f56f47b5.png",
+      "thumb": "items/images/en/thumbs/molt_efficiency.c76d07229a6c7e12bff54ac2f56f47b5.128x128.png"
+    }
+  }
+}

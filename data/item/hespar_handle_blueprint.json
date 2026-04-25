@@ -1,0 +1,30 @@
+{
+  "id": "626ca573f40db600829c9d0b",
+  "slug": "hespar_handle_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriHeavyScytheHandleBlueprint",
+  "tags": [
+    "weapon",
+    "blueprint",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "626ca573f40db600829c9d10",
+    "626ca573f40db600829c9d0b",
+    "626ca573f40db600829c9d0f"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hespar Handle Blueprint",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Hespar",
+      "icon": "items/images/en/hespar_handle.58bd4fbd6ed4930402342b2662d68ac4.png",
+      "thumb": "items/images/en/thumbs/hespar_handle.58bd4fbd6ed4930402342b2662d68ac4.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_handle_128x128.png"
+    }
+  }
+}

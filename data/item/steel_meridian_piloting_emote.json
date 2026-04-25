@@ -1,0 +1,19 @@
+{
+  "id": "60e70f7a479445008f27257c",
+  "slug": "steel_meridian_piloting_emote",
+  "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/SMPilotingEmote",
+  "tags": [
+    "syndicate",
+    "emote"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Steel Meridian Piloting Emote",
+      "description": "Take the controls with this crew-inspired emote.",
+      "icon": "items/images/en/steel_meridian_piloting_emote.e044b94c8dac6e9e34e464bf3ec2de07.png",
+      "thumb": "items/images/en/thumbs/steel_meridian_piloting_emote.e044b94c8dac6e9e34e464bf3ec2de07.128x128.png"
+    }
+  }
+}

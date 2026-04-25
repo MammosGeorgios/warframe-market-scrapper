@@ -1,0 +1,24 @@
+{
+  "id": "5758ae0842ba8659dde2f571",
+  "slug": "enhanced_vitality",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/SentinelHealthMaxMod",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "common",
+  "maxRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Enhanced Vitality",
+      "description": "+250% Health",
+      "wikiLink": "https://wiki.warframe.com/w/Enhanced_Vitality",
+      "icon": "items/images/en/enhanced_vitality.20178f43d39b9452c6e589f1c33577a4.png",
+      "thumb": "items/images/en/thumbs/enhanced_vitality.20178f43d39b9452c6e589f1c33577a4.128x128.png"
+    }
+  }
+}

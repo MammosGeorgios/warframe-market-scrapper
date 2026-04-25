@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a512",
+  "slug": "heightened_reflexes",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FasterCastingHigherEnergyCostMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Heightened Reflexes",
+      "description": "+20% Casting Speed\n-20% Ability Efficiency",
+      "wikiLink": "https://wiki.warframe.com/w/Heightened_Reflexes",
+      "icon": "items/images/en/heightened_reflexes.709ed350f31d191816a0b56ffe82188f.png",
+      "thumb": "items/images/en/thumbs/heightened_reflexes.709ed350f31d191816a0b56ffe82188f.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "63886516e7c988007b5bd509",
+  "slug": "conjunction_voltage",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryReloadSpeedAndMultishotOnElectricProc",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Conjunction Voltage",
+      "description": "On Electricity Status Effect:\n+1.5% Reload Speed and +3% Multishot for 12s. Stacks up to 40x.",
+      "wikiLink": "https://wiki.warframe.com/w/Conjunction_Voltage",
+      "icon": "items/images/en/conjunction_voltage.d7ac26c466e1d189eaa0f1eab81b6b4b.png",
+      "thumb": "items/images/en/thumbs/conjunction_voltage.d7ac26c466e1d189eaa0f1eab81b6b4b.128x128.png"
+    }
+  }
+}

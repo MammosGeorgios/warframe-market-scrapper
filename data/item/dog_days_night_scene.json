@@ -1,0 +1,19 @@
+{
+  "id": "62a2b833a554aa00a86de35d",
+  "slug": "dog_days_night_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileBeachNight",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dog Days Night Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/dog_days_night_scene.bd6d8351ca7fa4040eba2fe1fddcbfed.png",
+      "thumb": "items/images/en/thumbs/dog_days_night_scene.bd6d8351ca7fa4040eba2fe1fddcbfed.128x128.png"
+    }
+  }
+}

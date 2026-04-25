@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515650",
+  "slug": "pistol_pestilence",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/DualStat/PoisonEventPistolMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pistol Pestilence",
+      "description": "+60% Toxin\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Pistol_Pestilence",
+      "icon": "items/images/en/pistol_pestilence.ff61efb2028ea3b8aa22bf9b7b94f32f.png",
+      "thumb": "items/images/en/thumbs/pistol_pestilence.ff61efb2028ea3b8aa22bf9b7b94f32f.128x128.png"
+    }
+  }
+}

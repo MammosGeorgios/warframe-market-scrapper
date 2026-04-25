@@ -1,0 +1,33 @@
+{
+  "id": "682dfb5735715d4f3e9c64f1",
+  "slug": "daikyu_prime_string",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDaikyuString",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "682dfb5635715d4f3e9c64ed",
+    "682dfb5735715d4f3e9c64f0",
+    "682dfb5635715d4f3e9c64ee",
+    "682dfb5635715d4f3e9c64ec",
+    "682dfb5735715d4f3e9c64f1",
+    "682dfb5635715d4f3e9c64ef"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 15,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Daikyu Prime String",
+      "description": "A prime weapon-crafting component.",
+      "icon": "items/images/en/daikyu_prime_string.56987b8ec6a151a7dc61a753674d018f.webp",
+      "thumb": "items/images/en/thumbs/daikyu_prime_string.56987b8ec6a151a7dc61a753674d018f.128x128.webp",
+      "subIcon": "sub_icons/weapon/prime_string_128x128.png"
+    }
+  }
+}

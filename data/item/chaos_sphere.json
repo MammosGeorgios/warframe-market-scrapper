@@ -1,0 +1,25 @@
+{
+  "id": "5615432bb66f8371035bfa26",
+  "slug": "chaos_sphere",
+  "gameRef": "/Lotus/Powersuits/Jade/ChaosAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nyx",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Chaos Sphere",
+      "description": "Chaos Augment: Enemies entering the Effect Range will be inflicted with Chaos. Effect Range lasts for 50% of the ability duration and shrinks over time.",
+      "wikiLink": "https://wiki.warframe.com/w/Chaos_Sphere",
+      "icon": "items/images/en/chaos_sphere.4194f4d65e462bfc107592b025aef339.png",
+      "thumb": "items/images/en/thumbs/chaos_sphere.4194f4d65e462bfc107592b025aef339.128x128.png"
+    }
+  }
+}

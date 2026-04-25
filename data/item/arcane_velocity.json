@@ -1,0 +1,23 @@
+{
+  "id": "566751d35dcbc186f0536bd6",
+  "slug": "arcane_velocity",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolSpeedOnCrit",
+  "tags": [
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Velocity",
+      "description": "On Critical Hit:\n90% chance for +120% Fire Rate to Pistols for 9s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Velocity",
+      "icon": "items/images/en/arcane_velocity.ea37edd24f8212ce4bb283205658829b.png",
+      "thumb": "items/images/en/thumbs/arcane_velocity.ea37edd24f8212ce4bb283205658829b.128x128.png"
+    }
+  }
+}

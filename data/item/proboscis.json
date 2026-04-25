@@ -1,0 +1,24 @@
+{
+  "id": "58dbcc9e70b42255d6321e8e",
+  "slug": "proboscis",
+  "gameRef": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowGrabPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "helminth charger",
+    "helminth_charger"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Proboscis",
+      "description": "Helminth Charger whips a proboscis out at an enemy within 30m, pulling them back and dealing 100 damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Proboscis",
+      "icon": "items/images/en/proboscis.aa653fa8633125a7e94b9ad74878948b.png",
+      "thumb": "items/images/en/thumbs/proboscis.aa653fa8633125a7e94b9ad74878948b.128x128.png"
+    }
+  }
+}

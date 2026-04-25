@@ -1,0 +1,25 @@
+{
+  "id": "6604a6a8dbdd5c1673781dbf",
+  "slug": "recrystalize",
+  "gameRef": "/Lotus/Powersuits/Geode/GeodeGrowthsAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "citrine",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Recrystalize",
+      "description": "Crystallize Augment: Enemies killed by crystalline growths stagger and spread the crystals to enemies within 16m.",
+      "wikiLink": "https://wiki.warframe.com/w/Recrystalize",
+      "icon": "items/images/en/recrystalize.deac2107b3fe3d3543aa47f22586e719.png",
+      "thumb": "items/images/en/thumbs/recrystalize.deac2107b3fe3d3543aa47f22586e719.128x128.png"
+    }
+  }
+}

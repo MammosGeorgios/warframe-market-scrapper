@@ -1,0 +1,23 @@
+{
+  "id": "5be4b0a53ffcc703294e76b3",
+  "slug": "mecha_empowered",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Mecha/WarframeAuraMechaEmpowerMod",
+  "tags": [
+    "mod",
+    "aura",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mecha Empowered",
+      "description": "Increased Pistol Ammo recovery. Squad deals +150% extra Damage against a Marked Enemy",
+      "wikiLink": "https://wiki.warframe.com/w/Mecha_Empowered",
+      "icon": "items/images/en/mecha_empowered.0056d02d3591f962eb93a4e0e3c26959.png",
+      "thumb": "items/images/en/thumbs/mecha_empowered.0056d02d3591f962eb93a4e0e3c26959.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "56b656d9ef0390c7e4006382",
+  "slug": "titanic_rumbler",
+  "gameRef": "/Lotus/Powersuits/Brawler/BrawlerSummonAugmentCard",
+  "tags": [
+    "atlas",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Titanic Rumbler",
+      "description": "Rumblers Augment: Create a single rumbler with 300% Health and 400% Damage.\nReactivating will cause him to slam the floor and knockdown enemies in 15m.",
+      "wikiLink": "https://wiki.warframe.com/w/Titanic_Rumbler",
+      "icon": "items/images/en/titanic_rumbler.6a8bbd8149ae32220e27a4d5f95d1958.png",
+      "thumb": "items/images/en/thumbs/titanic_rumbler.6a8bbd8149ae32220e27a4d5f95d1958.128x128.png"
+    }
+  }
+}

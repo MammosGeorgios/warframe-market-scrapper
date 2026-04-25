@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff34",
+  "slug": "braton_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/BratonPrimeReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff32",
+    "54a73e65e779893a797fff33",
+    "54a73e65e779893a797fff34",
+    "56783f24cbfa8f0432dd8993",
+    "54a73e65e779893a797fff35"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Braton Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Braton_Prime",
+      "icon": "items/images/en/braton_prime_receiver.ae229642d6179ebfb1547ed7d976e749.png",
+      "thumb": "items/images/en/thumbs/braton_prime_receiver.ae229642d6179ebfb1547ed7d976e749.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

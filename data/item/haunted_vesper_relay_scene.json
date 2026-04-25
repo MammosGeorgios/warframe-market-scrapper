@@ -1,0 +1,19 @@
+{
+  "id": "69d1bf747e9d0a1afb371589",
+  "slug": "haunted_vesper_relay_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileMuseHub",
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Haunted Vesper Relay Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/haunted_vesper_relay_scene.725de2f122b226a8e7955f8eed7c4d73.webp",
+      "thumb": "items/images/en/thumbs/haunted_vesper_relay_scene.725de2f122b226a8e7955f8eed7c4d73.128x128.webp"
+    }
+  }
+}

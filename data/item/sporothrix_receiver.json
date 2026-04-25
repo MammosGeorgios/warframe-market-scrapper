@@ -1,0 +1,31 @@
+{
+  "id": "5fb84768c34da3004797d548",
+  "slug": "sporothrix_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfSniperRifleReceiver",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5fb84767c34da3004797d53c",
+    "5fb84768c34da3004797d547",
+    "5fb84768c34da3004797d548",
+    "5fb84768c34da3004797d552",
+    "5fb84768c34da3004797d546"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sporothrix Receiver",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Sporothrix",
+      "icon": "items/images/en/sporothrix_receiver.d9a3fe663f9fee156958a698e597a6bb.png",
+      "thumb": "items/images/en/thumbs/sporothrix_receiver.d9a3fe663f9fee156958a698e597a6bb.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

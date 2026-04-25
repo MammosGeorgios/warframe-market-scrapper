@@ -1,0 +1,21 @@
+{
+  "id": "6939d5dad6a357b81964f861",
+  "slug": "arcane_circumvent",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/StealDefensiveStatsOnRoll",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Circumvent",
+      "description": "Roll through enemies to steal 50% of their defenses for yourself. Stolen Armor lasts 5s.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "icon": "items/images/en/arcane_circumvent.961100ef755581993133c15d34f04f53.webp",
+      "thumb": "items/images/en/thumbs/arcane_circumvent.961100ef755581993133c15d34f04f53.128x128.webp"
+    }
+  }
+}

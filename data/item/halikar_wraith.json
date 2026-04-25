@@ -1,0 +1,21 @@
+{
+  "id": "6070924a84a7d7024402d51e",
+  "slug": "halikar_wraith",
+  "gameRef": "/Lotus/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon",
+  "tags": [
+    "melee",
+    "weapon"
+  ],
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Halikar Wraith",
+      "description": "A different take on the throwing mace, the Halikar Wraith features unique styling.",
+      "wikiLink": "https://wiki.warframe.com/w/Halikar_Wraith",
+      "icon": "items/images/en/halikar_wraith.8bb2ffb98fe8bc6b152413dd77e2e6ce.png",
+      "thumb": "items/images/en/thumbs/halikar_wraith.8bb2ffb98fe8bc6b152413dd77e2e6ce.128x128.png"
+    }
+  }
+}

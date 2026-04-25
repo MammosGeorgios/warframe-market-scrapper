@@ -1,0 +1,31 @@
+{
+  "id": "653060f332327ba8746da744",
+  "slug": "grendel_prime_set",
+  "gameRef": "/Lotus/Powersuits/Devourer/GrendelPrime",
+  "tags": [
+    "prime",
+    "warframe",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "653060f332327ba8746da745",
+    "653060f332327ba8746da747",
+    "653060f332327ba8746da746",
+    "653060f332327ba8746da744",
+    "653060f332327ba8746da748"
+  ],
+  "ducats": 225,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Grendel Prime Set",
+      "description": "Primal. Insatiable. Grendel Prime devours all who oppose him.",
+      "wikiLink": "https://wiki.warframe.com/w/Grendel_Prime",
+      "icon": "items/images/en/grendel_prime_set.c684407cdaea9bef16f0c7aa97c74369.png",
+      "thumb": "items/images/en/thumbs/grendel_prime_set.c684407cdaea9bef16f0c7aa97c74369.128x128.png"
+    }
+  }
+}

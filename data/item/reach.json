@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155f2",
+  "slug": "reach",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeRangeIncMod",
+  "tags": [
+    "mod",
+    "melee",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reach",
+      "description": "+1.5 Range",
+      "wikiLink": "https://wiki.warframe.com/w/Reach",
+      "icon": "items/images/en/reach.bd9e1be51f4d18870dc8fa79d0b1b7e9.png",
+      "thumb": "items/images/en/thumbs/reach.bd9e1be51f4d18870dc8fa79d0b1b7e9.128x128.png"
+    }
+  }
+}

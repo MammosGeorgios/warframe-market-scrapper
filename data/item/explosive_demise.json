@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4d5",
+  "slug": "explosive_demise",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Melee/ExplodeOnMeleeDeath",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Explosive Demise",
+      "description": "Enemies killed explode, dealing 300 Damage shortly after death.",
+      "wikiLink": "https://wiki.warframe.com/w/Explosive_Demise",
+      "icon": "items/images/en/explosive_demise.b10b3c3c0c794946cc6c8078c220138c.png",
+      "thumb": "items/images/en/thumbs/explosive_demise.b10b3c3c0c794946cc6c8078c220138c.128x128.png"
+    }
+  }
+}

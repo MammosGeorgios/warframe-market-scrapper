@@ -1,0 +1,31 @@
+{
+  "id": "56783f24cbfa8f0432dd89ad",
+  "slug": "sicarus_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "secondary"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff5e",
+    "54a73e65e779893a797fff5f",
+    "54a73e65e779893a797fff60",
+    "56783f24cbfa8f0432dd89ad"
+  ],
+  "ducats": 130,
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sicarus Prime Set",
+      "description": "The Sicarus Prime is an ornamental firearm that fires rounds in rapid bursts, providing a balance between the lethality of auto-pistols and the accuracy of semi-automatic pistols.",
+      "wikiLink": "https://wiki.warframe.com/w/Sicarus_Prime",
+      "icon": "items/images/en/sicarus_prime_set.e7c07172e6d63d49ae349d508c56fc85.png",
+      "thumb": "items/images/en/thumbs/sicarus_prime_set.e7c07172e6d63d49ae349d508c56fc85.128x128.png"
+    }
+  }
+}

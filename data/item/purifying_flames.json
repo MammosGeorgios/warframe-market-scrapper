@@ -1,0 +1,25 @@
+{
+  "id": "5615432bb66f8371035bfa30",
+  "slug": "purifying_flames",
+  "gameRef": "/Lotus/Powersuits/Ember/FireBlastPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "ember",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Purifying Flames",
+      "description": "Fire Blast Augment: Allies hit by the expanding ring of fire are cured of Status Effects and granted 4s of Status Immunity.",
+      "wikiLink": "https://wiki.warframe.com/w/Purifying_Flames",
+      "icon": "items/images/en/purifying_flames.186bd104f40550d63859a61f3168f5e3.png",
+      "thumb": "items/images/en/thumbs/purifying_flames.186bd104f40550d63859a61f3168f5e3.128x128.png"
+    }
+  }
+}

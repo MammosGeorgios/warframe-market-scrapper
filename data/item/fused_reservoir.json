@@ -1,0 +1,25 @@
+{
+  "id": "60cca19152f60b004dfea050",
+  "slug": "fused_reservoir",
+  "gameRef": "/Lotus/Powersuits/Wisp/WispReservoirAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "wisp",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fused Reservoir",
+      "description": "Reservoirs Augment: Adds a fourth reservoir that gives the effects of all three. Costs 200% more Energy.",
+      "wikiLink": "https://wiki.warframe.com/w/Fused_Reservoir",
+      "icon": "items/images/en/fused_reservoir.13910c19e5be465680397c59d2486047.png",
+      "thumb": "items/images/en/thumbs/fused_reservoir.13910c19e5be465680397c59d2486047.128x128.png"
+    }
+  }
+}

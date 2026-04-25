@@ -1,0 +1,24 @@
+{
+  "id": "64c2ab1c66456704fef15836",
+  "slug": "metamorphic_magazine",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveGorgonAugmentMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "gorgon"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Metamorphic Magazine",
+      "description": "+90% Magazine Capacity\n+90% Ammo Maximum\nInflicting 20 cumulative attacks on an enemy will petrify them for 5s.",
+      "wikiLink": "https://wiki.warframe.com/w/Metamorphic_Magazine",
+      "icon": "items/images/en/metamorphic_magazine.b21323de489f84be2c8b365fa0833453.png",
+      "thumb": "items/images/en/thumbs/metamorphic_magazine.b21323de489f84be2c8b365fa0833453.128x128.png"
+    }
+  }
+}

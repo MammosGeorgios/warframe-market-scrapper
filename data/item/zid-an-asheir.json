@@ -1,0 +1,19 @@
+{
+  "id": "69765a057b65a4e83d4ab4af",
+  "slug": "zid-an-asheir",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/StatusChanceOnUltimateHit",
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zid-an Asheir",
+      "description": "▐▒▒▒▌% Status chance for all Warframe weapons for each enemy hit with Tauron Strike, up to ▐▒▒▒▌%. Buff lasts for ▐▒▒▒▌s",
+      "icon": "items/images/en/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.webp",
+      "thumb": "items/images/en/thumbs/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.128x128.webp"
+    }
+  }
+}

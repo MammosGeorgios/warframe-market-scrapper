@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e5156d7",
+  "slug": "rousing_plunder",
+  "gameRef": "/Lotus/Powersuits/Pirate/LiquifyAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "hydroid",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rousing Plunder",
+      "description": "Plunder Augment: Plunder gains 50% max Corrosive Damage and Armor, and heals allies within Affinity range for 50 Health.",
+      "wikiLink": "https://wiki.warframe.com/w/Rousing_Plunder",
+      "icon": "items/images/en/curative_undertow.fa308482fddacdfa8814c5625d5e0284.png",
+      "thumb": "items/images/en/thumbs/curative_undertow.fa308482fddacdfa8814c5625d5e0284.128x128.png"
+    }
+  }
+}

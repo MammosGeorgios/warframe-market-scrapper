@@ -1,0 +1,34 @@
+{
+  "id": "59a48b625cd9938cfede703b",
+  "slug": "hydroid_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeSystemsBlueprint",
+  "tags": [
+    "warframe",
+    "component",
+    "blueprint",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "59a48b625cd9938cfede7038",
+    "59a48b625cd9938cfede703a",
+    "59a48b625cd9938cfede7039",
+    "59a48b625cd9938cfede703c",
+    "59a48b625cd9938cfede703b"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Hydroid Prime Systems Blueprint",
+      "description": "Systems component of the Hydroid Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Hydroid_Prime",
+      "icon": "items/images/en/hydroid_prime_systems.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "thumb": "items/images/en/thumbs/hydroid_prime_systems.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

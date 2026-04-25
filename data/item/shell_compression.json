@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155fb",
+  "slug": "shell_compression",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponAmmoMaxMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shell Compression",
+      "description": "+90% Ammo Maximum",
+      "wikiLink": "https://wiki.warframe.com/w/Shell_Compression",
+      "icon": "items/images/en/shell_compression.e9dcc6c51d9f2b5fdeeb03a539b5cfea.png",
+      "thumb": "items/images/en/thumbs/shell_compression.e9dcc6c51d9f2b5fdeeb03a539b5cfea.128x128.png"
+    }
+  }
+}

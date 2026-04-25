@@ -1,0 +1,31 @@
+{
+  "id": "6530690f22c7fd9770508546",
+  "slug": "masseter_prime_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/MasseterPrimeBlade",
+  "tags": [
+    "weapon",
+    "prime",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6530690f22c7fd9770508546",
+    "6530690f22c7fd9770508545",
+    "6530690f22c7fd9770508547",
+    "6530690f22c7fd9770508544"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Masseter Prime Blade",
+      "description": "A prime weapon-crafting component.",
+      "icon": "items/images/en/masseter_prime_blade.d507aa3bf568e9ca76f7bc9b6d2288c8.png",
+      "thumb": "items/images/en/thumbs/masseter_prime_blade.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_blade_128x128.png"
+    }
+  }
+}

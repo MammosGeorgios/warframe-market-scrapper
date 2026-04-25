@@ -1,0 +1,25 @@
+{
+  "id": "64c2aa1566456704eba6ba40",
+  "slug": "ulfruns_endurance",
+  "gameRef": "/Lotus/Powersuits/Werewolf/WerewolfHowlAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "voruna",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ulfrun's Endurance",
+      "description": "Ulfrun's Descent Augment: During Ulfrun’s attack, enemies that die from Slash Status within 20m restore Voruna’s charges.",
+      "wikiLink": "https://wiki.warframe.com/w/Ulfrun%27s_Endurance",
+      "icon": "items/images/en/ulfruns_endurance.cefe2f00e792eb8481cefbb0731b75e8.png",
+      "thumb": "items/images/en/thumbs/ulfruns_endurance.cefe2f00e792eb8481cefbb0731b75e8.128x128.png"
+    }
+  }
+}

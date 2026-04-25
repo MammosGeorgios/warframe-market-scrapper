@@ -1,0 +1,28 @@
+{
+  "id": "57dbdc825e334907aa8edb66",
+  "slug": "itzal_set",
+  "gameRef": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack",
+  "tags": [
+    "set",
+    "archwing"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "57dbdc825e334907aa8edb66",
+    "57dbdc825e334907aa8edb65",
+    "57dbdc825e334907aa8edb63",
+    "57dbdc825e334907aa8edb64"
+  ],
+  "reqMasteryRank": 0,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Itzal Set",
+      "description": "Designed for quick clandestine attacks, the Itzal Archwing excels at striking from the darkness of space.",
+      "wikiLink": "https://wiki.warframe.com/w/Itzal",
+      "icon": "items/images/en/itzal_set.0010e4eeee847edd082019f488da2fc2.png",
+      "thumb": "items/images/en/thumbs/itzal_set.0010e4eeee847edd082019f488da2fc2.128x128.png"
+    }
+  }
+}

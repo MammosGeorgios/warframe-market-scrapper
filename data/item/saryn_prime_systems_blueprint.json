@@ -1,0 +1,34 @@
+{
+  "id": "56c3bbe05d2f0202da32e93d",
+  "slug": "saryn_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/SarynPrimeSystemsBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "56c3bbd55d2f0202da32e93b",
+    "56c3bbe45d2f0202da32e93e",
+    "56c3bbdb5d2f0202da32e93c",
+    "56c3bbea5d2f0202da32e93f",
+    "56c3bbe05d2f0202da32e93d"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Saryn Prime Systems Blueprint",
+      "description": "Systems component of the Saryn Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Saryn_Prime",
+      "icon": "items/images/en/saryn_prime_systems.394094bef0383f954bd38d622bb075e5.png",
+      "thumb": "items/images/en/thumbs/saryn_prime_systems.394094bef0383f954bd38d622bb075e5.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

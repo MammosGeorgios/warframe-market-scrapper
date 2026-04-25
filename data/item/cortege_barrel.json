@@ -1,0 +1,29 @@
+{
+  "id": "5fde10c26db57b0185b39073",
+  "slug": "cortege_barrel",
+  "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem",
+  "tags": [
+    "necramech",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5fde10c26db57b0185b39073",
+    "5fde10c36db57b0185b39075",
+    "5fde10c66db57b0185b39084",
+    "5fde10c56db57b0185b3907e"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cortege Barrel",
+      "description": "A Necramech weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Cortege",
+      "icon": "items/images/en/cortege_barrel.d33f9cd234690f5b7be1daaaa236a64f.png",
+      "thumb": "items/images/en/thumbs/cortege_barrel.d33f9cd234690f5b7be1daaaa236a64f.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "62a2baebfbd62c00450b71dd",
+  "slug": "parallax_avionics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/LandingCraftRecipes/ZarimanShip/ZarimanShipAvionicsBlueprint",
+  "tags": [
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "62a2baebfbd62c00450b71dd",
+    "62a2baecfbd62c00450b71de",
+    "62a2baecfbd62c00450b71df",
+    "62a2baebfbd62c00450b71da"
+  ],
+  "quantityInSet": 1,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Parallax Avionics Blueprint",
+      "description": "Avionics component of the Parallax landing craft",
+      "wikiLink": "https://wiki.warframe.com/w/Parallax",
+      "icon": "items/images/en/parallax_avionics.75e7e972c395cb8f385c810b9c73b55c.png",
+      "thumb": "items/images/en/thumbs/parallax_avionics.75e7e972c395cb8f385c810b9c73b55c.128x128.png",
+      "subIcon": "sub_icons/landingCraft/generic_avionics_128x128.png"
+    }
+  }
+}

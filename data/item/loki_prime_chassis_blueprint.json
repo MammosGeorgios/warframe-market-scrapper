@@ -1,0 +1,34 @@
+{
+  "id": "54a73e65e779893a797fff75",
+  "slug": "loki_prime_chassis_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/LokiPrimeChassisBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff7c",
+    "54a73e65e779893a797fff75",
+    "54a73e65e779893a797fff70",
+    "56783f24cbfa8f0432dd89a3",
+    "54a73e65e779893a797fff74"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Loki Prime Chassis Blueprint",
+      "description": "Chassis component of the Loki Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Loki_Prime",
+      "icon": "items/images/en/loki_prime_chassis.abc05c280f92196bcb688643873fbf95.png",
+      "thumb": "items/images/en/thumbs/loki_prime_chassis.abc05c280f92196bcb688643873fbf95.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_chassis_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff44",
+  "slug": "glaive_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/GlaivePrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "melee",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff43",
+    "54a73e65e779893a797fff44",
+    "54a73e65e779893a797fff45",
+    "56783f24cbfa8f0432dd899d"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Glaive Prime Blueprint",
+      "description": "The Glaive Prime is a deadly and beautiful weapon from the Orokin era. The blades are as effective in close quarters as they are when thrown at distant enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Glaive_Prime",
+      "icon": "items/images/en/glaive_prime_blueprint.17767ab370f143a315df90177995ef92.png",
+      "thumb": "items/images/en/thumbs/glaive_prime_blueprint.17767ab370f143a315df90177995ef92.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

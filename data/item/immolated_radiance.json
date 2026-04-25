@@ -1,0 +1,25 @@
+{
+  "id": "57c73be094b4b0f159ab5e15",
+  "slug": "immolated_radiance",
+  "gameRef": "/Lotus/Powersuits/Ember/FireSkinAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "ember",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Immolated Radiance",
+      "description": "Immolation Augment: Allies within Affinity range will receive 50% of Immolation's Damage Reduction.",
+      "wikiLink": "https://wiki.warframe.com/w/Immolated_Radiance",
+      "icon": "items/images/en/immolated_radiance.8f20ac882e024bad8676d16c90f0f666.png",
+      "thumb": "items/images/en/thumbs/immolated_radiance.8f20ac882e024bad8676d16c90f0f666.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515674",
+  "slug": "vital_sense",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponCritDamageMod",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vital Sense",
+      "description": "+120% Critical Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Vital_Sense",
+      "icon": "items/images/en/vital_sense.bae6419bd652a53a3bdb0a8f1e75abd1.png",
+      "thumb": "items/images/en/thumbs/vital_sense.bae6419bd652a53a3bdb0a8f1e75abd1.128x128.png"
+    }
+  }
+}

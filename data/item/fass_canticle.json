@@ -1,0 +1,24 @@
+{
+  "id": "657af5ac21646e595134f5ca",
+  "slug": "fass_canticle",
+  "gameRef": "/Lotus/Upgrades/Grimoire/FassAuraMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "tome"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fass Canticle",
+      "description": "Killing enemies grants Allies in Affinity Range 40% Shield Recharge Rate and -28% Shield Recharge Delay for 15s.",
+      "wikiLink": "https://wiki.warframe.com/w/Fass_Canticle",
+      "icon": "items/images/en/fass_canticle.e599edee6a0a3ab54a4c384d1c0a6341.png",
+      "thumb": "items/images/en/thumbs/fass_canticle.e599edee6a0a3ab54a4c384d1c0a6341.128x128.png"
+    }
+  }
+}

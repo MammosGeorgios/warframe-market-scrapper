@@ -1,0 +1,25 @@
+{
+  "id": "57c20990022d3f62c0d81aa9",
+  "slug": "path_of_statues",
+  "gameRef": "/Lotus/Powersuits/Brawler/BrawlerPunchAugmentCard",
+  "tags": [
+    "atlas",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Path Of Statues",
+      "description": "Landslide Augment: Leave a trail for 12s that petrifies enemies for 6s.",
+      "wikiLink": "https://wiki.warframe.com/w/Path_of_Statues",
+      "icon": "items/images/en/path_of_statues.56d82cf8e4dad50d1fe7dc748f03df1d.png",
+      "thumb": "items/images/en/thumbs/path_of_statues.56d82cf8e4dad50d1fe7dc748f03df1d.128x128.png"
+    }
+  }
+}

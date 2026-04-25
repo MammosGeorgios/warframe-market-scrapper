@@ -1,0 +1,23 @@
+{
+  "id": "5d8765de7ea27b08950c13b8",
+  "slug": "arcane_bodyguard",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealCompanionOnSixMeleeKills",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Bodyguard",
+      "description": "On 6 Melee Kills within 30s:\nHeal Companion for 900\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Bodyguard",
+      "icon": "items/images/en/arcane_bodyguard.bedeb0f2ceb9e91f99f682b990c09648.png",
+      "thumb": "items/images/en/thumbs/arcane_bodyguard.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+    }
+  }
+}

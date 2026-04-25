@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515643",
+  "slug": "coiling_viper",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/WhipCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "whips"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Coiling Viper",
+      "description": "Powerful arcing strikes with energetic flips.",
+      "wikiLink": "https://wiki.warframe.com/w/Coiling_Viper",
+      "icon": "items/images/en/coiling_viper.aa153941b8afd949e633825037789622.png",
+      "thumb": "items/images/en/thumbs/coiling_viper.aa153941b8afd949e633825037789622.128x128.png"
+    }
+  }
+}

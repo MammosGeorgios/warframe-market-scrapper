@@ -1,0 +1,20 @@
+{
+  "id": "5f4ed3f3d5c36d0086f55b01",
+  "slug": "deimos_tunnels_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosTunnels",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deimos Tunnels Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/deimos_tunnels_scene.14e426cb6dd9226ae07d5b7a8c18ea4f.png",
+      "thumb": "items/images/en/thumbs/deimos_tunnels_scene.14e426cb6dd9226ae07d5b7a8c18ea4f.128x128.png"
+    }
+  }
+}

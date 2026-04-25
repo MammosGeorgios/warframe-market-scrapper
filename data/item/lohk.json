@@ -1,0 +1,23 @@
+{
+  "id": "5dbe9b0b7ea27b0ffe3ca26e",
+  "slug": "lohk",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/ImmortalOneMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lohk",
+      "description": "From brooding gulfs are we beheld By that which bears no name",
+      "wikiLink": "https://wiki.warframe.com/w/Lohk",
+      "icon": "items/images/en/lohk.2217e77e1166afee23e7293d85b970db.png",
+      "thumb": "items/images/en/thumbs/lohk.2217e77e1166afee23e7293d85b970db.128x128.png"
+    }
+  }
+}

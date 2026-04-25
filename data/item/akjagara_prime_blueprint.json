@@ -1,0 +1,34 @@
+{
+  "id": "5c196fad96037800ddadac13",
+  "slug": "akjagara_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/AkjagaraPrimeBlueprint",
+  "tags": [
+    "secondary",
+    "weapon",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5c196fac96037800ddadac12",
+    "5c196fad96037800ddadac13",
+    "5c196fb496037800ddadac1a",
+    "5c196fb096037800ddadac18",
+    "5c196fae96037800ddadac15"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akjagara Prime Blueprint",
+      "description": "Precision machined mirrored pistols. Primed and ready.",
+      "wikiLink": "https://wiki.warframe.com/w/Akjagara_Prime",
+      "icon": "items/images/en/akjagara_prime_blueprint.5ed111e5dcb3df5d57c5411849c113e4.png",
+      "thumb": "items/images/en/thumbs/akjagara_prime_blueprint.5ed111e5dcb3df5d57c5411849c113e4.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

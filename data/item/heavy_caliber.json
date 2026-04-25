@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51563d",
+  "slug": "heavy_caliber",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedDamageRecoilRifle",
+  "tags": [
+    "mod",
+    "rare",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Heavy Caliber",
+      "description": "+165% Damage\n-55% Accuracy",
+      "wikiLink": "https://wiki.warframe.com/w/Heavy_Caliber",
+      "icon": "items/images/en/heavy_caliber.495eed0ad86012fe04049b94426c90ec.png",
+      "thumb": "items/images/en/thumbs/heavy_caliber.495eed0ad86012fe04049b94426c90ec.128x128.png"
+    }
+  }
+}

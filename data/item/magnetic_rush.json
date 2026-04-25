@@ -1,0 +1,23 @@
+{
+  "id": "675c62337b18977f6e645420",
+  "slug": "magnetic_rush",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/DualStat/MagneticAttackSpeedMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magnetic Rush",
+      "description": "+60% Magnetic\n+20% Attack Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Magnetic_Rush",
+      "icon": "items/images/en/magnetic_rush.fbd6dbf9acbd1d78a9efb2d772bcde31.webp",
+      "thumb": "items/images/en/thumbs/magnetic_rush.fbd6dbf9acbd1d78a9efb2d772bcde31.128x128.webp"
+    }
+  }
+}

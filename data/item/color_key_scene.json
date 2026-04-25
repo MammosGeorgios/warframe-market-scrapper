@@ -1,0 +1,20 @@
+{
+  "id": "58e6407ada6e257f670cf06b",
+  "slug": "color_key_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileWhiteBox",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Color Key Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/color_key_scene.df44186af9a8fd041e62fe3c62e3332a.png",
+      "thumb": "items/images/en/thumbs/color_key_scene.df44186af9a8fd041e62fe3c62e3332a.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5f498a1e9426ed00443bd090",
+  "slug": "juice",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBEnergyTricksMod",
+  "tags": [
+    "mod",
+    "common",
+    "k_drive"
+  ],
+  "rarity": "common",
+  "maxRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Juice",
+      "description": "Executing tricks charges Energy: 55 Energy per 100 Trick Points.",
+      "wikiLink": "https://wiki.warframe.com/w/Juice",
+      "icon": "items/images/en/juice.16042cae982a8a6828097c3403d48775.png",
+      "thumb": "items/images/en/thumbs/juice.16042cae982a8a6828097c3403d48775.128x128.png"
+    }
+  }
+}

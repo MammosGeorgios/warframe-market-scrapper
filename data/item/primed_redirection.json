@@ -1,0 +1,23 @@
+{
+  "id": "657c67a594e1edefd8db9c90",
+  "slug": "primed_redirection",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarShieldMaxModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "warframe"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Redirection",
+      "description": "+180% Shield Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Redirection",
+      "icon": "items/images/en/primed_redirection.325f8cb4a67aa608a364f7d19d9fd2e0.png",
+      "thumb": "items/images/en/thumbs/primed_redirection.325f8cb4a67aa608a364f7d19d9fd2e0.128x128.png"
+    }
+  }
+}

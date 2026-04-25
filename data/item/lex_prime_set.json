@@ -1,0 +1,31 @@
+{
+  "id": "56783f24cbfa8f0432dd89a2",
+  "slug": "lex_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "secondary"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff4d",
+    "54a73e65e779893a797fff4e",
+    "54a73e65e779893a797fff4f",
+    "56783f24cbfa8f0432dd89a2"
+  ],
+  "ducats": 55,
+  "reqMasteryRank": 8,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lex Prime Set",
+      "description": "The Lex Prime is a powerful, accurate pistol that has a low Fire Rate and Magazine Capacity. Very efficient at long range.",
+      "wikiLink": "https://wiki.warframe.com/w/Lex_Prime",
+      "icon": "items/images/en/lex_prime_set.13776cf63dfd68968067b517184a6ac0.png",
+      "thumb": "items/images/en/thumbs/lex_prime_set.13776cf63dfd68968067b517184a6ac0.128x128.png"
+    }
+  }
+}

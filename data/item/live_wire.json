@@ -1,0 +1,22 @@
+{
+  "id": "5dbe9b157ea27b0ffe3ca289",
+  "slug": "live_wire",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Cipher/ElectrifyOnHackMod",
+  "tags": [
+    "mod",
+    "common",
+    "parazon"
+  ],
+  "rarity": "common",
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Live Wire",
+      "description": "Shock enemies within 20m while Hacking",
+      "wikiLink": "https://wiki.warframe.com/w/Live_Wire",
+      "icon": "items/images/en/live_wire.dcc3d0c968b2861fce88490edc724190.png",
+      "thumb": "items/images/en/thumbs/live_wire.dcc3d0c968b2861fce88490edc724190.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "58f0ee99aa4b70452a173072",
+  "slug": "beguiling_lantern",
+  "gameRef": "/Lotus/Powersuits/Fairy/FairyLightAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "titania",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Beguiling Lantern",
+      "description": "Lantern Augment: Attracted enemies take 100% more Weapon Damage.",
+      "wikiLink": "https://wiki.warframe.com/w/Beguiling_Lantern",
+      "icon": "items/images/en/beguiling_lantern.c3248916b6065e2a6e97151e7cfc912c.png",
+      "thumb": "items/images/en/thumbs/beguiling_lantern.c3248916b6065e2a6e97151e7cfc912c.128x128.png"
+    }
+  }
+}

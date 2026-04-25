@@ -1,0 +1,30 @@
+{
+  "id": "56783f24cbfa8f0432dd8996",
+  "slug": "carrier_prime_set",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeCarrierPowerSuit",
+  "tags": [
+    "sentinel",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "559daac1e779897b4253a85e",
+    "559daad1e779897b4be73862",
+    "559daacae779897b47b74c13",
+    "56783f24cbfa8f0432dd8996",
+    "559daad8e779897b4f59525f"
+  ],
+  "ducats": 110,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Carrier Prime Set",
+      "description": "This ornate sentinel is an excellent example of late Orokin craftsmanship and styling.",
+      "wikiLink": "https://wiki.warframe.com/w/Carrier_Prime",
+      "icon": "items/images/en/carrier_prime_set.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+      "thumb": "items/images/en/thumbs/carrier_prime_set.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png"
+    }
+  }
+}

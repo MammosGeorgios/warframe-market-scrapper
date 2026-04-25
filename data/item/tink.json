@@ -1,0 +1,25 @@
+{
+  "id": "6054dea25221e30057501092",
+  "slug": "tink",
+  "gameRef": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolCommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tink",
+      "description": "Repairs robotics that have broken down in the aqua systems. It can be found in ponds around Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Tink",
+      "icon": "items/images/en/tink.ad7f29534e180cafb86952f2c5eaf1fd.png",
+      "thumb": "items/images/en/thumbs/tink.ad7f29534e180cafb86952f2c5eaf1fd.128x128.png"
+    }
+  }
+}

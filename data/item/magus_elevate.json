@@ -1,0 +1,23 @@
+{
+  "id": "5a04750e6c4655012038ddce",
+  "slug": "magus_elevate",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceIn",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magus Elevate",
+      "description": "On Transference In:\n95% chance to restore 300 Health to Warframe",
+      "wikiLink": "https://wiki.warframe.com/w/Magus_Elevate",
+      "icon": "items/images/en/magus_elevate.c2f5a10648687f0c0fc4f66f5df6b76f.png",
+      "thumb": "items/images/en/thumbs/magus_elevate.c2f5a10648687f0c0fc4f66f5df6b76f.128x128.png"
+    }
+  }
+}

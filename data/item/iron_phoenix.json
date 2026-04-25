@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156dd",
+  "slug": "iron_phoenix",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/IronPhoenixMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "swords"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Iron Phoenix",
+      "description": "Fast cutting attacks with puncture finish.",
+      "wikiLink": "https://wiki.warframe.com/w/Iron_Phoenix",
+      "icon": "items/images/en/iron_phoenix.9946b995245e14dcf5940176f1eb1df0.png",
+      "thumb": "items/images/en/thumbs/iron_phoenix.9946b995245e14dcf5940176f1eb1df0.128x128.png"
+    }
+  }
+}

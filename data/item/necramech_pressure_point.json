@@ -1,0 +1,23 @@
+{
+  "id": "5f498a1e9426ed00443bd096",
+  "slug": "necramech_pressure_point",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechMeleeDamageMod",
+  "tags": [
+    "mod",
+    "rare",
+    "necramech"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Pressure Point",
+      "description": "+60% Melee Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Pressure_Point",
+      "icon": "items/images/en/necramech_pressure_point.92f76735970bd8b57836f4db026f367c.png",
+      "thumb": "items/images/en/thumbs/necramech_pressure_point.92f76735970bd8b57836f4db026f367c.128x128.png"
+    }
+  }
+}

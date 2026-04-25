@@ -1,0 +1,27 @@
+{
+  "id": "6054ddce5221e30057500fc8",
+  "slug": "meso_t2_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionZephyrPrimeC",
+  "tags": [
+    "relic",
+    "meso"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Meso T2 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/meso_t2_relic.32eb1e727be665c175084b03829b8015.png",
+      "thumb": "items/images/en/thumbs/meso_t2_relic.32eb1e727be665c175084b03829b8015.128x128.png"
+    }
+  }
+}

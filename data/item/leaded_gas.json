@@ -1,0 +1,24 @@
+{
+  "id": "67c84009646a0f9183433501",
+  "slug": "leaded_gas",
+  "gameRef": "/Lotus/Upgrades/Mods/Nightwave/NightwaveLasSilencedPistolAugmentMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "vesper_77"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Leaded Gas",
+      "description": "On Weak Point Hit:\n+300% Gas Damage and Status Chance for 6s",
+      "wikiLink": "https://wiki.warframe.com/w/Leaded_Gas",
+      "icon": "items/images/en/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.webp",
+      "thumb": "items/images/en/thumbs/leaded_gas.dc5d14fde8d1412d3bb842c8e6210609.128x128.webp"
+    }
+  }
+}

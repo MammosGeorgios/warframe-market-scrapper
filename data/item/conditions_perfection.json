@@ -1,0 +1,23 @@
+{
+  "id": "657af5ac21646e595134f5cc",
+  "slug": "conditions_perfection",
+  "gameRef": "/Lotus/Upgrades/EmpoweredHeavyMelee/PerfectCondition",
+  "tags": [
+    "mod",
+    "uncommon",
+    "melee"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Condition's Perfection",
+      "description": "Enables Tennokai. Increases status chance by +100% on Tennokai attacks.",
+      "wikiLink": "https://wiki.warframe.com/w/Condition%27s_Perfection",
+      "icon": "items/images/en/conditions_perfection.998f807b7032755661cda8f0a27d69b4.png",
+      "thumb": "items/images/en/thumbs/conditions_perfection.998f807b7032755661cda8f0a27d69b4.128x128.png"
+    }
+  }
+}

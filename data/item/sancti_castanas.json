@@ -1,0 +1,22 @@
+{
+  "id": "54aae2ace7798918750e63f2",
+  "slug": "sancti_castanas",
+  "gameRef": "/Lotus/Weapons/Syndicates/NewLoka/Pistols/NLCastanas",
+  "tags": [
+    "syndicate",
+    "weapon",
+    "secondary"
+  ],
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sancti Castanas",
+      "description": "This remotely detonated electrical trap is used by devotees of New Loka to protect their temples and shrines.",
+      "wikiLink": "https://wiki.warframe.com/w/Sancti_Castanas",
+      "icon": "items/images/en/sancti_castanas.1f0b15a73acc61516e6f3fbda5060cf6.png",
+      "thumb": "items/images/en/thumbs/sancti_castanas.1f0b15a73acc61516e6f3fbda5060cf6.128x128.png"
+    }
+  }
+}

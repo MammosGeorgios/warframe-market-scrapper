@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515662",
+  "slug": "prolonged_paralysis",
+  "gameRef": "/Lotus/Powersuits/Berserker/ShieldBashAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "valkyr",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prolonged Paralysis",
+      "description": "Paralysis Augment: Affected enemies are pulled towards Valkyr and the stun duration is increased by 5s.",
+      "wikiLink": "https://wiki.warframe.com/w/Prolonged_Paralysis",
+      "icon": "items/images/en/prolonged_paralysis.d1a7e0254f38ad1b3c220f774f84bf07.png",
+      "thumb": "items/images/en/thumbs/prolonged_paralysis.d1a7e0254f38ad1b3c220f774f84bf07.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "57dbdc525e334907aa8edb56",
+  "slug": "telos_boltace",
+  "gameRef": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Melee/AHBoltace",
+  "tags": [
+    "syndicate",
+    "weapon",
+    "melee"
+  ],
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Telos Boltace",
+      "description": "Spinning attacks unleash the Stormpath, a tempest of mayhem that hurls any foes in its way.",
+      "wikiLink": "https://wiki.warframe.com/w/Telos_Boltace",
+      "icon": "items/images/en/telos_boltace.9dc9593274da1116201b84905a53f506.png",
+      "thumb": "items/images/en/thumbs/telos_boltace.9dc9593274da1116201b84905a53f506.128x128.png"
+    }
+  }
+}

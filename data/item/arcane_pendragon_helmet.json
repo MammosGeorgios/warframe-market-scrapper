@@ -1,0 +1,20 @@
+{
+  "id": "54aaefc3e779893b1ffe451d",
+  "slug": "arcane_pendragon_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAltB",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Pendragon Helmet",
+      "description": "This helmet is worn by Excalibur, and adds Ability Strength, with a reduction to Armor.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Excalibur_Pendragon_Helmet",
+      "icon": "items/images/en/arcane_pendragon_excalibur_helmet.3559c9930fe03efffda9f190abb33e61.png",
+      "thumb": "items/images/en/thumbs/arcane_pendragon_excalibur_helmet.3559c9930fe03efffda9f190abb33e61.128x128.png"
+    }
+  }
+}

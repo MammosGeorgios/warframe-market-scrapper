@@ -1,0 +1,25 @@
+{
+  "id": "5ecd08d704d55c0806f85348",
+  "slug": "abundant_mutation",
+  "gameRef": "/Lotus/Powersuits/Infestation/InfestPassiveAugmentCard",
+  "tags": [
+    "nidus",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Abundant Mutation",
+      "description": "Passive Augment: Nidus gains an additional 200 max stacks of Mutation. Undying has a 30s cooldown.",
+      "wikiLink": "https://wiki.warframe.com/w/Abundant_Mutation",
+      "icon": "items/images/en/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.png",
+      "thumb": "items/images/en/thumbs/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.128x128.png"
+    }
+  }
+}

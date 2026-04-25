@@ -1,0 +1,18 @@
+{
+  "id": "626a109df40db6004517215e",
+  "slug": "zariman_lunaro_court_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarLunaroCourt",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zariman Lunaro Court Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/zariman_lunaro_court_scene.c144d0beee8748fbd4ffde2fa8b6eb27.png",
+      "thumb": "items/images/en/thumbs/zariman_lunaro_court_scene.c144d0beee8748fbd4ffde2fa8b6eb27.128x128.png"
+    }
+  }
+}

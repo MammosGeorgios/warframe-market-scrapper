@@ -1,0 +1,20 @@
+{
+  "id": "5be5f5a03ffcc7038857f109",
+  "slug": "heart_noctrul",
+  "gameRef": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+  "tags": [
+    "gem"
+  ],
+  "bulkTradable": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Heart Noctrul",
+      "description": "Polished and cut to perfection. Blueprint sold by Smokefinger in Fortuna on Venus.",
+      "wikiLink": "https://wiki.warframe.com/w/Heart_Noctrul",
+      "icon": "items/images/en/heart_noctrul.353a7ac00570827bfc745565a5670ca0.png",
+      "thumb": "items/images/en/thumbs/heart_noctrul.353a7ac00570827bfc745565a5670ca0.128x128.png"
+    }
+  }
+}

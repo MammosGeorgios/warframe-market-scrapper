@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e111456970316674a08",
+  "slug": "particle_ram",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipRamAbilityCard",
+  "tags": [
+    "rare",
+    "railjack",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 10,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Particle Ram",
+      "description": "Railjack Ram that deals damage to anything it touches when moving forward.",
+      "wikiLink": "https://wiki.warframe.com/w/Particle_Ram",
+      "icon": "items/images/en/particle_ram.58a30c3d3a1ab53f0236db7e0f75330c.png",
+      "thumb": "items/images/en/thumbs/particle_ram.58a30c3d3a1ab53f0236db7e0f75330c.128x128.png"
+    }
+  }
+}

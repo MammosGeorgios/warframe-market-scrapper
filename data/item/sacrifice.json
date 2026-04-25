@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e515682",
+  "slug": "sacrifice",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/RevivePlayer",
+  "tags": [
+    "mod",
+    "sentinel",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sacrifice",
+      "description": "Sentinel incapacitates itself to revive its downed owner to 100% health and shields in 4s. Sentinel Recovery timer increases by 15s.\n+15s Companion Recovery Time",
+      "wikiLink": "https://wiki.warframe.com/w/Sacrifice",
+      "icon": "items/images/en/sacrifice.402a3534f18c6f9b08731e003f85fc47.png",
+      "thumb": "items/images/en/thumbs/sacrifice.402a3534f18c6f9b08731e003f85fc47.128x128.png"
+    }
+  }
+}

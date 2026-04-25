@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff82",
+  "slug": "mag_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/MagPrimeBlueprint",
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff82",
+    "54a73e65e779893a797fff83",
+    "54a73e65e779893a797fff6e",
+    "56783f24cbfa8f0432dd89a4",
+    "54a73e65e779893a797fff7b"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mag Prime Blueprint",
+      "description": "The exquisite Mag Prime offers the same abilities as Mag but with unique mod polarities for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Mag_Prime",
+      "icon": "items/images/en/mag_prime_blueprint.2afb45373319b966737bd91cf05a813c.png",
+      "thumb": "items/images/en/thumbs/mag_prime_blueprint.2afb45373319b966737bd91cf05a813c.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

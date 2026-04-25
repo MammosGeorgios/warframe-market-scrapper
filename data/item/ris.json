@@ -1,0 +1,23 @@
+{
+  "id": "5dbe9b127ea27b0ffe3ca282",
+  "slug": "ris",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/ImmortalFiveMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ris",
+      "description": "In luminous space blackened stars They gaze, accuse, deny",
+      "wikiLink": "https://wiki.warframe.com/w/Ris",
+      "icon": "items/images/en/ris.623abc0d45d1551faf8d57b489566047.png",
+      "thumb": "items/images/en/thumbs/ris.623abc0d45d1551faf8d57b489566047.128x128.png"
+    }
+  }
+}

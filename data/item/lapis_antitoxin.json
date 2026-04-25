@@ -1,0 +1,19 @@
+{
+  "id": "5d6ea6757ea27b05d929cbf8",
+  "slug": "lapis_antitoxin",
+  "gameRef": "/Lotus/Types/Restoratives/Consumable/Toxins/RareAntitoxin",
+  "tags": [
+    "consumable"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lapis Antitoxin",
+      "description": "This is an extremely effective antitoxin.",
+      "wikiLink": "https://wiki.warframe.com/w/Lapis_Antitoxin",
+      "icon": "items/images/en/lapis_antitoxin.fd5028ba889b4dcec74fda9c924ed8f3.png",
+      "thumb": "items/images/en/thumbs/lapis_antitoxin.fd5028ba889b4dcec74fda9c924ed8f3.128x128.png"
+    }
+  }
+}

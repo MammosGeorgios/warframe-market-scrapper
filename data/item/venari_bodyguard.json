@@ -1,0 +1,25 @@
+{
+  "id": "5c3892672cc6ce00f238139e",
+  "slug": "venari_bodyguard",
+  "gameRef": "/Lotus/Powersuits/Khora/KhoraKavatAugmentCard",
+  "tags": [
+    "mod",
+    "khora",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Venari Bodyguard",
+      "description": "Venari Augment: Venari dies in Khora's place. Recovery timer increased to 150s. Killing enemies decreases the timer by 4s.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Venari_Bodyguard",
+      "icon": "items/images/en/venari_bodyguard.0b9253da43ec63860754522efae171e9.png",
+      "thumb": "items/images/en/thumbs/venari_bodyguard.0b9253da43ec63860754522efae171e9.128x128.png"
+    }
+  }
+}

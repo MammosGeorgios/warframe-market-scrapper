@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515608",
+  "slug": "no_return",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponArmorPiercingDamageMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "No Return",
+      "description": "+90% Puncture",
+      "wikiLink": "https://wiki.warframe.com/w/No_Return",
+      "icon": "items/images/en/no_return.6532dbe63e3ea0fb7d8597ad46359a9b.png",
+      "thumb": "items/images/en/thumbs/no_return.6532dbe63e3ea0fb7d8597ad46359a9b.128x128.png"
+    }
+  }
+}

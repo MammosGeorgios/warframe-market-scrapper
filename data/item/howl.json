@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51565e",
+  "slug": "howl",
+  "gameRef": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowFearPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "raksa_kubrow"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Howl",
+      "description": "The kubrow cries out with a blood-curdling howl that strikes fear into 15 enemies within 24m for 16s.",
+      "wikiLink": "https://wiki.warframe.com/w/Howl",
+      "icon": "items/images/en/howl.2ee2ca32433b9f7f46f6c7162f8465a9.png",
+      "thumb": "items/images/en/thumbs/howl.2ee2ca32433b9f7f46f6c7162f8465a9.128x128.png"
+    }
+  }
+}

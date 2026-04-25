@@ -1,0 +1,24 @@
+{
+  "id": "5f498a229426ed00443bd0ae",
+  "slug": "crescent_devolution",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/HornedInfestedCatbrowRespawn",
+  "tags": [
+    "mod",
+    "rare",
+    "kavat",
+    "crescent_vulpaphyla"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Crescent Devolution",
+      "description": "Devolves into its larval form when downed and charges at enemies, dealing 100 Puncture Damage. Regains true form after 30s.",
+      "wikiLink": "https://wiki.warframe.com/w/Crescent_Devolution",
+      "icon": "items/images/en/crescent_devolution.7815e5bb44be625ef6e9fd787408045b.png",
+      "thumb": "items/images/en/thumbs/crescent_devolution.7815e5bb44be625ef6e9fd787408045b.128x128.png"
+    }
+  }
+}

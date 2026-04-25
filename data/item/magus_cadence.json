@@ -1,0 +1,23 @@
+{
+  "id": "5a0475076c4655012038ddbe",
+  "slug": "magus_cadence",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/SpeedOnVoidDash",
+  "tags": [
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magus Cadence",
+      "description": "On Void Sling:\n+90% Sprint Speed for 12s",
+      "wikiLink": "https://wiki.warframe.com/w/Magus_Cadence",
+      "icon": "items/images/en/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.png",
+      "thumb": "items/images/en/thumbs/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.128x128.png"
+    }
+  }
+}

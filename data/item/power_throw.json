@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155d4",
+  "slug": "power_throw",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponGlaivePowerthrowMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "thrown_melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Power Throw",
+      "description": "+2 Punch Through\nOn Consecutive throw (Max stacks 3):\n+100% Throw Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Power_Throw",
+      "icon": "items/images/en/power_throw.3f539579816deca71f6af6d661a5b08d.png",
+      "thumb": "items/images/en/thumbs/power_throw.3f539579816deca71f6af6d661a5b08d.128x128.png"
+    }
+  }
+}

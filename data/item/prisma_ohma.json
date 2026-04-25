@@ -1,0 +1,21 @@
+{
+  "id": "64df999889997a0052defcb1",
+  "slug": "prisma_ohma",
+  "gameRef": "/Lotus/Weapons/Corpus/Melee/CrpTonfa/CrpPrismaTonfa",
+  "tags": [
+    "melee",
+    "weapon"
+  ],
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Ohma",
+      "description": "Prisma crystals glisten in these electrified tonfas.",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma_Ohma",
+      "icon": "items/images/en/prisma_ohma.05f66ed2cfd4c0c6dfdb19ec4498cf54.png",
+      "thumb": "items/images/en/thumbs/prisma_ohma.05f66ed2cfd4c0c6dfdb19ec4498cf54.128x128.png"
+    }
+  }
+}

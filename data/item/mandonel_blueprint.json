@@ -1,0 +1,33 @@
+{
+  "id": "657f14f38820fb8f3c5f4659",
+  "slug": "mandonel_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/TnConcreteArchgunBlueprint",
+  "tags": [
+    "archwing",
+    "primary",
+    "weapon",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "657f14f38820fb8f3c5f465a",
+    "657f14f38820fb8f3c5f4659",
+    "657f14f38820fb8f3c5f465b",
+    "657f14f38820fb8f3c5f4658",
+    "657f14f38820fb8f3c5f465c"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mandonel Blueprint",
+      "description": "Mandonel fires Radiation Damage projectiles. Partially charged shots release a spread and fully charged shots release a beam that dissolves into a radiation field. Projectiles that pass through the field are empowered.",
+      "wikiLink": "https://wiki.warframe.com/w/Mandonel",
+      "icon": "items/images/en/mandonel_blueprint.242783b92f4aeadf1270b7012dfa9079.png",
+      "thumb": "items/images/en/thumbs/mandonel_blueprint.242783b92f4aeadf1270b7012dfa9079.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

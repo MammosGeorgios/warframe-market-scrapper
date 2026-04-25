@@ -1,0 +1,31 @@
+{
+  "id": "56783f24cbfa8f0432dd8990",
+  "slug": "bo_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff27",
+    "54a73e65e779893a797fff28",
+    "54a73e65e779893a797fff29",
+    "56783f24cbfa8f0432dd8990"
+  ],
+  "ducats": 90,
+  "reqMasteryRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Bo Prime Set",
+      "description": "A classic Orokin weapon, Bo Prime creates elegant fury on the battlefield.",
+      "wikiLink": "https://wiki.warframe.com/w/Bo_Prime",
+      "icon": "items/images/en/bo_prime_set.fad65cfb95d62a4275be60be30375846.png",
+      "thumb": "items/images/en/thumbs/bo_prime_set.fad65cfb95d62a4275be60be30375846.128x128.png"
+    }
+  }
+}

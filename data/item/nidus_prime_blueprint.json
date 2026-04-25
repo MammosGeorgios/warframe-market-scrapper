@@ -1,0 +1,33 @@
+{
+  "id": "6139101830dd5b004b7f9093",
+  "slug": "nidus_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeBlueprint",
+  "tags": [
+    "blueprint",
+    "warframe",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6139101830dd5b004b7f9093",
+    "6139101a30dd5b004b7f90ad",
+    "6139101a30dd5b004b7f90ac",
+    "6139101930dd5b004b7f909e",
+    "6139101a30dd5b004b7f90a8"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nidus Prime Blueprint",
+      "description": "Mutation is endless. The ravening plague-bearer returns in a long-unseen form, seething with a primal strain of the Infestation.",
+      "wikiLink": "https://wiki.warframe.com/w/Nidus_Prime",
+      "icon": "items/images/en/nidus_prime_blueprint.1cf479b37c98ce42340156c9c005e91e.png",
+      "thumb": "items/images/en/thumbs/nidus_prime_blueprint.1cf479b37c98ce42340156c9c005e91e.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

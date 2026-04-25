@@ -1,0 +1,23 @@
+{
+  "id": "649322af7ec190215a693092",
+  "slug": "primary_blight",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryHeadshotCritMultOnHeadshot",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primary Blight",
+      "description": "On Toxin Status Effect:\n+3.6% Critical Damage and +1.8% Multishot for 12s. Stacks up to 40x.",
+      "wikiLink": "https://wiki.warframe.com/w/Primary_Blight",
+      "icon": "items/images/en/primary_blight.7dc9243c44441b2b46f7e1dc55eae1d0.png",
+      "thumb": "items/images/en/thumbs/primary_blight.7dc9243c44441b2b46f7e1dc55eae1d0.128x128.png"
+    }
+  }
+}

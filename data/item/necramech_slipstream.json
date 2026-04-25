@@ -1,0 +1,23 @@
+{
+  "id": "5f498a1f9426ed00443bd099",
+  "slug": "necramech_slipstream",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideSpeedMod",
+  "tags": [
+    "mod",
+    "common",
+    "necramech"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Slipstream",
+      "description": "+60% Slide",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Slipstream",
+      "icon": "items/images/en/necramech_slipstream.b5c850017828708c1576b860b787eeb6.png",
+      "thumb": "items/images/en/thumbs/necramech_slipstream.b5c850017828708c1576b860b787eeb6.128x128.png"
+    }
+  }
+}

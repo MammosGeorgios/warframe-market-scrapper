@@ -1,0 +1,21 @@
+{
+  "id": "5ef0a62004d55c0c40f06525",
+  "slug": "glaxion_vandal",
+  "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CrpFreezeRay/Vandal/CrpFreezeRayVandalRifle",
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Glaxion Vandal",
+      "description": "A cutting-edge, halogen-cooled electron accelerator capable of snap-freezing a target in moments.",
+      "wikiLink": "https://wiki.warframe.com/w/Glaxion_Vandal",
+      "icon": "items/images/en/glaxion_vandal.6014173d9027f07df11bf4bd68f5eeb8.png",
+      "thumb": "items/images/en/thumbs/glaxion_vandal.6014173d9027f07df11bf4bd68f5eeb8.128x128.png"
+    }
+  }
+}

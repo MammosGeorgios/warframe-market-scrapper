@@ -1,0 +1,34 @@
+{
+  "id": "592dd262011e88f094afec82",
+  "slug": "sybaris_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/SybarisPrimeBlueprint",
+  "tags": [
+    "primary",
+    "prime",
+    "weapon",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "592dd262011e88f094afec85",
+    "592dd262011e88f094afec82",
+    "592dd262011e88f094afec84",
+    "592dd262011e88f094afec86",
+    "592dd262011e88f094afec83"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sybaris Prime Blueprint",
+      "description": "Sleek and slender, a golden symbol of Tenno perfection.",
+      "wikiLink": "https://wiki.warframe.com/w/Sybaris_Prime",
+      "icon": "items/images/en/sybaris_prime_blueprint.39d7dc4a904f7db7e7c78901976aa5fa.png",
+      "thumb": "items/images/en/thumbs/sybaris_prime_blueprint.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

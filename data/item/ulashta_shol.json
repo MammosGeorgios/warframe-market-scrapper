@@ -1,0 +1,22 @@
+{
+  "id": "693e669403903ae8993ffaf6",
+  "slug": "ulashta_shol",
+  "gameRef": "/Lotus/Upgrades/Mods/Antiques/ReduceDeathEffect",
+  "tags": [
+    "mod",
+    "common",
+    "any"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ulashta-Shol",
+      "description": "-60% Transference Static duration",
+      "icon": "items/images/en/ulashta_shol.f2e459b74a56e0102ee2c0c65e420cb7.webp",
+      "thumb": "items/images/en/thumbs/ulashta_shol.f2e459b74a56e0102ee2c0c65e420cb7.128x128.webp"
+    }
+  }
+}

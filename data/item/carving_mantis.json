@@ -1,0 +1,24 @@
+{
+  "id": "59e3afcd115f1d887cfd7ac8",
+  "slug": "carving_mantis",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbThreeMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "dual_swords"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Carving Mantis",
+      "description": "Strong slashes and quick stabs that keeps momentum forward.",
+      "wikiLink": "https://wiki.warframe.com/w/Carving_Mantis",
+      "icon": "items/images/en/carving_mantis.3536f840864456911b4003a33fc522fd.png",
+      "thumb": "items/images/en/thumbs/carving_mantis.3536f840864456911b4003a33fc522fd.128x128.png"
+    }
+  }
+}

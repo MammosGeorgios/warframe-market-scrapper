@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e1014569703166749f9",
+  "slug": "battle_forge",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Tactical/CrewShipBattleCraftingAbilityCard",
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Battle Forge",
+      "description": "Reduce Forge Cooldown by 120s\nCooldown: 480s",
+      "wikiLink": "https://wiki.warframe.com/w/Battle_Forge",
+      "icon": "items/images/en/battle_forge.b67aa889d03e039f6aae03c2010726d6.png",
+      "thumb": "items/images/en/thumbs/battle_forge.b67aa889d03e039f6aae03c2010726d6.128x128.png"
+    }
+  }
+}

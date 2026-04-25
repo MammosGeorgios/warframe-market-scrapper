@@ -1,0 +1,23 @@
+{
+  "id": "60e70f79479445008f272572",
+  "slug": "secondary_merciless",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnKill",
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secondary Merciless",
+      "description": "On Kill:\n+30% Damage for 4s. Stacks up to 12x.\n+30% Reload Speed\n+30% Reload Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Secondary_Merciless",
+      "icon": "items/images/en/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.png",
+      "thumb": "items/images/en/thumbs/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.128x128.png"
+    }
+  }
+}

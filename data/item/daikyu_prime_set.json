@@ -1,0 +1,32 @@
+{
+  "id": "682dfb5635715d4f3e9c64ec",
+  "slug": "daikyu_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Bows/PrimeDaikyu/PrimeDaikyuBow",
+  "tags": [
+    "weapon",
+    "primary",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "682dfb5635715d4f3e9c64ed",
+    "682dfb5735715d4f3e9c64f0",
+    "682dfb5635715d4f3e9c64ee",
+    "682dfb5635715d4f3e9c64ec",
+    "682dfb5735715d4f3e9c64f1",
+    "682dfb5635715d4f3e9c64ef"
+  ],
+  "ducats": 220,
+  "reqMasteryRank": 15,
+  "tradingTax": 10000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Daikyu Prime Set",
+      "description": "Long believed lost, the mighty Daikyu Prime was the pride of many a Tenno dojo. Designed to strike the foe where they are weakest, its powerful shots repay careful marksmanship.",
+      "icon": "items/images/en/daikyu_prime_set.56987b8ec6a151a7dc61a753674d018f.webp",
+      "thumb": "items/images/en/thumbs/daikyu_prime_set.56987b8ec6a151a7dc61a753674d018f.128x128.webp"
+    }
+  }
+}

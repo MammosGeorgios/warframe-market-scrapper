@@ -1,0 +1,24 @@
+{
+  "id": "5f808268824fa302f3685c1f",
+  "slug": "combo_fury",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "thrown_melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Combo Fury",
+      "description": "On Melee Kill:\n+100% Reload Speed\n+100% Magazine Capacity for 12s on Secondary Weapon",
+      "wikiLink": "https://wiki.warframe.com/w/Combo_Fury",
+      "icon": "items/images/en/combo_fury.f2cf6bf112c9d43e181f1c321649a8fd.png",
+      "thumb": "items/images/en/thumbs/combo_fury.f2cf6bf112c9d43e181f1c321649a8fd.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "57c05949d0d9ef638234e4af",
+  "slug": "brief_respite",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestAbilityToShieldsAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Brief Respite",
+      "description": "On Ability Cast: Squad converts 150% of Energy spent to Shields while Overshields are inactive",
+      "wikiLink": "https://wiki.warframe.com/w/Brief_Respite",
+      "icon": "items/images/en/brief_respite.716172347813d137cc5d9d0cbe249d6c.png",
+      "thumb": "items/images/en/thumbs/brief_respite.716172347813d137cc5d9d0cbe249d6c.128x128.png"
+    }
+  }
+}

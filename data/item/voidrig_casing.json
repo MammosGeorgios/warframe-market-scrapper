@@ -1,0 +1,30 @@
+{
+  "id": "5fde10c36db57b0185b39077",
+  "slug": "voidrig_casing",
+  "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem",
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5fde10c46db57b0185b3907c",
+    "5fde10c36db57b0185b39077",
+    "5fde10c46db57b0185b3907d",
+    "5fde10c66db57b0185b39086",
+    "5fde10c56db57b0185b39082"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Voidrig Casing",
+      "description": "Casing component for the Voidrig Necramech.",
+      "wikiLink": "https://wiki.warframe.com/w/Voidrig",
+      "icon": "items/images/en/voidrig_casing.d8acf865db09a10d93fdac2cdd1e8211.png",
+      "thumb": "items/images/en/thumbs/voidrig_casing.d8acf865db09a10d93fdac2cdd1e8211.128x128.png"
+    }
+  }
+}

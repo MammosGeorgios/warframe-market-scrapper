@@ -1,0 +1,21 @@
+{
+  "id": "5ada1ab3b2b6a80bb33793f4",
+  "slug": "supra_vandal",
+  "gameRef": "/Lotus/Weapons/Corpus/LongGuns/Machinegun/SupraVandal",
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Supra Vandal",
+      "description": "A customized version of the powerful Supra, featuring a metallic finish and Lotus decal.",
+      "wikiLink": "https://wiki.warframe.com/w/Supra_Vandal",
+      "icon": "items/images/en/supra_vandal.f8186c7314e1599aeb861fce024e701d.png",
+      "thumb": "items/images/en/thumbs/supra_vandal.f8186c7314e1599aeb861fce024e701d.128x128.png"
+    }
+  }
+}

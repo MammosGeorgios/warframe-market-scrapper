@@ -1,0 +1,23 @@
+{
+  "id": "61bb64fd3132ff00482b5fcb",
+  "slug": "amars_hatred",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Amar/AmarWarframeMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Amar's Hatred",
+      "description": "+25% Armor\n+15% Ability Strength",
+      "wikiLink": "https://wiki.warframe.com/w/Amar%27s_Hatred",
+      "icon": "items/images/en/amars_hatred.1401c99cc4f1f12e4eabfcce31af8cc6.png",
+      "thumb": "items/images/en/thumbs/amars_hatred.1401c99cc4f1f12e4eabfcce31af8cc6.128x128.png"
+    }
+  }
+}

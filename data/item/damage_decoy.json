@@ -1,0 +1,24 @@
+{
+  "id": "6604a66edbdd5c1673781db9",
+  "slug": "damage_decoy",
+  "gameRef": "/Lotus/Powersuits/Loki/DecoyAugmentTwoCard",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe",
+    "loki"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Damage Decoy",
+      "description": "Decoy Augment: Decoy can be cast on enemies. Enemies who attack that decoy receive 5 random Status Effects, and the reflected damage is increased by 350%.",
+      "wikiLink": "https://wiki.warframe.com/w/Damage_Decoy",
+      "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+      "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png"
+    }
+  }
+}

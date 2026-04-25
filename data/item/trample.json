@@ -1,0 +1,24 @@
+{
+  "id": "58dbcc9e70b42255d6321e8f",
+  "slug": "trample",
+  "gameRef": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/ChargerChargePrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "helminth charger",
+    "helminth_charger"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Trample",
+      "description": "The Helminth Charger rushes an enemy, dealing 160 Damage to all in its path. It gains +10% Melee Damage, Max Health and Armor for every enemy hit for 5s.",
+      "wikiLink": "https://wiki.warframe.com/w/Trample",
+      "icon": "items/images/en/trample.c4c4b3a1b2570c07b06a3ffd9186a958.png",
+      "thumb": "items/images/en/thumbs/trample.c4c4b3a1b2570c07b06a3ffd9186a958.128x128.png"
+    }
+  }
+}

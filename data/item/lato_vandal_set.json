@@ -1,0 +1,29 @@
+{
+  "id": "5adf8729931bcf00574adc0f",
+  "slug": "lato_vandal_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistol/LatoVandal",
+  "tags": [
+    "weapon",
+    "secondary",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5adf872a931bcf00574adc13",
+    "5adf8729931bcf00574adc11",
+    "5adf872a931bcf00574adc16",
+    "5adf8729931bcf00574adc0f"
+  ],
+  "reqMasteryRank": 7,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lato Vandal Set",
+      "description": "A special version of the standard Lato pistol with a slower Fire Rate but offering higher Accuracy and Damage values. The Lato Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the grips.",
+      "wikiLink": "https://wiki.warframe.com/w/Lato_Vandal",
+      "icon": "items/images/en/lato_vandal_set.d3f82be07b93c35d6e1e9430c796ac9a.png",
+      "thumb": "items/images/en/thumbs/lato_vandal_set.d3f82be07b93c35d6e1e9430c796ac9a.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "6139101930dd5b004b7f909c",
+  "slug": "primed_magazine_warp",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponClipMaxModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Magazine Warp",
+      "description": "+55% Magazine Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Magazine_Warp",
+      "icon": "items/images/en/primed_magazine_warp.3633879e6484d0e271c64b1b04752966.png",
+      "thumb": "items/images/en/thumbs/primed_magazine_warp.3633879e6484d0e271c64b1b04752966.128x128.png"
+    }
+  }
+}

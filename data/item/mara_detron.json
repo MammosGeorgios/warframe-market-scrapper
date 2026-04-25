@@ -1,0 +1,21 @@
+{
+  "id": "54c6860ce7798913933a7a43",
+  "slug": "mara_detron",
+  "gameRef": "/Lotus/Weapons/VoidTrader/VTDetron",
+  "tags": [
+    "weapon",
+    "secondary"
+  ],
+  "reqMasteryRank": 9,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mara Detron",
+      "description": "For Orokin-era smugglers, this fearsome handheld shotgun was a favored tool for 'dispute resolution'.",
+      "wikiLink": "https://wiki.warframe.com/w/Mara_Detron",
+      "icon": "items/images/en/mara_detron.40e0e10a54d94f3947e9a07d438e9509.png",
+      "thumb": "items/images/en/thumbs/mara_detron.40e0e10a54d94f3947e9a07d438e9509.128x128.png"
+    }
+  }
+}

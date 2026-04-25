@@ -1,0 +1,21 @@
+{
+  "id": "570e384396c62ba9d1795d21",
+  "slug": "quanta_vandal",
+  "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/QuantaVandal",
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Quanta Vandal",
+      "description": "A customized version of the Quanta, with metallic finish and Lotus decal.",
+      "wikiLink": "https://wiki.warframe.com/w/Quanta_Vandal",
+      "icon": "items/images/en/quanta_vandal.4cc8f8946b8f07fe991eb81c4c2efafc.png",
+      "thumb": "items/images/en/thumbs/quanta_vandal.4cc8f8946b8f07fe991eb81c4c2efafc.128x128.png"
+    }
+  }
+}

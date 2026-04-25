@@ -1,0 +1,34 @@
+{
+  "id": "559daab7e779897b3d86cb8f",
+  "slug": "ash_prime_neuroptics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/AshPrimeHelmetBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "559daa9fe779897b3263c2c7",
+    "559daaa7e779897b35d626c6",
+    "559daab7e779897b3d86cb8f",
+    "56783f24cbfa8f0432dd898f",
+    "559daaafe779897b399db0fd"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ash Prime Neuroptics Blueprint",
+      "description": "Neuroptics component of the Ash Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Ash_Prime",
+      "icon": "items/images/en/ash_prime_neuroptics.9f3f82bee82a9741531857cf76eb6594.png",
+      "thumb": "items/images/en/thumbs/ash_prime_neuroptics.9f3f82bee82a9741531857cf76eb6594.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_helmet_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "56dac5ac5cc639de0a45c526",
+  "slug": "brain_storm",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/GrakataUnlimitedAmmo",
+  "tags": [
+    "primary",
+    "pvp",
+    "grakata",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Brain Storm",
+      "description": "On Headshot:\n+100% Ammo Efficiency for 0.5s",
+      "wikiLink": "https://wiki.warframe.com/w/Brain_Storm",
+      "icon": "items/images/en/brain_storm.85cc50bf4d62733e3b35cd2f0e3c7b7b.png",
+      "thumb": "items/images/en/thumbs/brain_storm.85cc50bf4d62733e3b35cd2f0e3c7b7b.128x128.png"
+    }
+  }
+}

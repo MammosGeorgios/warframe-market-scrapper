@@ -1,0 +1,34 @@
+{
+  "id": "58b57068eb26db5c3119210d",
+  "slug": "banshee_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeSystemsBlueprint",
+  "tags": [
+    "warframe",
+    "component",
+    "blueprint",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "58b57068eb26db5c3119210a",
+    "58b57068eb26db5c3119210c",
+    "58b57068eb26db5c3119210b",
+    "58b57068eb26db5c3119210e",
+    "58b57068eb26db5c3119210d"
+  ],
+  "quantityInSet": 1,
+  "ducats": 65,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Banshee Prime Systems Blueprint",
+      "description": "Systems component of the Banshee Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Banshee_Prime",
+      "icon": "items/images/en/banshee_prime_systems.a0956816beb733841bce57e69a568cd6.png",
+      "thumb": "items/images/en/thumbs/banshee_prime_systems.a0956816beb733841bce57e69a568cd6.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

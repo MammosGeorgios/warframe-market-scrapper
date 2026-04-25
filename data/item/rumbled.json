@@ -1,0 +1,25 @@
+{
+  "id": "56dac5705cc639de0a45c51c",
+  "slug": "rumbled",
+  "gameRef": "/Lotus/Powersuits/Brawler/BrawlerSummonPvPAugmentCard",
+  "tags": [
+    "atlas",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rumbled",
+      "description": "Rumblers Augment: Atlas becomes a Rumbler with Rock Armor that grants Overguard and absorbs up to 300% of damage to Max Health.",
+      "wikiLink": "https://wiki.warframe.com/w/Rumbled",
+      "icon": "items/images/en/rumbled.d74e43fab8d802bc1fa379104817a302.png",
+      "thumb": "items/images/en/thumbs/rumbled.d74e43fab8d802bc1fa379104817a302.128x128.png"
+    }
+  }
+}

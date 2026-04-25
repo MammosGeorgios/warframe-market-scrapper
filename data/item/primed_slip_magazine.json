@@ -1,0 +1,24 @@
+{
+  "id": "554d3f0ce779894445a848fc",
+  "slug": "primed_slip_magazine",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponClipMaxModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Slip Magazine",
+      "description": "+55% Magazine Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Slip_Magazine",
+      "icon": "items/images/en/primed_slip_magazine.0fa1381be2a512bad43b7cc263e52edf.png",
+      "thumb": "items/images/en/thumbs/primed_slip_magazine.0fa1381be2a512bad43b7cc263e52edf.128x128.png"
+    }
+  }
+}

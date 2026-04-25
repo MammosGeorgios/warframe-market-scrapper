@@ -1,0 +1,25 @@
+{
+  "id": "5b50a3b23a84fd02a7823252",
+  "slug": "partitioned_mallet",
+  "gameRef": "/Lotus/Powersuits/Bard/BardMusicAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare",
+    "augment",
+    "octavia"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Partitioned Mallet",
+      "description": "Mallet Augment: Create an additional Mallet with 20% reduced range.",
+      "wikiLink": "https://wiki.warframe.com/w/Partitioned_Mallet",
+      "icon": "items/images/en/partitioned_mallet.e43558fc4eae736abf25f156f62cf517.png",
+      "thumb": "items/images/en/thumbs/partitioned_mallet.e43558fc4eae736abf25f156f62cf517.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515684",
+  "slug": "guardian",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/Guardian",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "robotic"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Guardian",
+      "description": "Boosts owner's shield by 100% when it runs out.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Guardian",
+      "icon": "items/images/en/guardian.82a8cad9f3aa8df41a82c490e85425d6.png",
+      "thumb": "items/images/en/thumbs/guardian.82a8cad9f3aa8df41a82c490e85425d6.128x128.png"
+    }
+  }
+}

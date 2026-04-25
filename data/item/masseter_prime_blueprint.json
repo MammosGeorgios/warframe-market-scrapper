@@ -1,0 +1,32 @@
+{
+  "id": "6530690f22c7fd9770508545",
+  "slug": "masseter_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/MasseterPrimeBlueprint",
+  "tags": [
+    "prime",
+    "melee",
+    "weapon",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6530690f22c7fd9770508546",
+    "6530690f22c7fd9770508545",
+    "6530690f22c7fd9770508547",
+    "6530690f22c7fd9770508544"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Masseter Prime Blueprint",
+      "description": "A greatsword for those with an insatiable hunger for victory. Grendel is immune to crowd-control when he performs Heavy Attacks with this weapon.",
+      "icon": "items/images/en/masseter_prime_blueprint.d507aa3bf568e9ca76f7bc9b6d2288c8.png",
+      "thumb": "items/images/en/thumbs/masseter_prime_blueprint.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

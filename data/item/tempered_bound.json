@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4ff",
+  "slug": "tempered_bound",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreShieldLessBulletJumpMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 3,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tempered Bound",
+      "description": "-10% Mobility\n+30 Shield Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Tempered_Bound",
+      "icon": "items/images/en/tempered_bound.cdc7368fa20d61eaecae92f5527dfb18.png",
+      "thumb": "items/images/en/thumbs/tempered_bound.cdc7368fa20d61eaecae92f5527dfb18.128x128.png"
+    }
+  }
+}

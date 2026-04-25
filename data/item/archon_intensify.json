@@ -1,0 +1,23 @@
+{
+  "id": "6322918add457f0072aeb8b1",
+  "slug": "archon_intensify",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/Kahl/KahlAvatarAbilityStrengthMod",
+  "tags": [
+    "mod",
+    "archon",
+    "warframe"
+  ],
+  "rarity": "archon",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Archon Intensify",
+      "description": "+30% Ability Strength\nRestoring health with abilities grants +30% Ability Strength for 10s.",
+      "wikiLink": "https://wiki.warframe.com/w/Archon_Intensify",
+      "icon": "items/images/en/archon_intensify.4fac0586cea5af02d26b98eb29c2488c.png",
+      "thumb": "items/images/en/thumbs/archon_intensify.4fac0586cea5af02d26b98eb29c2488c.128x128.png"
+    }
+  }
+}

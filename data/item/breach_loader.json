@@ -1,0 +1,24 @@
+{
+  "id": "554d3f0ce779894445a848f6",
+  "slug": "breach_loader",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventPunctureDamageMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "rare",
+    "primary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Breach Loader",
+      "description": "+120% Puncture",
+      "wikiLink": "https://wiki.warframe.com/w/Breach_Loader",
+      "icon": "items/images/en/breach_loader.ac1c6544ae28057ae47e86ef8ceceff5.png",
+      "thumb": "items/images/en/thumbs/breach_loader.ac1c6544ae28057ae47e86ef8ceceff5.128x128.png"
+    }
+  }
+}

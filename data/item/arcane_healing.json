@@ -1,0 +1,23 @@
+{
+  "id": "551085c3e7798972ae2819db",
+  "slug": "arcane_healing",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadiationProcResist",
+  "tags": [
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Healing",
+      "description": "+102% chance to resist a Radiation Status effect.\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Healing",
+      "icon": "items/images/en/arcane_healing.acadb2bf20e9dad0e620e8641110a928.png",
+      "thumb": "items/images/en/thumbs/arcane_healing.acadb2bf20e9dad0e620e8641110a928.128x128.png"
+    }
+  }
+}

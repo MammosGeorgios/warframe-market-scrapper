@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155cf",
+  "slug": "shield_disruption",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/EnemyShieldReductionAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shield Disruption",
+      "description": "Enemies lose -18% Shield Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Shield_Disruption",
+      "icon": "items/images/en/shield_disruption.f9fc4cba7d6d38bc9c694819089267ce.png",
+      "thumb": "items/images/en/thumbs/shield_disruption.f9fc4cba7d6d38bc9c694819089267ce.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "554d3d13e77989430b114cb2",
+  "slug": "sapping_reach",
+  "gameRef": "/Lotus/Powersuits/Mag/PullPvPAugmentCard",
+  "tags": [
+    "mag",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sapping Reach",
+      "description": "Pull Augment: Steals up to 25 Energy from the target.",
+      "wikiLink": "https://wiki.warframe.com/w/Sapping_Reach",
+      "icon": "items/images/en/sapping_reach.443c26cf9edee1c90fefca34a579609a.png",
+      "thumb": "items/images/en/thumbs/sapping_reach.443c26cf9edee1c90fefca34a579609a.128x128.png"
+    }
+  }
+}

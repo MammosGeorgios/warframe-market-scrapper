@@ -1,0 +1,22 @@
+{
+  "id": "54aae25de7798968b372a4e1",
+  "slug": "vaykor_marelok",
+  "gameRef": "/Lotus/Weapons/Syndicates/SteelMeridian/Pistols/SMMarelok",
+  "tags": [
+    "syndicate",
+    "weapon",
+    "secondary"
+  ],
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vaykor Marelok",
+      "description": "Taken from defeated Grineer commanders and rebuilt to improve combat efficiency and reliability.",
+      "wikiLink": "https://wiki.warframe.com/w/Vaykor_Marelok",
+      "icon": "items/images/en/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.png",
+      "thumb": "items/images/en/thumbs/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6939aac95d9ebda239125d33",
+  "slug": "kestrel_prime_grip",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/KestrelPrimeGrip",
+  "tags": [
+    "weapon",
+    "prime",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6939aaca5d9ebda239125d34",
+    "6939aac85d9ebda239125d32",
+    "6939aac95d9ebda239125d33",
+    "6939aac75d9ebda239125d31"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 11,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kestrel Prime Grip",
+      "description": "A prime weapon-crafting component.",
+      "icon": "items/images/en/kestrel_prime_grip.4d27b989c37deb1e2a0ec4499e69c874.webp",
+      "thumb": "items/images/en/thumbs/kestrel_prime_grip.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp",
+      "subIcon": "sub_icons/weapon/prime_grip_128x128.png"
+    }
+  }
+}

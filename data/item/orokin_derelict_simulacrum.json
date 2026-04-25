@@ -1,0 +1,18 @@
+{
+  "id": "667237778ba7c81b70d02ca4",
+  "slug": "orokin_derelict_simulacrum",
+  "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileOrokinDerelictArtifactRoom",
+  "tags": [
+    "simulacrum"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Orokin Derelict Simulacrum",
+      "description": "Simulate a battle inside an Orokin Derelict. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+      "icon": "items/images/en/orokin_derelict_simulacrum.affcd8740b649be488900433ed055705.webp",
+      "thumb": "items/images/en/thumbs/orokin_derelict_simulacrum.affcd8740b649be488900433ed055705.128x128.webp"
+    }
+  }
+}

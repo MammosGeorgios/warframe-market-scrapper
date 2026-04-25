@@ -1,0 +1,33 @@
+{
+  "id": "6530694622c7fd9770508549",
+  "slug": "zylok_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/ZylokPrimeBlueprint",
+  "tags": [
+    "prime",
+    "secondary",
+    "weapon",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6530694722c7fd977050854a",
+    "6530694622c7fd9770508549",
+    "6530694722c7fd977050854b",
+    "6530694622c7fd9770508548"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zylok Prime Blueprint",
+      "description": "A lightweight weapon that packs a punch worthy of its golden design.",
+      "wikiLink": "https://wiki.warframe.com/w/Zylok_Prime",
+      "icon": "items/images/en/zylok_prime_blueprint.3e33bc4a5c48f70000b4ad50fa283437.png",
+      "thumb": "items/images/en/thumbs/zylok_prime_blueprint.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

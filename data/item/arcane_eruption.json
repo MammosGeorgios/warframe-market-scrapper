@@ -1,0 +1,23 @@
+{
+  "id": "551085b5e7798972a3b857aa",
+  "slug": "arcane_eruption",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialKnockdownOnEnergyPickup",
+  "tags": [
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Eruption",
+      "description": "On Energy Pickup:\n100% chance to Knockdown nearby enemies\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Eruption",
+      "icon": "items/images/en/arcane_eruption.96e2b7f03322df6295089a9dd442df86.png",
+      "thumb": "items/images/en/thumbs/arcane_eruption.96e2b7f03322df6295089a9dd442df86.128x128.png"
+    }
+  }
+}

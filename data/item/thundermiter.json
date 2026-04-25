@@ -1,0 +1,25 @@
+{
+  "id": "56dac5b85cc639de0a45c529",
+  "slug": "thundermiter",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/ExplodingMiterBlades",
+  "tags": [
+    "primary",
+    "pvp",
+    "rare",
+    "mod",
+    "miter"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Thundermiter",
+      "description": "+100% chance charged Projectiles explode\n-60% Magazine Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Thundermiter",
+      "icon": "items/images/en/thundermiter_(miter).238b4e97a7f06da1447b393de0611e9b.png",
+      "thumb": "items/images/en/thumbs/thundermiter_(miter).238b4e97a7f06da1447b393de0611e9b.128x128.png"
+    }
+  }
+}

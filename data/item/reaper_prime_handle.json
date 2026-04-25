@@ -1,0 +1,32 @@
+{
+  "id": "54a73e65e779893a797fff5a",
+  "slug": "reaper_prime_handle",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeScytheHandle",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff58",
+    "54a73e65e779893a797fff59",
+    "54a73e65e779893a797fff5a",
+    "56783f24cbfa8f0432dd89aa"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reaper Prime Handle",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Reaper_Prime",
+      "icon": "items/images/en/reaper_prime_handle.4e1d36812203a97fd0191930485b1095.png",
+      "thumb": "items/images/en/thumbs/reaper_prime_handle.4e1d36812203a97fd0191930485b1095.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_handle_128x128.png"
+    }
+  }
+}

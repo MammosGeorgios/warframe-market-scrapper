@@ -1,0 +1,23 @@
+{
+  "id": "5d8765dd7ea27b08950c13b6",
+  "slug": "shepherd",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/WarframeAuraLoyalHerdMod",
+  "tags": [
+    "mod",
+    "rare",
+    "aura"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shepherd",
+      "description": "Squad's Companions receive +300 Health and +180 Armor",
+      "wikiLink": "https://wiki.warframe.com/w/Shepherd",
+      "icon": "items/images/en/shepherd.f34b2a53b877927bfc4356ebe15ea9f7.png",
+      "thumb": "items/images/en/thumbs/shepherd.f34b2a53b877927bfc4356ebe15ea9f7.128x128.png"
+    }
+  }
+}

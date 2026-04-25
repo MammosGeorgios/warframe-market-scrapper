@@ -1,0 +1,24 @@
+{
+  "id": "5615432bb66f8371035bfa2e",
+  "slug": "neutralize",
+  "gameRef": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowDisarmPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "chesa_kubrow"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Neutralize",
+      "description": "The kubrow roars, causing enemies within 10m to stumble and drop their weapons.",
+      "wikiLink": "https://wiki.warframe.com/w/Neutralize",
+      "icon": "items/images/en/neutralize.a1c4b488328e3b844b16e657030b59fb.png",
+      "thumb": "items/images/en/thumbs/neutralize.a1c4b488328e3b844b16e657030b59fb.128x128.png"
+    }
+  }
+}

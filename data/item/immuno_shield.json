@@ -1,0 +1,22 @@
+{
+  "id": "67db60559cec3e52e62523e9",
+  "slug": "immuno_shield",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusOnUseMod",
+  "tags": [
+    "mod",
+    "common",
+    "parazon"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Immuno Shield",
+      "description": "Gain 15% Disinfection and gain 5000 Affinity",
+      "icon": "items/images/en/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.webp",
+      "thumb": "items/images/en/thumbs/immuno_shield.9b9998f01e4b2be94c383f958f7b7ef6.128x128.webp"
+    }
+  }
+}

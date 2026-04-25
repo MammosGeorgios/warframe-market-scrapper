@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515667",
+  "slug": "spare_parts",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/SentinelDropChanceMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "sentinel",
+    "robotic"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Spare Parts",
+      "description": "Companion marks a target every 15s for 15s. The target becomes 200% more likely to drop an item when killed.",
+      "wikiLink": "https://wiki.warframe.com/w/Spare_Parts",
+      "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
+      "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png"
+    }
+  }
+}

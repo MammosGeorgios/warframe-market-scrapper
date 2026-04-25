@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e51568e",
+  "slug": "flow",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarPowerMaxMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Flow",
+      "description": "+100% Energy Max",
+      "wikiLink": "https://wiki.warframe.com/w/Flow",
+      "icon": "items/images/en/flow.f8307937a89740f0650d730c3d59da3f.png",
+      "thumb": "items/images/en/thumbs/flow.f8307937a89740f0650d730c3d59da3f.128x128.png"
+    }
+  }
+}

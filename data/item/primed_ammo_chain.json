@@ -1,0 +1,24 @@
+{
+  "id": "69988d58bdd67bd33c02704b",
+  "slug": "primed_ammo_chain",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleAmmoMaxModExpert",
+  "tags": [
+    "primary",
+    "archwing",
+    "legendary",
+    "mod",
+    "archgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Ammo Chain",
+      "description": "+165% Ammo Maximum",
+      "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+      "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+    }
+  }
+}

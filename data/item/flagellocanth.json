@@ -1,0 +1,25 @@
+{
+  "id": "6054de695221e30057501076",
+  "slug": "flagellocanth",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedRareAFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Flagellocanth",
+      "description": "These specimens were originally parasites, breeding inside the wyrm-guts of Fass and scattered across Deimos in the debris of his explosive demise. They are drawn to his light.",
+      "wikiLink": "https://wiki.warframe.com/w/Flagellocanth",
+      "icon": "items/images/en/flagellocanth.0f6b528ec60c200c4bd28e2b1e527692.png",
+      "thumb": "items/images/en/thumbs/flagellocanth.0f6b528ec60c200c4bd28e2b1e527692.128x128.png"
+    }
+  }
+}

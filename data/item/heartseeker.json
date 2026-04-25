@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4d9",
+  "slug": "heartseeker",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Melee/DaggerMeleeAutoTargetBonus",
+  "tags": [
+    "pvp",
+    "melee",
+    "rare",
+    "daggers",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Heartseeker",
+      "description": "Lock onto targets within 1m, but reduces blocking effectiveness.\n-50% Damage Block",
+      "wikiLink": "https://wiki.warframe.com/w/Heartseeker",
+      "icon": "items/images/en/heartseeker.925d2a752c6797169c36ee152a930bf4.png",
+      "thumb": "items/images/en/thumbs/heartseeker.925d2a752c6797169c36ee152a930bf4.128x128.png"
+    }
+  }
+}

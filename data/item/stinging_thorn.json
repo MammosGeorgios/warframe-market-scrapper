@@ -1,0 +1,24 @@
+{
+  "id": "59e23a55115f1d887cfd7ac7",
+  "slug": "stinging_thorn",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbThreeMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "daggers"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stinging Thorn",
+      "description": "Vigorous slashes with forceful stabs.",
+      "wikiLink": "https://wiki.warframe.com/w/Stinging_Thorn",
+      "icon": "items/images/en/stinging_thorn.a76015e252170dda1dbda4abae153fe4.png",
+      "thumb": "items/images/en/thumbs/stinging_thorn.a76015e252170dda1dbda4abae153fe4.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "64c2ab1c66456704fef15835",
+  "slug": "eximus_advantage",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveZylokAugmentMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "zylok"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Eximus Advantage",
+      "description": "Headshots on Eximus enemies increase Secondary Damage by +600% for 10 secs.",
+      "wikiLink": "https://wiki.warframe.com/w/Eximus_Advantage",
+      "icon": "items/images/en/eximus_advantage.fcd7be359bf4beb90e4bc196949cc101.png",
+      "thumb": "items/images/en/thumbs/eximus_advantage.fcd7be359bf4beb90e4bc196949cc101.128x128.png"
+    }
+  }
+}

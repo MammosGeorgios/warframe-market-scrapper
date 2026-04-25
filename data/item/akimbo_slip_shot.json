@@ -1,0 +1,23 @@
+{
+  "id": "649322b07ec190215a693094",
+  "slug": "akimbo_slip_shot",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnSliding",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akimbo Slip Shot",
+      "description": "While sliding or aim gliding: Gain 65% ammo efficiency with Dual Pistols.",
+      "wikiLink": "https://wiki.warframe.com/w/Akimbo_Slip_Shot",
+      "icon": "items/images/en/akimbo_slip_shot.9cb48cdcc739b5306bb4e2a8b3868e72.png",
+      "thumb": "items/images/en/thumbs/akimbo_slip_shot.9cb48cdcc739b5306bb4e2a8b3868e72.128x128.png"
+    }
+  }
+}

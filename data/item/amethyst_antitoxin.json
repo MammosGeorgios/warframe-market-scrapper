@@ -1,0 +1,19 @@
+{
+  "id": "5d6ea67d7ea27b05d929cc02",
+  "slug": "amethyst_antitoxin",
+  "gameRef": "/Lotus/Types/Restoratives/Consumable/Toxins/NightCommonAntitoxin",
+  "tags": [
+    "consumable"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Amethyst Antitoxin",
+      "description": "This is a mildly effective antitoxin.",
+      "wikiLink": "https://wiki.warframe.com/w/Amethyst_Antitoxin",
+      "icon": "items/images/en/amethyst_antitoxin.98127374f471b7184779047fefa9d105.png",
+      "thumb": "items/images/en/thumbs/amethyst_antitoxin.98127374f471b7184779047fefa9d105.128x128.png"
+    }
+  }
+}

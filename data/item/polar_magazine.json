@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515600",
+  "slug": "polar_magazine",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFreezeDamageMod",
+  "tags": [
+    "uncommon",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Polar Magazine",
+      "description": "+120% Cold",
+      "wikiLink": "https://wiki.warframe.com/w/Polar_Magazine",
+      "icon": "items/images/en/polar_magazine.b1ff9ac7249fcc44429a6fa9153236fb.png",
+      "thumb": "items/images/en/thumbs/polar_magazine.b1ff9ac7249fcc44429a6fa9153236fb.128x128.png"
+    }
+  }
+}

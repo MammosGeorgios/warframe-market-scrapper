@@ -1,0 +1,21 @@
+{
+  "id": "55a469a4e7798902410538b1",
+  "slug": "prisma_dual_cleavers",
+  "gameRef": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaDualCleavers",
+  "tags": [
+    "weapon",
+    "melee"
+  ],
+  "reqMasteryRank": 9,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Dual Cleavers",
+      "description": "Blades of energized prisma crystal make these ornamental cleavers cut as sharply as they look.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Prisma_Dual_Cleavers",
+      "icon": "items/images/en/prisma_dual_cleavers.5fa78638ad0916b3f6acff746d006218.png",
+      "thumb": "items/images/en/thumbs/prisma_dual_cleavers.5fa78638ad0916b3f6acff746d006218.128x128.png"
+    }
+  }
+}

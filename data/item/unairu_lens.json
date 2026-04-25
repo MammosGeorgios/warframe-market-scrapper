@@ -1,0 +1,20 @@
+{
+  "id": "5667576ddb7c7a568a8d45c3",
+  "slug": "unairu_lens",
+  "gameRef": "/Lotus/Upgrades/Focus/WardLens",
+  "tags": [
+    "focus",
+    "lens"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Unairu Lens",
+      "description": "Converts 2% of excess Affinity into Focus for the Unairu Way.",
+      "wikiLink": "https://wiki.warframe.com/w/Unairu_Lens",
+      "icon": "items/images/en/unairu_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png",
+      "thumb": "items/images/en/thumbs/unairu_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "69c529ffbb986142bb6e02c1",
+  "slug": "truths_flame",
+  "gameRef": "/Lotus/Upgrades/EmpoweredHeavyMelee/CursedSyndicateEmpoweredHeavyMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Truth's Flame",
+      "description": "Enables Tennokai.\nTennokai kills grant an additional 4s Tennokai opportunity and increase Tennokai damage by 120%. CURSE: Suffer 100 Heat Damage/s for 6s. +1 'Truth'",
+      "icon": "items/images/en/truths_flame.9c178f8ac7817f08081e34dfd2f7b9df.webp",
+      "thumb": "items/images/en/thumbs/truths_flame.9c178f8ac7817f08081e34dfd2f7b9df.128x128.webp"
+    }
+  }
+}

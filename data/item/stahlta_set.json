@@ -1,0 +1,29 @@
+{
+  "id": "5ee76f4b04d55c0a81972435",
+  "slug": "stahlta_set",
+  "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CrpRubanRifle/CrpRubanRifle",
+  "tags": [
+    "primary",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5ee76f4b04d55c0a81972435",
+    "5ee76f4b04d55c0a81972434",
+    "5ee76f4c04d55c0a81972438",
+    "5ee76f4d04d55c0a8197243c"
+  ],
+  "reqMasteryRank": 10,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stahlta Set",
+      "description": "Nail them to the wall! The Stahlta automatic rifle propels hardened steel rods at high speed, while a charged fire mode fuses a number of volatile rods together for a large radioactive explosion.",
+      "wikiLink": "https://wiki.warframe.com/w/Stahlta",
+      "icon": "items/images/en/stahlta_set.30d7537c3158976f86998e5b9fa05f96.png",
+      "thumb": "items/images/en/thumbs/stahlta_set.30d7537c3158976f86998e5b9fa05f96.128x128.png"
+    }
+  }
+}

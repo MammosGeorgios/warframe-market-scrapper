@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a50d",
+  "slug": "full_capacity",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/LargerMagLongerReloadPistolMod",
+  "tags": [
+    "common",
+    "secondary",
+    "pvp",
+    "mod",
+    "pistol"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Full Capacity",
+      "description": "+30% Magazine Capacity\n-15% Reload Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Full_Capacity",
+      "icon": "items/images/en/full_capacity.3487f8c1a516c44d36d4655604875586.png",
+      "thumb": "items/images/en/thumbs/full_capacity.3487f8c1a516c44d36d4655604875586.128x128.png"
+    }
+  }
+}

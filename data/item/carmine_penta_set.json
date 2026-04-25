@@ -1,0 +1,30 @@
+{
+  "id": "60575dd690a69e0070a89ed5",
+  "slug": "carmine_penta_set",
+  "gameRef": "/Lotus/Weapons/Corpus/LongGuns/GrenadeLauncher/CarminePenta",
+  "tags": [
+    "weapon",
+    "primary",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "60575dd590a69e0070a89ed3",
+    "60575dd690a69e0070a89ed4",
+    "60575dd590a69e0070a89ed1",
+    "60575dd690a69e0070a89ed5",
+    "60575dd590a69e0070a89ed2"
+  ],
+  "reqMasteryRank": 6,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Carmine Penta Set",
+      "description": "Enveloped in deep red composite enamel, this Penta variant features a higher fire-rate and over-sized magazine.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Carmine_Penta",
+      "icon": "items/images/en/carmine_penta_set.c1aca6866f8ca8647358966756a8a81b.png",
+      "thumb": "items/images/en/thumbs/carmine_penta_set.c1aca6866f8ca8647358966756a8a81b.128x128.png"
+    }
+  }
+}

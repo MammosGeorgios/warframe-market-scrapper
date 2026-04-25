@@ -1,0 +1,33 @@
+{
+  "id": "58b57068eb26db5c31192118",
+  "slug": "helios_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/PrimeHeliosSentinelBlueprint",
+  "tags": [
+    "prime",
+    "sentinel",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "58b57068eb26db5c31192118",
+    "58b57068eb26db5c31192116",
+    "58b57068eb26db5c31192115",
+    "58b57068eb26db5c31192114",
+    "58b57068eb26db5c31192117"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Helios Prime Blueprint",
+      "description": "This knowledge hungry protector defends its master with Deconstructor Prime.",
+      "wikiLink": "https://wiki.warframe.com/w/Helios_Prime",
+      "icon": "items/images/en/helios_prime_blueprint.625b7c74ea5dd61b1840f8094df7648a.png",
+      "thumb": "items/images/en/thumbs/helios_prime_blueprint.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

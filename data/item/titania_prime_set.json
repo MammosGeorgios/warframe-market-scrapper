@@ -1,0 +1,31 @@
+{
+  "id": "5e839496267539077b0dd6d3",
+  "slug": "titania_prime_set",
+  "gameRef": "/Lotus/Powersuits/Fairy/TitaniaPrime",
+  "tags": [
+    "set",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5e839495267539077b0dd6cc",
+    "5e839493267539077b0dd698",
+    "5e839494267539077b0dd6b8",
+    "5e839496267539077b0dd6d3",
+    "5e839494267539077b0dd6b0"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Titania Prime Set",
+      "description": "Tempting and terrifying, this is Titania in her ultimate form.",
+      "wikiLink": "https://wiki.warframe.com/w/Titania_Prime",
+      "icon": "items/images/en/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.png",
+      "thumb": "items/images/en/thumbs/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.128x128.png"
+    }
+  }
+}

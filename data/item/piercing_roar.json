@@ -1,0 +1,25 @@
+{
+  "id": "5526aec1e779896af941825f",
+  "slug": "piercing_roar",
+  "gameRef": "/Lotus/Powersuits/Rhino/RadialBlastAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rhino",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Piercing Roar",
+      "description": "Roar Augment: Roar gains +40% range. Enemies within 25m are knocked down and suffer 5 stacks of Puncture Status.",
+      "wikiLink": "https://wiki.warframe.com/w/Piercing_Roar",
+      "icon": "items/images/en/piercing_roar.cfc54fd9c8aa71b6e8ac95c057ae5c05.png",
+      "thumb": "items/images/en/thumbs/piercing_roar.cfc54fd9c8aa71b6e8ac95c057ae5c05.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5cdedd22fc2db20e0d0c5543",
+  "slug": "primed_pack_leader",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod",
+  "tags": [
+    "mod",
+    "legendary",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Pack Leader",
+      "description": "Heal your Companion with Melee hits. Excess healing grants Overguard. +183 Health per hit\n+2200 Overguard Max",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Pack_Leader",
+      "icon": "items/images/en/primed_pack_leader.39a41b49aeb7fd8cac6cce8a51c86513.png",
+      "thumb": "items/images/en/thumbs/primed_pack_leader.39a41b49aeb7fd8cac6cce8a51c86513.128x128.png"
+    }
+  }
+}

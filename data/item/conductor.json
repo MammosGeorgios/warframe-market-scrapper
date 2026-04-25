@@ -1,0 +1,25 @@
+{
+  "id": "5b91784d0566c80216658ce8",
+  "slug": "conductor",
+  "gameRef": "/Lotus/Powersuits/Bard/BardCharmAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare",
+    "augment",
+    "octavia"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Conductor",
+      "description": "Resonator Augment: Reactivate the ability to command Resonator to move to your aim point at 150% Speed.",
+      "wikiLink": "https://wiki.warframe.com/w/Conductor",
+      "icon": "items/images/en/conductor.176dbf05c7070dba7196023a13fd5422.png",
+      "thumb": "items/images/en/thumbs/conductor.176dbf05c7070dba7196023a13fd5422.128x128.png"
+    }
+  }
+}

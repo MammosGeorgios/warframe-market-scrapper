@@ -1,0 +1,24 @@
+{
+  "id": "5ce7fd86d23a3b00908c420b",
+  "slug": "anti_grav_array",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/AntigravDilator",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "robotic"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Anti-Grav Array",
+      "description": "Increase height of owner's jumps by +40%.",
+      "wikiLink": "https://wiki.warframe.com/w/Anti-Grav_Array",
+      "icon": "items/images/en/anti_grav_array.a0f52669da4796b20b416d0bf9b64c0d.png",
+      "thumb": "items/images/en/thumbs/anti_grav_array.a0f52669da4796b20b416d0bf9b64c0d.128x128.png"
+    }
+  }
+}

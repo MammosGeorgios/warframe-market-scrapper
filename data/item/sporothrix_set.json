@@ -1,0 +1,30 @@
+{
+  "id": "5fb84768c34da3004797d546",
+  "slug": "sporothrix_set",
+  "gameRef": "/Lotus/Weapons/Infested/LongGuns/InfSniperRifle/InfSniperRifle",
+  "tags": [
+    "primary",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5fb84767c34da3004797d53c",
+    "5fb84768c34da3004797d547",
+    "5fb84768c34da3004797d548",
+    "5fb84768c34da3004797d552",
+    "5fb84768c34da3004797d546"
+  ],
+  "reqMasteryRank": 13,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sporothrix Set",
+      "description": "This long-distance rifle fires a razor-sharp, virus-soaked barb that continues to attack its host before violently erupting in a spore-laden mist. Scoped headshots increase lethality.",
+      "wikiLink": "https://wiki.warframe.com/w/Sporothrix",
+      "icon": "items/images/en/sporothrix_set.d9a3fe663f9fee156958a698e597a6bb.png",
+      "thumb": "items/images/en/thumbs/sporothrix_set.d9a3fe663f9fee156958a698e597a6bb.128x128.png"
+    }
+  }
+}

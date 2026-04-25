@@ -1,0 +1,23 @@
+{
+  "id": "626a1978f40db600660a1d7b",
+  "slug": "molt_vigor",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/WarframeOnOperatorAbilityPowerStrength",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Molt Vigor",
+      "description": "On Operator Ability:\n45% Ability Strength on next Warframe Ability Cast\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Molt_Vigor",
+      "icon": "items/images/en/molt_vigor.51b7ce183f508eb27c3df9efa59c1341.png",
+      "thumb": "items/images/en/thumbs/molt_vigor.51b7ce183f508eb27c3df9efa59c1341.128x128.png"
+    }
+  }
+}

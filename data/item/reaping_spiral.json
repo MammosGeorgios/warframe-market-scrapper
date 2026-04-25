@@ -1,0 +1,24 @@
+{
+  "id": "54a74455e779892d5e5156f0",
+  "slug": "reaping_spiral",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ScytheCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "scythes"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reaping Spiral",
+      "description": "Far flung attacks and multi-hit combos.",
+      "wikiLink": "https://wiki.warframe.com/w/Reaping_Spiral",
+      "icon": "items/images/en/reaping_spiral.77e9198edff9f980f9afba221e5431dc.png",
+      "thumb": "items/images/en/thumbs/reaping_spiral.77e9198edff9f980f9afba221e5431dc.128x128.png"
+    }
+  }
+}

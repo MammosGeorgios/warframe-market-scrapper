@@ -1,0 +1,24 @@
+{
+  "id": "6139101a30dd5b004b7f90a1",
+  "slug": "butchers_revelry",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SawBladeCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "assault_saw"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Butcher's Revelry",
+      "description": "Rip and rend with this Assault Saw stance.",
+      "wikiLink": "https://wiki.warframe.com/w/Butcher%27s_Revelry",
+      "icon": "items/images/en/butchers_revelry.24aab9b17deb8cbf91c5918edeb2345c.png",
+      "thumb": "items/images/en/thumbs/butchers_revelry.24aab9b17deb8cbf91c5918edeb2345c.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e51566f",
+  "slug": "rifle_scavenger",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/PlayerRifleAmmoAuraMod",
+  "tags": [
+    "mod",
+    "aura",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rifle Scavenger",
+      "description": "Squad receives +150% Rifle Ammo Recovery",
+      "wikiLink": "https://wiki.warframe.com/w/Rifle_Scavenger",
+      "icon": "items/images/en/rifle_scavenger.ed6f40912a4c031cf930152ce241e7c8.png",
+      "thumb": "items/images/en/thumbs/rifle_scavenger.ed6f40912a4c031cf930152ce241e7c8.128x128.png"
+    }
+  }
+}

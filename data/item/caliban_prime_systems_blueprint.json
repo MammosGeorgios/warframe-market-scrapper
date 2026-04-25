@@ -1,0 +1,33 @@
+{
+  "id": "68adcffe731e63abe79a5d13",
+  "slug": "caliban_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeSystemsBlueprint",
+  "tags": [
+    "component",
+    "warframe",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "68adcffe731e63abe79a5d10",
+    "68adcffe731e63abe79a5d12",
+    "68adcffe731e63abe79a5d11",
+    "68adcffe731e63abe79a5d0f",
+    "68adcffe731e63abe79a5d13"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Caliban Prime Systems Blueprint",
+      "description": "Systems component of the Caliban Prime Warframe.",
+      "icon": "items/unknown.png",
+      "thumb": "",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

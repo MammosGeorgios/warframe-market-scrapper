@@ -1,0 +1,23 @@
+{
+  "id": "551085d6e7798972bcb28132",
+  "slug": "arcane_phantasm",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnParry",
+  "tags": [
+    "uncommon",
+    "arcane_enhancement"
+  ],
+  "rarity": "uncommon",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Phantasm",
+      "description": "On Block:\n45% chance for +60% Speed for 18s\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Phantasm",
+      "icon": "items/images/en/arcane_phantasm.78366e4d487988a78d128a4822b4f824.png",
+      "thumb": "items/images/en/thumbs/arcane_phantasm.78366e4d487988a78d128a4822b4f824.128x128.png"
+    }
+  }
+}

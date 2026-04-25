@@ -1,0 +1,23 @@
+{
+  "id": "61bb64fb3132ff00482b5fb4",
+  "slug": "niras_anguish",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Nira/NiraExilusMod",
+  "tags": [
+    "mod",
+    "common",
+    "warframe"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nira's Anguish",
+      "description": "+15% to Parkour Velocity\n+15% Aim Glide/Wall Latch Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Nira%27s_Anguish",
+      "icon": "items/images/en/niras_anguish.823c093e41268b5481548e919b708d60.png",
+      "thumb": "items/images/en/thumbs/niras_anguish.823c093e41268b5481548e919b708d60.128x128.png"
+    }
+  }
+}

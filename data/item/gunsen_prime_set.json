@@ -1,0 +1,31 @@
+{
+  "id": "64c2aa1466456704eba6ba2f",
+  "slug": "gunsen_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Warfan/PrimeGunsen/PrimeGunsenWeapon",
+  "tags": [
+    "melee",
+    "prime",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "64c2aa1566456704eba6ba3f",
+    "64c2aa1466456704eba6ba2e",
+    "64c2aa1466456704eba6ba31",
+    "64c2aa1466456704eba6ba2f"
+  ],
+  "ducats": 305,
+  "reqMasteryRank": 12,
+  "tradingTax": 10000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gunsen Prime Set",
+      "description": "Command the beauty and lethality of these ornate warfans.",
+      "wikiLink": "https://wiki.warframe.com/w/Gunsen_Prime",
+      "icon": "items/images/en/gunsen_prime_set.a344dbe97a8e1968c9f04f1f21145edf.png",
+      "thumb": "items/images/en/thumbs/gunsen_prime_set.a344dbe97a8e1968c9f04f1f21145edf.128x128.png"
+    }
+  }
+}

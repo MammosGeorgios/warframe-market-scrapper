@@ -1,0 +1,23 @@
+{
+  "id": "693a1f69d6a357b81964f86f",
+  "slug": "harrowing_spire",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/BayonetCmbOneMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "bayonet"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Harrowing Spire",
+      "description": "Relentless jabs and powerful sweeping lunges.",
+      "icon": "items/images/en/harrowing_spire.aef3b0c06b16d837f9fe3c92ec2467b6.webp",
+      "thumb": "items/images/en/thumbs/harrowing_spire.aef3b0c06b16d837f9fe3c92ec2467b6.128x128.webp"
+    }
+  }
+}

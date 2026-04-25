@@ -1,0 +1,25 @@
+{
+  "id": "576459d33ae92d545fd1e7ba",
+  "slug": "infiltrate",
+  "gameRef": "/Lotus/Powersuits/Ranger/RangerStealAugmentCard",
+  "tags": [
+    "ivara",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Infiltrate",
+      "description": "Prowl Augment: Ivara is able to bypass laser barriers and gains 25% Movement Speed.",
+      "wikiLink": "https://wiki.warframe.com/w/Infiltrate",
+      "icon": "items/images/en/infiltrate.c37581f44e0fd82263fee16fb0dfd3bd.png",
+      "thumb": "items/images/en/thumbs/infiltrate.c37581f44e0fd82263fee16fb0dfd3bd.128x128.png"
+    }
+  }
+}

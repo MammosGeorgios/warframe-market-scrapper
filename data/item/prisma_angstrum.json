@@ -1,0 +1,21 @@
+{
+  "id": "59b2a2468d62f4b743a21f31",
+  "slug": "prisma_angstrum",
+  "gameRef": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/PrismaAngstrum",
+  "tags": [
+    "weapon",
+    "secondary"
+  ],
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Prisma Angstrum",
+      "description": "Imbued with the finest Prisma crystal, this refined Angstrum features boosted charge and reload speeds.",
+      "wikiLink": "https://wiki.warframe.com/w/Prisma_Angstrum",
+      "icon": "items/images/en/prisma_angstrum.d35c4cf543441592a43b32ef44d251c1.png",
+      "thumb": "items/images/en/thumbs/prisma_angstrum.d35c4cf543441592a43b32ef44d251c1.128x128.png"
+    }
+  }
+}

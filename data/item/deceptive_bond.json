@@ -1,0 +1,25 @@
+{
+  "id": "56dac5855cc639de0a45c520",
+  "slug": "deceptive_bond",
+  "gameRef": "/Lotus/Powersuits/Loki/DecoyPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "loki",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deceptive Bond",
+      "description": "Decoy Augment: 50% of damage Loki takes is transferred to Decoy, and vice versa.",
+      "wikiLink": "https://wiki.warframe.com/w/Deceptive_Bond",
+      "icon": "items/images/en/deceptive_bond.40d935abe0d890fa3a139cdc64aec602.png",
+      "thumb": "items/images/en/thumbs/deceptive_bond.40d935abe0d890fa3a139cdc64aec602.128x128.png"
+    }
+  }
+}

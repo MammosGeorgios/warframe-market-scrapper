@@ -1,0 +1,23 @@
+{
+  "id": "63ee00ff10125411da49e6fa",
+  "slug": "secondary_encumber",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ExtraProcOnProc",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secondary Encumber",
+      "description": "On Status Effect: +24% chance to trigger a second random Status Effect.",
+      "wikiLink": "https://wiki.warframe.com/w/Secondary_Encumber",
+      "icon": "items/images/en/secondary_encumber.0e6c3bb15956e965b63a16c90ea70a9d.png",
+      "thumb": "items/images/en/thumbs/secondary_encumber.0e6c3bb15956e965b63a16c90ea70a9d.128x128.png"
+    }
+  }
+}

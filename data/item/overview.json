@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4e5",
+  "slug": "overview",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherAirAimFoVRifleMod",
+  "tags": [
+    "primary",
+    "uncommon",
+    "pvp",
+    "mod",
+    "assault_rifle"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Overview",
+      "description": "-60% Zoom while Aim Gliding",
+      "wikiLink": "https://wiki.warframe.com/w/Overview",
+      "icon": "items/images/en/overview.2d89486e7020c045703b6c3624c845ee.png",
+      "thumb": "items/images/en/thumbs/overview.2d89486e7020c045703b6c3624c845ee.128x128.png"
+    }
+  }
+}

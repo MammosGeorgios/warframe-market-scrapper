@@ -1,0 +1,22 @@
+{
+  "id": "67db60129cec3e52e62523e5",
+  "slug": "drive_duster",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/AntivirusFiveMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Drive-Duster",
+      "description": "Your digital virus buster",
+      "icon": "items/images/en/drive_duster.dced663281c84e934b15716af21d586b.webp",
+      "thumb": "items/images/en/thumbs/drive_duster.dced663281c84e934b15716af21d586b.128x128.webp"
+    }
+  }
+}

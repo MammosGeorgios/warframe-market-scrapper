@@ -1,0 +1,22 @@
+{
+  "id": "55e797e7e779892497cdf785",
+  "slug": "secura_penta",
+  "gameRef": "/Lotus/Weapons/Syndicates/PerrinSequence/LongGuns/PSPenta",
+  "tags": [
+    "syndicate",
+    "primary",
+    "weapon"
+  ],
+  "reqMasteryRank": 12,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Secura Penta",
+      "description": "Ruthless and efficient, just like the free-market.",
+      "wikiLink": "https://wiki.warframe.com/w/Secura_Penta",
+      "icon": "items/images/en/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.png",
+      "thumb": "items/images/en/thumbs/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.128x128.png"
+    }
+  }
+}

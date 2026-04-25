@@ -1,0 +1,32 @@
+{
+  "id": "56aba2e88d6d183da42403be",
+  "slug": "strun_wraith_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/StrunWraithBlueprint",
+  "tags": [
+    "weapon",
+    "primary",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "56aba2f38d6d183da42403bf",
+    "56aba2e88d6d183da42403be",
+    "56aba2f78d6d183da42403c0",
+    "56aba3108d6d183da42403c2",
+    "56aba30b8d6d183da42403c1"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Strun Wraith Blueprint",
+      "description": "A different take on a familiar shotgun, the Strun Wraith features unique styling.",
+      "wikiLink": "https://wiki.warframe.com/w/Strun_Wraith",
+      "icon": "items/images/en/strun_wraith_blueprint.0ef693321b08beb361c5a654663ecf32.png",
+      "thumb": "items/images/en/thumbs/strun_wraith_blueprint.0ef693321b08beb361c5a654663ecf32.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

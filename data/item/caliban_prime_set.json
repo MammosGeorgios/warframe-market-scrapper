@@ -1,0 +1,30 @@
+{
+  "id": "68adcffe731e63abe79a5d0f",
+  "slug": "caliban_prime_set",
+  "gameRef": "/Lotus/Powersuits/Sentient/CalibanPrime",
+  "tags": [
+    "warframe",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "68adcffe731e63abe79a5d10",
+    "68adcffe731e63abe79a5d12",
+    "68adcffe731e63abe79a5d11",
+    "68adcffe731e63abe79a5d0f",
+    "68adcffe731e63abe79a5d13"
+  ],
+  "ducats": 260,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Caliban Prime Set",
+      "description": "Forged in celebration of the all-too-brief peace between the Orokin and Sentients, Caliban Prime is a true collaborative masterpiece. The heir of twin kingdoms arises in royal gold.",
+      "icon": "items/images/en/caliban_prime_set.cae2f667bfae7c3ae9f5089760f9f090.webp",
+      "thumb": "items/images/en/thumbs/caliban_prime_set.cae2f667bfae7c3ae9f5089760f9f090.128x128.webp"
+    }
+  }
+}

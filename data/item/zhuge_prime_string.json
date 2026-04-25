@@ -1,0 +1,34 @@
+{
+  "id": "5d21ce47f4604c012d1e0c14",
+  "slug": "zhuge_prime_string",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZhugePrimeString",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5d21ce43f4604c012d1e0c0d",
+    "5d21ce47f4604c012d1e0c15",
+    "5d21ce43f4604c012d1e0c0e",
+    "5d21ce48f4604c012d1e0c17",
+    "5d21ce49f4604c012d1e0c19",
+    "5d21ce47f4604c012d1e0c14"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zhuge Prime String",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Zhuge_Prime",
+      "icon": "items/images/en/zhuge_prime_string.38e0e6189f1a333b382507a117b194a9.png",
+      "thumb": "items/images/en/thumbs/zhuge_prime_string.38e0e6189f1a333b382507a117b194a9.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_string_128x128.png"
+    }
+  }
+}

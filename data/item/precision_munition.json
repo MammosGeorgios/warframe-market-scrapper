@@ -1,0 +1,24 @@
+{
+  "id": "585a93312c2ada00552edf0f",
+  "slug": "precision_munition",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TonkorAccuracySmallerMag",
+  "tags": [
+    "primary",
+    "pvp",
+    "rare",
+    "mod",
+    "tonkor"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Precision Munition",
+      "description": "+100% Accuracy\n+50% Projectile Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Precision_Munition",
+      "icon": "items/images/en/precision_munition.5b990064481b381619c8aba968f7c176.png",
+      "thumb": "items/images/en/thumbs/precision_munition.5b990064481b381619c8aba968f7c176.128x128.png"
+    }
+  }
+}

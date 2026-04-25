@@ -1,0 +1,18 @@
+{
+  "id": "667237708ba7c81b70d02ca0",
+  "slug": "zanuka_arena_simulacrum",
+  "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileGasCityBossRoom",
+  "tags": [
+    "simulacrum"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Zanuka Arena Simulacrum",
+      "description": "Stage a battle in your enemy's arena for deeper insight into their tactics. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+      "icon": "items/images/en/zanuka_arena_simulacrum.bc80d848785a9dda6ccd72117e69b28d.webp",
+      "thumb": "items/images/en/thumbs/zanuka_arena_simulacrum.bc80d848785a9dda6ccd72117e69b28d.128x128.webp"
+    }
+  }
+}

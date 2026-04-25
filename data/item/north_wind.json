@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e5156d1",
+  "slug": "north_wind",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/WeaponFreezeDamageMod",
+  "tags": [
+    "mod",
+    "melee",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "North Wind",
+      "description": "+90% Cold",
+      "wikiLink": "https://wiki.warframe.com/w/North_Wind",
+      "icon": "items/images/en/north_wind.ddcfeab6866eb1c752ab79e55f001abb.png",
+      "thumb": "items/images/en/thumbs/north_wind.ddcfeab6866eb1c752ab79e55f001abb.128x128.png"
+    }
+  }
+}

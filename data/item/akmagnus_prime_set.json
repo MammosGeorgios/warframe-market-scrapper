@@ -1,0 +1,30 @@
+{
+  "id": "66a51c8e66bbb2aedca694b0",
+  "slug": "akmagnus_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Akimbo/DualMagnusPrime",
+  "tags": [
+    "prime",
+    "secondary",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "66a51c8e66bbb2aedca694b0",
+    "66a51c8f66bbb2aedca694b1",
+    "66a51c9166bbb2aedca694b2"
+  ],
+  "ducats": 60,
+  "reqMasteryRank": 15,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Akmagnus Prime Set",
+      "description": "Fill your fists with golden cannons of fury. This refined design unlocks quicker handling and higher critical chance.",
+      "wikiLink": "https://wiki.warframe.com/w/Akmagnus_Prime",
+      "icon": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+      "thumb": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+    }
+  }
+}

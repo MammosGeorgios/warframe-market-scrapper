@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4dd",
+  "slug": "lock_and_load",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/PassiveReloadMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "shotgun",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lock And Load",
+      "description": "+20% Magazine Reloaded/s when Holstered",
+      "wikiLink": "https://wiki.warframe.com/w/Lock_and_Load",
+      "icon": "items/images/en/lock_and_load.1aaa76e73ac149aa2a8ee0a8c3307f80.png",
+      "thumb": "items/images/en/thumbs/lock_and_load.1aaa76e73ac149aa2a8ee0a8c3307f80.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "603621500a372600fd5614dc",
+  "slug": "octavia_prime_set",
+  "gameRef": "/Lotus/Powersuits/Bard/OctaviaPrime",
+  "tags": [
+    "warframe",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "6036214f0a372600fd5614cf",
+    "603621500a372600fd5614d7",
+    "603621500a372600fd5614d8",
+    "603621500a372600fd5614dc",
+    "603621500a372600fd5614da"
+  ],
+  "ducats": 175,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Octavia Prime Set",
+      "description": "Strike up a symphony of destruction with the mistress of music, Octavia, in her grandest and most spectacular form. Featuring altered mod polarities for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Octavia_Prime",
+      "icon": "items/images/en/octavia_prime_set.4e24ab1ec9ff333596952d391e69b397.png",
+      "thumb": "items/images/en/thumbs/octavia_prime_set.4e24ab1ec9ff333596952d391e69b397.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "57c73be094b4b0f159ab5e14",
+  "slug": "elemental_sandstorm",
+  "gameRef": "/Lotus/Powersuits/Sandman/SandmanStormAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare",
+    "augment",
+    "inaros"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Elemental Sandstorm",
+      "description": "Sandstorm Augment: Sandstorm gains 50% Ability Range and has a 100% chance of inflicting Status Effects based on the Damage Types on the equipped Melee Weapon.",
+      "wikiLink": "https://wiki.warframe.com/w/Elemental_Sandstorm",
+      "icon": "items/images/en/elemental_sandstorm.5957557c1c7445897e7615c33d508a34.png",
+      "thumb": "items/images/en/thumbs/elemental_sandstorm.5957557c1c7445897e7615c33d508a34.128x128.png"
+    }
+  }
+}

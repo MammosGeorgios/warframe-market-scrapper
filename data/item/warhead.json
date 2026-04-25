@@ -1,0 +1,23 @@
+{
+  "id": "5dff6e111456970316674a0c",
+  "slug": "warhead",
+  "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanOrdnanceDamage",
+  "tags": [
+    "railjack",
+    "uncommon",
+    "mod"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 10,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Warhead",
+      "description": "+127.3% Ordnance Damage",
+      "wikiLink": "https://wiki.warframe.com/w/War",
+      "icon": "items/images/en/warhead.e72c4c662e69a1340c98b841dad7ae70.png",
+      "thumb": "items/images/en/thumbs/warhead.e72c4c662e69a1340c98b841dad7ae70.128x128.png"
+    }
+  }
+}

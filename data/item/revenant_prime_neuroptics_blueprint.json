@@ -1,0 +1,34 @@
+{
+  "id": "633e2e6bf570d10793afb81d",
+  "slug": "revenant_prime_neuroptics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/RevenantPrimeHelmetBlueprint",
+  "tags": [
+    "component",
+    "warframe",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "633e2e6cf570d10793afb827",
+    "633e2e6af570d10793afb815",
+    "633e2e6bf570d10793afb81d",
+    "633e2e6af570d10793afb81a",
+    "633e2e6af570d10793afb816"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Revenant Prime Neuroptics Blueprint",
+      "description": "Neuroptics component of the Revenant Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Revenant_Prime",
+      "icon": "items/images/en/revenant_prime_neuroptics_blueprint.469f99b4183a5dda7769b78b2cde6658.png",
+      "thumb": "items/images/en/thumbs/revenant_prime_neuroptics_blueprint.469f99b4183a5dda7769b78b2cde6658.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_helmet_128x128.png"
+    }
+  }
+}

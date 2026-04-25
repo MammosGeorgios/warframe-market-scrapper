@@ -1,0 +1,24 @@
+{
+  "id": "580e38faca550948410af0a5",
+  "slug": "kinetic_ricochet",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/TetraCorpusArenaMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "tetra"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kinetic Ricochet",
+      "description": "Shots now bounce up to 6x and travel 30% further.",
+      "wikiLink": "https://wiki.warframe.com/w/Kinetic_Ricochet",
+      "icon": "items/images/en/kinetic_ricochet.423f655d2eba5b3a75aeb653cde307bb.png",
+      "thumb": "items/images/en/thumbs/kinetic_ricochet.423f655d2eba5b3a75aeb653cde307bb.128x128.png"
+    }
+  }
+}

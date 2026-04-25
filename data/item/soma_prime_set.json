@@ -1,0 +1,32 @@
+{
+  "id": "56783f24cbfa8f0432dd89ae",
+  "slug": "soma_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "primary"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff61",
+    "54a73e65e779893a797fff62",
+    "54a73e65e779893a797fff63",
+    "56783f24cbfa8f0432dd89ae",
+    "54a73e65e779893a797fff64"
+  ],
+  "ducats": 175,
+  "reqMasteryRank": 7,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Soma Prime Set",
+      "description": "Known for taking down whole squads with its single massive magazine, few weapons were as feared as the Prime Soma.",
+      "wikiLink": "https://wiki.warframe.com/w/Soma_Prime",
+      "icon": "items/images/en/soma_prime_set.1bf4937a6c2106c373cffeb93b1c87e0.png",
+      "thumb": "items/images/en/thumbs/soma_prime_set.1bf4937a6c2106c373cffeb93b1c87e0.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5a311f84c2c9e90dfff475e5",
+  "slug": "kogake_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/KogakePrimeBlueprint",
+  "tags": [
+    "weapon",
+    "prime",
+    "melee",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5a311f84c2c9e90dfff475e5",
+    "5a311f84c2c9e90dfff475e4",
+    "5a311f85c2c9e90dfff475f6",
+    "5a311f84c2c9e90dfff475f0"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kogake Prime Blueprint",
+      "description": "Deliver a golden knockout with these prime Melee Weapons.",
+      "wikiLink": "https://wiki.warframe.com/w/Kogake_Prime",
+      "icon": "items/images/en/kogake_prime_blueprint.456b865463108d6f6ff51da978f839cd.png",
+      "thumb": "items/images/en/thumbs/kogake_prime_blueprint.456b865463108d6f6ff51da978f839cd.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

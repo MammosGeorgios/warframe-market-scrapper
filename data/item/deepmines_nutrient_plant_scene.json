@@ -1,0 +1,18 @@
+{
+  "id": "6901487ff88bae2d5b1f5397",
+  "slug": "deepmines_nutrient_plant_scene",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/2025FallUpdate/PhotoboothNokkoPlant",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deepmines Nutrient Plant Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/deepmines_nutrient_plant_scene.e97d582d15611a29504f1fcd5ecbfc17.webp",
+      "thumb": "items/images/en/thumbs/deepmines_nutrient_plant_scene.e97d582d15611a29504f1fcd5ecbfc17.128x128.webp"
+    }
+  }
+}

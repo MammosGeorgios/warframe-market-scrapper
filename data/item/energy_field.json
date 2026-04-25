@@ -1,0 +1,25 @@
+{
+  "id": "57839086d9b6753790c89e7e",
+  "slug": "energy_field",
+  "gameRef": "/Lotus/Powersuits/Archwing/StandardJetPack/FireShieldAugmentCard",
+  "tags": [
+    "mod",
+    "archwing",
+    "odonata",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Energy Field",
+      "description": "Energy Shell Augment: Energy Shell applies to allies within 140m.",
+      "wikiLink": "https://wiki.warframe.com/w/Energy_Field",
+      "icon": "items/images/en/energy_field.62ae23c80ca40b5acbb9a7087a8cb5ba.png",
+      "thumb": "items/images/en/thumbs/energy_field.62ae23c80ca40b5acbb9a7087a8cb5ba.128x128.png"
+    }
+  }
+}

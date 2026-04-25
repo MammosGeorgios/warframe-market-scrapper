@@ -1,0 +1,22 @@
+{
+  "id": "675c5edc7b18977f6e6453f4",
+  "slug": "arcane_bellicose",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityStrengthForMaxHealth",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Bellicose",
+      "description": "Gain 6% Ability Strength for every 250 Max Health up to 72%.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Bellicose",
+      "icon": "items/images/en/arcane_bellicose.cba86d2bfb1b20b4a512b6913e79ba0c.webp",
+      "thumb": "items/images/en/thumbs/arcane_bellicose.cba86d2bfb1b20b4a512b6913e79ba0c.128x128.webp"
+    }
+  }
+}

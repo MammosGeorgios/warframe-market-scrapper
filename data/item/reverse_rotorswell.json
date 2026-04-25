@@ -1,0 +1,24 @@
+{
+  "id": "68efbab189984fb97a33aa37",
+  "slug": "reverse_rotorswell",
+  "gameRef": "/Lotus/Powersuits/Gyre/GyreOverchargedAugmentCard",
+  "tags": [
+    "warframe",
+    "gyre",
+    "rare",
+    "augment",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Reverse Rotorswell",
+      "description": "Rotorswell Augment: 35% of damage received is redirected toward the instigator as Electricity Damage.",
+      "icon": "items/unknown.png",
+      "thumb": ""
+    }
+  }
+}

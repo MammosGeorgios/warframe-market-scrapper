@@ -1,0 +1,23 @@
+{
+  "id": "566759c8db7c7a568a8d45ca",
+  "slug": "stealth_drift",
+  "gameRef": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModStealth",
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Stealth Drift",
+      "description": "+18 Enemy Radar\n+12% Aim Glide/Wall Latch Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Stealth_Drift",
+      "icon": "items/images/en/stealth_drift.4d089bfcf74e7fe98c2feba81b552854.png",
+      "thumb": "items/images/en/thumbs/stealth_drift.4d089bfcf74e7fe98c2feba81b552854.128x128.png"
+    }
+  }
+}

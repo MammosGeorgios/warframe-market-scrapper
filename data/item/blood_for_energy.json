@@ -1,0 +1,22 @@
+{
+  "id": "5dbe9b0c7ea27b0ffe3ca271",
+  "slug": "blood_for_energy",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionEnergyDropMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Blood For Energy",
+      "description": "50% chance to drop an Energy Orb on Mercy",
+      "wikiLink": "https://wiki.warframe.com/w/Blood_For_Energy",
+      "icon": "items/images/en/blood_for_energy.39c5c4fe581c7a1c4a01a0f6ec3fd564.png",
+      "thumb": "items/images/en/thumbs/blood_for_energy.39c5c4fe581c7a1c4a01a0f6ec3fd564.128x128.png"
+    }
+  }
+}

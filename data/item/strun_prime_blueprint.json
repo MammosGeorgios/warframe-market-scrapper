@@ -1,0 +1,34 @@
+{
+  "id": "6139101930dd5b004b7f909f",
+  "slug": "strun_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/StrunPrimeBlueprint",
+  "tags": [
+    "primary",
+    "weapon",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6139101a30dd5b004b7f90a7",
+    "6139101930dd5b004b7f909f",
+    "6139101a30dd5b004b7f90a4",
+    "6139101830dd5b004b7f9096",
+    "6139101a30dd5b004b7f90a9"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Strun Prime Blueprint",
+      "description": "A classic shotgun design, embellished for the elite as only the Orokin could.",
+      "wikiLink": "https://wiki.warframe.com/w/Strun_Prime",
+      "icon": "items/images/en/strun_prime_blueprint.e7f858160a34886c105633deab6b343e.png",
+      "thumb": "items/images/en/thumbs/strun_prime_blueprint.e7f858160a34886c105633deab6b343e.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

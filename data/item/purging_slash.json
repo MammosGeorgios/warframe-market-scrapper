@@ -1,0 +1,25 @@
+{
+  "id": "554d3f0ce779894445a848f5",
+  "slug": "purging_slash",
+  "gameRef": "/Lotus/Powersuits/Excalibur/SlashDashPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "excalibur",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Purging Slash",
+      "description": "Slash Dash Augment: Allies in the path of Slash Dash have 4 debuffs removed and 70% Shields restored.",
+      "wikiLink": "https://wiki.warframe.com/w/Purging_Slash",
+      "icon": "items/images/en/purging_slash.a29fe9095c4986f161bd9d79c879b5ee.png",
+      "thumb": "items/images/en/thumbs/purging_slash.a29fe9095c4986f161bd9d79c879b5ee.128x128.png"
+    }
+  }
+}

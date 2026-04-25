@@ -1,0 +1,31 @@
+{
+  "id": "657f14f38820fb8f3c5f465b",
+  "slug": "mandonel_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnConcreteArchgunReceiver",
+  "tags": [
+    "weapon",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "657f14f38820fb8f3c5f465a",
+    "657f14f38820fb8f3c5f4659",
+    "657f14f38820fb8f3c5f465b",
+    "657f14f38820fb8f3c5f4658",
+    "657f14f38820fb8f3c5f465c"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Mandonel Receiver",
+      "description": "An Archwing weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Mandonel",
+      "icon": "items/images/en/mandonel_receiver.242783b92f4aeadf1270b7012dfa9079.png",
+      "thumb": "items/images/en/thumbs/mandonel_receiver.242783b92f4aeadf1270b7012dfa9079.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

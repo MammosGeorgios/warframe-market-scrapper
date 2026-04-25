@@ -1,0 +1,34 @@
+{
+  "id": "592dd262011e88f094afec80",
+  "slug": "oberon_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeSystemsBlueprint",
+  "tags": [
+    "warframe",
+    "component",
+    "blueprint",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "592dd262011e88f094afec7d",
+    "592dd262011e88f094afec7f",
+    "592dd262011e88f094afec7e",
+    "592dd262011e88f094afec81",
+    "592dd262011e88f094afec80"
+  ],
+  "quantityInSet": 1,
+  "ducats": 65,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Oberon Prime Systems Blueprint",
+      "description": "Systems component of the Oberon Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Oberon_Prime",
+      "icon": "items/images/en/oberon_prime_systems.d7f1623552bce11f166b715679e27022.png",
+      "thumb": "items/images/en/thumbs/oberon_prime_systems.d7f1623552bce11f166b715679e27022.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

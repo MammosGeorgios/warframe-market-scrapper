@@ -1,0 +1,31 @@
+{
+  "id": "591844575c170664fbd37eb4",
+  "slug": "gorgon_wraith_barrel",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/GorgonWraithBarrel",
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "591844575c170664fbd37eb4",
+    "591844575c170664fbd37eb3",
+    "591844575c170664fbd37eb5",
+    "591844575c170664fbd37eb2",
+    "591844575c170664fbd37eb6"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 7,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gorgon Wraith Barrel",
+      "description": "A weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Gorgon_Wraith",
+      "icon": "items/images/en/gorgon_wraith_barrel.2fe2c6cae89adbecbba049aafcd664d7.png",
+      "thumb": "items/images/en/thumbs/gorgon_wraith_barrel.2fe2c6cae89adbecbba049aafcd664d7.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_barrel_128x128.png"
+    }
+  }
+}

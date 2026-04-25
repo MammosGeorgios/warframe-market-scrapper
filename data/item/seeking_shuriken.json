@@ -1,0 +1,25 @@
+{
+  "id": "54e0c9eee7798903744178aa",
+  "slug": "seeking_shuriken",
+  "gameRef": "/Lotus/Powersuits/Ninja/GlaiveAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare",
+    "augment",
+    "ash"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Seeking Shuriken",
+      "description": "Shuriken Augment: Hits expose weaknesses on enemies, reducing their Armor by 70% for 8s.",
+      "wikiLink": "https://wiki.warframe.com/w/Seeking_Shuriken",
+      "icon": "items/images/en/seeking_shuriken.815652a6488e8e4df314308ad4a872d4.png",
+      "thumb": "items/images/en/thumbs/seeking_shuriken.815652a6488e8e4df314308ad4a872d4.128x128.png"
+    }
+  }
+}

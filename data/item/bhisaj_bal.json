@@ -1,0 +1,24 @@
+{
+  "id": "5f4ed3fbd5c36d0086f55b0e",
+  "slug": "bhisaj_bal",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/ParisHealOnStatusMod",
+  "tags": [
+    "mod",
+    "rare",
+    "primary",
+    "paris_prime"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Bhisaj-Bal",
+      "description": "Restore 300 Health for every 3 Status effects.\n+90% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Bhisaj-Bal",
+      "icon": "items/images/en/bhisaj_bal.e31c73f58b576c39f4a67c78481042f3.png",
+      "thumb": "items/images/en/thumbs/bhisaj_bal.e31c73f58b576c39f4a67c78481042f3.128x128.png"
+    }
+  }
+}

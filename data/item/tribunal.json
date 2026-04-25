@@ -1,0 +1,25 @@
+{
+  "id": "5ea087d1c160d001303f9ed7",
+  "slug": "tribunal",
+  "gameRef": "/Lotus/Powersuits/Priest/PriestCondemnAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare",
+    "augment",
+    "harrow"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tribunal",
+      "description": "Condemn Augment: Other players will trigger 100% of the effects of Penance and Thurible when attacking chained enemies.",
+      "wikiLink": "https://wiki.warframe.com/w/Tribunal",
+      "icon": "items/images/en/tribunal.1449ca76eea7cb66e7d89d2d2b19b9ae.png",
+      "thumb": "items/images/en/thumbs/tribunal.1449ca76eea7cb66e7d89d2d2b19b9ae.128x128.png"
+    }
+  }
+}

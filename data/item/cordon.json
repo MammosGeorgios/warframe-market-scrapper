@@ -1,0 +1,24 @@
+{
+  "id": "6055de865221e30083f6f10b",
+  "slug": "cordon",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/GatherEnemies",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "nautilus"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cordon",
+      "description": "Nautilus forces enemies within 30m of the target into clusters for easier targeting. Cooldown: 15s.",
+      "wikiLink": "https://wiki.warframe.com/w/Cordon",
+      "icon": "items/images/en/cordon.76aa1dcb061e2e0fea2e9265b2f5e95e.png",
+      "thumb": "items/images/en/thumbs/cordon.76aa1dcb061e2e0fea2e9265b2f5e95e.128x128.png"
+    }
+  }
+}

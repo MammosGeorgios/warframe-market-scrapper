@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515614",
+  "slug": "maul",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowMeleeDamageMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "melee",
+    "claws"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 10,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Maul",
+      "description": "+330% Melee Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Maul",
+      "icon": "items/images/en/maul.85d6096a0d2d3be267e39717a8ea2e37.png",
+      "thumb": "items/images/en/thumbs/maul.85d6096a0d2d3be267e39717a8ea2e37.128x128.png"
+    }
+  }
+}

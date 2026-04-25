@@ -1,0 +1,22 @@
+{
+  "id": "5dbe9b0b7ea27b0ffe3ca270",
+  "slug": "failsafe",
+  "gameRef": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnFailHackResetMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Failsafe",
+      "description": "+50% to retry on Hacking failure",
+      "wikiLink": "https://wiki.warframe.com/w/Failsafe",
+      "icon": "items/images/en/failsafe.5c98665cb1898a1d4c2529c7b38cbccb.png",
+      "thumb": "items/images/en/thumbs/failsafe.5c98665cb1898a1d4c2529c7b38cbccb.128x128.png"
+    }
+  }
+}

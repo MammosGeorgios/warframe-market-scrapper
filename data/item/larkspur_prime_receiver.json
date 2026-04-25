@@ -1,0 +1,33 @@
+{
+  "id": "641263e07d179f02100c6d4c",
+  "slug": "larkspur_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/LarkspurPrimeReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "641263e07d179f02100c6d47",
+    "641263e07d179f02100c6d4e",
+    "641263e07d179f02100c6d4c",
+    "641263e07d179f02100c6d45",
+    "641263e07d179f02100c6d4a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Larkspur Prime Receiver",
+      "description": "An Archwing weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Larkspur_Prime",
+      "icon": "items/images/en/larkspur_prime_receiver.592e684b836593e202891aea8b3a3f6c.png",
+      "thumb": "items/images/en/thumbs/larkspur_prime_receiver.592e684b836593e202891aea8b3a3f6c.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

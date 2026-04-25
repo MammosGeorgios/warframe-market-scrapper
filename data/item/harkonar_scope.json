@@ -1,0 +1,24 @@
+{
+  "id": "5729bcf9cb59ed5a9b484e8a",
+  "slug": "harkonar_scope",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/ProjectNightwatch/VulkarNightwatchMod",
+  "tags": [
+    "sniper",
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Harkonar Scope",
+      "description": "+12s Combo Duration",
+      "wikiLink": "https://wiki.warframe.com/w/Harkonar_Scope",
+      "icon": "items/images/en/harkonar_scope.b28d2b70ffd7bdba26aad0e28c85d955.png",
+      "thumb": "items/images/en/thumbs/harkonar_scope.b28d2b70ffd7bdba26aad0e28c85d955.128x128.png"
+    }
+  }
+}

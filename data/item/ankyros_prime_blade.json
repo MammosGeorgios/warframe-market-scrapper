@@ -1,0 +1,32 @@
+{
+  "id": "54a73e65e779893a797fff24",
+  "slug": "ankyros_prime_blade",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AnkyrosPrimeBlade",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff24",
+    "54a73e65e779893a797fff25",
+    "54a73e65e779893a797fff26",
+    "56783f24cbfa8f0432dd898e"
+  ],
+  "quantityInSet": 2,
+  "ducats": 65,
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ankyros Prime Blade",
+      "description": "A prime weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Ankyros_Prime",
+      "icon": "items/images/en/ankyros_prime_blade.81b3e5876c214047d10a0d90f92ebdfe.png",
+      "thumb": "items/images/en/thumbs/ankyros_prime_blade.81b3e5876c214047d10a0d90f92ebdfe.128x128.png",
+      "subIcon": "sub_icons/weapon/prime_blade_128x128.png"
+    }
+  }
+}

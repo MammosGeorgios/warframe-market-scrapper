@@ -1,0 +1,24 @@
+{
+  "id": "5ce7fd88d23a3b00908c4211",
+  "slug": "shockwave_actuators",
+  "gameRef": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaShockwavePrecept",
+  "tags": [
+    "mod",
+    "common",
+    "sentinel",
+    "moa"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Shockwave Actuators",
+      "description": "Blasts a shockwave knocking down those within 12m. The shockwave recharges every 10s.",
+      "wikiLink": "https://wiki.warframe.com/w/Shockwave_Actuators",
+      "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
+      "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png"
+    }
+  }
+}

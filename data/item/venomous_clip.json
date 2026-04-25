@@ -1,0 +1,25 @@
+{
+  "id": "54a74455e779892d5e5156da",
+  "slug": "venomous_clip",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponToxinDamageMod",
+  "tags": [
+    "uncommon",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Venomous Clip",
+      "description": "+120% Toxin",
+      "wikiLink": "https://wiki.warframe.com/w/Venomous_Clip",
+      "icon": "items/images/en/venomous_clip.9fc8ea3b71afd7b9d9392cb04519f805.png",
+      "thumb": "items/images/en/thumbs/venomous_clip.9fc8ea3b71afd7b9d9392cb04519f805.128x128.png"
+    }
+  }
+}

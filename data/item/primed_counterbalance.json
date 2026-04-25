@@ -1,0 +1,23 @@
+{
+  "id": "6814dc7c35715d4f3e9c64b6",
+  "slug": "primed_counterbalance",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponRecoilReductionModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Counterbalance",
+      "description": "-85% Weapon Recoil",
+      "icon": "items/images/en/primed_counterbalance.2e8f0586838ca7b371168c73c24db304.webp",
+      "thumb": "items/images/en/thumbs/primed_counterbalance.2e8f0586838ca7b371168c73c24db304.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "64743c757ec190141a5475b1",
+  "slug": "sentient_surge",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/Nightwave/NightwaveOcucorAugmentMod",
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "ocucor"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sentient Surge",
+      "description": "Each target eliminated refills 20% of Ocucor's magazine. Status Chance and Critical Chance are increased by 60% for each Tendril active.",
+      "wikiLink": "https://wiki.warframe.com/w/Sentient_Surge",
+      "icon": "items/images/en/sentient_surge.0038481d6a62e17de99e18538255bce7.png",
+      "thumb": "items/images/en/thumbs/sentient_surge.0038481d6a62e17de99e18538255bce7.128x128.png"
+    }
+  }
+}

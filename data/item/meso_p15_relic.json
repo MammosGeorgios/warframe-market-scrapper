@@ -1,0 +1,26 @@
+{
+  "id": "67c83ffb646a0f91834334fd",
+  "slug": "meso_p15_relic",
+  "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeB",
+  "tags": [
+    "relic",
+    "meso"
+  ],
+  "subtypes": [
+    "intact",
+    "exceptional",
+    "flawless",
+    "radiant"
+  ],
+  "vaulted": true,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Meso P15 Relic",
+      "description": "An artifact containing Orokin secrets. It can only be opened through the power of the Void.",
+      "icon": "items/images/en/meso_p15_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "thumb": "items/images/en/thumbs/meso_p15_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "667238a28ba7c81b70d02cba",
+  "slug": "dark_propagation",
+  "gameRef": "/Lotus/Powersuits/Wraith/WraithSowAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "sevagoth",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dark Propagation",
+      "description": "Sow Augment: Enemies killed while inflicted with Sow spread its effect in a 15m radius. Shadow's Death Harvest also inflicts Sow.",
+      "wikiLink": "https://wiki.warframe.com/w/Dark_Propagation",
+      "icon": "items/images/en/dark_propagation.481e35a50554c8c5e7366c8bdaf576e3.webp",
+      "thumb": "items/images/en/thumbs/dark_propagation.481e35a50554c8c5e7366c8bdaf576e3.128x128.webp"
+    }
+  }
+}

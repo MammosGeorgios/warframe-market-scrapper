@@ -1,0 +1,23 @@
+{
+  "id": "5d8765de7ea27b08950c13c1",
+  "slug": "combat_discipline",
+  "gameRef": "/Lotus/Upgrades/Mods/Aura/WarframeAuraBloodLetterMod",
+  "tags": [
+    "mod",
+    "rare",
+    "aura"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Combat Discipline",
+      "description": "You lose 10 Health on kill\nSquadmates gain 20 Health on kill",
+      "wikiLink": "https://warframe.fandom.com/wiki/Combat_Discipline",
+      "icon": "items/images/en/combat_discipline.26bc357100917c1c0e274279e0acdcec.png",
+      "thumb": "items/images/en/thumbs/combat_discipline.26bc357100917c1c0e274279e0acdcec.128x128.png"
+    }
+  }
+}

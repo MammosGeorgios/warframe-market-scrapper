@@ -1,0 +1,23 @@
+{
+  "id": "54a74455e779892d5e51568f",
+  "slug": "true_punishment",
+  "gameRef": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelCritsMod",
+  "tags": [
+    "mod",
+    "melee",
+    "common"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "True Punishment",
+      "description": "+100% Additional Combo Count Chance\n-50% Combo Duration",
+      "wikiLink": "https://wiki.warframe.com/w/True_Punishment",
+      "icon": "items/images/en/true_punishment.823de574bce70d495662b3ca09dede32.png",
+      "thumb": "items/images/en/thumbs/true_punishment.823de574bce70d495662b3ca09dede32.128x128.png"
+    }
+  }
+}

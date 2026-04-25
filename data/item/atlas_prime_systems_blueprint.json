@@ -1,0 +1,34 @@
+{
+  "id": "5d9385b17ea27b0a28fd75ba",
+  "slug": "atlas_prime_systems_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/AtlasPrimeSystemsBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5d9385b27ea27b0a28fd75bc",
+    "5d9385b17ea27b0a28fd75b8",
+    "5d9385b27ea27b0a28fd75bb",
+    "5d9385b17ea27b0a28fd75b9",
+    "5d9385b17ea27b0a28fd75ba"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Atlas Prime Systems Blueprint",
+      "description": "Systems component of the Atlas Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Atlas_Prime",
+      "icon": "items/images/en/atlas_prime_systems.91fb26397de19c27bfece550a8315a14.png",
+      "thumb": "items/images/en/thumbs/atlas_prime_systems.91fb26397de19c27bfece550a8315a14.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+    }
+  }
+}

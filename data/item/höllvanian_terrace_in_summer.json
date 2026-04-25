@@ -1,0 +1,18 @@
+{
+  "id": "675c61507b18977f6e6453fc",
+  "slug": "höllvanian_terrace_in_summer",
+  "gameRef": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConAlleyValguma",
+  "tags": [
+    "scene"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Höllvanian Terrace In Summer Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "icon": "items/images/en/höllvanian_terrace_in_summer.0bf4d756cb9688a0ad3a34f94a0da30c.webp",
+      "thumb": "items/images/en/thumbs/höllvanian_terrace_in_summer.0bf4d756cb9688a0ad3a34f94a0da30c.128x128.webp"
+    }
+  }
+}

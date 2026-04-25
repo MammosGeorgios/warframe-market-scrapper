@@ -1,0 +1,25 @@
+{
+  "id": "6054de8d5221e30057501087",
+  "slug": "cuthol",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Cuthol",
+      "description": "A grotesque crustacean that produces a potent, paralyzing toxin from its tentacles.",
+      "wikiLink": "https://wiki.warframe.com/w/Cuthol",
+      "icon": "items/images/en/cuthol.f8c5a1e7678b2010c9850660a7404cb8.png",
+      "thumb": "items/images/en/thumbs/cuthol.f8c5a1e7678b2010c9850660a7404cb8.128x128.png"
+    }
+  }
+}

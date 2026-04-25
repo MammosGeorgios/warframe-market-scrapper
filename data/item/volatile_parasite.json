@@ -1,0 +1,24 @@
+{
+  "id": "5fb84768c34da3004797d54d",
+  "slug": "volatile_parasite",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorMaggotSummonerPrecept",
+  "tags": [
+    "mod",
+    "rare",
+    "kubrow",
+    "predasite"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Volatile Parasite",
+      "description": "Every 15s spits out a maggot that latches onto the nearest enemy, drawing fire from those within 40m. On death, the maggot bursts, dealing 100% of accumulated damage Viral Damage (+40% damage if the enemy dies while latched) to those within 10m.",
+      "wikiLink": "https://wiki.warframe.com/w/Volatile_Parasite",
+      "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
+      "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+    }
+  }
+}

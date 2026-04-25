@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a4fc",
+  "slug": "sword_alone",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Melee/IncreasedMobilityEquipped",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sword Alone",
+      "description": "With Melee Equipped: +10% Mobility\n+30% Sprint Speed",
+      "wikiLink": "https://wiki.warframe.com/w/Sword_Alone",
+      "icon": "items/images/en/sword_alone.1c6ec66a54c742480eb3bee11e56ea72.png",
+      "thumb": "items/images/en/thumbs/sword_alone.1c6ec66a54c742480eb3bee11e56ea72.128x128.png"
+    }
+  }
+}

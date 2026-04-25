@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155b4",
+  "slug": "pacifying_bolts",
+  "gameRef": "/Lotus/Powersuits/Jade/DaggerAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nyx",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pacifying Bolts",
+      "description": "Psychic Bolts Augment: Throw an additional 3 force bolts with guaranteed Radiation Status Effect. Enemies struck are confused for 10s.",
+      "wikiLink": "https://wiki.warframe.com/w/Pacifying_Bolts",
+      "icon": "items/images/en/pacifying_bolts.32b252d058ca581b2d51bc487a6d1679.png",
+      "thumb": "items/images/en/thumbs/pacifying_bolts.32b252d058ca581b2d51bc487a6d1679.128x128.png"
+    }
+  }
+}

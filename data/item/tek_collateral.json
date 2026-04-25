@@ -1,0 +1,23 @@
+{
+  "id": "5be4b0a53ffcc703294e76b8",
+  "slug": "tek_collateral",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Tek/WarframeTekCollateralMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tek Collateral",
+      "description": "Increased Pistol Ammo recovery. +100% Critical Damage when inside the Marked Zone.",
+      "wikiLink": "https://wiki.warframe.com/w/Tek_Collateral",
+      "icon": "items/images/en/tek_collateral.f16578482edfed66a1bd5dca84cd778b.png",
+      "thumb": "items/images/en/thumbs/tek_collateral.f16578482edfed66a1bd5dca84cd778b.128x128.png"
+    }
+  }
+}

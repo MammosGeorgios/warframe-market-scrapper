@@ -1,0 +1,24 @@
+{
+  "id": "54c688a2e77989145e6d0aa0",
+  "slug": "astral_twilight",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "glaives"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Astral Twilight",
+      "description": "Orbiting slashes and lashing strikes.",
+      "wikiLink": "https://wiki.warframe.com/w/Astral_Twilight",
+      "icon": "items/images/en/astral_twilight.0e11466aa6264c5f2886a5de6a921772.png",
+      "thumb": "items/images/en/thumbs/astral_twilight.0e11466aa6264c5f2886a5de6a921772.128x128.png"
+    }
+  }
+}

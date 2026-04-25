@@ -1,0 +1,25 @@
+{
+  "id": "54e0c9eee7798903744178a8",
+  "slug": "surging_dash",
+  "gameRef": "/Lotus/Powersuits/Excalibur/SlashDashAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "excalibur",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Surging Dash",
+      "description": "Slash Dash Augment: Each enemy hit during Slash Dash further increases your Melee Counter by 8.",
+      "wikiLink": "https://wiki.warframe.com/w/Surging_Dash",
+      "icon": "items/images/en/surging_dash.95479235e9e1b4f7b1f21f47a927f723.png",
+      "thumb": "items/images/en/thumbs/surging_dash.95479235e9e1b4f7b1f21f47a927f723.128x128.png"
+    }
+  }
+}

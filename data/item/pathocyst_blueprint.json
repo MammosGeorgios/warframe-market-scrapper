@@ -1,0 +1,31 @@
+{
+  "id": "5d8f65b17ea27b0968b6e577",
+  "slug": "pathocyst_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/InfBoomerangBlueprint",
+  "tags": [
+    "weapon",
+    "melee",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5d8f65b27ea27b0968b6e579",
+    "5d8f65b17ea27b0968b6e577",
+    "5d8f65b17ea27b0968b6e578",
+    "5d8f65b37ea27b0968b6e57a"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 9,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Pathocyst Blueprint",
+      "description": "Each strike of this infested glaive infects its target with viral pathogens. Occasionally, it discharges the spores of rabid, enemy-seeking maggots, either in-flight or on contact with the enemy.",
+      "wikiLink": "https://wiki.warframe.com/w/Pathocyst",
+      "icon": "items/images/en/pathocyst_blueprint.f423b7a6a78d2e4780c1007f0f0fb464.png",
+      "thumb": "items/images/en/thumbs/pathocyst_blueprint.f423b7a6a78d2e4780c1007f0f0fb464.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6242037766a58f0108c3d490",
+  "slug": "garuda_prime_set",
+  "gameRef": "/Lotus/Powersuits/Garuda/GarudaPrime",
+  "tags": [
+    "warframe",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "6242037866a58f0108c3d497",
+    "6242037666a58f0108c3d479",
+    "6242037766a58f0108c3d492",
+    "6242037766a58f0108c3d490",
+    "6242037666a58f0108c3d486"
+  ],
+  "ducats": 225,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Garuda Prime Set",
+      "description": "White, gold and deepest scarlet, the queen of gore in full regalia.",
+      "wikiLink": "https://wiki.warframe.com/w/Garuda_Prime",
+      "icon": "items/images/en/garuda_prime_set.283072e865cfc5da28d322b15a2065fa.png",
+      "thumb": "items/images/en/thumbs/garuda_prime_set.283072e865cfc5da28d322b15a2065fa.128x128.png"
+    }
+  }
+}

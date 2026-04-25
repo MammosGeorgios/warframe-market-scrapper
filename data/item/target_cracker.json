@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515595",
+  "slug": "target_cracker",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponCritDamageMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Target Cracker",
+      "description": "+60% Critical Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Target_Cracker",
+      "icon": "items/images/en/target_cracker.6b81dd2b57724976438b9b083f8301f3.png",
+      "thumb": "items/images/en/thumbs/target_cracker.6b81dd2b57724976438b9b083f8301f3.128x128.png"
+    }
+  }
+}

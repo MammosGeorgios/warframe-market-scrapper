@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e515675",
+  "slug": "flailing_branch",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/StaffCmbTwoMeleeTree",
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "staves"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Flailing Branch",
+      "description": "Lifting strikes and whirlwind combos.",
+      "wikiLink": "https://wiki.warframe.com/w/Flailing_Branch",
+      "icon": "items/images/en/flailing_branch.ae36406a1e5866ec829b6a46c1bceb1b.png",
+      "thumb": "items/images/en/thumbs/flailing_branch.ae36406a1e5866ec829b6a46c1bceb1b.128x128.png"
+    }
+  }
+}

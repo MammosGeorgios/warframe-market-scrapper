@@ -1,0 +1,20 @@
+{
+  "id": "54aaf1eee779890a8654131d",
+  "slug": "arcane_aura_helmet",
+  "gameRef": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAlt",
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Aura Helmet",
+      "description": "This helmet is worn by Trinity, and increases the Ability Duration, but adversely affects Health.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Arcane_Helmet",
+      "icon": "items/images/en/arcane_aura_trinity_helmet.d2b86ccdef9653830055ab389ef0d577.png",
+      "thumb": "items/images/en/thumbs/arcane_aura_trinity_helmet.d2b86ccdef9653830055ab389ef0d577.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a4fe",
+  "slug": "tear_gas",
+  "gameRef": "/Lotus/Powersuits/Ninja/SmokeScreenPvPAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare",
+    "augment",
+    "ash"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Tear Gas",
+      "description": "Smoke Screen Augment: Blinds enemies within 4m for 3s.",
+      "wikiLink": "https://wiki.warframe.com/w/Tear_Gas",
+      "icon": "items/images/en/tear_gas.dabcc0fbb32e0b6fb9188fd034fd6807.png",
+      "thumb": "items/images/en/thumbs/tear_gas.dabcc0fbb32e0b6fb9188fd034fd6807.128x128.png"
+    }
+  }
+}

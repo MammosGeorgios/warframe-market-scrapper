@@ -1,0 +1,22 @@
+{
+  "id": "57dbdc525e334907aa8edb59",
+  "slug": "rakta_dark_dagger",
+  "gameRef": "/Lotus/Weapons/Syndicates/RedVeil/Melee/RVDarkDagger",
+  "tags": [
+    "syndicate",
+    "weapon",
+    "melee"
+  ],
+  "reqMasteryRank": 8,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rakta Dark Dagger",
+      "description": "Infiltrate undetected; reduced visibility when held. Then strike with confidence; hits to irradiated targets restores shields and creates overshields.",
+      "wikiLink": "https://wiki.warframe.com/w/Rakta_Dark_Dagger",
+      "icon": "items/images/en/rakta_dark_dagger.c59954c3d3a9a925e98caee4ac7d20af.png",
+      "thumb": "items/images/en/thumbs/rakta_dark_dagger.c59954c3d3a9a925e98caee4ac7d20af.128x128.png"
+    }
+  }
+}

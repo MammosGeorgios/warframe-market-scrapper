@@ -1,0 +1,24 @@
+{
+  "id": "653168e8f31453d36319c56c",
+  "slug": "astral_bond",
+  "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/VoidBond/VoidVinculum",
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "companion"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Astral Bond",
+      "description": "Damage dealt by Operator or Drifter grants 60% damage and 30% Void Damage to your Companion's attacks for 10s. Companion Void Damage adds +30% Amp and Energy Efficiency to Operator or Drifter for 5s.",
+      "wikiLink": "https://wiki.warframe.com/w/Astral_Bond",
+      "icon": "items/images/en/astral_bond.2fc6548b626af779f232d8f23f701dbb.png",
+      "thumb": "items/images/en/thumbs/astral_bond.2fc6548b626af779f232d8f23f701dbb.128x128.png"
+    }
+  }
+}

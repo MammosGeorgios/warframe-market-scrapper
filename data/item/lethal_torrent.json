@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e51560d",
+  "slug": "lethal_torrent",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/DualStat/GrinderMod",
+  "tags": [
+    "mod",
+    "rare",
+    "pistol",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Lethal Torrent",
+      "description": "+60% Fire Rate\n+60% Multishot",
+      "wikiLink": "https://wiki.warframe.com/w/Lethal_Torrent",
+      "icon": "items/images/en/lethal_torrent.5f97f70430d22026c0bbcf6030f046a8.png",
+      "thumb": "items/images/en/thumbs/lethal_torrent.5f97f70430d22026c0bbcf6030f046a8.128x128.png"
+    }
+  }
+}

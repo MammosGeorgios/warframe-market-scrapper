@@ -1,0 +1,24 @@
+{
+  "id": "5f498a279426ed00443bd0dd",
+  "slug": "sly_devolution",
+  "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/VulpineInfestedCatbrowRespawn",
+  "tags": [
+    "mod",
+    "rare",
+    "kavat",
+    "sly_vulpaphyla"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sly Devolution",
+      "description": "Devolves into its larval form when downed and regains its true form after 30s. Your kills reduce enemy accuracy against Warframes by 20% for 8s.",
+      "wikiLink": "https://wiki.warframe.com/w/Sly_Devolution",
+      "icon": "items/images/en/sly_devolution.3a840211142eef77bb06189bf5415f17.png",
+      "thumb": "items/images/en/thumbs/sly_devolution.3a840211142eef77bb06189bf5415f17.128x128.png"
+    }
+  }
+}

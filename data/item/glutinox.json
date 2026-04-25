@@ -1,0 +1,25 @@
+{
+  "id": "6054de6a5221e30057501077",
+  "slug": "glutinox",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedUncommonAFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Glutinox",
+      "description": "These hefty fish are cannibalistic. They rise by Vome's light to absorb rare gases, retreating when Fass ascends to devour their smaller kin in their lairs.",
+      "wikiLink": "https://wiki.warframe.com/w/Glutinox",
+      "icon": "items/images/en/glutinox.6ba4ab5ace94a138d289c5314401d5c9.png",
+      "thumb": "items/images/en/thumbs/glutinox.6ba4ab5ace94a138d289c5314401d5c9.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "5fde10c46db57b0185b3907b",
+  "slug": "morgha_barrel",
+  "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem",
+  "tags": [
+    "necramech",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5fde10c46db57b0185b3907b",
+    "5fde10c26db57b0185b39072",
+    "5fde10c36db57b0185b39078",
+    "5fde10c26db57b0185b39071"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 15,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Morgha Barrel",
+      "description": "A Necramech weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Morgha",
+      "icon": "items/images/en/morgha_barrel.d33f9cd234690f5b7be1daaaa236a64f.png",
+      "thumb": "items/images/en/thumbs/morgha_barrel.d33f9cd234690f5b7be1daaaa236a64f.128x128.png"
+    }
+  }
+}

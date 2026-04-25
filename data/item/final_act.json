@@ -1,0 +1,24 @@
+{
+  "id": "567af35fcbfa8f05d076a50a",
+  "slug": "final_act",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/IncreasedEfficiencyOnLowHealth",
+  "tags": [
+    "mod",
+    "rare",
+    "pvp",
+    "warframe"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Final Act",
+      "description": "On Low Health:\n+30% Ability Strength\n+30% Casting Speed for 8s",
+      "wikiLink": "https://wiki.warframe.com/w/Final_Act",
+      "icon": "items/images/en/final_act.794292ab515a014b43f9c106b549b822.png",
+      "thumb": "items/images/en/thumbs/final_act.794292ab515a014b43f9c106b549b822.128x128.png"
+    }
+  }
+}

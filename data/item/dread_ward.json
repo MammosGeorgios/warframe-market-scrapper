@@ -1,0 +1,25 @@
+{
+  "id": "5cb04868fc2db2068006980d",
+  "slug": "dread_ward",
+  "gameRef": "/Lotus/Powersuits/Garuda/GarudaShieldAugmentCard",
+  "tags": [
+    "mod",
+    "garuda",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dread Ward",
+      "description": "Dread Mirror Augment: Become unkillable for 5s when Dread Mirror kills a target by ripping its life force.",
+      "wikiLink": "https://wiki.warframe.com/w/Dread_Ward",
+      "icon": "items/images/en/dread_ward.4b98492ea6c4f8665ffeab29f180e535.png",
+      "thumb": "items/images/en/thumbs/dread_ward.4b98492ea6c4f8665ffeab29f180e535.128x128.png"
+    }
+  }
+}

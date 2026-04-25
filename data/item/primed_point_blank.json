@@ -1,0 +1,24 @@
+{
+  "id": "54c68686e7798913c1042b4b",
+  "slug": "primed_point_blank",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponDamageAmountModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "shotgun"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Point Blank",
+      "description": "+165% Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Point_Blank",
+      "icon": "items/images/en/primed_point_blank.205167d02b8601e3d5e56dd6e8d51649.png",
+      "thumb": "items/images/en/thumbs/primed_point_blank.205167d02b8601e3d5e56dd6e8d51649.128x128.png"
+    }
+  }
+}

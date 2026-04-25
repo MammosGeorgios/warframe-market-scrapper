@@ -1,0 +1,23 @@
+{
+  "id": "68028a0a24bd8dc3de5797d4",
+  "slug": "primed_stabilizer",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponRecoilReductionModExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "primary",
+    "rifle"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Stabilizer",
+      "description": "-85% Weapon Recoil",
+      "icon": "items/images/en/primed_stabilizer.6a71bfad85471874722d113409dcc828.webp",
+      "thumb": "items/images/en/thumbs/primed_stabilizer.6a71bfad85471874722d113409dcc828.128x128.webp"
+    }
+  }
+}

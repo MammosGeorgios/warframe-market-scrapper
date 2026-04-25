@@ -1,0 +1,23 @@
+{
+  "id": "5fde10c66db57b0185b39087",
+  "slug": "necramech_aviator",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechAvatarDamageReductionInAir",
+  "tags": [
+    "mod",
+    "common",
+    "necramech"
+  ],
+  "rarity": "common",
+  "maxRank": 3,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Aviator",
+      "description": "Reduced damage by 40% while airborne",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Aviator",
+      "icon": "items/images/en/necramech_aviator.4d0d2675352961f8c71459c57c7f5267.png",
+      "thumb": "items/images/en/thumbs/necramech_aviator.4d0d2675352961f8c71459c57c7f5267.128x128.png"
+    }
+  }
+}

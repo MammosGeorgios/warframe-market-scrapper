@@ -1,0 +1,25 @@
+{
+  "id": "667238d78ba7c81b70d02cbe",
+  "slug": "spectral_spirit",
+  "gameRef": "/Lotus/Powersuits/Dagath/DagathApparitionAugmentCard",
+  "tags": [
+    "dagath",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Spectral Spirit",
+      "description": "Grave Spirit Augment: Immediately assume Spectral Form. 100% chance for weapons and abilities to apply Doom. Kills outside of Spectral Form decrease its cooldown by 1s.",
+      "wikiLink": "https://wiki.warframe.com/w/Spectral_Spirit",
+      "icon": "items/images/en/spectral_spirit.46538d5c24f4201461930060ef10fd77.webp",
+      "thumb": "items/images/en/thumbs/spectral_spirit.46538d5c24f4201461930060ef10fd77.128x128.webp"
+    }
+  }
+}

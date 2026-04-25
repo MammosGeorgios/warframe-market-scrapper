@@ -1,0 +1,25 @@
+{
+  "id": "6054de645221e3005750106e",
+  "slug": "aquapulmo",
+  "gameRef": "/Lotus/Types/Items/Fish/Deimos/HybridRareAFishItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "basic",
+    "adorned",
+    "magnificent"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Aquapulmo",
+      "description": "These fish were purposefully contaminated with the Infestation as an Entrati 'experiment'. They feed off the organic deposits in cave systems.",
+      "wikiLink": "https://wiki.warframe.com/w/Aquapulmo",
+      "icon": "items/images/en/aquapulmo.614ee00bc189bf6e8188792cddcf15e3.png",
+      "thumb": "items/images/en/thumbs/aquapulmo.614ee00bc189bf6e8188792cddcf15e3.128x128.png"
+    }
+  }
+}

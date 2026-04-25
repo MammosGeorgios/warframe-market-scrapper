@@ -1,0 +1,32 @@
+{
+  "id": "6939aa8c5d9ebda239125d2e",
+  "slug": "alternox_prime_receiver",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AlternoxPrimeReceiver",
+  "tags": [
+    "weapon",
+    "prime",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "6939aa8b5d9ebda239125d2d",
+    "6939aa8a5d9ebda239125d2c",
+    "6939aa8c5d9ebda239125d2e",
+    "6939aa885d9ebda239125d2b",
+    "6939aa8d5d9ebda239125d2f"
+  ],
+  "quantityInSet": 1,
+  "ducats": 15,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Alternox Prime Receiver",
+      "description": "A prime weapon-crafting component.",
+      "icon": "items/images/en/alternox_prime_receiver.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+      "thumb": "items/images/en/thumbs/alternox_prime_receiver.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp",
+      "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+    }
+  }
+}

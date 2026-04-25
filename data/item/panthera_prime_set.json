@@ -1,0 +1,32 @@
+{
+  "id": "5f0e0fdc9f527b0285718f1a",
+  "slug": "panthera_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimePanthera/PrimePanthera",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "primary"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "5f0e0fdd9f527b0285718f1b",
+    "5f0e0fdd9f527b0285718f1d",
+    "5f0e0fdd9f527b0285718f1c",
+    "5f0e0fdc9f527b0285718f1a",
+    "5f0e0fdc9f527b0285718f17"
+  ],
+  "ducats": 260,
+  "reqMasteryRank": 14,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Panthera Prime Set",
+      "description": "The max-velocity saw-launcher perfected. Features a larger magazine, faster fire rate, and a radial, slashing ricochet.",
+      "wikiLink": "https://wiki.warframe.com/w/Panthera_Prime",
+      "icon": "items/images/en/panthera_prime_set.7a4ebdc3f85ef877a6ffce8790660e30.png",
+      "thumb": "items/images/en/thumbs/panthera_prime_set.7a4ebdc3f85ef877a6ffce8790660e30.128x128.png"
+    }
+  }
+}

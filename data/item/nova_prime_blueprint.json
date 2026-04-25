@@ -1,0 +1,33 @@
+{
+  "id": "54a73e65e779893a797fff6b",
+  "slug": "nova_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/NovaPrimeBlueprint",
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "54a73e65e779893a797fff6b",
+    "54a73e65e779893a797fff69",
+    "54a73e65e779893a797fff68",
+    "56783f24cbfa8f0432dd89a5",
+    "54a73e65e779893a797fff6a"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nova Prime Blueprint",
+      "description": "Nova Prime wreaks devastation on her enemies using volatile antimatter. Featuring altered mod polarities for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Nova_Prime",
+      "icon": "items/images/en/nova_prime_blueprint.639a9222e1cb351cd6dd09ef28155ef0.png",
+      "thumb": "items/images/en/thumbs/nova_prime_blueprint.639a9222e1cb351cd6dd09ef28155ef0.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

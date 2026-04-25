@@ -1,0 +1,22 @@
+{
+  "id": "67db600a9cec3e52e62523df",
+  "slug": "worm_away",
+  "gameRef": "/Lotus/Upgrades/Mods/Immortal/AntivirusTwoMod",
+  "tags": [
+    "mod",
+    "rare",
+    "parazon"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Worm Away",
+      "description": "Get rid of malware, spyware, wetware and worms",
+      "icon": "items/images/en/worm_away.e154b426b8f6d11634f2f923b8316417.webp",
+      "thumb": "items/images/en/thumbs/worm_away.e154b426b8f6d11634f2f923b8316417.128x128.webp"
+    }
+  }
+}

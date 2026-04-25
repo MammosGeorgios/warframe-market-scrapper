@@ -1,0 +1,33 @@
+{
+  "id": "673516dedb3ac2cfade14a7d",
+  "slug": "quassus_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/QuassusPrimeBlueprint",
+  "tags": [
+    "melee",
+    "weapon",
+    "prime",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "673516dddb3ac2cfade14a7c",
+    "673516e0db3ac2cfade14a7f",
+    "673516dedb3ac2cfade14a7d",
+    "673516dfdb3ac2cfade14a7e"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 13,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Quassus Prime Blueprint",
+      "description": "Wield Xaku Prime’s elegant fan, its gilded edges crafted for both precision and prestige.",
+      "wikiLink": "https://wiki.warframe.com/w/Quassus_Prime",
+      "icon": "items/images/en/quassus_prime_blueprint.e2d3b6fc89126a4d513be40752388c0e.webp",
+      "thumb": "items/images/en/thumbs/quassus_prime_blueprint.e2d3b6fc89126a4d513be40752388c0e.128x128.webp",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "5f4ed3eed5c36d0086f55af7",
+  "slug": "deimos_chamber_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosTomb",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deimos Chamber Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/deimos_chamber_scene.3c2e5b7f326ac35dc4c84fadb08c83ce.png",
+      "thumb": "items/images/en/thumbs/deimos_chamber_scene.3c2e5b7f326ac35dc4c84fadb08c83ce.128x128.png"
+    }
+  }
+}

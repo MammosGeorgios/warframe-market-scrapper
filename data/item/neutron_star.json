@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e5155f3",
+  "slug": "neutron_star",
+  "gameRef": "/Lotus/Powersuits/AntiMatter/NullStarAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "nova",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Neutron Star",
+      "description": "Null Star Augment: Particles deal 240 Heat Damage with guaranteed Status effect in 8m. On recast, remaining particles seek out enemies with doubled search radius.",
+      "wikiLink": "https://wiki.warframe.com/w/Neutron_Star",
+      "icon": "items/images/en/neutron_star.c0e2f67469c1471dded9d0ce48358a27.png",
+      "thumb": "items/images/en/thumbs/neutron_star.c0e2f67469c1471dded9d0ce48358a27.128x128.png"
+    }
+  }
+}

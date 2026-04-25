@@ -1,0 +1,31 @@
+{
+  "id": "58b57068eb26db5c31192113",
+  "slug": "euphona_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Pistols/AllNew1hSG/AllNew1hSG",
+  "tags": [
+    "prime",
+    "weapon",
+    "secondary",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "58b57068eb26db5c3119210f",
+    "58b57068eb26db5c31192112",
+    "58b57068eb26db5c31192111",
+    "58b57068eb26db5c31192113"
+  ],
+  "ducats": 160,
+  "reqMasteryRank": 14,
+  "tradingTax": 6000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Euphona Prime Set",
+      "description": "Banshee Prime’s signature shotgun is an instrument of devastation that fires both focused and broad shots.",
+      "wikiLink": "https://wiki.warframe.com/w/Euphona_Prime",
+      "icon": "items/images/en/euphona_prime_set.6a18cc50c57ac13c3203e872baf85a8d.png",
+      "thumb": "items/images/en/thumbs/euphona_prime_set.6a18cc50c57ac13c3203e872baf85a8d.128x128.png"
+    }
+  }
+}

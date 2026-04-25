@@ -1,0 +1,25 @@
+{
+  "id": "5911f11d97a0add8e9d5da4c",
+  "slug": "disarming_purity",
+  "gameRef": "/Lotus/Upgrades/Mods/Syndicate/PantheraMod",
+  "tags": [
+    "syndicate",
+    "mod",
+    "rare",
+    "primary",
+    "panthera"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Disarming Purity",
+      "description": "Secondary Fire mode has a 40% chance to disarm enemies.\n+1 'Purity'",
+      "wikiLink": "https://warframe.fandom.com/wiki/Disarming_Purity",
+      "icon": "items/images/en/disarming_purity.051b3489272e846e1ea5ecc351ea9c32.png",
+      "thumb": "items/images/en/thumbs/disarming_purity.051b3489272e846e1ea5ecc351ea9c32.128x128.png"
+    }
+  }
+}

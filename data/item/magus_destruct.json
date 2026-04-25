@@ -1,0 +1,23 @@
+{
+  "id": "5c1bda2414a8e4006b1dada6",
+  "slug": "magus_destruct",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ProcResistOnBlast",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Magus Destruct",
+      "description": "On Void Sling:\nReduce Enemy Resistance to Puncture Damage by 65%.",
+      "wikiLink": "https://wiki.warframe.com/w/Magus_Destruct",
+      "icon": "items/images/en/magus_destruct.5d566d3caf8a4d577f3316224757d24f.png",
+      "thumb": "items/images/en/thumbs/magus_destruct.5d566d3caf8a4d577f3316224757d24f.128x128.png"
+    }
+  }
+}

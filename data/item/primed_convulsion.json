@@ -1,0 +1,24 @@
+{
+  "id": "658ed23f2ad6a142084fa434",
+  "slug": "primed_convulsion",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/PrimedWeaponElectricityDamageMod",
+  "tags": [
+    "mod",
+    "legendary",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Convulsion",
+      "description": "+165% Electricity",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Convulsion",
+      "icon": "items/images/en/primed_convulsion.653accfb70d0dc43bdb4c09afd8dc2a2.png",
+      "thumb": "items/images/en/thumbs/primed_convulsion.653accfb70d0dc43bdb4c09afd8dc2a2.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "5fde10c26db57b0185b39071",
+  "slug": "morgha_stock",
+  "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem",
+  "tags": [
+    "necramech",
+    "component"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5fde10c46db57b0185b3907b",
+    "5fde10c26db57b0185b39072",
+    "5fde10c36db57b0185b39078",
+    "5fde10c26db57b0185b39071"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 15,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Morgha Stock",
+      "description": "A Necramech weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Morgha",
+      "icon": "items/images/en/morgha_stock.91f0b5fabbeeebd690890cd4e16ebf71.png",
+      "thumb": "items/images/en/thumbs/morgha_stock.91f0b5fabbeeebd690890cd4e16ebf71.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5d93ca107ea27b0a87566f5f",
+  "slug": "dethcube_prime_carapace",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDethcubeCarapace",
+  "tags": [
+    "component",
+    "weapon",
+    "prime"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5d93ca117ea27b0a87566f6a",
+    "5d93ca107ea27b0a87566f5f",
+    "5d93ca107ea27b0a87566f62",
+    "5d93ca117ea27b0a87566f6b",
+    "5d93ca117ea27b0a87566f6e"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dethcube Prime Carapace",
+      "description": "A prime sentinel-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Dethcube_Prime",
+      "icon": "items/images/en/dethcube_prime_carapace.47a0e82681bf367a015928558a9f133b.png",
+      "thumb": "items/images/en/thumbs/dethcube_prime_carapace.47a0e82681bf367a015928558a9f133b.128x128.png",
+      "subIcon": "sub_icons/sentinel/prime_carapace_128x128.png"
+    }
+  }
+}

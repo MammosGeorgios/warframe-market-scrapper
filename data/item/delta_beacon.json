@@ -1,0 +1,19 @@
+{
+  "id": "598b06b4ab6b61be6fec0fb2",
+  "slug": "delta_beacon",
+  "gameRef": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentA",
+  "tags": [
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Delta Beacon",
+      "description": "Locator beacon broadcasting on the delta frequency",
+      "wikiLink": "https://wiki.warframe.com/w/Delta_Beacon",
+      "icon": "items/images/en/delta_beacon.66ad7fbedd8f2d59b375cf13dd62a731.png",
+      "thumb": "items/images/en/thumbs/delta_beacon.66ad7fbedd8f2d59b375cf13dd62a731.128x128.png"
+    }
+  }
+}

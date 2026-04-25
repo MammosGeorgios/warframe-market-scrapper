@@ -1,0 +1,23 @@
+{
+  "id": "657af5ac21646e595134f5ce",
+  "slug": "dreamers_wrath",
+  "gameRef": "/Lotus/Upgrades/EmpoweredHeavyMelee/FocusedAttack",
+  "tags": [
+    "mod",
+    "rare",
+    "melee"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dreamer's Wrath",
+      "description": "Enables Tennokai. Increases opportunity chance by 50% and critical damage by 32% for Tennokai attacks.",
+      "wikiLink": "https://wiki.warframe.com/w/Dreamer%27s_Wrath",
+      "icon": "items/images/en/dreamers_wrath.a5e53eb8a61d67cd39b25bd3f4cea50a.png",
+      "thumb": "items/images/en/thumbs/dreamers_wrath.a5e53eb8a61d67cd39b25bd3f4cea50a.128x128.png"
+    }
+  }
+}

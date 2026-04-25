@@ -1,0 +1,31 @@
+{
+  "id": "6139101930dd5b004b7f909e",
+  "slug": "nidus_prime_set",
+  "gameRef": "/Lotus/Powersuits/Infestation/InfestationPrime",
+  "tags": [
+    "warframe",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "6139101830dd5b004b7f9093",
+    "6139101a30dd5b004b7f90ad",
+    "6139101a30dd5b004b7f90ac",
+    "6139101930dd5b004b7f909e",
+    "6139101a30dd5b004b7f90a8"
+  ],
+  "ducats": 225,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nidus Prime Set",
+      "description": "Mutation is endless. The ravening plague-bearer returns in a long-unseen form, seething with a primal strain of the Infestation.",
+      "wikiLink": "https://wiki.warframe.com/w/Nidus_Prime",
+      "icon": "items/images/en/nidus_prime_set.1cf479b37c98ce42340156c9c005e91e.png",
+      "thumb": "items/images/en/thumbs/nidus_prime_set.1cf479b37c98ce42340156c9c005e91e.128x128.png"
+    }
+  }
+}

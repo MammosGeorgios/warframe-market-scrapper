@@ -1,0 +1,31 @@
+{
+  "id": "61bb64fc3132ff00482b5fbb",
+  "slug": "harrow_prime_set",
+  "gameRef": "/Lotus/Powersuits/Priest/HarrowPrime",
+  "tags": [
+    "warframe",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "61bb64fc3132ff00482b5fba",
+    "61bb64fe3132ff00482b5fce",
+    "61bb64fd3132ff00482b5fc4",
+    "61bb64fc3132ff00482b5fbb",
+    "61bb64fe3132ff00482b5fd2"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Harrow Prime Set",
+      "description": "The Inquisitor Eternal arises, hallowed by the Void, preaching a gospel of iron and flame.",
+      "wikiLink": "https://wiki.warframe.com/w/Harrow_Prime",
+      "icon": "items/images/en/harrow_prime_set.532d5a9a035beaca81c15bbaa4001a1d.png",
+      "thumb": "items/images/en/thumbs/harrow_prime_set.532d5a9a035beaca81c15bbaa4001a1d.128x128.png"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "62a2b943fbd62c0038ef9a2d",
+  "slug": "innodem_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanDaggerWeaponBlueprint",
+  "tags": [
+    "melee",
+    "weapon",
+    "blueprint"
+  ],
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Innodem Blueprint",
+      "description": "In the early Orokin Empire, elites wore Innodem as a symbolic reminder to defend the defenseless. The tradition fell out of style, but nostalgic elites acknowledged the sentiment in the form of a gift. The Void amplifies that ideal. Void energy strengthens Innodem gliding aerial attacks and the wielder is increasingly resilient as they perform finisher attacks in Incarnon Form.",
+      "wikiLink": "https://wiki.warframe.com/w/Innodem",
+      "icon": "items/images/en/innodem_blueprint.2a892f04f30e5f12bd5689a2fd467aeb.png",
+      "thumb": "items/images/en/thumbs/innodem_blueprint.2a892f04f30e5f12bd5689a2fd467aeb.128x128.png"
+    }
+  }
+}

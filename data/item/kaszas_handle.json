@@ -1,0 +1,30 @@
+{
+  "id": "5783bea1d9b6753790c89e86",
+  "slug": "kaszas_handle",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchScytheHandle",
+  "tags": [
+    "component",
+    "weapon",
+    "archwing"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5783bee2d9b6753790c89e87",
+    "5783bea1d9b6753790c89e86",
+    "582b0f630af25410b099f7f7"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 4,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Kaszas Handle",
+      "description": "An Archwing weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Kaszas",
+      "icon": "items/images/en/kaszas_handle.11baea8229af2d3500c79b829f9dfcee.png",
+      "thumb": "items/images/en/thumbs/kaszas_handle.11baea8229af2d3500c79b829f9dfcee.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_handle_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5fde10c56db57b0185b39080",
+  "slug": "necramech_augur",
+  "gameRef": "/Lotus/Upgrades/Mods/Necromech/NecromechEnergyToOvershieldsMod",
+  "tags": [
+    "mod",
+    "uncommon",
+    "necramech"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Necramech Augur",
+      "description": "240% Energy spent on abilities is converted to Shields.",
+      "wikiLink": "https://wiki.warframe.com/w/Necramech_Augur",
+      "icon": "items/images/en/necramech_augur.c2b0e7cb1ddefbca9535eeacc5e1f768.png",
+      "thumb": "items/images/en/thumbs/necramech_augur.c2b0e7cb1ddefbca9535eeacc5e1f768.128x128.png"
+    }
+  }
+}

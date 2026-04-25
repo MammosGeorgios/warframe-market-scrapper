@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e51563b",
+  "slug": "antitoxin",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistancePoison",
+  "tags": [
+    "mod",
+    "warframe",
+    "uncommon"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Antitoxin",
+      "description": "+45% Toxin Resistance",
+      "wikiLink": "https://wiki.warframe.com/w/Antitoxin",
+      "icon": "items/images/en/antitoxin.a03872dae3e9b75b7f278d6f9007816c.png",
+      "thumb": "items/images/en/thumbs/antitoxin.a03872dae3e9b75b7f278d6f9007816c.128x128.png"
+    }
+  }
+}

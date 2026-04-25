@@ -1,0 +1,24 @@
+{
+  "id": "5ecd08d704d55c0806f8534a",
+  "slug": "dizzying_rounds",
+  "gameRef": "/Lotus/Upgrades/Mods/Nightwave/BroncoNightwaveMod",
+  "tags": [
+    "mod",
+    "bronco",
+    "rare",
+    "secondary"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dizzying Rounds",
+      "description": "Shots from less than 8m stun enemies and open them to finishers.\n+200% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Dizzying_Rounds",
+      "icon": "items/images/en/dizzying_rounds.0a2cc2262a8179f49ddd6073f51f5f42.png",
+      "thumb": "items/images/en/thumbs/dizzying_rounds.0a2cc2262a8179f49ddd6073f51f5f42.128x128.png"
+    }
+  }
+}

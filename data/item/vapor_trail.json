@@ -1,0 +1,23 @@
+{
+  "id": "5f498a239426ed00443bd0bc",
+  "slug": "vapor_trail",
+  "gameRef": "/Lotus/Upgrades/Mods/Hoverboard/HBEnergyInjectionMod",
+  "tags": [
+    "mod",
+    "common",
+    "k_drive"
+  ],
+  "rarity": "common",
+  "maxRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vapor Trail",
+      "description": "Add 11 Boost Speed. Consumes 10 Energy/s",
+      "wikiLink": "https://wiki.warframe.com/w/Vapor_Trail",
+      "icon": "items/images/en/vapor_trail.ebe940eeaf0b853890baa1a7b981d72c.png",
+      "thumb": "items/images/en/thumbs/vapor_trail.ebe940eeaf0b853890baa1a7b981d72c.128x128.png"
+    }
+  }
+}

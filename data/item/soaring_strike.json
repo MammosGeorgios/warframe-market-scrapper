@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a521",
+  "slug": "soaring_strike",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterChargeInAirBowMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "rare",
+    "bow",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Soaring Strike",
+      "description": "+50% Fire Rate when Airborne",
+      "wikiLink": "https://wiki.warframe.com/w/Soaring_Strike",
+      "icon": "items/images/en/soaring_strike.48fce1e9da8153d46db2bfa41fa245bc.png",
+      "thumb": "items/images/en/thumbs/soaring_strike.48fce1e9da8153d46db2bfa41fa245bc.128x128.png"
+    }
+  }
+}

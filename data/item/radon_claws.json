@@ -1,0 +1,24 @@
+{
+  "id": "675c61ce7b18977f6e645412",
+  "slug": "radon_claws",
+  "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowRadiationEventMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "claws"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Radon Claws",
+      "description": "+60% Radiation\n+80% Critical Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Radon_Claws",
+      "icon": "items/images/en/radon_claws.727d39bca46d1a5304ededfcbd9f4bb2.webp",
+      "thumb": "items/images/en/thumbs/radon_claws.727d39bca46d1a5304ededfcbd9f4bb2.128x128.webp"
+    }
+  }
+}

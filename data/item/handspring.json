@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155ea",
+  "slug": "handspring",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarKnockdownRecoveryMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Handspring",
+      "description": "+160% Faster Knockdown Recovery",
+      "wikiLink": "https://wiki.warframe.com/w/Handspring",
+      "icon": "items/images/en/handspring.7f0d92568cc658d57fd8a30090f4d6ea.png",
+      "thumb": "items/images/en/thumbs/handspring.7f0d92568cc658d57fd8a30090f4d6ea.128x128.png"
+    }
+  }
+}

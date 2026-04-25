@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155f9",
+  "slug": "vigor",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/DualStat/VigorMod",
+  "tags": [
+    "mod",
+    "warframe",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Vigor",
+      "description": "+50% Shield Capacity\n+50% Health",
+      "wikiLink": "https://wiki.warframe.com/w/Vigor",
+      "icon": "items/images/en/vigor.f6d82ca2f863b300f3e53296976f9c81.png",
+      "thumb": "items/images/en/thumbs/vigor.f6d82ca2f863b300f3e53296976f9c81.128x128.png"
+    }
+  }
+}

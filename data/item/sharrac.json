@@ -1,0 +1,25 @@
+{
+  "id": "6054de775221e3005750107e",
+  "slug": "sharrac",
+  "gameRef": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItem",
+  "tags": [
+    "fish"
+  ],
+  "bulkTradable": true,
+  "subtypes": [
+    "small",
+    "medium",
+    "large"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Sharrac",
+      "description": "While rarely venturing from the deepest waters of the plains, the Sharrac is a fearsome predator who will prey on unwary Ostrons swimming alone.",
+      "wikiLink": "https://wiki.warframe.com/w/Sharrac",
+      "icon": "items/images/en/sharrac.ee2d8aa7ef4d514d607058ee1ad29295.png",
+      "thumb": "items/images/en/thumbs/sharrac.ee2d8aa7ef4d514d607058ee1ad29295.128x128.png"
+    }
+  }
+}

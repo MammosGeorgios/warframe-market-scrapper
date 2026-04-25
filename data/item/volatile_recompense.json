@@ -1,0 +1,24 @@
+{
+  "id": "685d4fbff41598dddb4cc2f4",
+  "slug": "volatile_recompense",
+  "gameRef": "/Lotus/Powersuits/PaxDuviricus/PaxBladesAugmentCard",
+  "tags": [
+    "kullervo",
+    "mod",
+    "warframe",
+    "augment",
+    "rare"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Volatile Recompense",
+      "description": "Recompense Augment: Daggers whirl in a ring around Kullervo for 25s, slashing nearby foes and dealing Blast Damage and Status Effect before returning to the ring.",
+      "icon": "items/images/en/volatile_recompense.f59006ec59f89dca8ecb40eb0788c709.webp",
+      "thumb": "items/images/en/thumbs/volatile_recompense.f59006ec59f89dca8ecb40eb0788c709.128x128.webp"
+    }
+  }
+}

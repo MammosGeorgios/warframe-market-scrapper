@@ -1,0 +1,18 @@
+{
+  "id": "675c61117b18977f6e6453fa",
+  "slug": "höllvanian_courtyard_simulacrum",
+  "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999StreetCourtyard",
+  "tags": [
+    "simulacrum"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Höllvanian Courtyard Simulacrum",
+      "description": "Simulate a battle in the back-alleys of Höllvania. This simulacrum allows enemy difficulty to be set 25 levels above the standard maximum.",
+      "icon": "items/images/en/höllvanian_courtyard_simulacrum.c751ef83bdcf555f3c5c7aa15c413d90.webp",
+      "thumb": "items/images/en/thumbs/höllvanian_courtyard_simulacrum.c751ef83bdcf555f3c5c7aa15c413d90.128x128.webp"
+    }
+  }
+}

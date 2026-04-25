@@ -1,0 +1,25 @@
+{
+  "id": "585a925a2c2ada004285df01",
+  "slug": "draining_gloom",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DespairEnergyDrainAoE",
+  "tags": [
+    "secondary",
+    "pvp",
+    "rare",
+    "despair",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Draining Gloom",
+      "description": "+100% chance of Energy Drain explosion\n-60% Magazine Capacity\n-60% Ammo Maximum",
+      "wikiLink": "https://wiki.warframe.com/w/Draining_Gloom",
+      "icon": "items/images/en/draining_gloom.4d6890c07e01806ae034fd391d0a721c.png",
+      "thumb": "items/images/en/thumbs/draining_gloom.4d6890c07e01806ae034fd391d0a721c.128x128.png"
+    }
+  }
+}

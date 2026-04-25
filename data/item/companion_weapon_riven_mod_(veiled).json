@@ -1,0 +1,24 @@
+{
+  "id": "5d6ea6777ea27b05d929cbfc",
+  "slug": "companion_weapon_riven_mod_(veiled)",
+  "gameRef": "",
+  "tags": [
+    "mod",
+    "riven"
+  ],
+  "rarity": "riven",
+  "subtypes": [
+    "unrevealed",
+    "revealed"
+  ],
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Companion Weapon Riven Mod (Veiled)",
+      "description": "For Companions",
+      "wikiLink": "http://warframe.wikia.com/wiki/Riven_Mods",
+      "icon": "items/images/en/companion_weapon_riven_mod_(veiled).43633261c8ac6836608f58b37f8c9eaa.webp",
+      "thumb": "items/images/en/thumbs/companion_weapon_riven_mod_(veiled).43633261c8ac6836608f58b37f8c9eaa.128x128.webp"
+    }
+  }
+}

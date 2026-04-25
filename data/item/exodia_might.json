@@ -1,0 +1,23 @@
+{
+  "id": "5a04750d6c4655012038ddcd",
+  "slug": "exodia_might",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/FinisherLifesteal",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Exodia Might",
+      "description": "On Finisher Kill:\n50% chance for +30% Life Steal for 8s",
+      "wikiLink": "https://wiki.warframe.com/w/Exodia_Might",
+      "icon": "items/images/en/exodia_might.255cbe521efd3aa7312e90e523b3c9ed.png",
+      "thumb": "items/images/en/thumbs/exodia_might.255cbe521efd3aa7312e90e523b3c9ed.128x128.png"
+    }
+  }
+}

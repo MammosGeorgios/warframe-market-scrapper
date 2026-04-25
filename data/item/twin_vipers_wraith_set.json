@@ -1,0 +1,30 @@
+{
+  "id": "57bc94bae506eb45ea251450",
+  "slug": "twin_vipers_wraith_set",
+  "gameRef": "/Lotus/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers",
+  "tags": [
+    "weapon",
+    "secondary",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "57bc948ae506eb45ea25144d",
+    "57bc948ae506eb45ea25144c",
+    "57bc948ae506eb45ea25144e",
+    "57bc948ae506eb45ea25144f",
+    "57bc94bae506eb45ea251450"
+  ],
+  "reqMasteryRank": 7,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Twin Vipers Wraith Set",
+      "description": "The uniquely styled Twin Vipers Wraith are a powerful variation on the standard akimbo machine-pistols.",
+      "wikiLink": "https://wiki.warframe.com/w/Twin_Vipers_Wraith",
+      "icon": "items/images/en/twin_vipers_wraith_set.c80af69695edc4c30fb44018404ea432.png",
+      "thumb": "items/images/en/thumbs/twin_vipers_wraith_set.c80af69695edc4c30fb44018404ea432.128x128.png"
+    }
+  }
+}

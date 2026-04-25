@@ -1,0 +1,24 @@
+{
+  "id": "61bb64fe3132ff00482b5fd0",
+  "slug": "niras_contempt",
+  "gameRef": "/Lotus/Upgrades/Mods/Sets/Nira/NiraMeleeMod",
+  "tags": [
+    "mod",
+    "rare",
+    "melee",
+    "whips"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nira's Contempt",
+      "description": "+90% Melee Damage\n+60% Status Chance",
+      "wikiLink": "https://wiki.warframe.com/w/Nira%27s_Contempt",
+      "icon": "items/images/en/niras_contempt.c1a78ebf90902f2e90bdb759931a17a0.png",
+      "thumb": "items/images/en/thumbs/niras_contempt.c1a78ebf90902f2e90bdb759931a17a0.128x128.png"
+    }
+  }
+}

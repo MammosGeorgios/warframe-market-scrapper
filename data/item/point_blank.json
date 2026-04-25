@@ -1,0 +1,24 @@
+{
+  "id": "54a74454e779892d5e5155c1",
+  "slug": "point_blank",
+  "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponDamageAmountMod",
+  "tags": [
+    "shotgun",
+    "mod",
+    "uncommon",
+    "primary"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Point Blank",
+      "description": "+90% Damage",
+      "wikiLink": "https://wiki.warframe.com/w/Point_Blank",
+      "icon": "items/images/en/point_blank.a8dd22b4703c52a9ec327ce18c973b8c.png",
+      "thumb": "items/images/en/thumbs/point_blank.a8dd22b4703c52a9ec327ce18c973b8c.128x128.png"
+    }
+  }
+}

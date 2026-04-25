@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a506",
+  "slug": "deft_tempo",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterBulletJumponHeadshotRifleMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "rare",
+    "mod",
+    "assault_rifle"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Deft Tempo",
+      "description": "On Headshot:\n+10% Mobility for 4s",
+      "wikiLink": "https://wiki.warframe.com/w/Deft_Tempo",
+      "icon": "items/images/en/deft_tempo.e50c0487ca72d93242873e1248b9f06f.png",
+      "thumb": "items/images/en/thumbs/deft_tempo.e50c0487ca72d93242873e1248b9f06f.128x128.png"
+    }
+  }
+}

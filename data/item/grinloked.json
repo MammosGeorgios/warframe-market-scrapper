@@ -1,0 +1,25 @@
+{
+  "id": "567af35fcbfa8f05d076a50f",
+  "slug": "grinloked",
+  "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreAccuracyOnHitGrinlokMod",
+  "tags": [
+    "primary",
+    "pvp",
+    "grinlok",
+    "rare",
+    "mod"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Grinloked",
+      "description": "+60% Accuracy when Aiming",
+      "wikiLink": "https://wiki.warframe.com/w/Grinloked",
+      "icon": "items/images/en/grinloked.a9052cbab7dc1518e74b3e5c2e3abf14.png",
+      "thumb": "items/images/en/thumbs/grinloked.a9052cbab7dc1518e74b3e5c2e3abf14.128x128.png"
+    }
+  }
+}

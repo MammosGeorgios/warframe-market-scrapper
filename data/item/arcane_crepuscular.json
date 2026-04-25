@@ -1,0 +1,22 @@
+{
+  "id": "675c59247b18977f6e6453e8",
+  "slug": "arcane_crepuscular",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Crepuscular",
+      "description": "While invisible, gain +30% Ability Strength and +3x Final Critical Damage.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Crepuscular",
+      "icon": "items/images/en/arcane_crepuscular.8e34ad3ac57362158d9ec6d642364427.webp",
+      "thumb": "items/images/en/thumbs/arcane_crepuscular.8e34ad3ac57362158d9ec6d642364427.128x128.webp"
+    }
+  }
+}

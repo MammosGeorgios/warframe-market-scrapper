@@ -1,0 +1,25 @@
+{
+  "id": "54e0c9eee7798903744178a6",
+  "slug": "ice_wave_impedance",
+  "gameRef": "/Lotus/Powersuits/Frost/IceSpikeAugmentCard",
+  "tags": [
+    "mod",
+    "warframe",
+    "augment",
+    "rare",
+    "frost"
+  ],
+  "rarity": "rare",
+  "maxRank": 3,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Ice Wave Impedance",
+      "description": "Ice Wave Augment: Create a frozen trail for 12 seconds. Enemies that touch it are inflicted with Cold Status every second.",
+      "wikiLink": "https://wiki.warframe.com/w/Ice_Wave_Impedance",
+      "icon": "items/images/en/ice_wave_impedance.7aad38b80dd0780a01a97db1f9f9668c.png",
+      "thumb": "items/images/en/thumbs/ice_wave_impedance.7aad38b80dd0780a01a97db1f9f9668c.128x128.png"
+    }
+  }
+}

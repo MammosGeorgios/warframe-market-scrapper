@@ -1,0 +1,24 @@
+{
+  "id": "5bb7658e92ea46005b6d386d",
+  "slug": "primed_expel_grineer",
+  "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageGrineerExpert",
+  "tags": [
+    "mod",
+    "legendary",
+    "secondary",
+    "pistol"
+  ],
+  "rarity": "legendary",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Primed Expel Grineer",
+      "description": "x1.55 Damage to Grineer",
+      "wikiLink": "https://wiki.warframe.com/w/Primed_Expel_Grineer",
+      "icon": "items/images/en/primed_expel_grineer.e26c831370183283cb8d2fa1ec4aed6a.png",
+      "thumb": "items/images/en/thumbs/primed_expel_grineer.e26c831370183283cb8d2fa1ec4aed6a.128x128.png"
+    }
+  }
+}

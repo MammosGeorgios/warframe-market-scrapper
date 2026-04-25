@@ -1,0 +1,24 @@
+{
+  "id": "5615432bb66f8371035bfa32",
+  "slug": "retrieve",
+  "gameRef": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowLootPrecept",
+  "tags": [
+    "mod",
+    "common",
+    "kubrow",
+    "chesa_kubrow"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Retrieve",
+      "description": "Kubrow has 45% chance to scavenge additional loot from a fallen enemy or containers within 30m, every 10s.",
+      "wikiLink": "https://wiki.warframe.com/w/Retrieve",
+      "icon": "items/images/en/retrieve.c3364c6fe981f656c6398cdf231fd526.png",
+      "thumb": "items/images/en/thumbs/retrieve.c3364c6fe981f656c6398cdf231fd526.128x128.png"
+    }
+  }
+}

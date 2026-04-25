@@ -1,0 +1,23 @@
+{
+  "id": "54a74454e779892d5e5155e0",
+  "slug": "redirection",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/AvatarShieldMaxMod",
+  "tags": [
+    "mod",
+    "common",
+    "warframe"
+  ],
+  "rarity": "common",
+  "maxRank": 10,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Redirection",
+      "description": "+100% Shield Capacity",
+      "wikiLink": "https://wiki.warframe.com/w/Redirection",
+      "icon": "items/images/en/redirection.aaa8ac1376add92a1cc07bc95727d424.png",
+      "thumb": "items/images/en/thumbs/redirection.aaa8ac1376add92a1cc07bc95727d424.128x128.png"
+    }
+  }
+}

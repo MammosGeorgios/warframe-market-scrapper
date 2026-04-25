@@ -1,0 +1,20 @@
+{
+  "id": "59ecb5d2195d2301e654749b",
+  "slug": "grineer_forest_water_pump_scene",
+  "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileGrineerForestCaveIntermediateA",
+  "tags": [
+    "scene",
+    "misc"
+  ],
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Grineer Forest Water Pump Scene",
+      "description": "Unlocks this scene for use in Captura Mode, accessed through the Warframe Appearance tab in the Arsenal.",
+      "wikiLink": "https://warframe.fandom.com/wiki/Captura",
+      "icon": "items/images/en/grineer_forest_water_pump_scene.c07de36b4524d5758e6fbb1f14f637c2.png",
+      "thumb": "items/images/en/thumbs/grineer_forest_water_pump_scene.c07de36b4524d5758e6fbb1f14f637c2.128x128.png"
+    }
+  }
+}

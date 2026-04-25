@@ -1,0 +1,34 @@
+{
+  "id": "5ca28670fc2db2035eae05a5",
+  "slug": "equinox_prime_neuroptics_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/EquinoxPrimeHelmetBlueprint",
+  "tags": [
+    "component",
+    "prime",
+    "warframe",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5ca28670fc2db2035eae05a6",
+    "5ca28670fc2db2035eae05a1",
+    "5ca28670fc2db2035eae05a5",
+    "5ca28670fc2db2035eae059e",
+    "5ca28670fc2db2035eae05a0"
+  ],
+  "quantityInSet": 1,
+  "ducats": 45,
+  "reqMasteryRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Equinox Prime Neuroptics Blueprint",
+      "description": "Neuroptics component of the Equinox Prime Warframe.",
+      "wikiLink": "https://wiki.warframe.com/w/Equinox_Prime",
+      "icon": "items/images/en/equinox_prime_neuroptics.1163c3dad7a8ffce02af7d475fc0ccd4.png",
+      "thumb": "items/images/en/thumbs/equinox_prime_neuroptics.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
+      "subIcon": "sub_icons/warframe/prime_helmet_128x128.png"
+    }
+  }
+}

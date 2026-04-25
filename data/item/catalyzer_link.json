@@ -1,0 +1,24 @@
+{
+  "id": "56a7b2a51133f656cb085d93",
+  "slug": "catalyzer_link",
+  "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/StatusProcWhileAimingRifleMod",
+  "tags": [
+    "common",
+    "mod",
+    "rifle",
+    "primary"
+  ],
+  "rarity": "common",
+  "maxRank": 5,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Catalyzer Link",
+      "description": "On Ability Cast:\n+60% Status Chance when Aiming for 9s",
+      "wikiLink": "https://wiki.warframe.com/w/Catalyze",
+      "icon": "items/images/en/catalyzer_link.8ffa520e67c52e10b51ccc1cec6b7f88.png",
+      "thumb": "items/images/en/thumbs/catalyzer_link.8ffa520e67c52e10b51ccc1cec6b7f88.128x128.png"
+    }
+  }
+}

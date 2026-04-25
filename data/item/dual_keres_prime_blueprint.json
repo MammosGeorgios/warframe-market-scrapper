@@ -1,0 +1,32 @@
+{
+  "id": "62d3494175156700ce450e00",
+  "slug": "dual_keres_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/DualKeresPrimeBlueprint",
+  "tags": [
+    "prime",
+    "melee",
+    "weapon",
+    "blueprint"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "62d3494175156700ce450e05",
+    "62d3494175156700ce450e00",
+    "62d3494075156700ce450df3",
+    "62d3494075156700ce450dee"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 14,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Dual Keres Prime Blueprint",
+      "description": "The hunted will meet a quick end when faced with Khora Prime's signature swords. Heavy Attack Efficiency is enhanced when wielded by Khora.",
+      "icon": "items/images/en/dual_keres_prime_blueprint.ea70ac30dab8db745193cb166b246efc.png",
+      "thumb": "items/images/en/thumbs/dual_keres_prime_blueprint.ea70ac30dab8db745193cb166b246efc.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

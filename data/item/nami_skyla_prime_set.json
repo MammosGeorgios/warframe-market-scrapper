@@ -1,0 +1,31 @@
+{
+  "id": "59a5c2565cd9938cfede7040",
+  "slug": "nami_skyla_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeNamiSkyla/PrimeNamiSkyla",
+  "tags": [
+    "weapon",
+    "prime",
+    "set",
+    "melee"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "59a5cd4d5cd9938cfede7041",
+    "59a5c2565cd9938cfede703f",
+    "59a5cd4d5cd9938cfede7042",
+    "59a5c2565cd9938cfede7040"
+  ],
+  "ducats": 305,
+  "reqMasteryRank": 11,
+  "tradingTax": 10000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Nami Skyla Prime Set",
+      "description": "Forged by a forgotten master, these exquisite blades are bounty from a golden-age long gone.",
+      "wikiLink": "https://wiki.warframe.com/w/Nami_Skyla_Prime",
+      "icon": "items/images/en/nami_skyla_prime_set.d83bcdd72463d5dd1f78faea07ff02a4.png",
+      "thumb": "items/images/en/thumbs/nami_skyla_prime_set.d83bcdd72463d5dd1f78faea07ff02a4.128x128.png"
+    }
+  }
+}

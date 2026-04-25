@@ -1,0 +1,32 @@
+{
+  "id": "64c2aa1466456704eba6ba36",
+  "slug": "fulmin_prime_set",
+  "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeFulmin/PrimeFulmin",
+  "tags": [
+    "primary",
+    "prime",
+    "weapon",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "64c2aa1466456704eba6ba32",
+    "64c2aa1466456704eba6ba30",
+    "64c2aa1666456704eba6ba46",
+    "64c2aa1466456704eba6ba36",
+    "64c2aa1466456704eba6ba37"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 12,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fulmin Prime Set",
+      "description": "Wield a storm. Fulmin Prime's electric rounds switch between lightning beams and short-range bursts. Wisp quickly swaps between each mode with her elemental prowess.",
+      "wikiLink": "https://wiki.warframe.com/w/Fulmin_Prime",
+      "icon": "items/images/en/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.png",
+      "thumb": "items/images/en/thumbs/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.128x128.png"
+    }
+  }
+}

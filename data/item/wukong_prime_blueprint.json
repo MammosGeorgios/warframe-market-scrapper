@@ -1,0 +1,33 @@
+{
+  "id": "5d21ce46f4604c012d1e0c12",
+  "slug": "wukong_prime_blueprint",
+  "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeBlueprint",
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "5d21ce46f4604c012d1e0c12",
+    "5d21ce45f4604c012d1e0c0f",
+    "5d21ce4af4604c012d1e0c1a",
+    "5d21ce48f4604c012d1e0c18",
+    "5d21ce46f4604c012d1e0c13"
+  ],
+  "quantityInSet": 1,
+  "ducats": 100,
+  "reqMasteryRank": 0,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Wukong Prime Blueprint",
+      "description": "The trickster-warrior ascends to his ultimate incarnation. ",
+      "wikiLink": "https://wiki.warframe.com/w/Wukong_Prime",
+      "icon": "items/images/en/wukong_prime_blueprint.6fa7196ae48a7a3901c35834476f3891.png",
+      "thumb": "items/images/en/thumbs/wukong_prime_blueprint.6fa7196ae48a7a3901c35834476f3891.128x128.png",
+      "subIcon": "sub_icons/blueprint_128x128.png"
+    }
+  }
+}

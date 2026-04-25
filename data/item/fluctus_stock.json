@@ -1,0 +1,31 @@
+{
+  "id": "5783bf20d9b6753790c89e8d",
+  "slug": "fluctus_stock",
+  "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRocketCrossbowReceiver",
+  "tags": [
+    "component",
+    "weapon",
+    "archwing"
+  ],
+  "setRoot": false,
+  "setParts": [
+    "582b0f850af25410b099f7f9",
+    "5783bf15d9b6753790c89e8b",
+    "5783bf1ad9b6753790c89e8c",
+    "5783bf20d9b6753790c89e8d"
+  ],
+  "quantityInSet": 1,
+  "reqMasteryRank": 2,
+  "tradingTax": 2000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Fluctus Stock",
+      "description": "An Archwing weapon-crafting component.",
+      "wikiLink": "https://wiki.warframe.com/w/Fluctus",
+      "icon": "items/images/en/fluctus_stock.764b2148dde0c8969f748d6e0b80f957.png",
+      "thumb": "items/images/en/thumbs/fluctus_stock.764b2148dde0c8969f748d6e0b80f957.128x128.png",
+      "subIcon": "sub_icons/weapon/generic_receiver_128x128.png"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "63229385dd457f0096113c3f",
+  "slug": "archon_continuity",
+  "gameRef": "/Lotus/Upgrades/Mods/Warframe/Kahl/KahlAvatarAbilityDurationMod",
+  "tags": [
+    "mod",
+    "archon",
+    "warframe"
+  ],
+  "rarity": "archon",
+  "maxRank": 10,
+  "tradingTax": 1000000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Archon Continuity",
+      "description": "+55% Ability Duration\nAbilities that inflict a Toxin status effect will also apply a Corrosive status effect.",
+      "wikiLink": "https://wiki.warframe.com/w/Archon_Continuity",
+      "icon": "items/images/en/archon_continuity.87c2dd792556d1699f6954461197d83e.png",
+      "thumb": "items/images/en/thumbs/archon_continuity.87c2dd792556d1699f6954461197d83e.128x128.png"
+    }
+  }
+}

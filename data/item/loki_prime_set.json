@@ -1,0 +1,31 @@
+{
+  "id": "56783f24cbfa8f0432dd89a3",
+  "slug": "loki_prime_set",
+  "gameRef": "/Lotus/Powersuits/Loki/LokiPrime",
+  "tags": [
+    "set",
+    "prime",
+    "warframe"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "54a73e65e779893a797fff7c",
+    "54a73e65e779893a797fff75",
+    "54a73e65e779893a797fff70",
+    "56783f24cbfa8f0432dd89a3",
+    "54a73e65e779893a797fff74"
+  ],
+  "ducats": 175,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Loki Prime Set",
+      "description": "Confuse, deceive and destroy with Loki Prime. Featuring altered mod polarities for greater customization.",
+      "wikiLink": "https://wiki.warframe.com/w/Loki_Prime",
+      "icon": "items/images/en/loki_prime_set.abc05c280f92196bcb688643873fbf95.png",
+      "thumb": "items/images/en/thumbs/loki_prime_set.abc05c280f92196bcb688643873fbf95.128x128.png"
+    }
+  }
+}

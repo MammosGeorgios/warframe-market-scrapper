@@ -1,0 +1,30 @@
+{
+  "id": "6939aa405d9ebda239125d25",
+  "slug": "gyre_prime_set",
+  "gameRef": "/Lotus/Powersuits/Gyre/GyrePrime",
+  "tags": [
+    "warframe",
+    "prime",
+    "set"
+  ],
+  "setRoot": true,
+  "setParts": [
+    "6939aa415d9ebda239125d26",
+    "6939aa445d9ebda239125d28",
+    "6939aa435d9ebda239125d27",
+    "6939aa405d9ebda239125d25",
+    "6939aa455d9ebda239125d29"
+  ],
+  "ducats": 205,
+  "reqMasteryRank": 0,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Gyre Prime Set",
+      "description": "Gilded circuits spark and energize frenetic movements that echo through the ages. Dance into eternity with Gyre Prime.",
+      "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+      "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+    }
+  }
+}

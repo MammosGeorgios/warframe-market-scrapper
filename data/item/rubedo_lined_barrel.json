@@ -1,0 +1,25 @@
+{
+  "id": "54a74454e779892d5e515670",
+  "slug": "rubedo_lined_barrel",
+  "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleDamageAmountMod",
+  "tags": [
+    "uncommon",
+    "primary",
+    "mod",
+    "archwing",
+    "archgun"
+  ],
+  "rarity": "uncommon",
+  "maxRank": 5,
+  "tradingTax": 4000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Rubedo-Lined Barrel",
+      "description": "+100% Damage",
+      "wikiLink": "https://warframe.fandom.com/wiki/Rubedo-Lined_Barrel",
+      "icon": "items/images/en/rubedo_lined_barrel.1aaa79bd2072d87ef1401758528b0ed0.png",
+      "thumb": "items/images/en/thumbs/rubedo_lined_barrel.1aaa79bd2072d87ef1401758528b0ed0.128x128.png"
+    }
+  }
+}

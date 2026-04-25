@@ -1,0 +1,23 @@
+{
+  "id": "63886517e7c988007b5bd512",
+  "slug": "arcane_blessing",
+  "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/IncreaseMaxHealthOnHealthPickup",
+  "tags": [
+    "rare",
+    "arcane_enhancement"
+  ],
+  "rarity": "rare",
+  "bulkTradable": true,
+  "maxRank": 5,
+  "tradingTax": 8000,
+  "tradable": true,
+  "i18n": {
+    "en": {
+      "name": "Arcane Blessing",
+      "description": "On Health Pickup:\n+24 Max Health. Stacks up to 50x.\n+1 Arcane Revive\n+1 Arcane Revive",
+      "wikiLink": "https://wiki.warframe.com/w/Arcane_Blessing",
+      "icon": "items/images/en/arcane_blessing.aec88d7b4b3482f59c6c1a3b87185042.png",
+      "thumb": "items/images/en/thumbs/arcane_blessing.aec88d7b4b3482f59c6c1a3b87185042.128x128.png"
+    }
+  }
+}
