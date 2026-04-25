@@ -5,7 +5,10 @@ A Node.js scraper that fetches tradable item data from the [warframe.market](htt
 ## Features
 
 - Fetches the complete list of tradable items via `GET /v2/items`
-- Saves the response as a formatted JSON file in `data/items.json`
+- Fetches full details for each item via `GET /v2/item/{slug}` and saves one JSON file per item
+- **Resumable** — skips items that already have fresh data (less than 1 month old)
+- **Rate-limit compliant** — sends at most 2.5 requests per second (400ms interval)
+- **Retry on 429** — pauses for 2 seconds and retries when rate-limited (up to 5 attempts)
 - Zero external dependencies — uses only Node.js built-in modules (`https`, `fs`, `path`)
 
 ## Prerequisites
@@ -28,9 +31,13 @@ node index.js
 
 This will:
 
-1. Send a `GET` request to `https://api.warframe.market/v2/items`
-2. Parse the JSON response and extract the `data` array
-3. Write the items to `data/items.json`
+1. Fetch the full item list from `GET /v2/items` and save it to `data/items.json`
+2. For each item, fetch its details from `GET /v2/item/{slug}` and save to `data/item/{slug}.json`
+   - Items with a fresh local file (less than 1 month old) are skipped
+   - Requests are throttled to 2.5 per second to respect the API rate limit
+   - On a 429 response the scraper pauses for 2 seconds and retries (up to 5 times)
+
+You can stop the scraper at any time (Ctrl+C) and re-run it — it will pick up where it left off.
 
 ### Example output
 
@@ -38,6 +45,10 @@ This will:
 Fetching all tradable items from warframe.market...
 Received 1523 items.
 Saved to /path/to/warframe-market-scraper/data/items.json
+[1/1523] Fetching Secura Dual Cestra...
+[2/1523] Fetching Creeping Bullseye...
+...
+Done. Fetched: 1400, Skipped (fresh): 123, Total: 1523
 ```
 
 ## Output format
@@ -62,13 +73,15 @@ Each item in `data/items.json` follows the `ItemShort` model from the API:
 
 ## API details
 
-| Setting  | Value                                    |
-| -------- | ---------------------------------------- |
-| Base URL | `https://api.warframe.market/v2`         |
-| Endpoint | `GET /v2/items`                          |
-| Language | `en` (set via `Language` header)         |
-| Platform | `pc` (set via `Platform` header)         |
-| Rate limit | 3 requests per second                  |
+| Setting        | Value                                  |
+| -------------- | -------------------------------------- |
+| Base URL       | `https://api.warframe.market/v2`       |
+| Endpoints      | `GET /v2/items`, `GET /v2/item/{slug}` |
+| Language       | `en` (set via `Language` header)       |
+| Platform       | `pc` (set via `Platform` header)       |
+| Rate limit     | 3 req/s (scraper uses 2.5 req/s)      |
+| Retry on 429   | 2 second pause, up to 5 retries        |
+| Cache lifetime | 30 days                                |
 
 Full API documentation: [WFM Api v2 Documentation](https://42bytes.notion.site/WFM-Api-v2-Documentation-5d987e4aa2f74b55a80db1a09932459d)
 
@@ -80,5 +93,9 @@ warframe-market-scraper/
 ├── package.json
 ├── README.md
 └── data/
-    └── items.json  # Generated output (git-ignored)
+    ├── items.json  # Full item list (generated)
+    └── item/       # One JSON file per item (generated)
+        ├── ash_prime_set.json
+        ├── serration.json
+        └── ...
 ```

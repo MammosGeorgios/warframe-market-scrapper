@@ -4,6 +4,15 @@ const path = require("path");
 
 const API_BASE = "https://api.warframe.market/v2";
 const OUTPUT_DIR = path.join(__dirname, "data");
+const ITEM_DETAILS_DIR = path.join(OUTPUT_DIR, "item");
+const REQUEST_INTERVAL_MS = 400; // 2.5 requests per second
+const RETRY_DELAY_MS = 2000;
+const MAX_RETRIES = 5;
+const STALE_THRESHOLD_MS = 30 * 24 * 60 * 60 * 1000; // 1 month
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
 function fetchJson(url) {
   return new Promise((resolve, reject) => {
@@ -17,15 +26,17 @@ function fetchJson(url) {
         },
       },
       (res) => {
-        if (res.statusCode !== 200) {
-          reject(new Error(`HTTP ${res.statusCode} for ${url}`));
-          res.resume();
-          return;
-        }
-
         let data = "";
         res.on("data", (chunk) => (data += chunk));
         res.on("end", () => {
+          if (res.statusCode === 429) {
+            reject({ statusCode: 429, message: "Rate limited" });
+            return;
+          }
+          if (res.statusCode !== 200) {
+            reject(new Error(`HTTP ${res.statusCode} for ${url}`));
+            return;
+          }
           try {
             resolve(JSON.parse(data));
           } catch (err) {
@@ -37,10 +48,35 @@ function fetchJson(url) {
   });
 }
 
+async function fetchWithRetry(url) {
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      return await fetchJson(url);
+    } catch (err) {
+      const isRetryable = err.statusCode === 429;
+      if (isRetryable && attempt < MAX_RETRIES) {
+        console.warn(`  Rate limited, retrying in ${RETRY_DELAY_MS}ms (attempt ${attempt}/${MAX_RETRIES})...`);
+        await sleep(RETRY_DELAY_MS);
+        continue;
+      }
+      throw err instanceof Error ? err : new Error(err.message);
+    }
+  }
+}
+
+function isFresh(filePath) {
+  try {
+    const stat = fs.statSync(filePath);
+    return Date.now() - stat.mtimeMs < STALE_THRESHOLD_MS;
+  } catch {
+    return false;
+  }
+}
+
 async function fetchAllItems() {
   console.log("Fetching all tradable items from warframe.market...");
 
-  const response = await fetchJson(`${API_BASE}/items`);
+  const response = await fetchWithRetry(`${API_BASE}/items`);
 
   if (response.error) {
     throw new Error(`API error: ${JSON.stringify(response.error)}`);
@@ -56,9 +92,53 @@ async function fetchAllItems() {
   const outputPath = path.join(OUTPUT_DIR, "items.json");
   fs.writeFileSync(outputPath, JSON.stringify(items, null, 2));
   console.log(`Saved to ${outputPath}`);
+
+  return items;
 }
 
-fetchAllItems().catch((err) => {
+async function fetchItemDetails(items) {
+  if (!fs.existsSync(ITEM_DETAILS_DIR)) {
+    fs.mkdirSync(ITEM_DETAILS_DIR, { recursive: true });
+  }
+
+  let fetched = 0;
+  let skipped = 0;
+
+  for (let i = 0; i < items.length; i++) {
+    const item = items[i];
+    const filePath = path.join(ITEM_DETAILS_DIR, `${item.slug}.json`);
+
+    if (isFresh(filePath)) {
+      skipped++;
+      continue;
+    }
+
+    const progress = `[${i + 1}/${items.length}]`;
+    const name = item.i18n?.en?.name || item.slug;
+    console.log(`${progress} Fetching ${name}...`);
+
+    const response = await fetchWithRetry(`${API_BASE}/item/${item.slug}`);
+
+    if (response.error) {
+      console.error(`${progress} API error for ${item.slug}: ${JSON.stringify(response.error)}`);
+      continue;
+    }
+
+    fs.writeFileSync(filePath, JSON.stringify(response.data, null, 2));
+    fetched++;
+
+    await sleep(REQUEST_INTERVAL_MS);
+  }
+
+  console.log(`\nDone. Fetched: ${fetched}, Skipped (fresh): ${skipped}, Total: ${items.length}`);
+}
+
+async function main() {
+  const items = await fetchAllItems();
+  await fetchItemDetails(items);
+}
+
+main().catch((err) => {
   console.error("Error:", err.message);
   process.exit(1);
 });
