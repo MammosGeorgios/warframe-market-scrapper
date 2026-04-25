@@ -8,6 +8,7 @@ A Node.js scraper that fetches tradable item data from the [warframe.market](htt
 - Fetches full details for each item via `GET /v2/item/{slug}` and saves one JSON file per item
 - Fetches all active orders for each item via `GET /v2/orders/item/{slug}` with computed sell price metrics
 - Generates a unified `data/prices.json` with per-item price metrics (split by rank for ranked items)
+- Includes a web viewer (`prices.html`) to browse, sort, and filter prices in the browser
 - **Resumable** — skips items that already have fresh data (less than 1 month old)
 - **Rate-limit compliant** — sends at most 2.5 requests per second (400ms interval)
 - **Retry on 429** — pauses for 2 seconds and retries when rate-limited (up to 5 attempts)
@@ -173,6 +174,7 @@ Full API documentation: [WFM Api v2 Documentation](https://42bytes.notion.site/W
 ```
 warframe-market-scraper/
 ├── index.js        # Main scraper script
+├── prices.html     # Web viewer for price data
 ├── package.json
 ├── README.md
 └── data/
@@ -187,3 +189,36 @@ warframe-market-scraper/
         └── ...
     └── prices.json  # Unified price metrics (generated)
 ```
+
+## Viewing prices
+
+After running the scraper, open `prices.html` in a browser to view the data interactively. The page must be served over HTTP (not opened as a local file) so it can load `data/prices.json`.
+
+```bash
+npx http-server -o prices.html
+```
+
+### Table columns
+
+| Column | Source |
+|---|---|
+| Name | Item name (with rank suffix for ranked items) |
+| Lowest Sell | `lowestSellPrice` |
+| Median Low 5 | `medianLowestSellPrice` |
+| Tags | Item tags |
+| Ducats | Ducat value (or `-` if not applicable) |
+| Ducats/Plat | `ducats / medianLowestSellPrice` (or `-`) |
+| Sell Order Count | `countOfSellOrders` |
+
+Click any column header to sort. The default sort is by **Median Low 5** descending.
+
+### Filters
+
+| Filter | Description |
+|---|---|
+| Search by name | Case-insensitive partial match on item name |
+| Include tags | Comma-separated list of tags; items must match **all** listed tags |
+| Exclude tags | Comma-separated list of tags; items matching **any** listed tag are hidden |
+| Min sell orders | Only show items with at least this many sell orders |
+
+All filters work together. For example, include `prime`, exclude `set, warframe`, and set min sell orders to `10` to find prime parts (not sets or warframes) with meaningful trade volume.

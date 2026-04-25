@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Warframe Market Prices</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #1a1a2e; color: #e0e0e0; padding: 20px; }
+  h1 { text-align: center; margin-bottom: 20px; color: #00d4ff; }
+  .warning { background: #ff4444; color: #fff; padding: 12px; border-radius: 6px; text-align: center; margin-bottom: 16px; }
+  .filters { display: flex; gap: 12px; margin-bottom: 16px; flex-wrap: wrap; align-items: center; }
+  .filters input, .filters select { padding: 8px 12px; border: 1px solid #333; border-radius: 4px; background: #16213e; color: #e0e0e0; font-size: 14px; }
+  .filters input { flex: 1; min-width: 200px; }
+  .filters select { min-width: 160px; }
+  .stats { margin-bottom: 10px; color: #888; font-size: 13px; }
+  table { width: 100%; border-collapse: collapse; }
+  thead { position: sticky; top: 0; z-index: 1; }
+  th { background: #16213e; padding: 10px 8px; text-align: left; cursor: pointer; user-select: none; white-space: nowrap; border-bottom: 2px solid #00d4ff; }
+  th:hover { background: #1a2744; }
+  th .sort-arrow { margin-left: 4px; font-size: 11px; color: #00d4ff; }
+  td { padding: 8px; border-bottom: 1px solid #2a2a4a; }
+  tr:hover td { background: #1e2a45; }
+  .tag { display: inline-block; background: #2a2a4a; color: #aaa; border-radius: 3px; padding: 2px 6px; margin: 1px; font-size: 11px; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; }
+</style>
+</head>
+<body>
+<h1>Warframe Market Prices</h1>
+<div id="warning" class="warning" style="display:none;"></div>
+<div class="filters">
+  <input type="text" id="nameSearch" placeholder="Search by name...">
+  <input type="text" id="tagFilter" placeholder="Include tags (comma sep)...">
+  <input type="text" id="tagExclude" placeholder="Exclude tags (comma sep)...">
+  <input type="number" id="sellMinLimit" placeholder="Min sell orders..." min="0">
+</div>
+<div class="stats" id="stats"></div>
+<table>
+  <thead>
+    <tr>
+      <th data-col="name">Name <span class="sort-arrow"></span></th>
+      <th data-col="lowestSellPrice">Lowest Sell <span class="sort-arrow"></span></th>
+      <th data-col="medianLowestSellPrice">Median Low 5 <span class="sort-arrow"></span></th>
+      <th data-col="tags">Tags <span class="sort-arrow"></span></th>
+      <th data-col="ducats">Ducats <span class="sort-arrow"></span></th>
+      <th data-col="ducatsPerPlat">Ducats/Plat <span class="sort-arrow"></span></th>
+      <th data-col="countOfSellOrders">Sell Order Count <span class="sort-arrow"></span></th>
+    </tr>
+  </thead>
+  <tbody id="tbody"></tbody>
+</table>
+
+<script>
+(function () {
+  let allItems = [];
+  let sortCol = "medianLowestSellPrice";
+  let sortDir = -1; // -1 = desc, 1 = asc
+
+  const tbody = document.getElementById("tbody");
+  const nameSearch = document.getElementById("nameSearch");
+  const tagFilter = document.getElementById("tagFilter");
+  const tagExclude = document.getElementById("tagExclude");
+  const sellMinLimit = document.getElementById("sellMinLimit");
+  const statsEl = document.getElementById("stats");
+  const warningEl = document.getElementById("warning");
+
+  function showWarning(msg) {
+    warningEl.textContent = msg;
+    warningEl.style.display = "block";
+  }
+
+  function ducatsPerPlat(item) {
+    if (item.ducats && item.medianLowestSellPrice) {
+      return item.ducats / item.medianLowestSellPrice;
+    }
+    return null;
+  }
+
+  function getValue(item, col) {
+    if (col === "ducatsPerPlat") return ducatsPerPlat(item);
+    if (col === "tags") return (item.tags || []).join(", ");
+    return item[col];
+  }
+
+  function compare(a, b) {
+    let va = getValue(a, sortCol);
+    let vb = getValue(b, sortCol);
+    if (va == null && vb == null) return 0;
+    if (va == null) return 1;
+    if (vb == null) return -1;
+    if (typeof va === "string") return va.localeCompare(vb) * sortDir;
+    return (va - vb) * sortDir;
+  }
+
+  function getFiltered() {
+    const query = nameSearch.value.toLowerCase();
+    const tagInput = tagFilter.value.toLowerCase();
+    const tagQueries = tagInput.split(",").map(function (s) { return s.trim(); }).filter(Boolean);
+    const excludeInput = tagExclude.value.toLowerCase();
+    const excludeQueries = excludeInput.split(",").map(function (s) { return s.trim(); }).filter(Boolean);
+    const minSell = parseInt(sellMinLimit.value, 10) || 0;
+    return allItems.filter(function (item) {
+      if (query && !(item.name || "").toLowerCase().includes(query)) return false;
+      if (tagQueries.length > 0 && !tagQueries.every(function (tq) {
+        return (item.tags || []).some(function (t) { return t.toLowerCase().includes(tq); });
+      })) return false;
+      if (excludeQueries.length > 0 && excludeQueries.some(function (eq) {
+        return (item.tags || []).some(function (t) { return t.toLowerCase().includes(eq); });
+      })) return false;
+      if (minSell && (item.countOfSellOrders || 0) < minSell) return false;
+      return true;
+    });
+  }
+
+  function render() {
+    const filtered = getFiltered().sort(compare);
+    statsEl.textContent = "Showing " + filtered.length + " of " + allItems.length + " items";
+
+    document.querySelectorAll("th .sort-arrow").forEach(function (el) { el.textContent = ""; });
+    const activeHeader = document.querySelector('th[data-col="' + sortCol + '"] .sort-arrow');
+    if (activeHeader) activeHeader.textContent = sortDir === 1 ? "\u25B2" : "\u25BC";
+
+    const fragment = document.createDocumentFragment();
+    for (let i = 0; i < filtered.length; i++) {
+      const item = filtered[i];
+      const tr = document.createElement("tr");
+      const dpp = ducatsPerPlat(item);
+
+      tr.innerHTML =
+        "<td>" + escapeHtml(item.name || "") + "</td>" +
+        '<td class="num">' + fmt(item.lowestSellPrice) + "</td>" +
+        '<td class="num">' + fmt(item.medianLowestSellPrice) + "</td>" +
+        "<td>" + (item.tags || []).map(function (t) { return '<span class="tag">' + escapeHtml(t) + "</span>"; }).join(" ") + "</td>" +
+        '<td class="num">' + (item.ducats != null ? item.ducats : "-") + "</td>" +
+        '<td class="num">' + (dpp != null ? dpp.toFixed(2) : "-") + "</td>" +
+        '<td class="num">' + fmt(item.countOfSellOrders) + "</td>";
+
+      fragment.appendChild(tr);
+    }
+    tbody.innerHTML = "";
+    tbody.appendChild(fragment);
+  }
+
+  function fmt(v) { return v != null ? v : "-"; }
+
+  function escapeHtml(str) {
+    var div = document.createElement("div");
+    div.appendChild(document.createTextNode(str));
+    return div.innerHTML;
+  }
+
+  document.querySelectorAll("th[data-col]").forEach(function (th) {
+    th.addEventListener("click", function () {
+      var col = th.getAttribute("data-col");
+      if (sortCol === col) {
+        sortDir *= -1;
+      } else {
+        sortCol = col;
+        sortDir = col === "name" || col === "tags" ? 1 : -1;
+      }
+      render();
+    });
+  });
+
+  nameSearch.addEventListener("input", render);
+  tagFilter.addEventListener("input", render);
+  tagExclude.addEventListener("input", render);
+  sellMinLimit.addEventListener("input", render);
+
+  fetch("data/prices.json")
+    .then(function (res) {
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      return res.json();
+    })
+    .then(function (data) {
+      allItems = data;
+      render();
+    })
+    .catch(function (err) {
+      showWarning("Could not load prices.json — " + err.message + ". Run 'node index.js' first to generate the data.");
+    });
+})();
+</script>
+</body>
+</html>
