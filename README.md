@@ -6,6 +6,8 @@ A Node.js scraper that fetches tradable item data from the [warframe.market](htt
 
 - Fetches the complete list of tradable items via `GET /v2/items`
 - Fetches full details for each item via `GET /v2/item/{slug}` and saves one JSON file per item
+- Fetches all active orders for each item via `GET /v2/orders/item/{slug}` with computed sell price metrics
+- Generates a unified `data/prices.json` with per-item price metrics (split by rank for ranked items)
 - **Resumable** — skips items that already have fresh data (less than 1 month old)
 - **Rate-limit compliant** — sends at most 2.5 requests per second (400ms interval)
 - **Retry on 429** — pauses for 2 seconds and retries when rate-limited (up to 5 attempts)
@@ -33,9 +35,12 @@ This will:
 
 1. Fetch the full item list from `GET /v2/items` and save it to `data/items.json`
 2. For each item, fetch its details from `GET /v2/item/{slug}` and save to `data/item/{slug}.json`
+3. For each item, fetch its orders from `GET /v2/orders/item/{slug}` and save to `data/orders/{slug}.json`
+   - Each orders file includes computed sell metrics (see below)
    - Items with a fresh local file (less than 1 month old) are skipped
    - Requests are throttled to 2.5 per second to respect the API rate limit
    - On a 429 response the scraper pauses for 2 seconds and retries (up to 5 times)
+4. Build a unified `data/prices.json` from all fetched item + order data
 
 You can stop the scraper at any time (Ctrl+C) and re-run it — it will pick up where it left off.
 
@@ -49,6 +54,12 @@ Saved to /path/to/warframe-market-scraper/data/items.json
 [2/1523] Fetching Creeping Bullseye...
 ...
 Done. Fetched: 1400, Skipped (fresh): 123, Total: 1523
+[1/1523] Fetching orders for Secura Dual Cestra...
+[2/1523] Fetching orders for Creeping Bullseye...
+...
+Orders done. Fetched: 1400, Skipped (fresh): 123, Total: 1523
+Building unified prices.json...
+Saved 1820 entries to /path/to/warframe-market-scraper/data/prices.json
 ```
 
 ## Output format
@@ -71,12 +82,84 @@ Each item in `data/items.json` follows the `ItemShort` model from the API:
 }
 ```
 
+Each file in `data/orders/` contains the raw orders plus computed sell metrics:
+
+```json
+{
+  "slug": "frost_prime_set",
+  "metrics": {
+    "lowestSellPrice": 40,
+    "medianLowestSellPrice": 43,
+    "medianSellPrice": 55,
+    "averageSellPrice": 58.72
+  },
+  "orders": [ ... ]
+}
+```
+
+| Metric | Description |
+|---|---|
+| `lowestSellPrice` | Lowest platinum price among all sell orders |
+| `medianLowestSellPrice` | Median of the 5 lowest sell prices |
+| `medianSellPrice` | Median of all sell prices |
+| `averageSellPrice` | Average of all sell prices (rounded to 2 decimals) |
+
+### Unified prices (data/prices.json)
+
+A single JSON array combining item and order data. Items with a `rank` attribute in their orders produce two entries (rank 0 and max rank); items without rank produce one entry with `rank: null`.
+
+```json
+[
+  {
+    "name": "Primed Fast Hands Rank 0",
+    "slug": "primed_fast_hands",
+    "lowestSellPrice": 5,
+    "medianLowestSellPrice": 7,
+    "medianSellPrice": 10,
+    "averageSellPrice": 11.25,
+    "countOfSellOrders": 48,
+    "rank": 0
+  },
+  {
+    "name": "Primed Fast Hands Rank 10",
+    "slug": "primed_fast_hands",
+    "lowestSellPrice": 20,
+    "medianLowestSellPrice": 23,
+    "medianSellPrice": 30,
+    "averageSellPrice": 32.5,
+    "countOfSellOrders": 35,
+    "rank": 10
+  },
+  {
+    "name": "Frost Prime Set",
+    "slug": "frost_prime_set",
+    "lowestSellPrice": 40,
+    "medianLowestSellPrice": 43,
+    "medianSellPrice": 55,
+    "averageSellPrice": 58.72,
+    "countOfSellOrders": 120,
+    "rank": null
+  }
+]
+```
+
+| Field | Description |
+|---|---|
+| `name` | Item name from `i18n.en.name`, with rank suffix for ranked items |
+| `slug` | Item slug (shared between rank 0 and max rank entries) |
+| `lowestSellPrice` | Lowest platinum price among sell orders |
+| `medianLowestSellPrice` | Median of the 5 lowest sell prices |
+| `medianSellPrice` | Median of all sell prices |
+| `averageSellPrice` | Average of all sell prices (rounded to 2 decimals) |
+| `countOfSellOrders` | Number of sell orders |
+| `rank` | `0`, max rank, or `null` if item has no rank |
+
 ## API details
 
 | Setting        | Value                                  |
 | -------------- | -------------------------------------- |
 | Base URL       | `https://api.warframe.market/v2`       |
-| Endpoints      | `GET /v2/items`, `GET /v2/item/{slug}` |
+| Endpoints      | `GET /v2/items`, `GET /v2/item/{slug}`, `GET /v2/orders/item/{slug}` |
 | Language       | `en` (set via `Language` header)       |
 | Platform       | `pc` (set via `Platform` header)       |
 | Rate limit     | 3 req/s (scraper uses 2.5 req/s)      |
@@ -94,8 +177,13 @@ warframe-market-scraper/
 ├── README.md
 └── data/
     ├── items.json  # Full item list (generated)
-    └── item/       # One JSON file per item (generated)
+    ├── item/       # One JSON file per item (generated)
+    │   ├── ash_prime_set.json
+    │   ├── serration.json
+    │   └── ...
+    └── orders/     # Orders + metrics per item (generated)
         ├── ash_prime_set.json
         ├── serration.json
         └── ...
+    └── prices.json  # Unified price metrics (generated)
 ```
